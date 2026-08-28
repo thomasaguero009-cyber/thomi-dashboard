@@ -158,8 +158,10 @@
     <div class="panel">
       <h2>🔄 Cómo se actualizan estos datos</h2>
       <div class="howto">
-        Todo esto <b>se sincroniza solo</b>: la extensión manda cada movimiento en vivo a una hoja de Google, y un
-        workflow de GitHub Actions la lee cada 15 minutos y actualiza esta página — nadie exporta ni pega nada a mano.
+        Esta página está <b>conectada en vivo</b> al Google Sheet (igual que SetterFlow): la extensión manda cada
+        movimiento en el momento, y esta página lee esa hoja directo cada 20 segundos — nadie exporta ni pega nada
+        a mano, y no hace falta recargar. Un workflow de GitHub Actions guarda además una copia cada 15 minutos como
+        respaldo del historial.
       </div>
     </div>
   </div>
@@ -405,31 +407,105 @@
     </div>
   `).join('');
 
-  fetch('./data/aprendizaje.json')
-    .then(r => r.json())
-    .then(data => {
-      datos = Array.isArray(data) ? data : [];
-      renderStats();
-      render('');
-      renderContactos('');
-    })
-    .catch(() => {
-      datos = [];
-      renderStats();
-      render('');
-      renderContactos('');
-    });
+  // Conectado en vivo al Google Sheet — igual que SetterFlow: se lee el
+  // CSV publicado directo desde el navegador (nada de esperar el cron de
+  // GitHub Actions, que sigue corriendo cada 15 min como respaldo/backup
+  // en el repo, pero ya no es lo que llena la pantalla).
+  const APRENDIZAJE_CSV_URL =
+    'https://docs.google.com/spreadsheets/d/e/2PACX-1vS7PYOuQhFlTcz_1nEtcJrqq5k1mp0A3jwPTWEZzCB5-vB60fFhL17lkAeL8shjSMIJLjeUsau2gxsl/pub?gid=0&single=true&output=csv';
+  const RESUMEN_INBOX_CSV_URL =
+    'https://docs.google.com/spreadsheets/d/e/2PACX-1vS7PYOuQhFlTcz_1nEtcJrqq5k1mp0A3jwPTWEZzCB5-vB60fFhL17lkAeL8shjSMIJLjeUsau2gxsl/pub?gid=545589246&single=true&output=csv';
 
-  fetch('./data/resumen-inbox.json')
-    .then(r => r.json())
-    .then(data => {
-      resumenInbox = data || {};
-      renderResumenInbox();
-    })
-    .catch(() => {
-      resumenInbox = {};
-      renderResumenInbox();
-    });
+  function parseFechaSheet(texto){
+    if(!texto) return 0;
+    const m = texto.trim().match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})[ T](\d{1,2}):(\d{2})(?::(\d{2}))?/);
+    if(!m) return 0;
+    const [, dd, mm, yyyy, hh, min, ss] = m;
+    return new Date(Number(yyyy), Number(mm)-1, Number(dd), Number(hh), Number(min), Number(ss||0)).getTime();
+  }
+
+  // Parser CSV mínimo que respeta comillas dobles — mismo que usan los
+  // scripts de sync en Node, portado a JS de navegador.
+  function parseCsv(texto){
+    const filas = [];
+    let fila = [], campo = '', entreComillas = false;
+    for(let i=0;i<texto.length;i++){
+      const c = texto[i];
+      if(entreComillas){
+        if(c === '"' && texto[i+1] === '"'){ campo += '"'; i++; }
+        else if(c === '"') entreComillas = false;
+        else campo += c;
+      } else if(c === '"'){ entreComillas = true; }
+      else if(c === ','){ fila.push(campo); campo = ''; }
+      else if(c === '\n' || c === '\r'){
+        if(c === '\r' && texto[i+1] === '\n') i++;
+        fila.push(campo); filas.push(fila); fila = []; campo = '';
+      } else campo += c;
+    }
+    if(campo !== '' || fila.length){ fila.push(campo); filas.push(fila); }
+    return filas.filter(f => f.length > 1 || f[0] !== '');
+  }
+
+  function cargarAprendizaje(){
+    fetch(APRENDIZAJE_CSV_URL + '&cachebust=' + Date.now())
+      .then(r => r.text())
+      .then(csv => {
+        const filas = parseCsv(csv);
+        if(filas.length < 2){ datos = []; return; }
+        const [header, ...resto] = filas;
+        const idx = {
+          fecha: header.indexOf('Fecha'), mensaje: header.indexOf('Mensaje'),
+          boton: header.indexOf('Boton'), respuesta: header.indexOf('Respuesta'),
+          subscriberId: header.indexOf('SubscriberId'), setter: header.indexOf('Setter'),
+          pageId: header.indexOf('PageId'), nombreContacto: header.indexOf('NombreContacto')
+        };
+        datos = resto
+          .filter(fila => fila.some(c => c.trim() !== ''))
+          .map(fila => ({
+            ts: parseFechaSheet(fila[idx.fecha]),
+            mensaje: fila[idx.mensaje] || '',
+            boton: fila[idx.boton] || '',
+            respuesta: fila[idx.respuesta] || '',
+            subscriberId: fila[idx.subscriberId] || '',
+            setter: fila[idx.setter] || '',
+            pageId: fila[idx.pageId] || '',
+            nombreContacto: idx.nombreContacto >= 0 ? (fila[idx.nombreContacto] || '') : ''
+          }));
+      })
+      .catch(() => { datos = datos || []; })
+      .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); });
+  }
+
+  function cargarResumenInbox(){
+    fetch(RESUMEN_INBOX_CSV_URL + '&cachebust=' + Date.now())
+      .then(r => r.text())
+      .then(csv => {
+        const filas = parseCsv(csv);
+        if(filas.length < 2){ resumenInbox = {}; return; }
+        const [header, fila] = filas;
+        const idx = {
+          fecha: header.indexOf('Fecha'), cantidadSinResponder: header.indexOf('CantidadSinResponder'),
+          temasComunes: header.indexOf('TemasComunes'), ejemplo: header.indexOf('Ejemplo'), pageId: header.indexOf('PageId')
+        };
+        resumenInbox = {
+          ts: parseFechaSheet(fila[idx.fecha]),
+          cantidadSinResponder: Number(fila[idx.cantidadSinResponder]) || 0,
+          temasComunes: fila[idx.temasComunes] || '',
+          ejemplo: fila[idx.ejemplo] || '',
+          pageId: fila[idx.pageId] || ''
+        };
+      })
+      .catch(() => { resumenInbox = resumenInbox || {}; })
+      .finally(() => renderResumenInbox());
+  }
+
+  datos = [];
+  resumenInbox = {};
+  cargarAprendizaje();
+  cargarResumenInbox();
+  // Se re-consulta solo cada 20s — "en vivo" sin recargar la página.
+  setInterval(cargarAprendizaje, 20000);
+  setInterval(cargarResumenInbox, 20000);
 </script>
 </body>
 </html>
