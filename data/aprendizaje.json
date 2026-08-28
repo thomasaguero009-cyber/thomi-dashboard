@@ -4888,5 +4888,165 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1787934482000,
+    "mensaje": "Cómo de cual edad puedes empezar?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1559484282",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934493000,
+    "mensaje": "BotMensaje de audioSi vi la clase y la entendí pero no me agende",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1585520558",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934498000,
+    "mensaje": "Pero tiene algún costo?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1099376561",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934502000,
+    "mensaje": "Por",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "852523477",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934506000,
+    "mensaje": "17",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "964820687",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934521000,
+    "mensaje": "Es necesario??",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1494957777",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934565000,
+    "mensaje": "BotQue edad tenes?18",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1012609991",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934576000,
+    "mensaje": "Entiendo muy poco .te agradesco",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "295960223",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934580000,
+    "mensaje": "BotO te paso la agenda directa?Igual pásame la agenda directa",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "453173579",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934586000,
+    "mensaje": "Si recién lo estoy viendo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "913980534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934587000,
+    "mensaje": "Si recién lo estoy viendo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "913980534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934600000,
+    "mensaje": "Me puedes enviar",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2017150883",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934610000,
+    "mensaje": "Mándamela porfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "316890174",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934613000,
+    "mensaje": "Por?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1483546231",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934619000,
+    "mensaje": "Si si me agende asé rato",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1393812541",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787934621000,
+    "mensaje": "Si si me agende asé rato",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1393812541",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
   }
 ]
