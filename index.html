@@ -89,6 +89,11 @@
       </div>
     </div>
 
+    <div class="panel" style="border-color:var(--green);">
+      <h2>🌱 Progreso de Thom.i</h2>
+      <div id="progreso-thomi"></div>
+    </div>
+
     <div class="stats-grid">
       <div class="stat-card">
         <div class="l">Ejemplos guardados</div>
@@ -289,6 +294,54 @@
     return div.innerHTML;
   }
 
+  // "Cuánto creció" Thom.i, en dos ejes: experiencia (cuántos ejemplos vio)
+  // y criterio (qué tan seguido coincide con lo que vos harías). Los
+  // umbrales son a ojo, pensados para que hoy (con los datos reales que
+  // ya hay) caiga en un punto intermedio, ni recién arrancando ni ya
+  // "graduado" — así se siente el progreso real a medida que crece.
+  const ETAPAS_THOMI = [
+    { min: 0,    emoji: '👶', nombre: 'Recién nacido',        desc: 'Apenas empezando a mirar cómo trabajás.' },
+    { min: 50,   emoji: '🧒', nombre: 'Niño',                  desc: 'Ya reconoce algunos patrones, pero necesita que lo corrijas seguido.' },
+    { min: 200,  emoji: '🧑', nombre: 'Adolescente',           desc: 'Tiene criterio propio, pero todavía no es 100% confiable solo.' },
+    { min: 500,  emoji: '🧑‍💼', nombre: 'Joven profesional', desc: 'Acierta la mayoría de las veces — casi listo para decidir solo.' },
+    { min: 1000, emoji: '🧠', nombre: 'Experto en ManyChat',   desc: 'Domina esta capa — el próximo paso es sumarle otras herramientas.' }
+  ];
+
+  function renderProgreso(){
+    const total = datos.length;
+    const evaluables = datos.map(e => renderDecision(e.mensaje, e.boton)).filter(d => d.coincide !== null);
+    const aciertos = evaluables.filter(d => d.coincide).length;
+    const pctCoincidencia = evaluables.length ? Math.round(aciertos / evaluables.length * 100) : null;
+
+    let idx = 0;
+    for(let i = 0; i < ETAPAS_THOMI.length; i++){ if(total >= ETAPAS_THOMI[i].min) idx = i; }
+    const etapa = ETAPAS_THOMI[idx];
+    const siguiente = ETAPAS_THOMI[idx + 1];
+    const pctEtapa = siguiente ? Math.round(((total - etapa.min) / (siguiente.min - etapa.min)) * 100) : 100;
+
+    const el = document.getElementById('progreso-thomi');
+    if(!el) return;
+    el.innerHTML = `
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:14px;">
+        <div style="font-size:42px; line-height:1;">${etapa.emoji}</div>
+        <div>
+          <div style="font-size:19px; font-weight:800;">${etapa.nombre}</div>
+          <div style="color:var(--text-dim); font-size:13.5px;">${etapa.desc}</div>
+        </div>
+      </div>
+      <div class="howto" style="margin-bottom:6px;">
+        Experiencia — ${total.toLocaleString('es-AR')} ejemplos${siguiente
+          ? ` · faltan ${(siguiente.min - total).toLocaleString('es-AR')} para pasar a "${siguiente.emoji} ${siguiente.nombre}"`
+          : ' · nivel máximo por ahora'}
+      </div>
+      <div class="rank-bar-wrap" style="height:10px; margin-bottom:18px;"><div class="rank-bar" style="width:${pctEtapa}%; background:var(--green);"></div></div>
+      ${pctCoincidencia !== null ? `
+        <div class="howto" style="margin-bottom:6px;">Qué tan bien te conoce — coincide con vos en ${pctCoincidencia}% de los casos donde decidiría solo (${aciertos}/${evaluables.length})</div>
+        <div class="rank-bar-wrap" style="height:10px;"><div class="rank-bar" style="width:${pctCoincidencia}%;"></div></div>
+      ` : `<div class="howto">Todavía no hay casos evaluables para medir qué tan bien coincide con vos.</div>`}
+    `;
+  }
+
   function renderStats(){
     document.getElementById('stat-total').textContent = datos.length.toLocaleString('es-AR');
 
@@ -473,7 +526,7 @@
           }));
       })
       .catch(() => { datos = datos || []; })
-      .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); });
+      .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); renderProgreso(); });
   }
 
   function cargarResumenInbox(){
