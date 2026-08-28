@@ -18,12 +18,13 @@ jobs:
           node-version: "20"
       - run: node scripts/sync-aprendizaje.js
       - run: node scripts/sync-resumen-inbox.js
+      - run: node scripts/sync-conversaciones.js
       - run: |
-          if ! git diff --quiet -- data/aprendizaje.json data/resumen-inbox.json; then
+          if ! git diff --quiet -- data/aprendizaje.json data/resumen-inbox.json data/conversaciones.json; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/aprendizaje.json data/resumen-inbox.json
-            git commit -m "Sync aprendizaje y resumen de inbox de Thom.i"
+            git add data/aprendizaje.json data/resumen-inbox.json data/conversaciones.json
+            git commit -m "Sync aprendizaje, resumen de inbox y conversaciones de Thom.i"
             git push
           else
             echo "Sin cambios, no hay nada que commitear."
