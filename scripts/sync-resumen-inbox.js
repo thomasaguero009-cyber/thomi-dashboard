@@ -6,7 +6,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CSV_URL =
-  "PENDIENTE_URL_INBOX_SNAPSHOT";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vS7PYOuQhFlTcz_1nEtcJrqq5k1mp0A3jwPTWEZzCB5-vB60fFhL17lkAeL8shjSMIJLjeUsau2gxsl/pub?gid=545589246&single=true&output=csv";
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "resumen-inbox.json");
 
 async function main() {
