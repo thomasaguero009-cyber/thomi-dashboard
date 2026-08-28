@@ -6258,5 +6258,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1787941676000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "683790223",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941680000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1099223444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941709000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1099223444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941738000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "55105363",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941748000,
+    "mensaje": "comentó en tu publicación o reelWhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1117320967",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941752000,
+    "mensaje": "comentó en tu publicación o reelWhatsApp",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1117320967",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941761000,
+    "mensaje": "Me inspiras gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "377059031",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941764000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1769813597",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941773000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "991993018",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941934000,
+    "mensaje": "Quiero el catálogo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2145470909",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941939000,
+    "mensaje": "No puedo?",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "862810183",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787941940000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "862810183",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
   }
 ]
