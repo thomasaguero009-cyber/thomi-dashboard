@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thom.i · Aprendizaje</title>
+<style>
+  :root{
+    --bg: #0a0a0f;
+    --card: #14141c;
+    --border: #24242f;
+    --text: #f2f2f5;
+    --text-dim: #8a8a97;
+    --purple: #7c6cf0;
+    --green: #34d399;
+    --pink: #f0568f;
+  }
+  *{ box-sizing:border-box; }
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background: radial-gradient(circle at 20% 0%, #1a1430 0%, var(--bg) 45%), var(--bg);
+    color:var(--text); min-height:100vh; padding:32px 20px 60px;
+  }
+  .wrap{ max-width:980px; margin:0 auto; }
+  header{ margin-bottom:28px; }
+  header h1{ font-size:26px; margin:0 0 6px; display:flex; align-items:center; gap:10px; }
+  header p{ margin:0; color:var(--text-dim); font-size:14.5px; }
+
+  .stats-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:16px; margin-bottom:28px; }
+  .stat-card{ background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; }
+  .stat-card .l{ font-size:11.5px; font-weight:700; letter-spacing:.5px; text-transform:uppercase; color:var(--text-dim); margin-bottom:8px; }
+  .stat-card .v{ font-size:26px; font-weight:800; }
+
+  .panel{ background:var(--card); border:1px solid var(--border); border-radius:16px; padding:22px; margin-bottom:24px; }
+  .panel h2{ font-size:15px; margin:0 0 16px; display:flex; align-items:center; gap:8px; }
+
+  .rank-row{ display:flex; align-items:center; gap:12px; padding:9px 0; border-bottom:1px solid var(--border); font-size:13.5px; }
+  .rank-row:last-child{ border-bottom:none; }
+  .rank-pos{ width:22px; color:var(--text-dim); font-weight:700; }
+  .rank-name{ flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .rank-bar-wrap{ flex:2; height:8px; background:var(--border); border-radius:99px; overflow:hidden; }
+  .rank-bar{ height:100%; background:var(--purple); border-radius:99px; }
+  .rank-val{ width:38px; text-align:right; font-weight:700; }
+
+  .search-input{
+    width:100%; padding:11px 14px; border-radius:10px; border:1px solid var(--border);
+    background:#0e0e15; color:var(--text); font-size:14px; margin-bottom:16px;
+  }
+  .search-input::placeholder{ color:var(--text-dim); }
+
+  table{ width:100%; border-collapse:collapse; font-size:13.5px; }
+  th{ text-align:left; color:var(--text-dim); font-size:11.5px; text-transform:uppercase; letter-spacing:.4px; font-weight:700; padding:0 10px 10px; }
+  td{ padding:11px 10px; border-top:1px solid var(--border); vertical-align:top; }
+  td.msg{ color:var(--text); }
+  td.btn{ color:var(--green); font-weight:600; white-space:nowrap; }
+  td.date{ color:var(--text-dim); white-space:nowrap; }
+  .table-wrap{ max-height:520px; overflow-y:auto; }
+  .empty{ text-align:center; color:var(--text-dim); padding:40px 10px; font-size:14px; line-height:1.6; }
+  .empty code{ background:#0e0e15; border:1px solid var(--border); padding:2px 6px; border-radius:6px; color:var(--text); }
+
+  .howto{ font-size:13px; color:var(--text-dim); line-height:1.7; }
+  .howto b{ color:var(--text); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>🤖 Thom.i <span style="color:var(--text-dim);font-weight:400;">· Aprendizaje</span></h1>
+      <p>Historial de ejemplos reales: qué escribió el contacto y qué automatización se mandó a mano.</p>
+    </header>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="l">Ejemplos guardados</div>
+        <div class="v" id="stat-total">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="l">Botón más usado</div>
+        <div class="v" id="stat-top-btn" style="font-size:18px;">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="l">Botones distintos</div>
+        <div class="v" id="stat-btn-count">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="l">Último ejemplo</div>
+        <div class="v" id="stat-last" style="font-size:16px;">—</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>🏆 Botones más usados</h2>
+      <div id="ranking"></div>
+    </div>
+
+    <div class="panel">
+      <h2>📋 Ejemplos</h2>
+      <input type="text" class="search-input" id="search" placeholder="Buscar por mensaje o botón...">
+      <div class="table-wrap">
+        <table id="tabla">
+          <thead>
+            <tr><th style="width:120px;">Fecha</th><th>Mensaje del contacto</th><th style="width:160px;">Botón</th></tr>
+          </thead>
+          <tbody id="tabla-body"></tbody>
+        </table>
+        <div class="empty" id="empty-state" style="display:none;"></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>🔄 Cómo actualizar estos datos</h2>
+      <div class="howto">
+        Estos datos <b>no se sincronizan solos</b> — viven como un archivo dentro de este mismo repositorio de GitHub.
+        Para actualizarlos: en ManyChat, abrí el ícono de la extensión → <b>Opciones</b> → sección "Thom.i — aprendizaje" → botón <b>Exportar JSON</b>,
+        y pasale ese archivo a Claude para que lo suba acá.
+      </div>
+    </div>
+  </div>
+
+<script>
+  let datos = [];
+
+  function fmtFecha(ts){
+    if(!ts) return '—';
+    const d = new Date(ts);
+    if(isNaN(d.getTime())) return '—';
+    return d.toLocaleDateString('es-AR', { day:'2-digit', month:'2-digit', year:'numeric' }) + ' ' +
+           d.toLocaleTimeString('es-AR', { hour:'2-digit', minute:'2-digit' });
+  }
+
+  function render(filtro){
+    const f = (filtro || '').trim().toLowerCase();
+    const filtrados = f
+      ? datos.filter(e => (e.mensaje||'').toLowerCase().includes(f) || (e.boton||'').toLowerCase().includes(f))
+      : datos;
+
+    const tbody = document.getElementById('tabla-body');
+    const emptyState = document.getElementById('empty-state');
+    const tabla = document.getElementById('tabla');
+
+    if(!filtrados.length){
+      tabla.style.display = 'none';
+      emptyState.style.display = 'block';
+      emptyState.innerHTML = datos.length
+        ? 'No hay ejemplos que coincidan con la búsqueda.'
+        : 'Todavía no hay ejemplos cargados.<br>Exportá el JSON desde la extensión y pasáselo a Claude para verlo acá.';
+      return;
+    }
+    tabla.style.display = 'table';
+    emptyState.style.display = 'none';
+
+    const ordenados = filtrados.slice().sort((a,b) => (b.ts||0) - (a.ts||0));
+    tbody.innerHTML = ordenados.map(e => `
+      <tr>
+        <td class="date">${fmtFecha(e.ts)}</td>
+        <td class="msg">${escHtml(e.mensaje || '(sin mensaje)')}</td>
+        <td class="btn">${escHtml(e.boton || '—')}</td>
+      </tr>
+    `).join('');
+  }
+
+  function escHtml(str){
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  function renderStats(){
+    document.getElementById('stat-total').textContent = datos.length.toLocaleString('es-AR');
+
+    const conteoBotones = {};
+    datos.forEach(e => {
+      const b = e.boton || '(sin botón)';
+      conteoBotones[b] = (conteoBotones[b] || 0) + 1;
+    });
+    const ranking = Object.entries(conteoBotones).sort((a,b) => b[1]-a[1]);
+
+    document.getElementById('stat-btn-count').textContent = ranking.length.toLocaleString('es-AR');
+    document.getElementById('stat-top-btn').textContent = ranking.length ? ranking[0][0] : '—';
+
+    const ultimo = datos.reduce((max, e) => (e.ts && e.ts > (max||0)) ? e.ts : max, 0);
+    document.getElementById('stat-last').textContent = ultimo ? fmtFecha(ultimo) : '—';
+
+    const rankingEl = document.getElementById('ranking');
+    if(!ranking.length){
+      rankingEl.innerHTML = '<div class="empty">Sin datos todavía.</div>';
+      return;
+    }
+    const max = ranking[0][1];
+    const posLabels = ['1°','2°','3°','4°','5°','6°','7°','8°','9°','10°'];
+    rankingEl.innerHTML = ranking.slice(0, 10).map(([boton, count], i) => `
+      <div class="rank-row">
+        <div class="rank-pos">${posLabels[i] || (i+1)+'°'}</div>
+        <div class="rank-name">${escHtml(boton)}</div>
+        <div class="rank-bar-wrap"><div class="rank-bar" style="width:${(count/max*100)}%;"></div></div>
+        <div class="rank-val">${count}</div>
+      </div>
+    `).join('');
+  }
+
+  document.getElementById('search').addEventListener('input', (e) => render(e.target.value));
+
+  fetch('./data/aprendizaje.json')
+    .then(r => r.json())
+    .then(data => {
+      datos = Array.isArray(data) ? data : [];
+      renderStats();
+      render('');
+    })
+    .catch(() => {
+      datos = [];
+      renderStats();
+      render('');
+    });
+</script>
+</body>
+</html>
