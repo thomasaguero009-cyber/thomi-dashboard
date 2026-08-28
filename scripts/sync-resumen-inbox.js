@@ -9,10 +9,27 @@ const CSV_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vS7PYOuQhFlTcz_1nEtcJrqq5k1mp0A3jwPTWEZzCB5-vB60fFhL17lkAeL8shjSMIJLjeUsau2gxsl/pub?gid=545589246&single=true&output=csv";
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "resumen-inbox.json");
 
+// El CSV publicado de esta pestaña es más inestable que el de Hoja 1 (a
+// veces devuelve 401/307 transitorios mientras Google propaga el cache) —
+// se reintenta unas veces antes de rendirse, y si igual falla NO se corta
+// todo el workflow: esto es "la foto más reciente", no algo crítico, se
+// recupera solo en la próxima corrida del cron.
+async function bajarCsvConReintento() {
+  for (let intento = 1; intento <= 3; intento++) {
+    const res = await fetch(CSV_URL);
+    if (res.ok) return res.text();
+    console.warn(`Intento ${intento}: HTTP ${res.status}`);
+    if (intento < 3) await new Promise((r) => setTimeout(r, 5000));
+  }
+  return null;
+}
+
 async function main() {
-  const res = await fetch(CSV_URL);
-  if (!res.ok) throw new Error(`No se pudo bajar el CSV: HTTP ${res.status}`);
-  const csv = await res.text();
+  const csv = await bajarCsvConReintento();
+  if (csv === null) {
+    console.log("No se pudo bajar el CSV del resumen de inbox esta vez — se reintenta en la próxima corrida.");
+    return;
+  }
 
   const filas = parseCsv(csv);
   if (filas.length < 2) {
