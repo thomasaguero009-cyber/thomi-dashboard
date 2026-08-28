@@ -180,7 +180,18 @@
     return { tipo: 'nada' };
   }
 
+  // Tags y reasignaciones no son una decisión de "qué botón mandar" — no
+  // tiene sentido comparar eso contra las reglas de automatización, así
+  // que se muestran aparte y no cuentan para el % de coincidencia.
+  function esMovimiento(botonReal){
+    return !!botonReal && /^(TAG_AGREGADO|TAG_QUITADO|ASIGNADO_A):/.test(botonReal);
+  }
+
   function renderDecision(mensaje, botonReal){
+    if(esMovimiento(botonReal)){
+      const esTag = botonReal.startsWith('TAG_');
+      return { html: `${esTag ? '🏷️' : '↪️'} ${escHtml(botonReal)}`, coincide: null };
+    }
     const d = simularDecisionThomi(mensaje);
     if(d.tipo === 'directa'){
       const coincide = !!(botonReal && d.regla.botonRegex.test(botonReal));
