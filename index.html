@@ -126,17 +126,28 @@
     </div>
 
     <div class="panel">
+      <h2>📥 Ahora mismo en el inbox</h2>
+      <div id="resumen-inbox"></div>
+    </div>
+
+    <div class="panel">
       <h2>🏆 Botones más usados</h2>
       <div id="ranking"></div>
     </div>
 
     <div class="panel">
+      <h2>📇 Resumen por contacto <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— clic en uno para ver toda su historia abajo</span></h2>
+      <input type="text" class="search-input" id="search-contacto" placeholder="Buscar contacto...">
+      <div id="contactos" style="max-height:320px;overflow-y:auto;"></div>
+    </div>
+
+    <div class="panel">
       <h2>📋 Ejemplos <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— comparado con lo que Thom.i decidiría hoy</span></h2>
-      <input type="text" class="search-input" id="search" placeholder="Buscar por mensaje o botón...">
+      <input type="text" class="search-input" id="search" placeholder="Buscar por mensaje, botón o contacto...">
       <div class="table-wrap">
         <table id="tabla">
           <thead>
-            <tr><th style="width:110px;">Fecha</th><th>Mensaje del contacto</th><th style="width:150px;">Lo que hiciste</th><th style="width:170px;">Thom.i decidiría hoy</th></tr>
+            <tr><th style="width:110px;">Fecha</th><th style="width:130px;">Contacto</th><th>Mensaje del contacto</th><th style="width:150px;">Lo que hiciste</th><th style="width:170px;">Thom.i decidiría hoy</th></tr>
           </thead>
           <tbody id="tabla-body"></tbody>
         </table>
@@ -145,17 +156,17 @@
     </div>
 
     <div class="panel">
-      <h2>🔄 Cómo actualizar estos datos</h2>
+      <h2>🔄 Cómo se actualizan estos datos</h2>
       <div class="howto">
-        Estos datos <b>no se sincronizan solos</b> — viven como un archivo dentro de este mismo repositorio de GitHub.
-        Para actualizarlos: en ManyChat, abrí el ícono de la extensión → <b>Opciones</b> → sección "Thom.i — aprendizaje" → botón <b>Exportar JSON</b>,
-        y pasale ese archivo a Claude para que lo suba acá.
+        Todo esto <b>se sincroniza solo</b>: la extensión manda cada movimiento en vivo a una hoja de Google, y un
+        workflow de GitHub Actions la lee cada 15 minutos y actualiza esta página — nadie exporta ni pega nada a mano.
       </div>
     </div>
   </div>
 
 <script>
   let datos = [];
+  let resumenInbox = {};
 
   // Copia EXACTA de MC_THOMI_REGLAS en content.js — si cambian las reglas
   // ahí, hay que actualizarlas acá también para que esta simulación no
@@ -233,7 +244,11 @@
   function render(filtro){
     const f = (filtro || '').trim().toLowerCase();
     const filtrados = f
-      ? datos.filter(e => (e.mensaje||'').toLowerCase().includes(f) || (e.boton||'').toLowerCase().includes(f))
+      ? datos.filter(e =>
+          (e.mensaje||'').toLowerCase().includes(f) ||
+          (e.boton||'').toLowerCase().includes(f) ||
+          (e.nombreContacto||'').toLowerCase().includes(f) ||
+          String(e.subscriberId||'').includes(f))
       : datos;
 
     const tbody = document.getElementById('tabla-body');
@@ -245,7 +260,7 @@
       emptyState.style.display = 'block';
       emptyState.innerHTML = datos.length
         ? 'No hay ejemplos que coincidan con la búsqueda.'
-        : 'Todavía no hay ejemplos cargados.<br>Exportá el JSON desde la extensión y pasáselo a Claude para verlo acá.';
+        : 'Todavía no hay ejemplos cargados — activá el modo aprendizaje en la extensión y usá ManyChat normal.';
       return;
     }
     tabla.style.display = 'table';
@@ -257,6 +272,7 @@
       return `
       <tr>
         <td class="date">${fmtFecha(e.ts)}</td>
+        <td class="msg">${escHtml(e.nombreContacto || '—')}</td>
         <td class="msg">${escHtml(e.mensaje || '(sin mensaje)')}</td>
         <td class="btn">${escHtml(e.boton || '—')}</td>
         <td>${decision.html}</td>
@@ -321,6 +337,66 @@
 
   document.getElementById('search').addEventListener('input', (e) => render(e.target.value));
 
+  // Agrupa los ejemplos por subscriberId — es lo más parecido a "una
+  // conversación puntual, completa" que se puede armar sin volver a leer
+  // ManyChat: todo lo que Thom.i ya registró de ese contacto, en orden.
+  function renderContactos(filtro){
+    const f = (filtro || '').trim().toLowerCase();
+    const porContacto = {};
+    datos.forEach(e => {
+      const id = e.subscriberId || '(sin id)';
+      if(!porContacto[id]) porContacto[id] = { nombre: '', cantidad: 0, ultimoTs: 0 };
+      const c = porContacto[id];
+      if(e.nombreContacto) c.nombre = e.nombreContacto;
+      c.cantidad++;
+      if((e.ts||0) > c.ultimoTs) c.ultimoTs = e.ts||0;
+    });
+
+    let lista = Object.entries(porContacto).map(([id, c]) => ({ id, ...c }));
+    if(f){
+      lista = lista.filter(c => (c.nombre||'').toLowerCase().includes(f) || c.id.includes(f));
+    }
+    lista.sort((a,b) => b.ultimoTs - a.ultimoTs);
+
+    const el = document.getElementById('contactos');
+    if(!lista.length){
+      el.innerHTML = '<div class="empty">Sin contactos todavía.</div>';
+      return;
+    }
+    el.innerHTML = lista.slice(0, 100).map(c => `
+      <div class="rank-row" style="cursor:pointer;" onclick="document.getElementById('search').value='${c.id}';render('${c.id}');document.getElementById('tabla').scrollIntoView({behavior:'smooth'});">
+        <div class="rank-name" style="white-space:normal;">${escHtml(c.nombre || '(sin nombre)')} <span style="color:var(--text-dim);font-size:12px;">#${escHtml(c.id)}</span></div>
+        <div class="rank-val" style="width:auto;">${c.cantidad} ${c.cantidad === 1 ? 'ejemplo' : 'ejemplos'}</div>
+      </div>
+    `).join('');
+  }
+  document.getElementById('search-contacto').addEventListener('input', (e) => renderContactos(e.target.value));
+
+  function renderResumenInbox(){
+    const el = document.getElementById('resumen-inbox');
+    if(!resumenInbox || !resumenInbox.ts){
+      el.innerHTML = '<div class="empty">Todavía no hay una foto del inbox — se genera sola cada 60s mientras la extensión está activa en ManyChat.</div>';
+      return;
+    }
+    el.innerHTML = `
+      <div class="stats-grid" style="margin-bottom:0;">
+        <div class="stat-card">
+          <div class="l">Chats sin responder</div>
+          <div class="v">${resumenInbox.cantidadSinResponder ?? '—'}</div>
+        </div>
+        <div class="stat-card">
+          <div class="l">Temas más comunes</div>
+          <div class="v" style="font-size:16px;">${escHtml(resumenInbox.temasComunes || '—')}</div>
+        </div>
+        <div class="stat-card">
+          <div class="l">Un ejemplo sin responder</div>
+          <div class="v" style="font-size:16px;">${escHtml(resumenInbox.ejemplo || '—')}</div>
+        </div>
+      </div>
+      <div class="howto" style="margin-top:12px;">Foto tomada el ${fmtFecha(resumenInbox.ts)}.</div>
+    `;
+  }
+
   document.getElementById('reglas-lista').innerHTML = REGLAS_THOMI.map((r, i) => `
     <div class="rank-row">
       <div class="rank-pos">${i+1}°</div>
@@ -335,11 +411,24 @@
       datos = Array.isArray(data) ? data : [];
       renderStats();
       render('');
+      renderContactos('');
     })
     .catch(() => {
       datos = [];
       renderStats();
       render('');
+      renderContactos('');
+    });
+
+  fetch('./data/resumen-inbox.json')
+    .then(r => r.json())
+    .then(data => {
+      resumenInbox = data || {};
+      renderResumenInbox();
+    })
+    .catch(() => {
+      resumenInbox = {};
+      renderResumenInbox();
     });
 </script>
 </body>

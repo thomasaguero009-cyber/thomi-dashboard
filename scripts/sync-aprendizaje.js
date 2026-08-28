@@ -28,7 +28,8 @@ async function main() {
     respuesta: header.indexOf("Respuesta"),
     subscriberId: header.indexOf("SubscriberId"),
     setter: header.indexOf("Setter"),
-    pageId: header.indexOf("PageId")
+    pageId: header.indexOf("PageId"),
+    nombreContacto: header.indexOf("NombreContacto")
   };
 
   const entradas = resto
@@ -40,7 +41,8 @@ async function main() {
       respuesta: fila[idx.respuesta] || "",
       subscriberId: fila[idx.subscriberId] || "",
       setter: fila[idx.setter] || "",
-      pageId: fila[idx.pageId] || ""
+      pageId: fila[idx.pageId] || "",
+      nombreContacto: idx.nombreContacto >= 0 ? fila[idx.nombreContacto] || "" : ""
     }));
 
   const actual = fs.existsSync(OUTPUT_PATH) ? fs.readFileSync(OUTPUT_PATH, "utf8") : "";

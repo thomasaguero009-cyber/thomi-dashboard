@@ -17,12 +17,15 @@ jobs:
         with:
           node-version: "20"
       - run: node scripts/sync-aprendizaje.js
+      # Pendiente: falta la URL publicada de la pestaña InboxSnapshot. No
+      # debe romper el sync de aprendizaje (el crítico) mientras tanto.
+      - run: node scripts/sync-resumen-inbox.js || echo "resumen-inbox: sin URL todavía, se ignora por ahora"
       - run: |
-          if ! git diff --quiet -- data/aprendizaje.json; then
+          if ! git diff --quiet -- data/aprendizaje.json data/resumen-inbox.json; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/aprendizaje.json
-            git commit -m "Sync aprendizaje de Thom.i"
+            git add data/aprendizaje.json data/resumen-inbox.json
+            git commit -m "Sync aprendizaje y resumen de inbox de Thom.i"
             git push
           else
             echo "Sin cambios, no hay nada que commitear."
