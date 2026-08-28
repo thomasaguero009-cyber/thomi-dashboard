@@ -5288,5 +5288,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1787939524000,
+    "mensaje": "No pude agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "364930570",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939531000,
+    "mensaje": "Estoy interesada",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1429457597",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939537000,
+    "mensaje": "Pero como recién graduada está costando abrirme camino y hasta adquirir experiencia quería ver otras opciones de trabajo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1634630170",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939541000,
+    "mensaje": "BotQueres que te la envie?Si enviamela",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "221515565",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939549000,
+    "mensaje": "Tengo 24 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "997747622",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939565000,
+    "mensaje": "Esta bien",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "798707152",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939607000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1381558305",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939612000,
+    "mensaje": "No",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1565610994",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939616000,
+    "mensaje": "y creo que me van a adelantar la cita para ahora mismo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "361200805",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939631000,
+    "mensaje": "?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "5610205",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787939639000,
+    "mensaje": "En septiembre ya los 18",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1457589152",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
   }
 ]
