@@ -187,10 +187,13 @@
   // mienta. La parte de "afirmación corta → mirar el último mensaje del
   // bot" no se puede simular acá (no tenemos ese mensaje en los datos
   // exportados), así que esos casos se marcan aparte, no se adivinan.
+  // "Info"/"información" se fusionó con "Video-clase": en la práctica
+  // nunca hubo un botón con "vsl" en el nombre, así que esa regla nunca
+  // pudo coincidir con nada real — todo pedido de info se resuelve con el
+  // mismo botón de video.
   const REGLAS_THOMI = [
     { regex: /cat[aá]logo/i, botonRegex: /cat[aá]logo/i, boton: 'Catálogo' },
-    { regex: /\bclase\b|\bvideo\b|v[ií]deo/i, botonRegex: /video/i, boton: 'Video-clase' },
-    { regex: /\binfo\b|informaci[oó]n/i, botonRegex: /vsl/i, boton: 'Info (VSL)' },
+    { regex: /\bclase\b|\bvideo\b|v[ií]deo|\binfo\b|informaci[oó]n/i, botonRegex: /video/i, boton: 'Video-clase / Info' },
     { regex: /\bgu[ií]a\b/i, botonRegex: /\bgu[ií]a\b/i, boton: 'Guía' }
   ];
   const AFIRMACION_REGEX = /\b(si+|sii+|sisi+|dale|obvio|claro|buen[oa]s?|ok|okay|de una|va|listo|perfecto|genial|hola+|holis|que tal)\b/i;
