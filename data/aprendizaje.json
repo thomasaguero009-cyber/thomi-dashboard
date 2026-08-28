@@ -4668,5 +4668,25 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1787932852000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1117320967",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1787932851000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1117320967",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": ""
   }
 ]
