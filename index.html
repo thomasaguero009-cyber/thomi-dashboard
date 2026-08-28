@@ -86,6 +86,23 @@
         <div class="l">Último ejemplo</div>
         <div class="v" id="stat-last" style="font-size:16px;">—</div>
       </div>
+      <div class="stat-card">
+        <div class="l">Coincide con las reglas de hoy</div>
+        <div class="v" id="stat-coincidencia" style="font-size:18px;">—</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>🧠 Reglas actuales de Thom.i</h2>
+      <div class="howto" style="margin-bottom:10px;">
+        Esto es exactamente la lógica que hoy tiene programada (sin IA, a propósito — reglas fijas por palabra clave).
+        Si el mensaje del contacto matchea UNA sola de estas y parece un pedido directo, manda ese botón solo:
+      </div>
+      <div id="reglas-lista"></div>
+      <div class="howto" style="margin-top:14px;">
+        Además: si el mensaje es una afirmación corta ("sí", "dale", "buenas"...) sin ninguna palabra clave propia,
+        mira el ÚLTIMO mensaje que mandó el bot y aplica las mismas reglas sobre ESE texto — a eso está respondiendo.
+      </div>
     </div>
 
     <div class="panel">
@@ -94,12 +111,12 @@
     </div>
 
     <div class="panel">
-      <h2>📋 Ejemplos</h2>
+      <h2>📋 Ejemplos <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— comparado con lo que Thom.i decidiría hoy</span></h2>
       <input type="text" class="search-input" id="search" placeholder="Buscar por mensaje o botón...">
       <div class="table-wrap">
         <table id="tabla">
           <thead>
-            <tr><th style="width:120px;">Fecha</th><th>Mensaje del contacto</th><th style="width:160px;">Botón</th></tr>
+            <tr><th style="width:110px;">Fecha</th><th>Mensaje del contacto</th><th style="width:150px;">Lo que hiciste</th><th style="width:170px;">Thom.i decidiría hoy</th></tr>
           </thead>
           <tbody id="tabla-body"></tbody>
         </table>
@@ -119,6 +136,60 @@
 
 <script>
   let datos = [];
+
+  // Copia EXACTA de MC_THOMI_REGLAS en content.js — si cambian las reglas
+  // ahí, hay que actualizarlas acá también para que esta simulación no
+  // mienta. La parte de "afirmación corta → mirar el último mensaje del
+  // bot" no se puede simular acá (no tenemos ese mensaje en los datos
+  // exportados), así que esos casos se marcan aparte, no se adivinan.
+  const REGLAS_THOMI = [
+    { regex: /cat[aá]logo/i, botonRegex: /cat[aá]logo/i, boton: 'Catálogo' },
+    { regex: /\bclase\b|\bvideo\b|v[ií]deo/i, botonRegex: /video/i, boton: 'Video-clase' },
+    { regex: /\binfo\b|informaci[oó]n/i, botonRegex: /vsl/i, boton: 'Info (VSL)' },
+    { regex: /\bgu[ií]a\b/i, botonRegex: /\bgu[ií]a\b/i, boton: 'Guía' }
+  ];
+  const AFIRMACION_REGEX = /\b(si+|sii+|sisi+|dale|obvio|claro|buen[oa]s?|ok|okay|de una|va|listo|perfecto|genial|hola+|holis|que tal)\b/i;
+  const PEDIDO_REGEX = /\b(pas[ae]|mand[ae]|env[ií]a|quier|necesit|dame|quisiera)/i;
+
+  function esAfirmacionCorta(texto){
+    const limpio = texto.trim().toLowerCase().replace(/[!?.,¡¿]/g, '').trim();
+    if(!limpio || limpio.length > 25) return false;
+    if(/\bno\b/.test(limpio)) return false;
+    return AFIRMACION_REGEX.test(limpio);
+  }
+
+  function pareceUnPedido(texto){
+    const limpio = texto.trim();
+    if(limpio.length <= 60) return true;
+    return PEDIDO_REGEX.test(limpio);
+  }
+
+  // Devuelve { tipo: 'directa'|'ambigua'|'afirmacion'|'nada', boton }
+  function simularDecisionThomi(mensaje){
+    if(!mensaje) return { tipo: 'nada' };
+    const directas = REGLAS_THOMI.filter(r => r.regex.test(mensaje));
+    if(directas.length === 1 && pareceUnPedido(mensaje)){
+      return { tipo: 'directa', regla: directas[0] };
+    }
+    if(directas.length > 1){
+      return { tipo: 'ambigua' }; // matchea más de una regla — Thom.i tampoco actuaría, por las dudas
+    }
+    if(directas.length === 0 && esAfirmacionCorta(mensaje)){
+      return { tipo: 'afirmacion' }; // depende del último mensaje del bot, no se puede saber solo con esto
+    }
+    return { tipo: 'nada' };
+  }
+
+  function renderDecision(mensaje, botonReal){
+    const d = simularDecisionThomi(mensaje);
+    if(d.tipo === 'directa'){
+      const coincide = !!(botonReal && d.regla.botonRegex.test(botonReal));
+      return { html: `${coincide ? '✅' : '⚠️'} ${escHtml(d.regla.boton)}`, coincide };
+    }
+    if(d.tipo === 'ambigua') return { html: '❓ ambiguo (2+ reglas)', coincide: null };
+    if(d.tipo === 'afirmacion') return { html: '🤔 depende del bot', coincide: null };
+    return { html: '<span style="color:var(--text-dim);">— nada</span>', coincide: null };
+  }
 
   function fmtFecha(ts){
     if(!ts) return '—';
@@ -150,13 +221,17 @@
     emptyState.style.display = 'none';
 
     const ordenados = filtrados.slice().sort((a,b) => (b.ts||0) - (a.ts||0));
-    tbody.innerHTML = ordenados.map(e => `
+    tbody.innerHTML = ordenados.map(e => {
+      const decision = renderDecision(e.mensaje, e.boton);
+      return `
       <tr>
         <td class="date">${fmtFecha(e.ts)}</td>
         <td class="msg">${escHtml(e.mensaje || '(sin mensaje)')}</td>
         <td class="btn">${escHtml(e.boton || '—')}</td>
+        <td>${decision.html}</td>
       </tr>
-    `).join('');
+    `;
+    }).join('');
   }
 
   function escHtml(str){
@@ -181,6 +256,21 @@
     const ultimo = datos.reduce((max, e) => (e.ts && e.ts > (max||0)) ? e.ts : max, 0);
     document.getElementById('stat-last').textContent = ultimo ? fmtFecha(ultimo) : '—';
 
+    // % de coincidencia: de los casos donde Thom.i SÍ tomaría una decisión
+    // directa (regla clara + parece pedido), cuántos coinciden con lo que
+    // realmente se mandó a mano. Los "afirmación"/"ambiguo"/"nada" no
+    // cuentan ni a favor ni en contra — ahí Thom.i hoy no actuaría solo.
+    const evaluables = datos
+      .map(e => renderDecision(e.mensaje, e.boton))
+      .filter(d => d.coincide !== null);
+    const statCoincidencia = document.getElementById('stat-coincidencia');
+    if(!evaluables.length){
+      statCoincidencia.textContent = '—';
+    } else {
+      const aciertos = evaluables.filter(d => d.coincide).length;
+      statCoincidencia.textContent = Math.round(aciertos / evaluables.length * 100) + '% (' + aciertos + '/' + evaluables.length + ')';
+    }
+
     const rankingEl = document.getElementById('ranking');
     if(!ranking.length){
       rankingEl.innerHTML = '<div class="empty">Sin datos todavía.</div>';
@@ -199,6 +289,14 @@
   }
 
   document.getElementById('search').addEventListener('input', (e) => render(e.target.value));
+
+  document.getElementById('reglas-lista').innerHTML = REGLAS_THOMI.map((r, i) => `
+    <div class="rank-row">
+      <div class="rank-pos">${i+1}°</div>
+      <div class="rank-name" style="white-space:normal;">Mensaje incluye <code style="background:#0e0e15;border:1px solid var(--border);padding:2px 6px;border-radius:6px;">${escHtml(r.regex.source)}</code></div>
+      <div class="rank-val" style="width:auto;color:var(--green);">→ ${escHtml(r.boton)}</div>
+    </div>
+  `).join('');
 
   fetch('./data/aprendizaje.json')
     .then(r => r.json())
