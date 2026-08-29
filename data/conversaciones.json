@@ -3953,5 +3953,61 @@
     "nombreContacto": "Lauty Riani",
     "remitente": "contacto",
     "texto": "Si pasame"
+  },
+  {
+    "ts": 1788011136000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "contacto",
+    "texto": "17 voy a cumplir"
+  },
+  {
+    "ts": 1788011172000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788011176000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788011199000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "contacto",
+    "texto": "Tengo 21 años"
+  },
+  {
+    "ts": 1788011205000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1788011278000,
+    "subscriberId": "1824556251",
+    "nombreContacto": "Max",
+    "remitente": "contacto",
+    "texto": "Porfa"
+  },
+  {
+    "ts": 1788011328000,
+    "subscriberId": "1824556251",
+    "nombreContacto": "Max",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788011336000,
+    "subscriberId": "1824556251",
+    "nombreContacto": "Max",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]

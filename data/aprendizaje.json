@@ -18498,5 +18498,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "🤹🏽‍♂️."
+  },
+  {
+    "ts": 1788011267000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1824556251",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Max"
+  },
+  {
+    "ts": 1788011268000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1824556251",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Max"
+  },
+  {
+    "ts": 1788011343000,
+    "mensaje": "BotBuenas! vi tu comentario estas para que te pase la clase?Si",
+    "boton": "Video",
+    "respuesta": "",
+    "subscriberId": "1216088461",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✨valu🧸"
+  },
+  {
+    "ts": 1788011344000,
+    "mensaje": "BotBuenas! vi tu comentario estas para que te pase la clase?Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1216088461",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✨valu🧸"
   }
 ]
