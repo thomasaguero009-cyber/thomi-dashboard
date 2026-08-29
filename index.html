@@ -152,6 +152,16 @@
     </div>
 
     <div class="panel">
+      <h2>🔻 Embudo de respuesta <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— cuántos leads siguen respondiendo a medida que avanza la charla</span></h2>
+      <div id="embudo"></div>
+    </div>
+
+    <div class="panel">
+      <h2>📊 Qué automatización genera más respuesta <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— % de leads que escribieron de nuevo después de recibirla</span></h2>
+      <div id="tasa-automatizacion"></div>
+    </div>
+
+    <div class="panel">
       <h2>📋 Ejemplos <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— comparado con lo que Thom.i decidiría hoy</span></h2>
       <input type="text" class="search-input" id="search" placeholder="Buscar por mensaje, botón o contacto...">
       <div class="table-wrap">
@@ -437,6 +447,102 @@
   }
   document.getElementById('search-contacto').addEventListener('input', (e) => renderContactos(e.target.value));
 
+  // Embudo de profundidad: no asume ningún orden de negocio (catálogo antes
+  // que video, etc.) — solo cuenta, de los leads que escribieron al menos
+  // un mensaje real, cuántos siguieron respondiendo a medida que la charla
+  // avanza. Es la forma más honesta de ver "dónde se quedan" sin adivinar
+  // en qué etapa del funnel está cada uno.
+  function renderEmbudo(){
+    const el = document.getElementById('embudo');
+    const porContacto = {};
+    conversaciones.forEach(m => {
+      if(m.remitente !== 'contacto') return;
+      porContacto[m.subscriberId] = (porContacto[m.subscriberId] || 0) + 1;
+    });
+    const counts = Object.values(porContacto);
+    const total = counts.length;
+    if(!total){
+      el.innerHTML = '<div class="empty">Todavía no hay conversaciones completas capturadas — se llena a medida que se usa la extensión con el modo aprendizaje activo.</div>';
+      return;
+    }
+    const PROFUNDIDAD_MAX = 6;
+    const pasos = [];
+    for(let k = 1; k < PROFUNDIDAD_MAX; k++){
+      pasos.push({ etiqueta: `Mensaje ${k}`, cantidad: counts.filter(c => c >= k).length });
+    }
+    pasos.push({ etiqueta: `${PROFUNDIDAD_MAX}+ mensajes`, cantidad: counts.filter(c => c >= PROFUNDIDAD_MAX).length });
+
+    const base = pasos[0].cantidad;
+    el.innerHTML = `
+      <div class="howto" style="margin-bottom:14px;">${total.toLocaleString('es-AR')} leads escribieron al menos un mensaje real. Cada barra muestra cuántos de esos siguieron respondiendo hasta ese punto — la caída entre barras es dónde se quedan.</div>
+    ` + pasos.map((p, i) => {
+      const pctBase = base ? Math.round(p.cantidad / base * 100) : 0;
+      const anterior = i > 0 ? pasos[i - 1].cantidad : null;
+      const caida = anterior ? Math.round((1 - p.cantidad / anterior) * 100) : 0;
+      return `
+        <div class="rank-row">
+          <div class="rank-name">${p.etiqueta}</div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:${pctBase}%;"></div></div>
+          <div class="rank-val">${p.cantidad} (${pctBase}%)${anterior && caida > 0 ? ` <span style="color:var(--text-dim);font-size:11px;">-${caida}%</span>` : ''}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // Agrupa nombres de botón parecidos ("VIDEO"/"video"/"Video") bajo una
+  // sola categoría — mismos grupos que ya usa la fusión de reglas. Tags y
+  // reasignaciones (esMovimiento) no cuentan: no son una automatización que
+  // se manda esperando una respuesta puntual.
+  function agruparBotonCanonico(boton){
+    if(!boton || esMovimiento(boton)) return null;
+    if(/cat[aá]logo/i.test(boton)) return 'Catálogo';
+    if(/video|\bvsl\b/i.test(boton)) return 'Video / Info';
+    if(/\bgu[ií]a\b/i.test(boton)) return 'Guía';
+    if(/^form$/i.test(boton.trim())) return 'Form';
+    if(/audio.?transici[oó]n/i.test(boton)) return 'Audio transición';
+    return boton;
+  }
+
+  // Tasa de respuesta por automatización: de cada vez que se mandó tal
+  // botón, en qué % el lead escribió de nuevo después (usando el mensaje
+  // completo capturado en Conversaciones, no solo el ejemplo puntual).
+  // Se descartan los ejemplos de ANTES de que existiera la captura de
+  // conversación completa — para esos no hay forma de saber si respondió.
+  function renderTasaAutomatizacion(){
+    const el = document.getElementById('tasa-automatizacion');
+    if(!conversaciones.length){
+      el.innerHTML = '<div class="empty">Todavía no hay conversaciones completas capturadas para calcular esto.</div>';
+      return;
+    }
+    const timestamps = conversaciones.map(m => m.ts).filter(Boolean);
+    const minConvTs = timestamps.length ? Math.min(...timestamps) : 0;
+    const porGrupo = {};
+    datos.forEach(e => {
+      if(!e.ts || e.ts < minConvTs) return;
+      const grupo = agruparBotonCanonico(e.boton);
+      if(!grupo) return;
+      if(!porGrupo[grupo]) porGrupo[grupo] = { enviados: 0, respondieron: 0 };
+      porGrupo[grupo].enviados++;
+      const respondio = conversaciones.some(m =>
+        m.subscriberId === e.subscriberId && m.remitente === 'contacto' && m.ts > e.ts);
+      if(respondio) porGrupo[grupo].respondieron++;
+    });
+    const filas = Object.entries(porGrupo)
+      .map(([grupo, v]) => ({ grupo, ...v, pct: v.enviados ? Math.round(v.respondieron / v.enviados * 100) : 0 }))
+      .sort((a, b) => b.pct - a.pct);
+    if(!filas.length){
+      el.innerHTML = '<div class="empty">Todavía no hay suficiente superposición entre automatizaciones enviadas y conversaciones completas capturadas — esto se va a llenar solo con el uso normal.</div>';
+      return;
+    }
+    el.innerHTML = filas.map(f => `
+      <div class="rank-row">
+        <div class="rank-name">${escHtml(f.grupo)}</div>
+        <div class="rank-bar-wrap"><div class="rank-bar" style="width:${f.pct}%;"></div></div>
+        <div class="rank-val">${f.pct}% (${f.respondieron}/${f.enviados})</div>
+      </div>
+    `).join('');
+  }
+
   // Al hacer clic en un contacto: filtra la tabla de ejemplos (como antes)
   // Y ADEMÁS abre el informe completo — la conversación real, de los dos
   // lados, más algunas cuentas simples (sin IA, todo calculado a mano).
@@ -597,7 +703,7 @@
           }));
       })
       .catch(() => { datos = datos || []; })
-      .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); renderProgreso(); });
+      .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); renderProgreso(); renderTasaAutomatizacion(); });
   }
 
   function cargarResumenInbox(){
@@ -646,7 +752,7 @@
           }));
       })
       .catch(() => { conversaciones = conversaciones || []; })
-      .finally(() => { if(contactoAbierto) renderInforme(contactoAbierto); });
+      .finally(() => { if(contactoAbierto) renderInforme(contactoAbierto); renderEmbudo(); renderTasaAutomatizacion(); });
   }
 
   datos = [];
