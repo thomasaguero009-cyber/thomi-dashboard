@@ -2973,5 +2973,19 @@
     "nombreContacto": "mari",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788006076000,
+    "subscriberId": "160864145",
+    "nombreContacto": "mari",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788006280000,
+    "subscriberId": "657907387",
+    "nombreContacto": "✨",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
   }
 ]
