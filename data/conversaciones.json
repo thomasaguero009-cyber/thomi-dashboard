@@ -4688,5 +4688,82 @@
     "nombreContacto": "Mar",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788014733000,
+    "subscriberId": "695305462",
+    "nombreContacto": "Francisco Celi",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788014738000,
+    "subscriberId": "926637856",
+    "nombreContacto": "MASC",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788014738000,
+    "subscriberId": "926637856",
+    "nombreContacto": "MASC",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788014738000,
+    "subscriberId": "926637856",
+    "nombreContacto": "MASC",
+    "remitente": "contacto",
+    "texto": "siii"
+  },
+  {
+    "ts": 1788014738000,
+    "subscriberId": "926637856",
+    "nombreContacto": "MASC",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788014738000,
+    "subscriberId": "926637856",
+    "nombreContacto": "MASC",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788014755000,
+    "subscriberId": "981442213",
+    "nombreContacto": "samuel",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788014773000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788014773000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "contacto",
+    "texto": "Pero amigo hay un pequeño problemita"
+  },
+  {
+    "ts": 1788014773000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788014830000,
+    "subscriberId": "315578490",
+    "nombreContacto": "jnml_1019",
+    "remitente": "contacto",
+    "texto": "Bueno dale, que loco"
   }
 ]

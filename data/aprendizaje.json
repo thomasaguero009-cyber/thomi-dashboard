@@ -18998,5 +18998,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mar"
+  },
+  {
+    "ts": 1788014731000,
+    "mensaje": "Me estaba agendando",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "695305462",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Celi"
+  },
+  {
+    "ts": 1788014738000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "926637856",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MASC"
+  },
+  {
+    "ts": 1788014740000,
+    "mensaje": "Hola",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "926637856",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MASC"
+  },
+  {
+    "ts": 1788014745000,
+    "mensaje": "BotQueres que te la envie?Si... Está buenísima la idea",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1586365013",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nidia flores 💖"
+  },
+  {
+    "ts": 1788014754000,
+    "mensaje": "BotMensaje de audioLlegué al final pero no le agende porque me ocupe en unos negocios y ps se en daño el celular y pues quisiera tu ayuda",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "981442213",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "samuel"
+  },
+  {
+    "ts": 1788014886000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "384357084",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darck"
+  },
+  {
+    "ts": 1788014906000,
+    "mensaje": "Buenas tino me interesa",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1125139800",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ezequiel Fernández"
+  },
+  {
+    "ts": 1788014907000,
+    "mensaje": "Buenas tino me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1125139800",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ezequiel Fernández"
+  },
+  {
+    "ts": 1788014955000,
+    "mensaje": "Siii perdón.",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1879113422",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Rautenberg"
+  },
+  {
+    "ts": 1788014956000,
+    "mensaje": "Siii perdón.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1879113422",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Rautenberg"
   }
 ]
