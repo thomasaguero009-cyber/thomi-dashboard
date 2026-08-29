@@ -1489,5 +1489,40 @@
     "nombreContacto": "jader-117",
     "remitente": "agente",
     "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1787993003000,
+    "subscriberId": "752197694",
+    "nombreContacto": "Victor Mtz",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1787993003000,
+    "subscriberId": "752197694",
+    "nombreContacto": "Victor Mtz",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1787993003000,
+    "subscriberId": "752197694",
+    "nombreContacto": "Victor Mtz",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1787993003000,
+    "subscriberId": "752197694",
+    "nombreContacto": "Victor Mtz",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1787993003000,
+    "subscriberId": "752197694",
+    "nombreContacto": "Victor Mtz",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario estas para que te pase la clase?"
   }
 ]
