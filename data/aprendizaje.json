@@ -18918,5 +18918,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Emmanuel Gonzalez"
+  },
+  {
+    "ts": 1788014436000,
+    "mensaje": "Gracias 🙏🏼",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "69824121",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebastián Berdichevsky"
+  },
+  {
+    "ts": 1788014441000,
+    "mensaje": "Muchas gracias y si estoy interesada, me podría brindar más información por favor, en dónde puedo encontrar la clase donde tiene la explicación?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2033742335",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mar"
+  },
+  {
+    "ts": 1788014444000,
+    "mensaje": "Gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "54321652",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "a. n. d. r. e"
+  },
+  {
+    "ts": 1788014453000,
+    "mensaje": "BotQueres que te la envie?Siii me la podría enviar por favor 🙏🏻",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1053083826",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓔𝓡𝓐𝓝𝓓𝓘"
+  },
+  {
+    "ts": 1788014499000,
+    "mensaje": "BotEstas para ver la clase?Sisi, dale",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "468663497",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ann\n☁︎"
+  },
+  {
+    "ts": 1788014504000,
+    "mensaje": "BotO te paso la agenda directa?sería buenísimo si puedes",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "990111722",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "melany"
+  },
+  {
+    "ts": 1788014524000,
+    "mensaje": "Si agendo la llamada en cuanto tiempo me llamarían o me contactarían?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1414594322",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabian Cordova Torres"
+  },
+  {
+    "ts": 1788014542000,
+    "mensaje": "Hola pense que eras IA",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1518750528",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mar"
   }
 ]

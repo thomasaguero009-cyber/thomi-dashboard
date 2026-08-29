@@ -4625,5 +4625,68 @@
     "nombreContacto": "Emmanuel Gonzalez",
     "remitente": "agente",
     "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788014427000,
+    "subscriberId": "69824121",
+    "nombreContacto": "Sebastián Berdichevsky",
+    "remitente": "contacto",
+    "texto": "Gracias 🙏🏼"
+  },
+  {
+    "ts": 1788014476000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788014476000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "contacto",
+    "texto": "Pero amigo hay un pequeño problemita"
+  },
+  {
+    "ts": 1788014476000,
+    "subscriberId": "57733554",
+    "nombreContacto": "Jorge Vinueza",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788014506000,
+    "subscriberId": "990111722",
+    "nombreContacto": "melany",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788014525000,
+    "subscriberId": "1414594322",
+    "nombreContacto": "Fabian Cordova Torres",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788014542000,
+    "subscriberId": "1518750528",
+    "nombreContacto": "Mar",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788014542000,
+    "subscriberId": "1518750528",
+    "nombreContacto": "Mar",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788014542000,
+    "subscriberId": "1518750528",
+    "nombreContacto": "Mar",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
