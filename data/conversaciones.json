@@ -3869,5 +3869,47 @@
     "nombreContacto": "Odelin Vanessa Martinez López",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788010605000,
+    "subscriberId": "227370504",
+    "nombreContacto": "Maria De Los Angeles Avalos",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788010682000,
+    "subscriberId": "1302791756",
+    "nombreContacto": "tevez.^♧",
+    "remitente": "agente",
+    "texto": "Habla primero con tus padres"
+  },
+  {
+    "ts": 1788010685000,
+    "subscriberId": "1302791756",
+    "nombreContacto": "tevez.^♧",
+    "remitente": "agente",
+    "texto": "Si estan de acuerdo que ellos me hablen"
+  },
+  {
+    "ts": 1788010780000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788010788000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788010791000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "contacto",
+    "texto": "Bueno dale"
   }
 ]
