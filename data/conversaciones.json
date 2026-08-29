@@ -5752,5 +5752,33 @@
     "nombreContacto": "Barbosa",
     "remitente": "agente",
     "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788017224000,
+    "subscriberId": "1809467758",
+    "nombreContacto": "alexander Ezequiel",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788017224000,
+    "subscriberId": "1809467758",
+    "nombreContacto": "alexander Ezequiel",
+    "remitente": "contacto",
+    "texto": "BotQuerés que te la envíe?Si por favor"
+  },
+  {
+    "ts": 1788017224000,
+    "subscriberId": "1809467758",
+    "nombreContacto": "alexander Ezequiel",
+    "remitente": "agente",
+    "texto": "Estas para ver la clase?"
+  },
+  {
+    "ts": 1788017224000,
+    "subscriberId": "1809467758",
+    "nombreContacto": "alexander Ezequiel",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
   }
 ]

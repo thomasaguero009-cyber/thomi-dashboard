@@ -20948,5 +20948,195 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Edu Mayorga"
+  },
+  {
+    "ts": 1788017112000,
+    "mensaje": "Me gustó",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "991993018",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Barbosa"
+  },
+  {
+    "ts": 1788017116000,
+    "mensaje": "Me gustó",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "991993018",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Barbosa"
+  },
+  {
+    "ts": 1788017119000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1392887218",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Martinez"
+  },
+  {
+    "ts": 1788017122000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "823011872",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leandro Valeriano"
+  },
+  {
+    "ts": 1788017124000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "542340859",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ayrton Bianciotto"
+  },
+  {
+    "ts": 1788017127000,
+    "mensaje": "Genial, gracias por la info 🤗",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "560827003",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentino Corigliano"
+  },
+  {
+    "ts": 1788017143000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1125249725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres F Jorge"
+  },
+  {
+    "ts": 1788017155000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2002614730",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joaquín"
+  },
+  {
+    "ts": 1788017160000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1249133620",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "javier alejandro cutiño lamoru"
+  },
+  {
+    "ts": 1788017163000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "35349823",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anny"
+  },
+  {
+    "ts": 1788017166000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "159161760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Ortiz"
+  },
+  {
+    "ts": 1788017168000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1474217831",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raul Ortiz"
+  },
+  {
+    "ts": 1788017176000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "2075538311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vicente Torres"
+  },
+  {
+    "ts": 1788017187000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1532263803",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keyla Lopez 👑 Lic.en Educación/ Coach Desarrollo Personal"
+  },
+  {
+    "ts": 1788017197000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1702331047",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tu_bandido135"
+  },
+  {
+    "ts": 1788017208000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1394783631",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jose hernandez"
+  },
+  {
+    "ts": 1788017211000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1122083766",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Agostina Gamino"
+  },
+  {
+    "ts": 1788017224000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1809467758",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alexander Ezequiel"
+  },
+  {
+    "ts": 1788017285000,
+    "mensaje": "Cual es el número de whats app ?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "51972516",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Alejandro Alvarado"
   }
 ]
