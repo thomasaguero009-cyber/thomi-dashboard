@@ -1405,5 +1405,26 @@
     "nombreContacto": "Manuel Tapia",
     "remitente": "contacto",
     "texto": "BotQueres que te la envie?Pues si la respuesta a mi pregunta es si, su cordial invitación la aceptare con gusto"
+  },
+  {
+    "ts": 1787992423000,
+    "subscriberId": "479005988",
+    "nombreContacto": "Griselda Cabaña",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1787992423000,
+    "subscriberId": "479005988",
+    "nombreContacto": "Griselda Cabaña",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1787992423000,
+    "subscriberId": "479005988",
+    "nombreContacto": "Griselda Cabaña",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
