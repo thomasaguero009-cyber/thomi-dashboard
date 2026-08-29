@@ -1524,5 +1524,26 @@
     "nombreContacto": "Victor Mtz",
     "remitente": "agente",
     "texto": "Buenas! vi tu comentario estas para que te pase la clase?"
+  },
+  {
+    "ts": 1788002549000,
+    "subscriberId": "1693360789",
+    "nombreContacto": "𝙽𝚊𝚑𝚞",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788002575000,
+    "subscriberId": "1693360789",
+    "nombreContacto": "𝙽𝚊𝚑𝚞",
+    "remitente": "contacto",
+    "texto": "Ya la miro, gracias"
+  },
+  {
+    "ts": 1788002576000,
+    "subscriberId": "1662954425",
+    "nombreContacto": "Yeny Chacon",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
   }
 ]
