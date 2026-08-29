@@ -6515,5 +6515,19 @@
     "nombreContacto": "ISA♥️",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788022577000,
+    "subscriberId": "1419172025",
+    "nombreContacto": "ISA♥️",
+    "remitente": "contacto",
+    "texto": "Mira quisiera un consejo tuyo"
+  },
+  {
+    "ts": 1788022716000,
+    "subscriberId": "773383141",
+    "nombreContacto": "Guillermo Solari",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
