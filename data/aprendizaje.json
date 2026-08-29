@@ -17788,5 +17788,35 @@
     "setter": "thomi",
     "pageId": "5487747",
     "nombreContacto": "Sarai_Larin 🌙"
+  },
+  {
+    "ts": 1788007480000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "681439795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matthew D’ Paz"
+  },
+  {
+    "ts": 1788007480000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "681439795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matthew D’ Paz"
+  },
+  {
+    "ts": 1788007510000,
+    "mensaje": "",
+    "boton": "CLASE THOMI",
+    "respuesta": "",
+    "subscriberId": "1254867180",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Jose"
   }
 ]

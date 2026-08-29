@@ -3323,5 +3323,54 @@
     "nombreContacto": "Sarai_Larin 🌙",
     "remitente": "agente",
     "texto": "thomas aguero ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
+  },
+  {
+    "ts": 1788007267000,
+    "subscriberId": "2088287931",
+    "nombreContacto": "𝓖𝓮𝓻𝓪𝓵🕸️🕷️",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788007319000,
+    "subscriberId": "2088287931",
+    "nombreContacto": "𝓖𝓮𝓻𝓪𝓵🕸️🕷️",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi no es mucha molestia me encantaría"
+  },
+  {
+    "ts": 1788007351000,
+    "subscriberId": "2088287931",
+    "nombreContacto": "𝓖𝓮𝓻𝓪𝓵🕸️🕷️",
+    "remitente": "contacto",
+    "texto": "Tengo una duda siendo menor de edad puedo ingresar a esta clase y calificar para el trabajo?"
+  },
+  {
+    "ts": 1788007451000,
+    "subscriberId": "1590149732",
+    "nombreContacto": "Karen ☺️",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788007457000,
+    "subscriberId": "1590149732",
+    "nombreContacto": "Karen ☺️",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788007508000,
+    "subscriberId": "1254867180",
+    "nombreContacto": "Jose",
+    "remitente": "agente",
+    "texto": "Buenisimooo te lo paso"
+  },
+  {
+    "ts": 1788007509000,
+    "subscriberId": "1254867180",
+    "nombreContacto": "Jose",
+    "remitente": "agente",
+    "texto": "thomas aguero ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
   }
 ]
