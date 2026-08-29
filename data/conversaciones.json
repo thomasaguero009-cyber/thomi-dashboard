@@ -3911,5 +3911,47 @@
     "nombreContacto": "...",
     "remitente": "contacto",
     "texto": "Bueno dale"
+  },
+  {
+    "ts": 1788010854000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788010965000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "contacto",
+    "texto": "Bueno dale"
+  },
+  {
+    "ts": 1788011054000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788011058000,
+    "subscriberId": "1855605052",
+    "nombreContacto": "...",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788011071000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788011084000,
+    "subscriberId": "1708528696",
+    "nombreContacto": "Lauty Riani",
+    "remitente": "contacto",
+    "texto": "Si pasame"
   }
 ]
