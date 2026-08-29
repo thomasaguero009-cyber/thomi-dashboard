@@ -5073,5 +5073,47 @@
     "nombreContacto": "José Miguel Rivera George",
     "remitente": "contacto",
     "texto": "BotQue edad tenes?15 años"
+  },
+  {
+    "ts": 1788015963000,
+    "subscriberId": "55467707",
+    "nombreContacto": "Rodolfo Valentino",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788016092000,
+    "subscriberId": "638175755",
+    "nombreContacto": "osvaldomanuelcanedohernandez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelHola Tino, \"Catálogo\", gracias y saludos."
+  },
+  {
+    "ts": 1788016092000,
+    "subscriberId": "638175755",
+    "nombreContacto": "osvaldomanuelcanedohernandez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788016092000,
+    "subscriberId": "638175755",
+    "nombreContacto": "osvaldomanuelcanedohernandez",
+    "remitente": "contacto",
+    "texto": "Hola.\nGracias por responderme.\nSi fuera tan amable y me ayudara con el catálogo. Gracias."
+  },
+  {
+    "ts": 1788016140000,
+    "subscriberId": "631514909",
+    "nombreContacto": "Agustín",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788016211000,
+    "subscriberId": "2053025070",
+    "nombreContacto": "Maravi",
+    "remitente": "contacto",
+    "texto": "Pero tiene restricciones de edad?"
   }
 ]
