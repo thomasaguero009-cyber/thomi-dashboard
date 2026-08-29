@@ -18048,5 +18048,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "nehe_mias.ok.ok"
+  },
+  {
+    "ts": 1788008187000,
+    "mensaje": "",
+    "boton": "Video",
+    "respuesta": "",
+    "subscriberId": "1059702765",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Solange Cabanillas"
+  },
+  {
+    "ts": 1788008188000,
+    "mensaje": "Certificación",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1059702765",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Solange Cabanillas"
+  },
+  {
+    "ts": 1788008222000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1525390278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "miranda Thiago"
+  },
+  {
+    "ts": 1788008222000,
+    "mensaje": "Cómo puedo ganar dinero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1525390278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "miranda Thiago"
+  },
+  {
+    "ts": 1788008275000,
+    "mensaje": "Sisis mándame su WhatsApp",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "2092151311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕱𝖆𝖗𝖎𝖆 ⚡️"
+  },
+  {
+    "ts": 1788008275000,
+    "mensaje": "Sisis mándame su WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2092151311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕱𝖆𝖗𝖎𝖆 ⚡️"
+  },
+  {
+    "ts": 1788008297000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "881652948",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒿_𝒿𝓊𝓈𝓉"
+  },
+  {
+    "ts": 1788008298000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "881652948",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒿_𝒿𝓊𝓈𝓉"
   }
 ]
