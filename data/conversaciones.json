@@ -6494,5 +6494,26 @@
     "nombreContacto": "Roberto Guerrero ⚾🇵🇦 ",
     "remitente": "contacto",
     "texto": "Este mensaje ha sido eliminado"
+  },
+  {
+    "ts": 1788022361000,
+    "subscriberId": "1419172025",
+    "nombreContacto": "ISA♥️",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788022435000,
+    "subscriberId": "1419172025",
+    "nombreContacto": "ISA♥️",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788022486000,
+    "subscriberId": "1419172025",
+    "nombreContacto": "ISA♥️",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
