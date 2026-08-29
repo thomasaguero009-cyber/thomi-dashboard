@@ -2035,5 +2035,68 @@
     "nombreContacto": "Gabriel Osuna",
     "remitente": "agente",
     "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788003351000,
+    "subscriberId": "1354638075",
+    "nombreContacto": "nico",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788003359000,
+    "subscriberId": "1354638075",
+    "nombreContacto": "nico",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788003533000,
+    "subscriberId": "693340930",
+    "nombreContacto": "𖥻៹𝐾℮ｖĺꫛ",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788003566000,
+    "subscriberId": "121525927",
+    "nombreContacto": "𝕱𝖊𝖉𝖊𝖊",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788003581000,
+    "subscriberId": "798069186",
+    "nombreContacto": "Jawad Akach",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788003599000,
+    "subscriberId": "1959613270",
+    "nombreContacto": "Veronica Maria Paez Valiente",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788003607000,
+    "subscriberId": "1875684598",
+    "nombreContacto": "olga Solabarrieta",
+    "remitente": "contacto",
+    "texto": "El pdf también es gratis"
+  },
+  {
+    "ts": 1788003607000,
+    "subscriberId": "1875684598",
+    "nombreContacto": "olga Solabarrieta",
+    "remitente": "contacto",
+    "texto": "Ah ahi lo abro gracias"
+  },
+  {
+    "ts": 1788003607000,
+    "subscriberId": "1875684598",
+    "nombreContacto": "olga Solabarrieta",
+    "remitente": "contacto",
+    "texto": "No?"
   }
 ]
