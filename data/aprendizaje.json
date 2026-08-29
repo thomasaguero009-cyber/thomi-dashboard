@@ -18278,5 +18278,35 @@
     "setter": "thomi",
     "pageId": "5487747",
     "nombreContacto": "Edwin Salgado"
+  },
+  {
+    "ts": 1788009129000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "272511432",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "AMANDA | CUBAN LIFESTYLE 🇨🇺🌟"
+  },
+  {
+    "ts": 1788009130000,
+    "mensaje": "Sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "272511432",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "AMANDA | CUBAN LIFESTYLE 🇨🇺🌟"
+  },
+  {
+    "ts": 1788009141000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1165516077",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Edwin Salgado"
   }
 ]
