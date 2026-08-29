@@ -19098,5 +19098,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Monica Rautenberg"
+  },
+  {
+    "ts": 1788015136000,
+    "mensaje": "Por donde andas, de q zona sos.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1473086805",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nanni Ortega"
+  },
+  {
+    "ts": 1788015142000,
+    "mensaje": "Dame un momento, que te aviso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "583364564",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samuel Rodriguez Silva"
+  },
+  {
+    "ts": 1788015208000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1667185129",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Facundo"
+  },
+  {
+    "ts": 1788015278000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1825429506",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Danieyis Elias Torres"
   }
 ]
