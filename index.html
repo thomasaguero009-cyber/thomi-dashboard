@@ -172,7 +172,7 @@
     </div>
 
     <div class="panel">
-      <h2>🔻 Embudo de respuesta <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— cuántos leads siguen respondiendo a medida que avanza la charla</span></h2>
+      <h2>🔻 Embudo de respuesta <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— cuáles de nuestros mensajes generan más respuesta</span></h2>
       <div id="embudo"></div>
     </div>
 
@@ -477,80 +477,56 @@
     return `rgb(${c[0]},${c[1]},${c[2]})`;
   }
 
-  // Embudo de profundidad: no asume ningún orden de negocio (catálogo antes
-  // que video, etc.) — solo cuenta, de los leads que escribieron al menos
-  // un mensaje real, cuántos siguieron respondiendo a medida que la charla
-  // avanza. Es la forma más honesta de ver "dónde se quedan" sin adivinar
-  // en qué etapa del funnel está cada uno. Debajo de cada escalón se
-  // muestran ejemplos reales de los que se quedaron justo ahí (su último
-  // mensaje) — clic para abrir su historial completo.
+  // Embudo de mensajes propios: agrupa cada mensaje REAL que mandamos
+  // (texto exacto, normalizado) y calcula en qué % de las veces el lead
+  // escribió de nuevo después de recibirlo. Ordenado de mayor a menor %,
+  // así que se ve como un embudo — arriba el mensaje que más engancha,
+  // abajo el que menos.
   function renderEmbudo(){
     const el = document.getElementById('embudo');
-    const porContacto = {};
-    conversaciones.forEach(m => {
-      if(m.remitente !== 'contacto') return;
-      if(!porContacto[m.subscriberId]) porContacto[m.subscriberId] = { mensajes: [], nombre: '' };
-      porContacto[m.subscriberId].mensajes.push(m);
-      if(m.nombreContacto) porContacto[m.subscriberId].nombre = m.nombreContacto;
-    });
-    const contactos = Object.entries(porContacto).map(([id, c]) => {
-      const mensajes = c.mensajes.slice().sort((a, b) => (a.ts || 0) - (b.ts || 0));
-      return { id, nombre: c.nombre, cantidad: mensajes.length, ultimo: mensajes[mensajes.length - 1] };
-    });
-    const total = contactos.length;
-    if(!total){
-      el.innerHTML = '<div class="empty">Todavía no hay conversaciones completas capturadas — se llena a medida que se usa la extensión con el modo aprendizaje activo.</div>';
+    const mensajesAgente = conversaciones.filter(m => m.remitente === 'agente' && (m.texto || '').trim());
+
+    if(!mensajesAgente.length){
+      el.innerHTML = '<div class="empty">Todavía no hay mensajes nuestros capturados en conversaciones completas — se llena con el uso normal de la extensión.</div>';
       return;
     }
-    const PROFUNDIDAD_MAX = 6;
-    const pasos = [];
-    for(let k = 1; k < PROFUNDIDAD_MAX; k++){
-      pasos.push({
-        etiqueta: `Mensaje ${k}`,
-        cantidad: contactos.filter(c => c.cantidad >= k).length,
-        seQuedaron: contactos.filter(c => c.cantidad === k)
-      });
-    }
-    pasos.push({
-      etiqueta: `${PROFUNDIDAD_MAX}+ mensajes`,
-      cantidad: contactos.filter(c => c.cantidad >= PROFUNDIDAD_MAX).length,
-      seQuedaron: []
+
+    const grupos = {};
+    mensajesAgente.forEach(m => {
+      const texto = m.texto.trim().replace(/\s+/g, ' ');
+      const key = texto.toLowerCase();
+      if(!grupos[key]) grupos[key] = { texto, enviados: 0, respondieron: 0 };
+      grupos[key].enviados++;
+      const respondio = conversaciones.some(c =>
+        c.subscriberId === m.subscriberId && c.remitente === 'contacto' && c.ts > m.ts);
+      if(respondio) grupos[key].respondieron++;
     });
 
-    const base = pasos[0].cantidad;
+    // Con poco volumen, un mensaje mandado 1 sola vez puede dar 100% o 0%
+    // sin decir nada real todavía — se prioriza lo que ya tiene 2+ envíos,
+    // y solo si no hay ninguno así se muestra todo (arranque en frío).
+    let filas = Object.values(grupos).filter(g => g.enviados >= 2);
+    if(!filas.length) filas = Object.values(grupos);
+
+    filas = filas
+      .map(g => ({ ...g, pct: g.enviados ? Math.round(g.respondieron / g.enviados * 100) : 0 }))
+      .sort((a, b) => b.pct - a.pct || b.enviados - a.enviados)
+      .slice(0, 15);
+
     el.innerHTML = `
-      <div class="howto" style="margin-bottom:18px;">${total.toLocaleString('es-AR')} leads escribieron al menos un mensaje real. El ancho de cada escalón muestra cuántos siguieron respondiendo hasta ese punto — abajo de cada uno, ejemplos reales de los que se quedaron justo ahí.</div>
-    ` + pasos.map((p, i) => {
-      const pctBase = base ? Math.round(p.cantidad / base * 100) : 0;
-      const anchoVisual = Math.max(pctBase, 14); // nunca tan angosto que se pierda el texto
-      const anterior = i > 0 ? pasos[i - 1].cantidad : null;
-      const caida = anterior ? Math.round((1 - p.cantidad / anterior) * 100) : 0;
-      const color = interpolarColor('#7c6cf0', '#f0568f', i / (pasos.length - 1));
-
-      const ejemplos = p.seQuedaron.slice(0, 3);
-      const restantes = p.seQuedaron.length - ejemplos.length;
-      const ejemplosHtml = ejemplos.length ? `
-        <div class="embudo-ejemplos">
-          ${ejemplos.map(c => `
-            <div class="embudo-ejemplo" onclick="abrirInforme('${c.id}')">
-              <span class="embudo-ejemplo-nombre">${escHtml(c.nombre || ('#' + c.id))}:</span>
-              <span class="embudo-ejemplo-texto">"${escHtml((c.ultimo.texto || '').slice(0, 90))}"</span>
-            </div>
-          `).join('')}
-          ${restantes > 0 ? `<div class="embudo-ejemplo-mas">+${restantes} más se quedaron en este mismo punto</div>` : ''}
-        </div>
-      ` : '';
-
+      <div class="howto" style="margin-bottom:18px;">Cada mensaje real que mandamos, de mayor a menor % de respuesta — el ancho de la barra es qué tan seguido el lead escribió de nuevo después de recibirlo.</div>
+    ` + filas.map((f, i) => {
+      const ancho = Math.max(f.pct, 12);
+      const color = interpolarColor('#7c6cf0', '#f0568f', filas.length > 1 ? i / (filas.length - 1) : 0);
       return `
         <div class="embudo-paso">
           <div class="embudo-barra-wrap">
-            <div class="embudo-barra" style="width:${anchoVisual}%; background:${color};">
-              <span class="embudo-barra-label">${p.etiqueta}</span>
-              <span class="embudo-barra-valor">${p.cantidad} · ${pctBase}%</span>
+            <div class="embudo-barra" style="width:${ancho}%; background:${color};">
+              <span class="embudo-barra-label" style="font-weight:600;">"${escHtml(f.texto.slice(0, 80))}${f.texto.length > 80 ? '…' : ''}"</span>
+              <span class="embudo-barra-valor">${f.pct}% (${f.respondieron}/${f.enviados})</span>
             </div>
           </div>
-          ${anterior && caida > 0 ? `<div class="embudo-caida">↓ ${caida}% se quedó antes de llegar acá</div>` : '<div style="height:14px;"></div>'}
-          ${ejemplosHtml}
+          <div style="height:12px;"></div>
         </div>
       `;
     }).join('');
