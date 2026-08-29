@@ -3232,5 +3232,40 @@
     "nombreContacto": "lisaure7",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788006629000,
+    "subscriberId": "857739806",
+    "nombreContacto": "the_mentalis.1",
+    "remitente": "contacto",
+    "texto": "No estarías ayudando a uno solo estarías ayudando a una parte del país"
+  },
+  {
+    "ts": 1788006668000,
+    "subscriberId": "690738238",
+    "nombreContacto": "Samuel Gonzalez",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1788006713000,
+    "subscriberId": "843864972",
+    "nombreContacto": "Andrea Arzoz",
+    "remitente": "contacto",
+    "texto": "Catálogo"
+  },
+  {
+    "ts": 1788006765000,
+    "subscriberId": "549596864",
+    "nombreContacto": "Angie Muñoz Cami",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1788006878000,
+    "subscriberId": "1770567070",
+    "nombreContacto": "Diego Stampone",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
