@@ -482,6 +482,21 @@
   // escribió de nuevo después de recibirlo. Ordenado de mayor a menor %,
   // así que se ve como un embudo — arriba el mensaje que más engancha,
   // abajo el que menos.
+  // La extensión a veces registra varios mensajes de un mismo chat de
+  // golpe (cuando se abre una conversación con mensajes nuevos acumulados)
+  // y les pone a todos la misma marca de tiempo — la hora en que se
+  // escanearon, no la hora real de cada uno. Por eso NO se puede usar la
+  // fecha para saber qué pasó "antes" o "después" dentro de una misma
+  // charla: hay que usar el ORDEN en que se guardaron en la hoja, que sí
+  // refleja siempre el orden real (la extensión los registra en el mismo
+  // orden en que aparecen en el chat).
+  function respondioDespuesEnOrden(subscriberId, mensaje){
+    const secuencia = conversaciones.filter(c => c.subscriberId === subscriberId);
+    const pos = secuencia.indexOf(mensaje);
+    if(pos === -1) return false;
+    return secuencia.slice(pos + 1).some(c => c.remitente === 'contacto');
+  }
+
   function renderEmbudo(){
     const el = document.getElementById('embudo');
     const mensajesAgente = conversaciones.filter(m => m.remitente === 'agente' && (m.texto || '').trim());
@@ -497,9 +512,7 @@
       const key = texto.toLowerCase();
       if(!grupos[key]) grupos[key] = { texto, enviados: 0, respondieron: 0 };
       grupos[key].enviados++;
-      const respondio = conversaciones.some(c =>
-        c.subscriberId === m.subscriberId && c.remitente === 'contacto' && c.ts > m.ts);
-      if(respondio) grupos[key].respondieron++;
+      if(respondioDespuesEnOrden(m.subscriberId, m)) grupos[key].respondieron++;
     });
 
     // Con poco volumen, un mensaje mandado 1 sola vez puede dar 100% o 0%
@@ -559,8 +572,12 @@
       if(!grupo) return;
       if(!porGrupo[grupo]) porGrupo[grupo] = { enviados: 0, respondieron: 0 };
       porGrupo[grupo].enviados++;
+      // Acá "e" viene de Aprendizaje (otra hoja, con su propia marca de
+      // tiempo real) y se lo compara contra Conversaciones — al ser dos
+      // fuentes distintas no se puede aplicar el truco del orden de
+      // aparición de arriba, así que se usa >= por si coinciden exacto.
       const respondio = conversaciones.some(m =>
-        m.subscriberId === e.subscriberId && m.remitente === 'contacto' && m.ts > e.ts);
+        m.subscriberId === e.subscriberId && m.remitente === 'contacto' && m.ts >= e.ts);
       if(respondio) porGrupo[grupo].respondieron++;
     });
     const filas = Object.entries(porGrupo)
