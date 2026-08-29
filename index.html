@@ -514,22 +514,15 @@
       .slice(0, 15);
 
     el.innerHTML = `
-      <div class="howto" style="margin-bottom:18px;">Cada mensaje real que mandamos, de mayor a menor % de respuesta — el ancho de la barra es qué tan seguido el lead escribió de nuevo después de recibirlo.</div>
-    ` + filas.map((f, i) => {
-      const ancho = Math.max(f.pct, 12);
-      const color = interpolarColor('#7c6cf0', '#f0568f', filas.length > 1 ? i / (filas.length - 1) : 0);
-      return `
-        <div class="embudo-paso">
-          <div class="embudo-barra-wrap">
-            <div class="embudo-barra" style="width:${ancho}%; background:${color};">
-              <span class="embudo-barra-label" style="font-weight:600;">"${escHtml(f.texto.slice(0, 80))}${f.texto.length > 80 ? '…' : ''}"</span>
-              <span class="embudo-barra-valor">${f.pct}% (${f.respondieron}/${f.enviados})</span>
-            </div>
-          </div>
-          <div style="height:12px;"></div>
-        </div>
-      `;
-    }).join('');
+      <div class="howto" style="margin-bottom:14px;">Cada mensaje real que mandamos, de mayor a menor % de respuesta.</div>
+    ` + filas.map((f, i) => `
+      <div class="rank-row">
+        <div class="rank-pos">${i + 1}°</div>
+        <div class="rank-name" style="white-space:normal;flex:3;">"${escHtml(f.texto)}"</div>
+        <div class="rank-bar-wrap"><div class="rank-bar" style="width:${f.pct}%;"></div></div>
+        <div class="rank-val" style="width:auto;">${f.pct}% (${f.respondieron}/${f.enviados})</div>
+      </div>
+    `).join('');
   }
 
   // Agrupa nombres de botón parecidos ("VIDEO"/"video"/"Video") bajo una
