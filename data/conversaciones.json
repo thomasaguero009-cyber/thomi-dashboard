@@ -3834,5 +3834,40 @@
     "nombreContacto": "Brian Mendez",
     "remitente": "contacto",
     "texto": "Tengo 15 años funciona igual"
+  },
+  {
+    "ts": 1788010231000,
+    "subscriberId": "1959731014",
+    "nombreContacto": "Brian Mendez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788010239000,
+    "subscriberId": "1959731014",
+    "nombreContacto": "Brian Mendez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788010304000,
+    "subscriberId": "1959731014",
+    "nombreContacto": "Brian Mendez",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788010488000,
+    "subscriberId": "2044647683",
+    "nombreContacto": "Odelin Vanessa Martinez López",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788010496000,
+    "subscriberId": "2044647683",
+    "nombreContacto": "Odelin Vanessa Martinez López",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
