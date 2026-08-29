@@ -16058,5 +16058,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Zurima Borges"
+  },
+  {
+    "ts": 1788005452000,
+    "mensaje": "Realmente me interesa pero me congelaron mi cuenta bancaria y no dispongo de dinero. Si encuentras una forma de descontar el valor que tú cobras mediante descuentos a mi producción sería fantástico, de lo contrario no veo la forma poder entrar a tu círculo. Realiza una excepción y no te desepcionaré.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "879807621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge"
+  },
+  {
+    "ts": 1788005493000,
+    "mensaje": "44",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2002614730",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joaquín"
+  },
+  {
+    "ts": 1788005572000,
+    "mensaje": "Tiene algún costo?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1527695223",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernandacruzz"
+  },
+  {
+    "ts": 1788005850000,
+    "mensaje": "Si fui facil de entender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1718728034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "DeiviRM"
+  },
+  {
+    "ts": 1788005855000,
+    "mensaje": "Si envía",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1278575373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus Guillen"
+  },
+  {
+    "ts": 1788005861000,
+    "mensaje": "Donde confirmar asistencia por WhatsApp?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "772772323",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dgonzalez0628"
+  },
+  {
+    "ts": 1788005878000,
+    "mensaje": "Es para mi hijo no se si una persona ya mayor puede",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "984455333",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sonia Gonzalez"
+  },
+  {
+    "ts": 1788005885000,
+    "mensaje": "Toy pa todo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1773236072",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "felipe"
+  },
+  {
+    "ts": 1788005896000,
+    "mensaje": "Me piden dinero para ingresar?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "61397896",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "亗𝙰𝚕𝚟𝚊𝚛𝚎𝚣★❦"
   }
 ]
