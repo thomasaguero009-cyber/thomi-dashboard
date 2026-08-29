@@ -18128,5 +18128,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝒿_𝒿𝓊𝓈𝓉"
+  },
+  {
+    "ts": 1788008469000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "137436964",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Damian Gonzalez"
+  },
+  {
+    "ts": 1788008480000,
+    "mensaje": "",
+    "boton": "CLASE THOMI",
+    "respuesta": "",
+    "subscriberId": "137436964",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Damian Gonzalez"
+  },
+  {
+    "ts": 1788008489000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1728532799",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Pedro Mercedes Garcia"
+  },
+  {
+    "ts": 1788008500000,
+    "mensaje": "Sisi",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2100499934",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Toto costas"
+  },
+  {
+    "ts": 1788008500000,
+    "mensaje": "Sisi",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2100499934",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Toto costas"
+  },
+  {
+    "ts": 1788008513000,
+    "mensaje": "",
+    "boton": "CLASE THOMI",
+    "respuesta": "",
+    "subscriberId": "1728532799",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Pedro Mercedes Garcia"
+  },
+  {
+    "ts": 1788008525000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1165516077",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Edwin Salgado"
+  },
+  {
+    "ts": 1788008612000,
+    "mensaje": "",
+    "boton": "CLASE THOMI",
+    "respuesta": "",
+    "subscriberId": "1815258517",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Kenneth Abreu"
   }
 ]
