@@ -131,5 +131,26 @@
     "nombreContacto": "Fernandacruzz",
     "remitente": "contacto",
     "texto": "Tiene algún costo?"
+  },
+  {
+    "ts": 1787944555000,
+    "subscriberId": "1907908340",
+    "nombreContacto": "naty gv",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1787944555000,
+    "subscriberId": "1907908340",
+    "nombreContacto": "naty gv",
+    "remitente": "contacto",
+    "texto": "Tino gracias por la clase"
+  },
+  {
+    "ts": 1787944555000,
+    "subscriberId": "1907908340",
+    "nombreContacto": "naty gv",
+    "remitente": "contacto",
+    "texto": "Buenas tardes"
   }
 ]
