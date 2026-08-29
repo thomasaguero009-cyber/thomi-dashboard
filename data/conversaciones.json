@@ -117,5 +117,19 @@
     "nombreContacto": "lulu27",
     "remitente": "agente",
     "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1787944137000,
+    "subscriberId": "1527695223",
+    "nombreContacto": "Fernandacruzz",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1787944203000,
+    "subscriberId": "1527695223",
+    "nombreContacto": "Fernandacruzz",
+    "remitente": "contacto",
+    "texto": "Tiene algún costo?"
   }
 ]
