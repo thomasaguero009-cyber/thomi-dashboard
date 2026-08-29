@@ -5794,5 +5794,40 @@
     "nombreContacto": "noah.74988035",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788018643000,
+    "subscriberId": "1530808551",
+    "nombreContacto": "noah.74988035",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788018731000,
+    "subscriberId": "1530808551",
+    "nombreContacto": "noah.74988035",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788018734000,
+    "subscriberId": "1530808551",
+    "nombreContacto": "noah.74988035",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788018845000,
+    "subscriberId": "1530808551",
+    "nombreContacto": "noah.74988035",
+    "remitente": "contacto",
+    "texto": "25"
+  },
+  {
+    "ts": 1788018851000,
+    "subscriberId": "1530808551",
+    "nombreContacto": "noah.74988035",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
   }
 ]
