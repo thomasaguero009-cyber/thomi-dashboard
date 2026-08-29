@@ -4009,5 +4009,54 @@
     "nombreContacto": "Max",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788012018000,
+    "subscriberId": "2017150883",
+    "nombreContacto": "Victor Manuel",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788012093000,
+    "subscriberId": "1749129659",
+    "nombreContacto": "Nancy Parraga Cruz",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788012093000,
+    "subscriberId": "1749129659",
+    "nombreContacto": "Nancy Parraga Cruz",
+    "remitente": "contacto",
+    "texto": "Perdí la grabación. De datos"
+  },
+  {
+    "ts": 1788012093000,
+    "subscriberId": "1749129659",
+    "nombreContacto": "Nancy Parraga Cruz",
+    "remitente": "contacto",
+    "texto": "Estaba grabando mi Instagram"
+  },
+  {
+    "ts": 1788012101000,
+    "subscriberId": "2042924127",
+    "nombreContacto": "Maikol Moya",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788012109000,
+    "subscriberId": "470271534",
+    "nombreContacto": "𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 🧟",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788012109000,
+    "subscriberId": "470271534",
+    "nombreContacto": "𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 🧟",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]

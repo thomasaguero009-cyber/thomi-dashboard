@@ -18538,5 +18538,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "✨valu🧸"
+  },
+  {
+    "ts": 1788012017000,
+    "mensaje": "BotPudiste confirmar asistencia por whatsapp para hacer la reunion?Como hermano",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2017150883",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Manuel"
+  },
+  {
+    "ts": 1788012079000,
+    "mensaje": "Dale dale si me podes enviar el video de la clase ahora mejor porque estoy estudiando un monton y no eh tenido mucho tiempo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "695305462",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Celi"
+  },
+  {
+    "ts": 1788012084000,
+    "mensaje": "BotQueres que te la envie?Si por favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1979662751",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "chiky"
+  },
+  {
+    "ts": 1788012093000,
+    "mensaje": "Estaba grabando mi Instagram",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1749129659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nancy Parraga Cruz"
+  },
+  {
+    "ts": 1788012100000,
+    "mensaje": "Disculpa, en este momento ingresé a trabajar y no puedo usar mucho el teléfono",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2042924127",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maikol Moya"
+  },
+  {
+    "ts": 1788012100000,
+    "mensaje": "Disculpa, en este momento ingresé a trabajar y no puedo usar mucho el teléfono",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2042924127",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maikol Moya"
+  },
+  {
+    "ts": 1788012105000,
+    "mensaje": "Bueno",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "470271534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕷𝖊𝖔𝖓𝖆𝖗𝖉𝖔 🧟"
   }
 ]
