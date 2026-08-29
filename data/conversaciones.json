@@ -2833,5 +2833,33 @@
     "nombreContacto": "Camilo Andres",
     "remitente": "contacto",
     "texto": "Estoy en Miami"
+  },
+  {
+    "ts": 1788005453000,
+    "subscriberId": "879807621",
+    "nombreContacto": "Jorge",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788005571000,
+    "subscriberId": "1527695223",
+    "nombreContacto": "Fernandacruzz",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788005571000,
+    "subscriberId": "1527695223",
+    "nombreContacto": "Fernandacruzz",
+    "remitente": "contacto",
+    "texto": "Tiene algún costo?"
+  },
+  {
+    "ts": 1788005571000,
+    "subscriberId": "1527695223",
+    "nombreContacto": "Fernandacruzz",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
