@@ -3568,5 +3568,26 @@
     "nombreContacto": "Fabián Saldaña",
     "remitente": "agente",
     "texto": "thomas aguero ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
+  },
+  {
+    "ts": 1788007840000,
+    "subscriberId": "1031450577",
+    "nombreContacto": "⚡️🗼",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788007845000,
+    "subscriberId": "1031450577",
+    "nombreContacto": "⚡️🗼",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788008114000,
+    "subscriberId": "26675292",
+    "nombreContacto": "nehe_mias.ok.ok",
+    "remitente": "contacto",
+    "texto": "Tino"
   }
 ]
