@@ -7929,5 +7929,47 @@
     "nombreContacto": "エルウィン",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788115704000,
+    "subscriberId": "832708539",
+    "nombreContacto": "yuznava",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788115704000,
+    "subscriberId": "832708539",
+    "nombreContacto": "yuznava",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788115704000,
+    "subscriberId": "832708539",
+    "nombreContacto": "yuznava",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788115716000,
+    "subscriberId": "1589589692",
+    "nombreContacto": "Родриго Веларде",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelcatalogo"
+  },
+  {
+    "ts": 1788115716000,
+    "subscriberId": "1589589692",
+    "nombreContacto": "Родриго Веларде",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788115716000,
+    "subscriberId": "1589589692",
+    "nombreContacto": "Родриго Веларде",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
