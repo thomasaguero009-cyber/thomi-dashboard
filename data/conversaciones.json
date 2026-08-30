@@ -6739,5 +6739,26 @@
     "nombreContacto": "Johan Schmit",
     "remitente": "agente",
     "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788033621000,
+    "subscriberId": "1688225743",
+    "nombreContacto": "Johan Schmit",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788033739000,
+    "subscriberId": "1688225743",
+    "nombreContacto": "Johan Schmit",
+    "remitente": "contacto",
+    "texto": "18"
+  },
+  {
+    "ts": 1788033806000,
+    "subscriberId": "1688225743",
+    "nombreContacto": "Johan Schmit",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
