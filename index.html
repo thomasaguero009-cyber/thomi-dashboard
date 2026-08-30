@@ -607,6 +607,31 @@
     document.getElementById('panel-informe').scrollIntoView({ behavior: 'smooth' });
   }
 
+  // Genera un análisis corto de la conversación, sin IA — todo reglas
+  // simples sobre los datos reales: quién habló más, si quedó esperando
+  // respuesta, y cuánto pasó desde el último mensaje.
+  function analizarConversacion(mensajes, delContacto, delAgente){
+    const frases = [];
+    const ultimo = mensajes[mensajes.length - 1];
+    const horas = ultimo.ts ? (Date.now() - ultimo.ts) / 3600000 : null;
+
+    if(ultimo.remitente === 'contacto'){
+      frases.push(`El lead escribió último${horas !== null ? ` (hace ${horas < 1 ? 'menos de 1h' : Math.round(horas) + 'h'})` : ''} — está esperando que le contestes.`);
+    } else if(horas !== null){
+      frases.push(horas > 24
+        ? `Le mandaste el último mensaje hace ${Math.round(horas / 24)} día(s) y no volvió a escribir — capaz necesita un empujón.`
+        : `Le mandaste el último mensaje hace ${horas < 1 ? 'menos de 1h' : Math.round(horas) + 'h'} y todavía no respondió.`);
+    }
+
+    if(delContacto > delAgente * 2){
+      frases.push('Escribe bastante más de lo que le contestás — parece muy enganchado.');
+    } else if(delAgente > delContacto * 2 && delContacto > 0){
+      frases.push('Contesta poco en comparación a lo que le mandás — respuestas cortas o tibias.');
+    }
+
+    return frases.join(' ') || 'Conversación pareja, sin nada particular para destacar.';
+  }
+
   function renderInforme(id){
     const el = document.getElementById('informe-contacto');
     const mensajes = conversaciones.filter(m => m.subscriberId === id).sort((a,b) => (a.ts||0) - (b.ts||0));
@@ -621,6 +646,15 @@
     const delAgente = mensajes.filter(m => m.remitente === 'agente').length;
     const primero = mensajes[0].ts;
     const ultimo = mensajes[mensajes.length - 1].ts;
+    const analisis = analizarConversacion(mensajes, delContacto, delAgente);
+
+    // El link real al chat en ManyChat sale de cruzar este subscriberId
+    // con Aprendizaje (ahí sí se guarda el pageId) — Conversaciones no
+    // tiene esa columna. Si el contacto solo existe en Conversaciones
+    // (por ejemplo, si vino puro del modo supervisor sin ningún punto de
+    // decisión registrado todavía), no hay forma de armar el link.
+    const pageId = (datos.find(e => e.subscriberId === id) || {}).pageId;
+    const linkManyChat = pageId ? `https://app.manychat.com/fb${pageId}/chat/${id}` : null;
 
     // Palabras más repetidas en lo que escribió el contacto — mismo filtro
     // de palabras ignoradas que usa el resumen de inbox, no hace falta IA
@@ -634,6 +668,12 @@
     const topPalabras = Object.entries(conteoPalabras).sort((a,b) => b[1]-a[1]).slice(0, 5).map(([p]) => p);
 
     el.innerHTML = `
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+        <div></div>
+        ${linkManyChat
+          ? `<a href="${linkManyChat}" target="_blank" rel="noopener" style="color:var(--purple);font-size:13px;font-weight:700;text-decoration:none;">Ver conversación en ManyChat ↗</a>`
+          : `<span style="color:var(--text-dim);font-size:12.5px;">Link a ManyChat no disponible todavía para este contacto</span>`}
+      </div>
       <div class="stats-grid" style="margin-bottom:16px;">
         <div class="stat-card"><div class="l">Contacto</div><div class="v" style="font-size:16px;">${escHtml(nombre)}</div></div>
         <div class="stat-card"><div class="l">Mensajes totales</div><div class="v">${mensajes.length}</div></div>
@@ -641,6 +681,7 @@
         <div class="stat-card"><div class="l">Primer mensaje</div><div class="v" style="font-size:14px;">${fmtFecha(primero)}</div></div>
         <div class="stat-card"><div class="l">Último mensaje</div><div class="v" style="font-size:14px;">${fmtFecha(ultimo)}</div></div>
       </div>
+      <div class="howto" style="margin-bottom:10px;background:#0e0e15;border:1px solid var(--border);border-radius:10px;padding:12px 14px;"><b>Análisis:</b> ${escHtml(analisis)}</div>
       ${topPalabras.length ? `<div class="howto" style="margin-bottom:14px;">De qué habla más: ${topPalabras.map(p => escHtml(p)).join(', ')}</div>` : ''}
       <div style="max-height:400px;overflow-y:auto;border:1px solid var(--border);border-radius:10px;padding:14px;background:#0e0e15;">
         ${mensajes.map(m => `
