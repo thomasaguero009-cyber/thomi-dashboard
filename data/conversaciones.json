@@ -6928,5 +6928,47 @@
     "nombreContacto": "Santo_de_apellido",
     "remitente": "contacto",
     "texto": "Que necesito hacer para recibirlo?"
+  },
+  {
+    "ts": 1788095901000,
+    "subscriberId": "1601375820",
+    "nombreContacto": "Zunayda Nasser",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1788095901000,
+    "subscriberId": "1601375820",
+    "nombreContacto": "Zunayda Nasser",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788095901000,
+    "subscriberId": "1601375820",
+    "nombreContacto": "Zunayda Nasser",
+    "remitente": "contacto",
+    "texto": "Clase"
+  },
+  {
+    "ts": 1788095901000,
+    "subscriberId": "1601375820",
+    "nombreContacto": "Zunayda Nasser",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788095901000,
+    "subscriberId": "1601375820",
+    "nombreContacto": "Zunayda Nasser",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 22 horas"
+  },
+  {
+    "ts": 1788095937000,
+    "subscriberId": "1917834766",
+    "nombreContacto": "Shedy Francesconi",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
