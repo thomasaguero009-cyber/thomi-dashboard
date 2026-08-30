@@ -6879,5 +6879,54 @@
     "nombreContacto": "Kal-el Luk",
     "remitente": "agente",
     "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788080155000,
+    "subscriberId": "152434294",
+    "nombreContacto": "Jeanpier Alexander",
+    "remitente": "contacto",
+    "texto": "Sisi"
+  },
+  {
+    "ts": 1788080155000,
+    "subscriberId": "152434294",
+    "nombreContacto": "Jeanpier Alexander",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788080247000,
+    "subscriberId": "1509410576",
+    "nombreContacto": "Santo_de_apellido",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788080247000,
+    "subscriberId": "1509410576",
+    "nombreContacto": "Santo_de_apellido",
+    "remitente": "contacto",
+    "texto": "Buenas si"
+  },
+  {
+    "ts": 1788080247000,
+    "subscriberId": "1509410576",
+    "nombreContacto": "Santo_de_apellido",
+    "remitente": "contacto",
+    "texto": "Si puedo recibirlo"
+  },
+  {
+    "ts": 1788080247000,
+    "subscriberId": "1509410576",
+    "nombreContacto": "Santo_de_apellido",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788080247000,
+    "subscriberId": "1509410576",
+    "nombreContacto": "Santo_de_apellido",
+    "remitente": "contacto",
+    "texto": "Que necesito hacer para recibirlo?"
   }
 ]
