@@ -7971,5 +7971,26 @@
     "nombreContacto": "Родриго Веларде",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788116036000,
+    "subscriberId": "602319061",
+    "nombreContacto": "Diego Emanuel Ventura Rosales",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788116040000,
+    "subscriberId": "602319061",
+    "nombreContacto": "Diego Emanuel Ventura Rosales",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788116094000,
+    "subscriberId": "602319061",
+    "nombreContacto": "Diego Emanuel Ventura Rosales",
+    "remitente": "contacto",
+    "texto": "Ppr desgracia soy menor ,pero no se de donde puedo sacar dinero o iniciar un negocio y quisiera que me asesoraras de que piedo hacer no tengo mucha plata"
   }
 ]
