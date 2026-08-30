@@ -7523,5 +7523,54 @@
     "nombreContacto": "tizi8_cki",
     "remitente": "contacto",
     "texto": "Por acá en instagram??"
+  },
+  {
+    "ts": 1788097628000,
+    "subscriberId": "1987960900",
+    "nombreContacto": "Josue Rojas",
+    "remitente": "contacto",
+    "texto": "BotQuerés que te la envíe?Si claro"
+  },
+  {
+    "ts": 1788097628000,
+    "subscriberId": "1987960900",
+    "nombreContacto": "Josue Rojas",
+    "remitente": "contacto",
+    "texto": "Hola buenas tarde lo lamento estava um poco ocupado mais ahora estoy disponible"
+  },
+  {
+    "ts": 1788097771000,
+    "subscriberId": "1155619456",
+    "nombreContacto": "Diego Gauna",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788097771000,
+    "subscriberId": "1155619456",
+    "nombreContacto": "Diego Gauna",
+    "remitente": "agente",
+    "texto": "Buenas"
+  },
+  {
+    "ts": 1788097771000,
+    "subscriberId": "1155619456",
+    "nombreContacto": "Diego Gauna",
+    "remitente": "contacto",
+    "texto": "Quisiera catalogo"
+  },
+  {
+    "ts": 1788097771000,
+    "subscriberId": "1155619456",
+    "nombreContacto": "Diego Gauna",
+    "remitente": "contacto",
+    "texto": "Yo"
+  },
+  {
+    "ts": 1788097771000,
+    "subscriberId": "1155619456",
+    "nombreContacto": "Diego Gauna",
+    "remitente": "agente",
+    "texto": "Mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
   }
 ]
