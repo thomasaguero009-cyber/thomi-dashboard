@@ -6669,5 +6669,26 @@
     "nombreContacto": "kenneth martinez",
     "remitente": "contacto",
     "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788033201000,
+    "subscriberId": "786628599",
+    "nombreContacto": "Luis Martinez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788033205000,
+    "subscriberId": "786628599",
+    "nombreContacto": "Luis Martinez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788033307000,
+    "subscriberId": "1946376236",
+    "nombreContacto": "yazmin rocio vidal pichs",
+    "remitente": "contacto",
+    "texto": "Necesito un favor vi tu video de el trabajo con los de estados unidos"
   }
 ]
