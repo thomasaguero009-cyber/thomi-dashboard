@@ -10631,5 +10631,47 @@
     "nombreContacto": "juani garcia",
     "remitente": "contacto",
     "texto": "Q seria"
+  },
+  {
+    "ts": 1788198026000,
+    "subscriberId": "367565271",
+    "nombreContacto": "Jo Ha 💛 Q",
+    "remitente": "contacto",
+    "texto": "Buenas tardes"
+  },
+  {
+    "ts": 1788198076000,
+    "subscriberId": "919247437",
+    "nombreContacto": "victor arraez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788198076000,
+    "subscriberId": "919247437",
+    "nombreContacto": "victor arraez",
+    "remitente": "contacto",
+    "texto": "Gracias por atender y prestar atención a mi solicitud deseo trabajar hoy amanecí sin un peso en el bolsillo si podés ayudarme te lo agradecería muchísimo estoy en Venezuela, ciudad Barquisimeto gracias"
+  },
+  {
+    "ts": 1788198108000,
+    "subscriberId": "1723739558",
+    "nombreContacto": "Gabiii",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788198188000,
+    "subscriberId": "388858241",
+    "nombreContacto": "vianney marin",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788198194000,
+    "subscriberId": "388858241",
+    "nombreContacto": "vianney marin",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
