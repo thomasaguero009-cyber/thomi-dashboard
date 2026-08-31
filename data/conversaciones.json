@@ -10848,5 +10848,26 @@
     "nombreContacto": "Ingri Smith",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788199707000,
+    "subscriberId": "1181626499",
+    "nombreContacto": "Yannerys Martinez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788199783000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788199783000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "contacto",
+    "texto": "Hola si por favor"
   }
 ]
