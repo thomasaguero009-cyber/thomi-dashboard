@@ -45498,5 +45498,25 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "Sofia Valentina"
+  },
+  {
+    "ts": 1788174360000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Si 👍👍",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2068506732",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Rodrigo De La Guarda"
+  },
+  {
+    "ts": 1788174426000,
+    "mensaje": "Tino capo",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "617317952",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "julian"
   }
 ]
