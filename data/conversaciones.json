@@ -10533,5 +10533,61 @@
     "nombreContacto": "Mancebo Guille",
     "remitente": "contacto",
     "texto": "Si señor me gustaría saber cómo llegar a eso"
+  },
+  {
+    "ts": 1788197500000,
+    "subscriberId": "1162749754",
+    "nombreContacto": "Alex_city",
+    "remitente": "contacto",
+    "texto": "Sii"
+  },
+  {
+    "ts": 1788197553000,
+    "subscriberId": "1594755944",
+    "nombreContacto": "Ñei Paba",
+    "remitente": "contacto",
+    "texto": "Si estoy"
+  },
+  {
+    "ts": 1788197585000,
+    "subscriberId": "1449287030",
+    "nombreContacto": "Martin Sebastián Schmidt Gomez",
+    "remitente": "contacto",
+    "texto": "Hola buenas noches tino como estas"
+  },
+  {
+    "ts": 1788197588000,
+    "subscriberId": "1449287030",
+    "nombreContacto": "Martin Sebastián Schmidt Gomez",
+    "remitente": "contacto",
+    "texto": "Sisi por favor"
+  },
+  {
+    "ts": 1788197633000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Si por favor"
+  },
+  {
+    "ts": 1788197659000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Esta bien lo tomaré en cuenta 🙂☺️"
+  },
+  {
+    "ts": 1788197693000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788197701000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
