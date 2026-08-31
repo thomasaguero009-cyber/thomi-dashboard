@@ -9210,5 +9210,40 @@
     "nombreContacto": "catita nusch",
     "remitente": "contacto",
     "texto": "Bueno"
+  },
+  {
+    "ts": 1788189061000,
+    "subscriberId": "1955664654",
+    "nombreContacto": "Maicol Hernández",
+    "remitente": "contacto",
+    "texto": "Sii"
+  },
+  {
+    "ts": 1788189098000,
+    "subscriberId": "1381222288",
+    "nombreContacto": "Michael 🥷",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788189234000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788189239000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788189294000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
