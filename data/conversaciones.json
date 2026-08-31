@@ -10449,5 +10449,54 @@
     "nombreContacto": "Luna Bella",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788197000000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para saber de que se trata?"
+  },
+  {
+    "ts": 1788197000000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788197000000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788197000000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788197060000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788197068000,
+    "subscriberId": "1127127118",
+    "nombreContacto": "Ricardo Leal",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788197093000,
+    "subscriberId": "30661402",
+    "nombreContacto": "luu🤍",
+    "remitente": "contacto",
+    "texto": "Holaa"
   }
 ]
