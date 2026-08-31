@@ -9700,5 +9700,89 @@
     "nombreContacto": "julio",
     "remitente": "contacto",
     "texto": "Porque a mi primo le interesa"
+  },
+  {
+    "ts": 1788191432000,
+    "subscriberId": "1626644715",
+    "nombreContacto": "Dariel",
+    "remitente": "contacto",
+    "texto": "Es porque quiero trabajar"
+  },
+  {
+    "ts": 1788191440000,
+    "subscriberId": "1626644715",
+    "nombreContacto": "Dariel",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788191487000,
+    "subscriberId": "1849159330",
+    "nombreContacto": "Jhon Navarro",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788191487000,
+    "subscriberId": "1849159330",
+    "nombreContacto": "Jhon Navarro",
+    "remitente": "contacto",
+    "texto": "Si estoy"
+  },
+  {
+    "ts": 1788191547000,
+    "subscriberId": "1849159330",
+    "nombreContacto": "Jhon Navarro",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788191555000,
+    "subscriberId": "1849159330",
+    "nombreContacto": "Jhon Navarro",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788191627000,
+    "subscriberId": "2136204571",
+    "nombreContacto": "Marcelo Ferreira",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788191627000,
+    "subscriberId": "2136204571",
+    "nombreContacto": "Marcelo Ferreira",
+    "remitente": "contacto",
+    "texto": "Buenas! Si me gustaría"
+  },
+  {
+    "ts": 1788191656000,
+    "subscriberId": "2136204571",
+    "nombreContacto": "Marcelo Ferreira",
+    "remitente": "contacto",
+    "texto": "No te quiero joder pero me explicas un poco como es el tema"
+  },
+  {
+    "ts": 1788191662000,
+    "subscriberId": "2136204571",
+    "nombreContacto": "Marcelo Ferreira",
+    "remitente": "contacto",
+    "texto": "Si tenes tiempo"
+  },
+  {
+    "ts": 1788191706000,
+    "subscriberId": "866805960",
+    "nombreContacto": "Rosa Pantoja",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Sii"
+  },
+  {
+    "ts": 1788191714000,
+    "subscriberId": "866805960",
+    "nombreContacto": "Rosa Pantoja",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si me podria ayudar ??"
   }
 ]
