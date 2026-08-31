@@ -53868,5 +53868,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "A N D R E⚶"
+  },
+  {
+    "ts": 1788194581000,
+    "mensaje": "Entendí todo súper bien",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1063004202",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Camila Soto"
+  },
+  {
+    "ts": 1788194663000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "506517852",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yoharlys Bolivar🌷"
+  },
+  {
+    "ts": 1788194657000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1766394767",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander Tabares"
+  },
+  {
+    "ts": 1788194668000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "777065305",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesús Enrique"
+  },
+  {
+    "ts": 1788194671000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1052031301",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raul Jacinto"
+  },
+  {
+    "ts": 1788194706000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1637693140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Corina Alejandra Montenegro"
   }
 ]
