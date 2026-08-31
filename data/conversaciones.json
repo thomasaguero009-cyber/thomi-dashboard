@@ -9973,5 +9973,40 @@
     "nombreContacto": "Santiago Trujillo",
     "remitente": "contacto",
     "texto": "buenas ! \nclaro"
+  },
+  {
+    "ts": 1788192967000,
+    "subscriberId": "344148774",
+    "nombreContacto": "Marce MarCe",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788192975000,
+    "subscriberId": "344148774",
+    "nombreContacto": "Marce MarCe",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788193009000,
+    "subscriberId": "1594294933",
+    "nombreContacto": "Antonio Perea Gilabert",
+    "remitente": "contacto",
+    "texto": "También podría funcionar?"
+  },
+  {
+    "ts": 1788193152000,
+    "subscriberId": "145910154",
+    "nombreContacto": "freis jorge daniel",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788193163000,
+    "subscriberId": "145910154",
+    "nombreContacto": "freis jorge daniel",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
