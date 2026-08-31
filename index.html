@@ -732,12 +732,11 @@
     const ultimo = mensajes[mensajes.length - 1].ts;
     const analisis = analizarConversacion(mensajes, delContacto, delAgente);
 
-    // El link real al chat en ManyChat sale de cruzar este subscriberId
-    // con Aprendizaje (ahí sí se guarda el pageId) — Conversaciones no
-    // tiene esa columna. Si el contacto solo existe en Conversaciones
-    // (por ejemplo, si vino puro del modo supervisor sin ningún punto de
-    // decisión registrado todavía), no hay forma de armar el link.
-    const pageId = (datos.find(e => e.subscriberId === id) || {}).pageId;
+    // El pageId ahora viaja directo en Conversaciones (columna propia) —
+    // se cruza con Aprendizaje solo como respaldo, para contactos
+    // capturados ANTES de que se sumara esa columna.
+    const pageId = mensajes.slice().reverse().find(m => m.pageId)?.pageId
+      || (datos.find(e => e.subscriberId === id) || {}).pageId;
     const linkManyChat = pageId ? `https://app.manychat.com/fb${pageId}/chat/${id}` : null;
 
     // Palabras más repetidas en lo que escribió el contacto — mismo filtro
@@ -932,7 +931,7 @@
         const idx = {
           fecha: header.indexOf('Fecha'), subscriberId: header.indexOf('SubscriberId'),
           nombreContacto: header.indexOf('NombreContacto'), remitente: header.indexOf('Remitente'),
-          texto: header.indexOf('Texto')
+          texto: header.indexOf('Texto'), pageId: header.indexOf('PageId')
         };
         conversaciones = resto
           .filter(fila => fila[idx.subscriberId])
@@ -941,7 +940,8 @@
             subscriberId: fila[idx.subscriberId] || '',
             nombreContacto: fila[idx.nombreContacto] || '',
             remitente: fila[idx.remitente] || '',
-            texto: fila[idx.texto] || ''
+            texto: fila[idx.texto] || '',
+            pageId: idx.pageId >= 0 ? (fila[idx.pageId] || '') : ''
           }));
       })
       .catch(() => { conversacionesError = true; conversaciones = conversaciones || []; })
