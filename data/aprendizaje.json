@@ -57688,5 +57688,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "rosario.mansilla_"
+  },
+  {
+    "ts": 1788201673000,
+    "mensaje": "Hola ! Cómo estás ? Si por favor , me interesa . Gracias !🙏🏻",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "42582980",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Flor Utrera"
+  },
+  {
+    "ts": 1788201674000,
+    "mensaje": "Hola ! Cómo estás ? Si por favor , me interesa . Gracias !🙏🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "42582980",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Flor Utrera"
+  },
+  {
+    "ts": 1788201733000,
+    "mensaje": "Hola! Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1296530233",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ANA HENRIQUEZ CARDOZO"
+  },
+  {
+    "ts": 1788201734000,
+    "mensaje": "Hola! Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1296530233",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ANA HENRIQUEZ CARDOZO"
   }
 ]
