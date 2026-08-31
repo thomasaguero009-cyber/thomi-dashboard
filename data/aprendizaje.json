@@ -52618,5 +52618,45 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 "
+  },
+  {
+    "ts": 1788187976000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "610855995",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Electroservice"
+  },
+  {
+    "ts": 1788187979000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "756567763",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "RIT"
+  },
+  {
+    "ts": 1788188118000,
+    "mensaje": "Me llego perfecto este",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "622986411",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 "
+  },
+  {
+    "ts": 1788188223000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1142487715",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "✩  🐈 ₊˚꩜ kikynegr~✮˚₊"
   }
 ]
