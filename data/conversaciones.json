@@ -8398,5 +8398,19 @@
     "nombreContacto": "milciades_gonzález",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788128333000,
+    "subscriberId": "999888777",
+    "nombreContacto": "Prueba PageId",
+    "remitente": "agente",
+    "texto": "prueba pageid columna nueva"
+  },
+  {
+    "ts": 1788128346000,
+    "subscriberId": "999888777",
+    "nombreContacto": "Prueba PageId",
+    "remitente": "agente",
+    "texto": "prueba pageid columna nueva"
   }
 ]
