@@ -8923,5 +8923,61 @@
     "nombreContacto": "Noelia Urrutia",
     "remitente": "contacto",
     "texto": "Si."
+  },
+  {
+    "ts": 1788187579000,
+    "subscriberId": "860605160",
+    "nombreContacto": "Santiago Valencia Martinez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788187593000,
+    "subscriberId": "37273362",
+    "nombreContacto": "Roberto",
+    "remitente": "contacto",
+    "texto": "Claro"
+  },
+  {
+    "ts": 1788187706000,
+    "subscriberId": "931827519",
+    "nombreContacto": "RUETA",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788187713000,
+    "subscriberId": "931827519",
+    "nombreContacto": "RUETA",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788187761000,
+    "subscriberId": "1654852132",
+    "nombreContacto": "Sebastian Martínez",
+    "remitente": "agente",
+    "texto": "Por otro lado"
+  },
+  {
+    "ts": 1788187784000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "agente",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788187785000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "agente",
+    "texto": "thomas aguero ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
+  },
+  {
+    "ts": 1788187801000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "agente",
+    "texto": "Buenisimoo, te llega el acceso al mail que pusiste"
   }
 ]

@@ -52578,5 +52578,45 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "Matías Pucheta"
+  },
+  {
+    "ts": 1788187546000,
+    "mensaje": "👍",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "641712638",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Ale Griffa"
+  },
+  {
+    "ts": 1788187594000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "37273362",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Roberto"
+  },
+  {
+    "ts": 1788187777000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "943899472",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "𝒮𝑜𝒻"
+  },
+  {
+    "ts": 1788187785000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "622986411",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 "
   }
 ]
