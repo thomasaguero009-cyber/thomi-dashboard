@@ -8874,5 +8874,54 @@
     "nombreContacto": "Morita",
     "remitente": "contacto",
     "texto": "Si quiero"
+  },
+  {
+    "ts": 1788187256000,
+    "subscriberId": "1981774998",
+    "nombreContacto": "Keisy  Aparicio",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788187281000,
+    "subscriberId": "1981774998",
+    "nombreContacto": "Keisy  Aparicio",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788187330000,
+    "subscriberId": "1715668145",
+    "nombreContacto": "Matías Pucheta",
+    "remitente": "contacto",
+    "texto": "Buenas tarde Si sii"
+  },
+  {
+    "ts": 1788187404000,
+    "subscriberId": "995965275",
+    "nombreContacto": "Rafael Robayo",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788187500000,
+    "subscriberId": "1962265586",
+    "nombreContacto": "Noelia Urrutia",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788187500000,
+    "subscriberId": "1962265586",
+    "nombreContacto": "Noelia Urrutia",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788187500000,
+    "subscriberId": "1962265586",
+    "nombreContacto": "Noelia Urrutia",
+    "remitente": "contacto",
+    "texto": "Si."
   }
 ]
