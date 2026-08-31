@@ -45078,5 +45078,65 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "Ruber Daniel"
+  },
+  {
+    "ts": 1788171503000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1110767335",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Johana escalona"
+  },
+  {
+    "ts": 1788171502000,
+    "mensaje": "Si",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1110767335",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Johana escalona"
+  },
+  {
+    "ts": 1788171514000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2031742110",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "_delbarco.17"
+  },
+  {
+    "ts": 1788171514000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2031742110",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "_delbarco.17"
+  },
+  {
+    "ts": 1788171556000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1061847870",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "YanCarlos Lazo Bello"
+  },
+  {
+    "ts": 1788171557000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1061847870",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "YanCarlos Lazo Bello"
   }
 ]
