@@ -9161,5 +9161,40 @@
     "nombreContacto": "Denis Yoel",
     "remitente": "contacto",
     "texto": "BotQueres que te la envie?Si por favor"
+  },
+  {
+    "ts": 1788188477000,
+    "subscriberId": "623513731",
+    "nombreContacto": "Denis Yoel",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788188481000,
+    "subscriberId": "623513731",
+    "nombreContacto": "Denis Yoel",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788188493000,
+    "subscriberId": "623513731",
+    "nombreContacto": "Denis Yoel",
+    "remitente": "contacto",
+    "texto": "23 años"
+  },
+  {
+    "ts": 1788188559000,
+    "subscriberId": "623513731",
+    "nombreContacto": "Denis Yoel",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788188559000,
+    "subscriberId": "623513731",
+    "nombreContacto": "Denis Yoel",
+    "remitente": "contacto",
+    "texto": "Y soy padre soltero de una niña"
   }
 ]
