@@ -10771,5 +10771,82 @@
     "nombreContacto": "asdrubal cobos",
     "remitente": "contacto",
     "texto": "si"
+  },
+  {
+    "ts": 1788199238000,
+    "subscriberId": "1293639841",
+    "nombreContacto": "Miguel Angel Cussa",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788199238000,
+    "subscriberId": "1293639841",
+    "nombreContacto": "Miguel Angel Cussa",
+    "remitente": "contacto",
+    "texto": "Buenas .\nSi"
+  },
+  {
+    "ts": 1788199281000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "contacto",
+    "texto": "Listo"
+  },
+  {
+    "ts": 1788199281000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788199281000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788199281000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788199281000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788199310000,
+    "subscriberId": "1133706066",
+    "nombreContacto": "Alvaro Jose Diaz Reino",
+    "remitente": "contacto",
+    "texto": "Necesito ganar dinero estoy desempleado y con familia"
+  },
+  {
+    "ts": 1788199328000,
+    "subscriberId": "1189317930",
+    "nombreContacto": "Ingri Smith",
+    "remitente": "contacto",
+    "texto": "Buenas siiii"
+  },
+  {
+    "ts": 1788199388000,
+    "subscriberId": "1189317930",
+    "nombreContacto": "Ingri Smith",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788199395000,
+    "subscriberId": "1189317930",
+    "nombreContacto": "Ingri Smith",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
