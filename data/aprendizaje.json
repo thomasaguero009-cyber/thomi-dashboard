@@ -47458,5 +47458,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jefferson😎"
+  },
+  {
+    "ts": 1788178242000,
+    "mensaje": "Pero aún no me envía la clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1730716605",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BoRy López"
+  },
+  {
+    "ts": 1788178246000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1385875791",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "𝓐𝓷𝓭𝓻𝓮𝓼 𝒞𝒶𝓃𝒶𝓋𝒶𝓁"
+  },
+  {
+    "ts": 1788178383000,
+    "mensaje": "Hola tino pe puedes pasar la clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1488517851",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raúl Miguel Consuegra Veliz"
+  },
+  {
+    "ts": 1788178462000,
+    "mensaje": "Por qué la edad?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "172966003",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patty ❤️‍🩹"
+  },
+  {
+    "ts": 1788178514000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1832492982",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Carolina Scadding"
+  },
+  {
+    "ts": 1788178623000,
+    "mensaje": "BotMensaje de audioPerdón es que estaba ocupado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "938926065",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Messi"
   }
 ]
