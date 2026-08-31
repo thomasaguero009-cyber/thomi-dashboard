@@ -341,7 +341,9 @@
       emptyState.style.display = 'block';
       emptyState.innerHTML = datos.length
         ? 'No hay ejemplos que coincidan con la búsqueda.'
-        : 'Todavía no hay ejemplos cargados — activá el modo aprendizaje en la extensión y usá ManyChat normal.';
+        : datosError
+          ? 'Google Sheets no está respondiendo ahora mismo — no es que falten datos, es que no se pudo conectar. Se reintenta solo cada 20s.'
+          : 'Todavía no hay ejemplos cargados — activá el modo aprendizaje en la extensión y usá ManyChat normal.';
       return;
     }
     tabla.style.display = 'table';
@@ -492,7 +494,9 @@
       .sort((a, b) => b.ultimoTs - a.ultimoTs);
 
     if(!lista.length){
-      el.innerHTML = '<div class="empty">Todavía no hay conversaciones capturadas — activá el modo supervisor o el modo aprendizaje en la extensión.</div>';
+      el.innerHTML = conversacionesError
+        ? '<div class="empty">Google Sheets no está respondiendo ahora mismo — no es que falten datos, es que no se pudo conectar. Se reintenta solo cada 20s.</div>'
+        : '<div class="empty">Todavía no hay conversaciones capturadas — activá el modo supervisor o el modo aprendizaje en la extensión.</div>';
       return;
     }
 
@@ -850,10 +854,24 @@
     return filas.filter(f => f.length > 1 || f[0] !== '');
   }
 
+  // Google Sheets, cuando falla, a veces no devuelve un error rápido —
+  // se cuelga sin responder por minutos. Sin un límite acá, el dashboard
+  // se queda mostrando "sin datos" (o nada) sin avisar que en realidad es
+  // Google el que no contesta, no que falten datos de verdad.
+  function fetchConTimeout(url, ms = 12000){
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), ms);
+    return fetch(url, { signal: controller.signal }).finally(() => clearTimeout(timer));
+  }
+
+  let datosError = false;
+  let conversacionesError = false;
+
   function cargarAprendizaje(){
-    fetch(APRENDIZAJE_CSV_URL + '&cachebust=' + Date.now())
+    fetchConTimeout(APRENDIZAJE_CSV_URL + '&cachebust=' + Date.now())
       .then(r => r.text())
       .then(csv => {
+        datosError = false;
         const filas = parseCsv(csv);
         if(filas.length < 2){ datos = []; return; }
         const [header, ...resto] = filas;
@@ -876,12 +894,12 @@
             nombreContacto: idx.nombreContacto >= 0 ? (fila[idx.nombreContacto] || '') : ''
           }));
       })
-      .catch(() => { datos = datos || []; })
+      .catch(() => { datosError = true; datos = datos || []; })
       .finally(() => { renderStats(); render(document.getElementById('search').value); renderContactos(document.getElementById('search-contacto').value); renderProgreso(); renderTasaAutomatizacion(); });
   }
 
   function cargarResumenInbox(){
-    fetch(RESUMEN_INBOX_CSV_URL + '&cachebust=' + Date.now())
+    fetchConTimeout(RESUMEN_INBOX_CSV_URL + '&cachebust=' + Date.now())
       .then(r => r.text())
       .then(csv => {
         const filas = parseCsv(csv);
@@ -904,9 +922,10 @@
   }
 
   function cargarConversaciones(){
-    fetch(CONVERSACIONES_CSV_URL + '&cachebust=' + Date.now())
+    fetchConTimeout(CONVERSACIONES_CSV_URL + '&cachebust=' + Date.now())
       .then(r => r.text())
       .then(csv => {
+        conversacionesError = false;
         const filas = parseCsv(csv);
         if(filas.length < 2){ conversaciones = []; return; }
         const [header, ...resto] = filas;
@@ -925,7 +944,7 @@
             texto: fila[idx.texto] || ''
           }));
       })
-      .catch(() => { conversaciones = conversaciones || []; })
+      .catch(() => { conversacionesError = true; conversaciones = conversaciones || []; })
       .finally(() => { if(contactoAbierto) renderInforme(contactoAbierto); renderEmbudo(); renderTasaAutomatizacion(); renderInboxLista(); });
   }
 
