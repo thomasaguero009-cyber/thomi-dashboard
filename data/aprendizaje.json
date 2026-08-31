@@ -44998,5 +44998,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "kevin._."
+  },
+  {
+    "ts": 1788168740000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2072006979",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Zemira Ruiz"
+  },
+  {
+    "ts": 1788168776000,
+    "mensaje": "Hola sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2109063377",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Mar 🌊"
+  },
+  {
+    "ts": 1788168776000,
+    "mensaje": "Hola sii",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "2109063377",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Mar 🌊"
+  },
+  {
+    "ts": 1788168779000,
+    "mensaje": "Hola buenaa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "790062979",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Yamilet Fernández Pedroso"
+  },
+  {
+    "ts": 1788168780000,
+    "mensaje": "Hola buenaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "790062979",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Yamilet Fernández Pedroso"
+  },
+  {
+    "ts": 1788168807000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1533660007",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ely Ramirez"
   }
 ]
