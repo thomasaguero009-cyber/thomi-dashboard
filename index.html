@@ -156,6 +156,11 @@
     </div>
 
     <div class="panel">
+      <h2>📨 Inbox <span style="font-weight:400;color:var(--text-dim);font-size:12.5px;">— todas las conversaciones que Thom.i va capturando (modo supervisor + aprendizaje), más recientes primero</span></h2>
+      <div id="inbox-lista" style="max-height:420px;overflow-y:auto;"></div>
+    </div>
+
+    <div class="panel">
       <h2>🏆 Botones más usados</h2>
       <div id="ranking"></div>
     </div>
@@ -431,6 +436,52 @@
   }
 
   document.getElementById('search').addEventListener('input', (e) => render(e.target.value));
+
+  // Lista tipo "inbox real" — a diferencia de Resumen por contacto (que
+  // se arma desde Aprendizaje, o sea solo contactos con algún punto de
+  // decisión), esta se arma desde Conversaciones directo, así que también
+  // aparecen los chats que el modo supervisor capturó sin que hubiera
+  // ninguna automatización de por medio.
+  function renderInboxLista(){
+    const el = document.getElementById('inbox-lista');
+    const porContacto = {};
+    conversaciones.forEach(m => {
+      const id = m.subscriberId || '(sin id)';
+      if(!porContacto[id]) porContacto[id] = { nombre: '', cantidad: 0, ultimoTs: 0, ultimoTexto: '', ultimoRemitente: '' };
+      const c = porContacto[id];
+      if(m.nombreContacto) c.nombre = m.nombreContacto;
+      c.cantidad++;
+      if((m.ts || 0) >= c.ultimoTs){
+        c.ultimoTs = m.ts || 0;
+        c.ultimoTexto = m.texto || '';
+        c.ultimoRemitente = m.remitente;
+      }
+    });
+
+    const lista = Object.entries(porContacto)
+      .map(([id, c]) => ({ id, ...c }))
+      .sort((a, b) => b.ultimoTs - a.ultimoTs);
+
+    if(!lista.length){
+      el.innerHTML = '<div class="empty">Todavía no hay conversaciones capturadas — activá el modo supervisor o el modo aprendizaje en la extensión.</div>';
+      return;
+    }
+
+    el.innerHTML = lista.slice(0, 50).map(c => `
+      <div class="rank-row" style="cursor:pointer;align-items:flex-start;" onclick="abrirInforme('${c.id}')">
+        <div style="flex:1;min-width:0;">
+          <div class="rank-name" style="white-space:normal;">${escHtml(c.nombre || '(sin nombre)')} <span style="color:var(--text-dim);font-size:12px;">#${escHtml(c.id)}</span></div>
+          <div style="color:var(--text-dim);font-size:12.5px;margin-top:3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
+            ${c.ultimoRemitente === 'contacto' ? '👤' : '💬'} ${escHtml(c.ultimoTexto.slice(0, 70))}
+          </div>
+        </div>
+        <div style="width:auto;text-align:right;flex-shrink:0;margin-left:10px;">
+          <div style="font-weight:700;">${c.cantidad} msj</div>
+          <div style="color:var(--text-dim);font-size:11px;">${fmtFecha(c.ultimoTs)}</div>
+        </div>
+      </div>
+    `).join('');
+  }
 
   // Agrupa los ejemplos por subscriberId — es lo más parecido a "una
   // conversación puntual, completa" que se puede armar sin volver a leer
@@ -846,7 +897,7 @@
           }));
       })
       .catch(() => { conversaciones = conversaciones || []; })
-      .finally(() => { if(contactoAbierto) renderInforme(contactoAbierto); renderEmbudo(); renderTasaAutomatizacion(); });
+      .finally(() => { if(contactoAbierto) renderInforme(contactoAbierto); renderEmbudo(); renderTasaAutomatizacion(); renderInboxLista(); });
   }
 
   datos = [];
