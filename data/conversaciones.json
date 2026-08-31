@@ -10085,5 +10085,61 @@
     "nombreContacto": "Molly trans",
     "remitente": "agente",
     "texto": "Queres que te lo pase? asi aprovechas la oportunidad"
+  },
+  {
+    "ts": 1788193556000,
+    "subscriberId": "2097501927",
+    "nombreContacto": "Molly trans",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788193558000,
+    "subscriberId": "2097501927",
+    "nombreContacto": "Molly trans",
+    "remitente": "agente",
+    "texto": "De una! Antes decime"
+  },
+  {
+    "ts": 1788193562000,
+    "subscriberId": "2097501927",
+    "nombreContacto": "Molly trans",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788193575000,
+    "subscriberId": "2097501927",
+    "nombreContacto": "Molly trans",
+    "remitente": "contacto",
+    "texto": "55 años"
+  },
+  {
+    "ts": 1788193639000,
+    "subscriberId": "2097501927",
+    "nombreContacto": "Molly trans",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788193682000,
+    "subscriberId": "1507890672",
+    "nombreContacto": "Brian Antunez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788193689000,
+    "subscriberId": "1507890672",
+    "nombreContacto": "Brian Antunez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788193786000,
+    "subscriberId": "541939609",
+    "nombreContacto": "𝕴𝖘𝖆𝖆𝖈 𝖒𝖊𝖑𝖌𝖆𝖗🕸🫩",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Si"
   }
 ]
