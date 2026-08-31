@@ -45058,5 +45058,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ely Ramirez"
+  },
+  {
+    "ts": 1788171080000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "169605737",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Ruber Daniel"
+  },
+  {
+    "ts": 1788171081000,
+    "mensaje": "Hola buenas sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "169605737",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Ruber Daniel"
   }
 ]
