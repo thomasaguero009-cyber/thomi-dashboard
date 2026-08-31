@@ -53538,5 +53538,135 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "Pedro Fernando Escallon"
+  },
+  {
+    "ts": 1788192081000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1512109770",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ivan"
+  },
+  {
+    "ts": 1788192090000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "234097463",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jairo Rojas"
+  },
+  {
+    "ts": 1788192093000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1958496363",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diana Carolina Avalos Quintana"
+  },
+  {
+    "ts": 1788192103000,
+    "mensaje": "genio tino",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1887584841",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "manuu"
+  },
+  {
+    "ts": 1788192116000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "611253864",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Byron Cardoza"
+  },
+  {
+    "ts": 1788192126000,
+    "mensaje": "",
+    "boton": "🟡Como va?",
+    "respuesta": "",
+    "subscriberId": "1916780426",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Thaydee Fuenmayor"
+  },
+  {
+    "ts": 1788192131000,
+    "mensaje": "Bro ayudame a comprar mi moto",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "30613438",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Israelitas 💫"
+  },
+  {
+    "ts": 1788192135000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2008917957",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cesar ramos"
+  },
+  {
+    "ts": 1788192140000,
+    "mensaje": "clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2067615527",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓵𝓾𝓬𝓪📿"
+  },
+  {
+    "ts": 1788192144000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "255207794",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alvaro_17"
+  },
+  {
+    "ts": 1788192307000,
+    "mensaje": "dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1501395589",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "turismo"
+  },
+  {
+    "ts": 1788192534000,
+    "mensaje": "Holaaa si me interesa muchísimo soy de Cuba",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "397458556",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Alexandra"
+  },
+  {
+    "ts": 1788192536000,
+    "mensaje": "Buenas tardes!, cómo estás?\nSi, por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1825147072",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Sabrina Berin"
   }
 ]
