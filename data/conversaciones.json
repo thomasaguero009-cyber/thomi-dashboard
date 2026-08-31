@@ -9245,5 +9245,159 @@
     "nombreContacto": "@Leo",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788189382000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788189386000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788189408000,
+    "subscriberId": "126330407",
+    "nombreContacto": "@Leo",
+    "remitente": "contacto",
+    "texto": "12"
+  },
+  {
+    "ts": 1788189562000,
+    "subscriberId": "1028994334",
+    "nombreContacto": "Lucas Garay",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788189570000,
+    "subscriberId": "1028994334",
+    "nombreContacto": "Lucas Garay",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788189662000,
+    "subscriberId": "1277547686",
+    "nombreContacto": "Zoe Irigoyen",
+    "remitente": "contacto",
+    "texto": "sii, porfii"
+  },
+  {
+    "ts": 1788189723000,
+    "subscriberId": "1277547686",
+    "nombreContacto": "Zoe Irigoyen",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788189731000,
+    "subscriberId": "1277547686",
+    "nombreContacto": "Zoe Irigoyen",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788189751000,
+    "subscriberId": "1277547686",
+    "nombreContacto": "Zoe Irigoyen",
+    "remitente": "contacto",
+    "texto": "muchísimas gracias 😚😚"
+  },
+  {
+    "ts": 1788189752000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788189752000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "contacto",
+    "texto": "Si hola"
+  },
+  {
+    "ts": 1788189792000,
+    "subscriberId": "1182367904",
+    "nombreContacto": "Ale",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788189799000,
+    "subscriberId": "1182367904",
+    "nombreContacto": "Ale",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788189814000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788189814000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788189822000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788189820000,
+    "subscriberId": "131320355",
+    "nombreContacto": "Carmen Espinoza",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788189873000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "agente",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788189873000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "agente",
+    "texto": "Buenisimoo, te llega el acceso al mail que pusiste"
+  },
+  {
+    "ts": 1788189873000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "contacto",
+    "texto": "Sisi"
+  },
+  {
+    "ts": 1788189874000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "contacto",
+    "texto": "Me llego perfecto este"
+  },
+  {
+    "ts": 1788189874000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "contacto",
+    "texto": "Ahora tengo que esperar?"
   }
 ]
