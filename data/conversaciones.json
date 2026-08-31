@@ -10323,5 +10323,40 @@
     "nombreContacto": "Eduardo Diaz Vidal",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788195649000,
+    "subscriberId": "247360034",
+    "nombreContacto": "Maii Sol",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788195725000,
+    "subscriberId": "1640689129",
+    "nombreContacto": "David Peña",
+    "remitente": "contacto",
+    "texto": "Sí, porfa"
+  },
+  {
+    "ts": 1788195726000,
+    "subscriberId": "1640689129",
+    "nombreContacto": "David Peña",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788195795000,
+    "subscriberId": "1562251827",
+    "nombreContacto": "Martin Fenolio",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788195795000,
+    "subscriberId": "1562251827",
+    "nombreContacto": "Martin Fenolio",
+    "remitente": "contacto",
+    "texto": "Si pasame"
   }
 ]

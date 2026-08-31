@@ -55278,5 +55278,175 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Antonio Perea Gilabert"
+  },
+  {
+    "ts": 1788195630000,
+    "mensaje": "Qué solución hay?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1594294933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Antonio Perea Gilabert"
+  },
+  {
+    "ts": 1788195644000,
+    "mensaje": "Estaba full con un problema médico",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2032403211",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Hidalgo"
+  },
+  {
+    "ts": 1788195663000,
+    "mensaje": "Como se que no es mentira?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "454061826",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_isaac._.08"
+  },
+  {
+    "ts": 1788195670000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1101147047",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus Perez"
+  },
+  {
+    "ts": 1788195677000,
+    "mensaje": "Después de ese agendamiento que va a pasar alguien me va a llamar o es x qué vía?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "689628254",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander José Lara Santana"
+  },
+  {
+    "ts": 1788195731000,
+    "mensaje": "BotMensaje de audioTino tus mensajes ya están grabados?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "806871337",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕸𝖎𝖌𝖚𝖊𝖑 𝕮𝖊𝖇𝖆𝖑𝖑𝖔𝖘"
+  },
+  {
+    "ts": 1788195744000,
+    "mensaje": "BotTe pudiste agendar?Intenté pero ahora mismo no puedo hacer el pago",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1719446649",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yabel_garabito"
+  },
+  {
+    "ts": 1788195750000,
+    "mensaje": "",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2136204571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcelo Ferreira"
+  },
+  {
+    "ts": 1788195759000,
+    "mensaje": "Ya terminé de trabajar puedes decirme la información sobre el curso y el precio",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "638177428",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raul Ronceros Gonzales"
+  },
+  {
+    "ts": 1788195777000,
+    "mensaje": "Ya que tarjeta de banco no tengo en estos momentos tengo cuenta de banco más no una tarjeta",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "853766795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kathy✨"
+  },
+  {
+    "ts": 1788195811000,
+    "mensaje": "BotTe pudiste agendar?No no me pude agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "384894304",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebas Daza"
+  },
+  {
+    "ts": 1788195848000,
+    "mensaje": "si pero habías dicho que es gratis 😞",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "635279168",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel"
+  },
+  {
+    "ts": 1788195862000,
+    "mensaje": "BotQueres que te la envie?Si porfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1703609804",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "hancyd23"
+  },
+  {
+    "ts": 1788195875000,
+    "mensaje": "BotO te paso la agenda directa?Pásamela porta estoy muy incomoda",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1946376236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yazmin rocio vidal pichs"
+  },
+  {
+    "ts": 1788195885000,
+    "mensaje": "Pregunta cuánto cuesta la asesoría",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "708405648",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yusniel Dominguez"
+  },
+  {
+    "ts": 1788195889000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "708405648",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yusniel Dominguez"
+  },
+  {
+    "ts": 1788195897000,
+    "mensaje": "BotMirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo...me pondria enviar el video por favor para agendar mi llamada",
+    "boton": "🔴HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1786448068",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "brand🐛"
   }
 ]
