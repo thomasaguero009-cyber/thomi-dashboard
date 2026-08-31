@@ -8433,5 +8433,54 @@
     "nombreContacto": "Prueba Lote",
     "remitente": "agente",
     "texto": "3 tercero"
+  },
+  {
+    "ts": 1788185948000,
+    "subscriberId": "365627610",
+    "nombreContacto": "𝔍𝔬𝔫𝔫𝔞𝔱𝔥𝔞𝔫",
+    "remitente": "contacto",
+    "texto": "Yes"
+  },
+  {
+    "ts": 1788185949000,
+    "subscriberId": "365627610",
+    "nombreContacto": "𝔍𝔬𝔫𝔫𝔞𝔱𝔥𝔞𝔫",
+    "remitente": "contacto",
+    "texto": "Yes"
+  },
+  {
+    "ts": 1788185969000,
+    "subscriberId": "952543142",
+    "nombreContacto": "Adrian Delgado Rodríguez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788185970000,
+    "subscriberId": "1807820496",
+    "nombreContacto": "Pabloorlando",
+    "remitente": "contacto",
+    "texto": "Me puede mandar el catálogo de la empresa"
+  },
+  {
+    "ts": 1788186000000,
+    "subscriberId": "712641346",
+    "nombreContacto": "A d r i a n 🤠",
+    "remitente": "agente",
+    "texto": "Hola! Estas para que te envie la clase?"
+  },
+  {
+    "ts": 1788186000000,
+    "subscriberId": "712641346",
+    "nombreContacto": "A d r i a n 🤠",
+    "remitente": "contacto",
+    "texto": "estoy"
+  },
+  {
+    "ts": 1788186000000,
+    "subscriberId": "712641346",
+    "nombreContacto": "A d r i a n 🤠",
+    "remitente": "contacto",
+    "texto": "me envias"
   }
 ]
