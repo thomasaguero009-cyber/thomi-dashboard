@@ -47518,5 +47518,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Messi"
+  },
+  {
+    "ts": 1788179000000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1129932430",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Lina Marcela"
+  },
+  {
+    "ts": 1788179022000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "846633099",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Mabel Alonso"
+  },
+  {
+    "ts": 1788179022000,
+    "mensaje": "Si si dale",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "846633099",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Mabel Alonso"
+  },
+  {
+    "ts": 1788179073000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "152383809",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Patterson"
+  },
+  {
+    "ts": 1788179073000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "152383809",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Patterson"
+  },
+  {
+    "ts": 1788179093000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "749889776",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Eddy Eduardo Pozo"
+  },
+  {
+    "ts": 1788179110000,
+    "mensaje": "Si por favor ayudeme con la clase.\nMuchas gracias.",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1736491966",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Caroline L"
+  },
+  {
+    "ts": 1788179150000,
+    "mensaje": "Super",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1548712442",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Guillermo Josè Behrens Blanco"
+  },
+  {
+    "ts": 1788179274000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "166733316",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Said Tejada"
+  },
+  {
+    "ts": 1788179360000,
+    "mensaje": "Por ejemplo tengo todas estas empresas para solicitar empleo?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "703412327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabyyy🔥👑"
   }
 ]
