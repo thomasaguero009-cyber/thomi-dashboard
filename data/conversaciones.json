@@ -8062,5 +8062,19 @@
     "nombreContacto": "Alejandro Vazquez",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788117555000,
+    "subscriberId": "1170923684",
+    "nombreContacto": "Nubia Rocio Lopez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788117563000,
+    "subscriberId": "1170923684",
+    "nombreContacto": "Nubia Rocio Lopez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
