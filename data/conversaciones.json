@@ -8979,5 +8979,61 @@
     "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
     "remitente": "agente",
     "texto": "Buenisimoo, te llega el acceso al mail que pusiste"
+  },
+  {
+    "ts": 1788187857000,
+    "subscriberId": "1138760616",
+    "nombreContacto": "Nico Sarmiento 🎙️🪽",
+    "remitente": "contacto",
+    "texto": "Hola si"
+  },
+  {
+    "ts": 1788187899000,
+    "subscriberId": "1063004202",
+    "nombreContacto": "Camila Soto",
+    "remitente": "contacto",
+    "texto": "Hola, si, por favor"
+  },
+  {
+    "ts": 1788187993000,
+    "subscriberId": "1508440983",
+    "nombreContacto": "𝐀𝐥𝐞𝐱 🇧🇷",
+    "remitente": "contacto",
+    "texto": "Buenas, si"
+  },
+  {
+    "ts": 1788188032000,
+    "subscriberId": "1508440983",
+    "nombreContacto": "𝐀𝐥𝐞𝐱 🇧🇷",
+    "remitente": "contacto",
+    "texto": "Me gustaria poder ir creando mi futuro y salir a delante para ayudar a mi familia"
+  },
+  {
+    "ts": 1788188053000,
+    "subscriberId": "1508440983",
+    "nombreContacto": "𝐀𝐥𝐞𝐱 🇧🇷",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788188061000,
+    "subscriberId": "1508440983",
+    "nombreContacto": "𝐀𝐥𝐞𝐱 🇧🇷",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788188073000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "contacto",
+    "texto": "Sisi"
+  },
+  {
+    "ts": 1788188110000,
+    "subscriberId": "622986411",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 ",
+    "remitente": "contacto",
+    "texto": "Me llego perfecto este"
   }
 ]
