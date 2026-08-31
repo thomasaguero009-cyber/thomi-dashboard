@@ -44968,5 +44968,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roy"
+  },
+  {
+    "ts": 1788122562000,
+    "mensaje": "Sí, por favor envíamela gracias saludos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1762998886",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel López Gómez"
+  },
+  {
+    "ts": 1788122590000,
+    "mensaje": "50",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "835415117",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fer Rokko"
   }
 ]
