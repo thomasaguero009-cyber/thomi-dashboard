@@ -10869,5 +10869,61 @@
     "nombreContacto": "Fabi Poppe",
     "remitente": "contacto",
     "texto": "Hola si por favor"
+  },
+  {
+    "ts": 1788199843000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788199851000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788199879000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788199916000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788199981000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "contacto",
+    "texto": "Ok gracias"
+  },
+  {
+    "ts": 1788200069000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788200073000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788200103000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "contacto",
+    "texto": "Eres un bot?"
   }
 ]
