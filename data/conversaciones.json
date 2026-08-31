@@ -10246,5 +10246,54 @@
     "nombreContacto": "𝒍𝒂𝒖𝒕𝒚⚡",
     "remitente": "contacto",
     "texto": "Si quiero"
+  },
+  {
+    "ts": 1788194724000,
+    "subscriberId": "1913396946",
+    "nombreContacto": "Eduar Ramos Ero",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788194724000,
+    "subscriberId": "1913396946",
+    "nombreContacto": "Eduar Ramos Ero",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788194888000,
+    "subscriberId": "960626983",
+    "nombreContacto": "Luis Bálsamo",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788194908000,
+    "subscriberId": "258743519",
+    "nombreContacto": "Diego Bobadilla Raboy",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificación"
+  },
+  {
+    "ts": 1788194908000,
+    "subscriberId": "258743519",
+    "nombreContacto": "Diego Bobadilla Raboy",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788194908000,
+    "subscriberId": "258743519",
+    "nombreContacto": "Diego Bobadilla Raboy",
+    "remitente": "contacto",
+    "texto": "Buenas tardes. Si, gracias."
+  },
+  {
+    "ts": 1788194991000,
+    "subscriberId": "534960276",
+    "nombreContacto": "Jalmir José",
+    "remitente": "contacto",
+    "texto": "Si por favor"
   }
 ]
