@@ -55448,5 +55448,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "brand🐛"
+  },
+  {
+    "ts": 1788195914000,
+    "mensaje": "esto puede ser desp?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1205900566",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leo𓆰𓆪"
+  },
+  {
+    "ts": 1788195917000,
+    "mensaje": "Buenas si lo quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "67252662",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "daniel_munoz_244"
+  },
+  {
+    "ts": 1788195952000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "445166876",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝙹𝚄𝙰𝙽"
+  },
+  {
+    "ts": 1788195951000,
+    "mensaje": "O como es la movida, me enviarías el link para la postulación de las empresas. Gracias!",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1527085949",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Abigail"
+  },
+  {
+    "ts": 1788195957000,
+    "mensaje": "BotTe pudiste agendar?Aún no e podido",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1335640066",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Chacon"
+  },
+  {
+    "ts": 1788195998000,
+    "mensaje": "BotQueres que te la envie?Si me encantaría tino",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2056261854",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "makkvoragine"
+  },
+  {
+    "ts": 1788196006000,
+    "mensaje": "me mandas la agenda?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "214356791",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martín"
   }
 ]
