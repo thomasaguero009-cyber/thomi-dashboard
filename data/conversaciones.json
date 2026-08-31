@@ -10589,5 +10589,47 @@
     "nombreContacto": "DEEA_1221195",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788197722000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "contacto",
+    "texto": "Muchas gracias!!"
+  },
+  {
+    "ts": 1788197767000,
+    "subscriberId": "1871980754",
+    "nombreContacto": "DEEA_1221195",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788197811000,
+    "subscriberId": "270785986",
+    "nombreContacto": "Fabián 24",
+    "remitente": "contacto",
+    "texto": "Perdón me confundí"
+  },
+  {
+    "ts": 1788197859000,
+    "subscriberId": "270785986",
+    "nombreContacto": "Fabián 24",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788197886000,
+    "subscriberId": "380732228",
+    "nombreContacto": "Kadil Vidal Reyes",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788197946000,
+    "subscriberId": "986275917",
+    "nombreContacto": "juani garcia",
+    "remitente": "contacto",
+    "texto": "Q seria"
   }
 ]
