@@ -45138,5 +45138,65 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "YanCarlos Lazo Bello"
+  },
+  {
+    "ts": 1788171932000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2128364",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Roman"
+  },
+  {
+    "ts": 1788171932000,
+    "mensaje": "Si claro que si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2128364",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Roman"
+  },
+  {
+    "ts": 1788171931000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1061847870",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "YanCarlos Lazo Bello"
+  },
+  {
+    "ts": 1788171946000,
+    "mensaje": "Hola! Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1941780886",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Kuartas"
+  },
+  {
+    "ts": 1788171946000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1941780886",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Kuartas"
+  },
+  {
+    "ts": 1788172049000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1765502495",
+    "setter": "",
+    "pageId": "3036788",
+    "nombreContacto": "Mery Herdez"
   }
 ]
