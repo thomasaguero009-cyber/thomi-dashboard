@@ -53688,5 +53688,35 @@
     "setter": "",
     "pageId": "3036788",
     "nombreContacto": "Marvin Centeno"
+  },
+  {
+    "ts": 1788193237000,
+    "mensaje": "Buenas tardes sí claro",
+    "boton": "ASIGNADO_A: Franco Quiroga",
+    "respuesta": "",
+    "subscriberId": "1304375117",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "naty"
+  },
+  {
+    "ts": 1788193314000,
+    "mensaje": "Hola de nada sos el mejor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "528380899",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "maximo"
+  },
+  {
+    "ts": 1788193360000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "428941399",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariamna del Carmen Perez Ojeda"
   }
 ]
