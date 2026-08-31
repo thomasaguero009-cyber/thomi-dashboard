@@ -8412,5 +8412,26 @@
     "nombreContacto": "Prueba PageId",
     "remitente": "agente",
     "texto": "prueba pageid columna nueva"
+  },
+  {
+    "ts": 1788128889000,
+    "subscriberId": "888777666",
+    "nombreContacto": "Prueba Lote",
+    "remitente": "agente",
+    "texto": "1 primero"
+  },
+  {
+    "ts": 1788128889000,
+    "subscriberId": "888777666",
+    "nombreContacto": "Prueba Lote",
+    "remitente": "contacto",
+    "texto": "2 segundo"
+  },
+  {
+    "ts": 1788128889000,
+    "subscriberId": "888777666",
+    "nombreContacto": "Prueba Lote",
+    "remitente": "agente",
+    "texto": "3 tercero"
   }
 ]
