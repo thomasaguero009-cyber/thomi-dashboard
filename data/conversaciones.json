@@ -9917,5 +9917,61 @@
     "nombreContacto": "alonso",
     "remitente": "contacto",
     "texto": "Gracias"
+  },
+  {
+    "ts": 1788192633000,
+    "subscriberId": "1008941830",
+    "nombreContacto": "Marcos Leyes",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788192691000,
+    "subscriberId": "496292847",
+    "nombreContacto": "Marvin Centeno",
+    "remitente": "contacto",
+    "texto": "Si, por favor ☺️, gracias 👋"
+  },
+  {
+    "ts": 1788192725000,
+    "subscriberId": "842301817",
+    "nombreContacto": "AXEL PERDOMO",
+    "remitente": "contacto",
+    "texto": "Sí claro"
+  },
+  {
+    "ts": 1788192790000,
+    "subscriberId": "1442628181",
+    "nombreContacto": "Jesus Villalobos",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788192790000,
+    "subscriberId": "1442628181",
+    "nombreContacto": "Jesus Villalobos",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788192790000,
+    "subscriberId": "1442628181",
+    "nombreContacto": "Jesus Villalobos",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788192833000,
+    "subscriberId": "1027776151",
+    "nombreContacto": "Ramiro Eustaquio",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788192873000,
+    "subscriberId": "1263420430",
+    "nombreContacto": "Santiago Trujillo",
+    "remitente": "contacto",
+    "texto": "buenas ! \nclaro"
   }
 ]
