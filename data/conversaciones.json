@@ -10365,5 +10365,47 @@
     "nombreContacto": "daniel_munoz_244",
     "remitente": "contacto",
     "texto": "Buenas si lo quiero"
+  },
+  {
+    "ts": 1788196259000,
+    "subscriberId": "1094892270",
+    "nombreContacto": "Daniel Melendez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788196267000,
+    "subscriberId": "1094892270",
+    "nombreContacto": "Daniel Melendez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788196295000,
+    "subscriberId": "1820877490",
+    "nombreContacto": "ave",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788196364000,
+    "subscriberId": "1790653792",
+    "nombreContacto": "Victor Cristaldo Carvallo",
+    "remitente": "contacto",
+    "texto": "Si me interesa"
+  },
+  {
+    "ts": 1788196463000,
+    "subscriberId": "1643914457",
+    "nombreContacto": "spring",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788196469000,
+    "subscriberId": "1643914457",
+    "nombreContacto": "spring",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
