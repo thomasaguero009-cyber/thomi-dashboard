@@ -10407,5 +10407,47 @@
     "nombreContacto": "spring",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788196531000,
+    "subscriberId": "1933941255",
+    "nombreContacto": "César Pérez Díaz",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788196538000,
+    "subscriberId": "1933941255",
+    "nombreContacto": "César Pérez Díaz",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788196648000,
+    "subscriberId": "1207662289",
+    "nombreContacto": "Jose Luis Padilla",
+    "remitente": "contacto",
+    "texto": "Me interesa saber de qué se trata"
+  },
+  {
+    "ts": 1788196710000,
+    "subscriberId": "1735062930",
+    "nombreContacto": "Luna Bella",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1788196772000,
+    "subscriberId": "1735062930",
+    "nombreContacto": "Luna Bella",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788196779000,
+    "subscriberId": "1735062930",
+    "nombreContacto": "Luna Bella",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
