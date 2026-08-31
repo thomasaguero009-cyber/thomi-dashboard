@@ -8587,5 +8587,117 @@
     "nombreContacto": "xd",
     "remitente": "contacto",
     "texto": "JAJAJA"
+  },
+  {
+    "ts": 1788186251000,
+    "subscriberId": "635279168",
+    "nombreContacto": "Ariel",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788186259000,
+    "subscriberId": "635279168",
+    "nombreContacto": "Ariel",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788186317000,
+    "subscriberId": "884067290",
+    "nombreContacto": "4aron_sg7",
+    "remitente": "contacto",
+    "texto": "Como lo hago?"
+  },
+  {
+    "ts": 1788186323000,
+    "subscriberId": "924547025",
+    "nombreContacto": "Aram Leonardo Ronal",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788186330000,
+    "subscriberId": "1895641128",
+    "nombreContacto": "Carito",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788186330000,
+    "subscriberId": "1895641128",
+    "nombreContacto": "Carito",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1788186347000,
+    "subscriberId": "1557083256",
+    "nombreContacto": "Matias Dalfolo",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788186347000,
+    "subscriberId": "1557083256",
+    "nombreContacto": "Matias Dalfolo",
+    "remitente": "contacto",
+    "texto": "Siii"
+  },
+  {
+    "ts": 1788186406000,
+    "subscriberId": "1557083256",
+    "nombreContacto": "Matias Dalfolo",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788186415000,
+    "subscriberId": "1557083256",
+    "nombreContacto": "Matias Dalfolo",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788186471000,
+    "subscriberId": "1196979777",
+    "nombreContacto": "Carina Romero",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788186471000,
+    "subscriberId": "1196979777",
+    "nombreContacto": "Carina Romero",
+    "remitente": "contacto",
+    "texto": "Hola. Siiii"
+  },
+  {
+    "ts": 1788186483000,
+    "subscriberId": "1698490997",
+    "nombreContacto": "roy_AE",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788186512000,
+    "subscriberId": "603212138",
+    "nombreContacto": "☀️",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788186552000,
+    "subscriberId": "522824780",
+    "nombreContacto": "Christian Fidel Quesada",
+    "remitente": "contacto",
+    "texto": "Si claro, por favor"
+  },
+  {
+    "ts": 1788186611000,
+    "subscriberId": "522824780",
+    "nombreContacto": "Christian Fidel Quesada",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
