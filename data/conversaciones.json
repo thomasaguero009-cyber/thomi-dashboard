@@ -9532,5 +9532,68 @@
     "nombreContacto": "Fair",
     "remitente": "agente",
     "texto": "thomas aguero ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
+  },
+  {
+    "ts": 1788190558000,
+    "subscriberId": "1820746451",
+    "nombreContacto": "Kev",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788190558000,
+    "subscriberId": "1820746451",
+    "nombreContacto": "Kev",
+    "remitente": "contacto",
+    "texto": "Si porfavor"
+  },
+  {
+    "ts": 1788190609000,
+    "subscriberId": "43592287",
+    "nombreContacto": "alex.225933",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788190631000,
+    "subscriberId": "561319385",
+    "nombreContacto": "hola:)",
+    "remitente": "contacto",
+    "texto": "Demole brother tu me dices cuando empezamos"
+  },
+  {
+    "ts": 1788190631000,
+    "subscriberId": "561319385",
+    "nombreContacto": "hola:)",
+    "remitente": "contacto",
+    "texto": "Una pregunta \n¿Hay que ser mayor de edad?"
+  },
+  {
+    "ts": 1788190697000,
+    "subscriberId": "1285421644",
+    "nombreContacto": "Sarahy Limón",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788190697000,
+    "subscriberId": "1285421644",
+    "nombreContacto": "Sarahy Limón",
+    "remitente": "contacto",
+    "texto": "Sii"
+  },
+  {
+    "ts": 1788190730000,
+    "subscriberId": "993432013",
+    "nombreContacto": "Daniel Carrete",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788190730000,
+    "subscriberId": "993432013",
+    "nombreContacto": "Daniel Carrete",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
