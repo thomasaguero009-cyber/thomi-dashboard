@@ -13032,5 +13032,68 @@
     "nombreContacto": "Figueroa Kaleth",
     "remitente": "contacto",
     "texto": "Si quiero tu ayuda"
+  },
+  {
+    "ts": 1788266753000,
+    "subscriberId": "765467492",
+    "nombreContacto": "Andrea Belen L",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788266753000,
+    "subscriberId": "765467492",
+    "nombreContacto": "Andrea Belen L",
+    "remitente": "contacto",
+    "texto": "Hola si"
+  },
+  {
+    "ts": 1788266799000,
+    "subscriberId": "1378210799",
+    "nombreContacto": "Emma",
+    "remitente": "contacto",
+    "texto": "si estoy"
+  },
+  {
+    "ts": 1788266812000,
+    "subscriberId": "1378210799",
+    "nombreContacto": "Emma",
+    "remitente": "contacto",
+    "texto": "necesitas ser mayor de 18?"
+  },
+  {
+    "ts": 1788266865000,
+    "subscriberId": "838176135",
+    "nombreContacto": "Escalante",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788266921000,
+    "subscriberId": "838176135",
+    "nombreContacto": "Escalante",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788266929000,
+    "subscriberId": "838176135",
+    "nombreContacto": "Escalante",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788266951000,
+    "subscriberId": "627736996",
+    "nombreContacto": "🪐",
+    "remitente": "contacto",
+    "texto": "Muchas gracias"
+  },
+  {
+    "ts": 1788267012000,
+    "subscriberId": "627736996",
+    "nombreContacto": "🪐",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
