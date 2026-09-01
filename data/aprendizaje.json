@@ -59998,5 +59998,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Asesor Comercial de M&A Equipamiento Comerciales"
+  },
+  {
+    "ts": 1788271201000,
+    "mensaje": "Si claro esperó gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1018033462",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "norbeth rojas fuentes"
+  },
+  {
+    "ts": 1788271240000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1333903117",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Susana Pereira"
+  },
+  {
+    "ts": 1788271365000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "404183397",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos G Lopez"
+  },
+  {
+    "ts": 1788271408000,
+    "mensaje": "Ajjajajaja",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "848513555",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Rojas"
+  },
+  {
+    "ts": 1788271413000,
+    "mensaje": "No tengo plata",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "98625659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mary De La Mata"
+  },
+  {
+    "ts": 1788271418000,
+    "mensaje": "Estoy pasando momentos muy difíciles y necesito trabajar",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "328478299",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓐𝓵𝓮𝔁𝓪🦋"
+  },
+  {
+    "ts": 1788271431000,
+    "mensaje": "Dijiste que era una clase, y no lo es. Chau",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2030140150",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniela Costarelli"
   }
 ]
