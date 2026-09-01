@@ -57788,5 +57788,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "«Antonela»"
+  },
+  {
+    "ts": 1788202844000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "520309449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carito"
+  },
+  {
+    "ts": 1788202845000,
+    "mensaje": "Hola tino",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1588354406",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo Dominguez"
+  },
+  {
+    "ts": 1788202846000,
+    "mensaje": "Hola tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1588354406",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo Dominguez"
+  },
+  {
+    "ts": 1788202847000,
+    "mensaje": "Si me gustarían",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "9199760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Annabell Sánchez"
+  },
+  {
+    "ts": 1788202846000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "9199760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Annabell Sánchez"
+  },
+  {
+    "ts": 1788202848000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1632366840",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bet deniss sotelo"
+  },
+  {
+    "ts": 1788202848000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1632366840",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bet deniss sotelo"
+  },
+  {
+    "ts": 1788202868000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1467618878",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Alfaro Labrin"
+  },
+  {
+    "ts": 1788202868000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1467618878",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Alfaro Labrin"
+  },
+  {
+    "ts": 1788202893000,
+    "mensaje": "Si quiero aprender a generar ingresos, espero tú ayuda",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1429186912",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando Orúe"
+  },
+  {
+    "ts": 1788202894000,
+    "mensaje": "Si quiero aprender a generar ingresos, espero tú ayuda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1429186912",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando Orúe"
   }
 ]
