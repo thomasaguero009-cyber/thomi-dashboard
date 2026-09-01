@@ -12878,5 +12878,82 @@
     "nombreContacto": "Lore",
     "remitente": "contacto",
     "texto": "Si. Estoy interesada"
+  },
+  {
+    "ts": 1788266123000,
+    "subscriberId": "1649679347",
+    "nombreContacto": "Carina Garcilazo",
+    "remitente": "contacto",
+    "texto": "Estoy y pregunto tiene costo?"
+  },
+  {
+    "ts": 1788266142000,
+    "subscriberId": "1638123047",
+    "nombreContacto": "Angel Martinez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788266179000,
+    "subscriberId": "1232806434",
+    "nombreContacto": "Juan Cano",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCATÁLOGO....gracias"
+  },
+  {
+    "ts": 1788266213000,
+    "subscriberId": "263132339",
+    "nombreContacto": "Rodrigo Romero Roa",
+    "remitente": "contacto",
+    "texto": "Quiero más informa"
+  },
+  {
+    "ts": 1788266268000,
+    "subscriberId": "263132339",
+    "nombreContacto": "Rodrigo Romero Roa",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788266271000,
+    "subscriberId": "263132339",
+    "nombreContacto": "Rodrigo Romero Roa",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788266324000,
+    "subscriberId": "375624275",
+    "nombreContacto": "Marcelo Sanchez",
+    "remitente": "contacto",
+    "texto": "Hola buen día"
+  },
+  {
+    "ts": 1788266324000,
+    "subscriberId": "375624275",
+    "nombreContacto": "Marcelo Sanchez",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788266329000,
+    "subscriberId": "1830606093",
+    "nombreContacto": "Cigar D",
+    "remitente": "contacto",
+    "texto": "Estoy"
+  },
+  {
+    "ts": 1788266388000,
+    "subscriberId": "937924557",
+    "nombreContacto": "Elias_Quiñones17",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788266388000,
+    "subscriberId": "937924557",
+    "nombreContacto": "Elias_Quiñones17",
+    "remitente": "contacto",
+    "texto": "Si, me interesa mucho"
   }
 ]
