@@ -14810,5 +14810,61 @@
     "nombreContacto": "Carina Fontan | Sound healing | Terapeuta Holística.",
     "remitente": "contacto",
     "texto": "Me interesa"
+  },
+  {
+    "ts": 1788271521000,
+    "subscriberId": "257351882",
+    "nombreContacto": "Yanina",
+    "remitente": "contacto",
+    "texto": "Si, contame ,gracias 😊"
+  },
+  {
+    "ts": 1788271585000,
+    "subscriberId": "257351882",
+    "nombreContacto": "Yanina",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788271591000,
+    "subscriberId": "257351882",
+    "nombreContacto": "Yanina",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788271597000,
+    "subscriberId": "257351882",
+    "nombreContacto": "Yanina",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788271701000,
+    "subscriberId": "201880453",
+    "nombreContacto": "carolina",
+    "remitente": "contacto",
+    "texto": "Pasalo..y veo"
+  },
+  {
+    "ts": 1788271827000,
+    "subscriberId": "1195965780",
+    "nombreContacto": "Luga Vega",
+    "remitente": "contacto",
+    "texto": "Buenas si dime"
+  },
+  {
+    "ts": 1788271827000,
+    "subscriberId": "1195965780",
+    "nombreContacto": "Luga Vega",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788271827000,
+    "subscriberId": "1195965780",
+    "nombreContacto": "Luga Vega",
+    "remitente": "contacto",
+    "texto": "Si estoy"
   }
 ]
