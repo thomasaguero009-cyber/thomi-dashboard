@@ -14866,5 +14866,75 @@
     "nombreContacto": "Luga Vega",
     "remitente": "contacto",
     "texto": "Si estoy"
+  },
+  {
+    "ts": 1788271835000,
+    "subscriberId": "1195965780",
+    "nombreContacto": "Luga Vega",
+    "remitente": "contacto",
+    "texto": "Como funciona"
+  },
+  {
+    "ts": 1788271866000,
+    "subscriberId": "1559087270",
+    "nombreContacto": "Yasdiel Fernandez",
+    "remitente": "contacto",
+    "texto": "Si quiero crecer"
+  },
+  {
+    "ts": 1788271907000,
+    "subscriberId": "485042202",
+    "nombreContacto": "Diego Aragona",
+    "remitente": "contacto",
+    "texto": "Por favor"
+  },
+  {
+    "ts": 1788271928000,
+    "subscriberId": "1559087270",
+    "nombreContacto": "Yasdiel Fernandez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788271931000,
+    "subscriberId": "1559087270",
+    "nombreContacto": "Yasdiel Fernandez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788272013000,
+    "subscriberId": "1160664933",
+    "nombreContacto": "Marcelo Smiraglia Bustamante | Marca Personal",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788272024000,
+    "subscriberId": "1996657134",
+    "nombreContacto": "Fer Quiroz",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788272107000,
+    "subscriberId": "1229713238",
+    "nombreContacto": "RealDomi🖤🖕",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788272107000,
+    "subscriberId": "1229713238",
+    "nombreContacto": "RealDomi🖤🖕",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788272107000,
+    "subscriberId": "1229713238",
+    "nombreContacto": "RealDomi🖤🖕",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
