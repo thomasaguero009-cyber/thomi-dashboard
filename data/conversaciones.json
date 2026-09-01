@@ -17519,5 +17519,61 @@
     "nombreContacto": "Morelba Valera",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788281141000,
+    "subscriberId": "307253792",
+    "nombreContacto": "Silvia Marcela Cejas",
+    "remitente": "contacto",
+    "texto": "Esto tiene un costo"
+  },
+  {
+    "ts": 1788281197000,
+    "subscriberId": "307253792",
+    "nombreContacto": "Silvia Marcela Cejas",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788281205000,
+    "subscriberId": "307253792",
+    "nombreContacto": "Silvia Marcela Cejas",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788281298000,
+    "subscriberId": "1097860687",
+    "nombreContacto": "Luis Fernando Yacelga Pozo",
+    "remitente": "contacto",
+    "texto": "Si me gustó mucho"
+  },
+  {
+    "ts": 1788281314000,
+    "subscriberId": "1723665413",
+    "nombreContacto": "Favian Abrahan",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si por favor"
+  },
+  {
+    "ts": 1788281327000,
+    "subscriberId": "1723665413",
+    "nombreContacto": "Favian Abrahan",
+    "remitente": "contacto",
+    "texto": "Lo que tengo una duda, tiene algo que ver que sea de Cuba?"
+  },
+  {
+    "ts": 1788281348000,
+    "subscriberId": "1492420231",
+    "nombreContacto": "Axel Santiago Londero",
+    "remitente": "contacto",
+    "texto": "Ya me estas ayudsndo con un asesor"
+  },
+  {
+    "ts": 1788281348000,
+    "subscriberId": "1492420231",
+    "nombreContacto": "Axel Santiago Londero",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
   }
 ]

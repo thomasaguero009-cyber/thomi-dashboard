@@ -64918,5 +64918,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Enrique Laurentin"
+  },
+  {
+    "ts": 1788280894000,
+    "mensaje": "Si está bien",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "888699178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristiansitō Gordōn"
+  },
+  {
+    "ts": 1788280896000,
+    "mensaje": "Oye",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "623744509",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rene Limon"
+  },
+  {
+    "ts": 1788280899000,
+    "mensaje": "Si, quiero generar ingresos respondiendo mensajes en watsap",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1441645059",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "robin hernández"
+  },
+  {
+    "ts": 1788281123000,
+    "mensaje": "Así es",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1517089011",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "beatrix_popular"
+  },
+  {
+    "ts": 1788281137000,
+    "mensaje": "No pense que ibas a contestar tan rápido",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "307253792",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvia Marcela Cejas"
   }
 ]
