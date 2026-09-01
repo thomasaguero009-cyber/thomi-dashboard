@@ -57908,5 +57908,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "dylan 🧃🧃"
+  },
+  {
+    "ts": 1788203793000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "729554034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jeral Valero"
+  },
+  {
+    "ts": 1788203811000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1559224757",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Garay"
+  },
+  {
+    "ts": 1788203836000,
+    "mensaje": "Hola tino me darías información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1300437478",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucho Ariel⚽🤙"
+  },
+  {
+    "ts": 1788203851000,
+    "mensaje": "Si! Me interesa mucho",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "573968164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander"
   }
 ]
