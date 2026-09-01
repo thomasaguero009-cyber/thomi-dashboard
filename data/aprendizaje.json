@@ -60188,5 +60188,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Maria Antonia"
+  },
+  {
+    "ts": 1788273316000,
+    "mensaje": "BotTe pudiste agendar?No todavía no \nPero lo haré pronto",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "157194584",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaztøn"
+  },
+  {
+    "ts": 1788273321000,
+    "mensaje": "BotTe pudiste agendar?No todavía no \nPero lo haré pronto",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "157194584",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaztøn"
+  },
+  {
+    "ts": 1788273346000,
+    "mensaje": "Tengo que hacer un pago",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "829546762",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joselyn Ramos"
   }
 ]
