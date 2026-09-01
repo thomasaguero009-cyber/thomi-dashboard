@@ -58808,5 +58808,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Marina Schibli"
+  },
+  {
+    "ts": 1788265149000,
+    "mensaje": "quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "397681583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tomi"
+  },
+  {
+    "ts": 1788265155000,
+    "mensaje": "A ok muchas gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "262908667",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𐬆₋︨︡ₒ₋︧︠𐬢\n\n𑁥𓍢　Lyrixy☆"
+  },
+  {
+    "ts": 1788265161000,
+    "mensaje": "Me gustaría trabajar como clóser de ventas inmobiliarias que consejo me das",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1826933346",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maykol"
+  },
+  {
+    "ts": 1788265684000,
+    "mensaje": "Me gustaria saber en que consiste este sistema de trabajo",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "818341906",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zulpfu"
   }
 ]
