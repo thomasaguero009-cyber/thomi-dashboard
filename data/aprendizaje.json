@@ -66008,5 +66008,155 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jefferson  vasquez"
+  },
+  {
+    "ts": 1788282623000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1462058715",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Sanabria"
+  },
+  {
+    "ts": 1788282722000,
+    "mensaje": "Quiero aprender a generar por whasapp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "695443709",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Reinaldo Grabiel"
+  },
+  {
+    "ts": 1788282740000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "260264114",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SOL"
+  },
+  {
+    "ts": 1788282751000,
+    "mensaje": "Sii por favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1596186823",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Roa"
+  },
+  {
+    "ts": 1788282762000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "551737762",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Godoy Angel 🖤"
+  },
+  {
+    "ts": 1788282805000,
+    "mensaje": "BotQueres que te la envie?Si por fa 🥹",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1027217559",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mundo Arte"
+  },
+  {
+    "ts": 1788282810000,
+    "mensaje": "Holaaaa otra vez !",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "341091473",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lianys B"
+  },
+  {
+    "ts": 1788282824000,
+    "mensaje": "si vi la clase la entendi a la perfeccion",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1904935053",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Javier"
+  },
+  {
+    "ts": 1788282828000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1291028964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Graciela Di Cagno"
+  },
+  {
+    "ts": 1788282868000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "971438821",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Rodriguez"
+  },
+  {
+    "ts": 1788283152000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "404184896",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ymc Danyel"
+  },
+  {
+    "ts": 1788283157000,
+    "mensaje": "Hola si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "998297163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sharon Vargas"
+  },
+  {
+    "ts": 1788283161000,
+    "mensaje": "Aver?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1639925965",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristhofer Moscoso"
+  },
+  {
+    "ts": 1788283162000,
+    "mensaje": "SII tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "306532388",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "..."
+  },
+  {
+    "ts": 1788283216000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "901821923",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Reyes"
   }
 ]
