@@ -16105,5 +16105,47 @@
     "nombreContacto": "Andrea Carolina",
     "remitente": "contacto",
     "texto": "Agradecida lo espero"
+  },
+  {
+    "ts": 1788276064000,
+    "subscriberId": "2074616889",
+    "nombreContacto": "Luis Hidalgo",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788276064000,
+    "subscriberId": "2074616889",
+    "nombreContacto": "Luis Hidalgo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelWhatsapp"
+  },
+  {
+    "ts": 1788276064000,
+    "subscriberId": "2074616889",
+    "nombreContacto": "Luis Hidalgo",
+    "remitente": "contacto",
+    "texto": "perfecto , eres lo máximo"
+  },
+  {
+    "ts": 1788276205000,
+    "subscriberId": "1676009552",
+    "nombreContacto": "Romina Celeste Talpa",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788276243000,
+    "subscriberId": "1744456705",
+    "nombreContacto": "lorenagoyenechea",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788276279000,
+    "subscriberId": "2029208598",
+    "nombreContacto": "🦥",
+    "remitente": "contacto",
+    "texto": "Sisi estoy"
   }
 ]
