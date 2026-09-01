@@ -17337,5 +17337,33 @@
     "nombreContacto": "Juan Jo",
     "remitente": "contacto",
     "texto": "Hola"
+  },
+  {
+    "ts": 1788279684000,
+    "subscriberId": "1108669872",
+    "nombreContacto": "esteban ruly",
+    "remitente": "contacto",
+    "texto": "Catalogo"
+  },
+  {
+    "ts": 1788279745000,
+    "subscriberId": "367677819",
+    "nombreContacto": "Edelmira Jaimes Lozada",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788279768000,
+    "subscriberId": "209336145",
+    "nombreContacto": "Luz Marina",
+    "remitente": "contacto",
+    "texto": "Sii gracias"
+  },
+  {
+    "ts": 1788279854000,
+    "subscriberId": "1628549566",
+    "nombreContacto": "[{(<~✨Maide✨~>)}]",
+    "remitente": "contacto",
+    "texto": "Me gustaría aprender"
   }
 ]

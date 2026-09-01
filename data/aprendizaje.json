@@ -64788,5 +64788,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yamila Belén Esquivel ✨"
+  },
+  {
+    "ts": 1788279684000,
+    "mensaje": "Catalogo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1108669872",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "esteban ruly"
+  },
+  {
+    "ts": 1788279706000,
+    "mensaje": "SI LO QUIERO RECIBIR",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "313778387",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabian Bravo"
+  },
+  {
+    "ts": 1788279710000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "797627503",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Wendy Matamoros"
+  },
+  {
+    "ts": 1788279729000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1499115688",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aaron Petruchelli"
+  },
+  {
+    "ts": 1788279733000,
+    "mensaje": "Siii x favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1974335600",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvia Albano"
+  },
+  {
+    "ts": 1788279740000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1246365918",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dellorto"
+  },
+  {
+    "ts": 1788279743000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "721852372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sepúlveda Diego"
+  },
+  {
+    "ts": 1788279752000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1742914696",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "..."
+  },
+  {
+    "ts": 1788279756000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "434256765",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kevin NM"
+  },
+  {
+    "ts": 1788279759000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "644293098",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "FlowPower ™"
   }
 ]
