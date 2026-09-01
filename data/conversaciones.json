@@ -17365,5 +17365,19 @@
     "nombreContacto": "[{(<~✨Maide✨~>)}]",
     "remitente": "contacto",
     "texto": "Me gustaría aprender"
+  },
+  {
+    "ts": 1788279963000,
+    "subscriberId": "158853389",
+    "nombreContacto": "Vero Alvarez",
+    "remitente": "contacto",
+    "texto": "Si si"
+  },
+  {
+    "ts": 1788280132000,
+    "subscriberId": "1104438657",
+    "nombreContacto": "Val Gauna",
+    "remitente": "contacto",
+    "texto": "Okey gracias!!"
   }
 ]
