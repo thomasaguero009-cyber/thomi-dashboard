@@ -59178,5 +59178,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "sandy_msj"
+  },
+  {
+    "ts": 1788267651000,
+    "mensaje": "Tino pero la preparación para ser clouser donde me vas a capacitar por 4 semanas solo vale 1 usd?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2048309225",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Iván Soto"
+  },
+  {
+    "ts": 1788267664000,
+    "mensaje": "Okey muchas gracias por darme la oportunidad",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "465253927",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "emilio55491"
+  },
+  {
+    "ts": 1788267869000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Hola tino si si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "170188614",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benicio hemadi"
+  },
+  {
+    "ts": 1788268208000,
+    "mensaje": "Quiero información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1939552506",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alberto Rostran"
   }
 ]
