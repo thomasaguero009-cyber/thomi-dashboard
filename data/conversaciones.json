@@ -17288,5 +17288,54 @@
     "nombreContacto": "Maximiliano Castro",
     "remitente": "contacto",
     "texto": "Siii"
+  },
+  {
+    "ts": 1788279339000,
+    "subscriberId": "404969672",
+    "nombreContacto": "Jhohan David Vega Carreño",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788279345000,
+    "subscriberId": "404969672",
+    "nombreContacto": "Jhohan David Vega Carreño",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788279369000,
+    "subscriberId": "404969672",
+    "nombreContacto": "Jhohan David Vega Carreño",
+    "remitente": "contacto",
+    "texto": "Sii por favor"
+  },
+  {
+    "ts": 1788279424000,
+    "subscriberId": "360592649",
+    "nombreContacto": "Lixus Etiquetas Stickers Tarjetas",
+    "remitente": "contacto",
+    "texto": "Hola y cmo sería? Si"
+  },
+  {
+    "ts": 1788279484000,
+    "subscriberId": "2049729135",
+    "nombreContacto": "Norma Dominguez",
+    "remitente": "contacto",
+    "texto": "no no gracias"
+  },
+  {
+    "ts": 1788279538000,
+    "subscriberId": "63027995",
+    "nombreContacto": "Juanchi",
+    "remitente": "contacto",
+    "texto": "Buenas Tino, si me gustaría que me pasaras para ver de aplicar a alguna vacante"
+  },
+  {
+    "ts": 1788279573000,
+    "subscriberId": "656914490",
+    "nombreContacto": "Juan Jo",
+    "remitente": "contacto",
+    "texto": "Hola"
   }
 ]

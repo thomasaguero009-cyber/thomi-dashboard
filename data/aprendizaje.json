@@ -64758,5 +64758,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Johanna Cely"
+  },
+  {
+    "ts": 1788279522000,
+    "mensaje": "Me cansé de lo presencial, y quiero abrirme a lo remoto, pero no tengo idea por dónde empezar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1017358249",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alberto Daniel Ferreira Marti"
+  },
+  {
+    "ts": 1788279599000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "656914490",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Jo"
+  },
+  {
+    "ts": 1788279603000,
+    "mensaje": "Hola ! Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "971766929",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamila Belén Esquivel ✨"
   }
 ]
