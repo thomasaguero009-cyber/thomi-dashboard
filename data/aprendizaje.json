@@ -58478,5 +58478,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Miguel Torres"
+  },
+  {
+    "ts": 1788260826000,
+    "mensaje": "Sisi estoy",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2040128288",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gladys Barros"
+  },
+  {
+    "ts": 1788260828000,
+    "mensaje": "Hola ,si por supuesto\nGracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "696980533",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "carlos marranghello"
+  },
+  {
+    "ts": 1788260834000,
+    "mensaje": "Buenas👋 que tal, si me gustaría que me pasaras más información, gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "405053634",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_gonza_ok__"
+  },
+  {
+    "ts": 1788261066000,
+    "mensaje": "No me llego",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1248235559",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luigi"
   }
 ]
