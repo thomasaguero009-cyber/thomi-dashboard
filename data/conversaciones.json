@@ -11534,5 +11534,26 @@
     "nombreContacto": "xcdftt",
     "remitente": "contacto",
     "texto": "BotQueres que te la pase?Si por favor"
+  },
+  {
+    "ts": 1788257691000,
+    "subscriberId": "1385844311",
+    "nombreContacto": "Cristiano Rimoldi",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresa"
+  },
+  {
+    "ts": 1788257691000,
+    "subscriberId": "1385844311",
+    "nombreContacto": "Cristiano Rimoldi",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788257691000,
+    "subscriberId": "1385844311",
+    "nombreContacto": "Cristiano Rimoldi",
+    "remitente": "contacto",
+    "texto": "Este mensaje ha sido eliminado"
   }
 ]
