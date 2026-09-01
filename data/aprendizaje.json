@@ -66638,5 +66638,725 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Abraham Prieto"
+  },
+  {
+    "ts": 1788283821000,
+    "mensaje": "Siii",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "628253438",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marielba / Diseñadora Masqueamano"
+  },
+  {
+    "ts": 1788283825000,
+    "mensaje": "clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "9288594",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "carinadiaz"
+  },
+  {
+    "ts": 1788283830000,
+    "mensaje": "Siii",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "591604614",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexia"
+  },
+  {
+    "ts": 1788283832000,
+    "mensaje": "Hola tino. Clase",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1094248786",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucas Blanca Balich"
+  },
+  {
+    "ts": 1788283843000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1094248786",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucas Blanca Balich"
+  },
+  {
+    "ts": 1788283847000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "445166876",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝙹𝚄𝙰𝙽"
+  },
+  {
+    "ts": 1788283852000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1502179377",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Freddy Gonzalez"
+  },
+  {
+    "ts": 1788283884000,
+    "mensaje": "Clases",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1425688283",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jordan Fabian"
+  },
+  {
+    "ts": 1788283896000,
+    "mensaje": "Sii",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "94140757",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Otosaka Yuu"
+  },
+  {
+    "ts": 1788283900000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "144808503",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Héctor Arenas"
+  },
+  {
+    "ts": 1788283904000,
+    "mensaje": "bfreyle0913@gmail.com",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "986710346",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Freyle Molinare Beily"
+  },
+  {
+    "ts": 1788283912000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "978040552",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucas Domínguez"
+  },
+  {
+    "ts": 1788283919000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "857571014",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gerardo Zarate"
+  },
+  {
+    "ts": 1788283923000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1554547461",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fatimaveloso"
+  },
+  {
+    "ts": 1788283930000,
+    "mensaje": "Catálogo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1516586600",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓜𝓪𝓽𝓽𝓸𝓼"
+  },
+  {
+    "ts": 1788283930000,
+    "mensaje": "Catálogo",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1516586600",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓜𝓪𝓽𝓽𝓸𝓼"
+  },
+  {
+    "ts": 1788283938000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "2086145586",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Velasquez"
+  },
+  {
+    "ts": 1788283942000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "809043682",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fabycortez10"
+  },
+  {
+    "ts": 1788283947000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1744026898",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fede ochoa 🥑"
+  },
+  {
+    "ts": 1788283957000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "661286081",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "graciela maria gomez"
+  },
+  {
+    "ts": 1788283962000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1060092652",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentina Confalonieri"
+  },
+  {
+    "ts": 1788283971000,
+    "mensaje": "Clase",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "567069372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Felipe Fontalvo Vera"
+  },
+  {
+    "ts": 1788283972000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "567069372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Felipe Fontalvo Vera"
+  },
+  {
+    "ts": 1788283980000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1384679389",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carolina"
+  },
+  {
+    "ts": 1788283991000,
+    "mensaje": "BotHace clic👇Esta buena la clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "730990585",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus Paternina"
+  },
+  {
+    "ts": 1788283993000,
+    "mensaje": "BotQue edad tenes?17 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "503005633",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "A"
+  },
+  {
+    "ts": 1788284000000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "555401518",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabii Gonzalez"
+  },
+  {
+    "ts": 1788284010000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "604798510",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dilan Yahir Quintana"
+  },
+  {
+    "ts": 1788284013000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1423297153",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhoan Romelio Villarroel Suarez"
+  },
+  {
+    "ts": 1788284026000,
+    "mensaje": "Clase",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "74304643",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edwin Pacheco"
+  },
+  {
+    "ts": 1788284032000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "74304643",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edwin Pacheco"
+  },
+  {
+    "ts": 1788284042000,
+    "mensaje": "Gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1449655150",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gisella Ballón"
+  },
+  {
+    "ts": 1788284048000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "993824619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diana Morao Vivas"
+  },
+  {
+    "ts": 1788284054000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "359900954",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "€l @Tin0 💯"
+  },
+  {
+    "ts": 1788284053000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "359900954",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "€l @Tin0 💯"
+  },
+  {
+    "ts": 1788284064000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "171217816",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia Salas Crespo"
+  },
+  {
+    "ts": 1788284072000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1163855426",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Melian_Ok"
+  },
+  {
+    "ts": 1788284142000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1226526279",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gustavo Lopez Hernández"
+  },
+  {
+    "ts": 1788284158000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2082229484",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Caroline Vera"
+  },
+  {
+    "ts": 1788284172000,
+    "mensaje": "Si. Estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1265356101",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Serra"
+  },
+  {
+    "ts": 1788284174000,
+    "mensaje": "Buenas sisi",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1516864791",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matias Baladon"
+  },
+  {
+    "ts": 1788284176000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "160451898",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Florshia"
+  },
+  {
+    "ts": 1788284179000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "160451898",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Florshia"
+  },
+  {
+    "ts": 1788284185000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "260970011",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Novillo Corvalan"
+  },
+  {
+    "ts": 1788284192000,
+    "mensaje": "Clase por favor 🙏",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "504540494",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JUAN J"
+  },
+  {
+    "ts": 1788284197000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1288740113",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Gonzalez Alzate"
+  },
+  {
+    "ts": 1788284209000,
+    "mensaje": "Gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "132522953",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "misleydi saborit"
+  },
+  {
+    "ts": 1788284214000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "614438869",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorleydis Diaz"
+  },
+  {
+    "ts": 1788284222000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1552065747",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Fabiana Atencio"
+  },
+  {
+    "ts": 1788284227000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "272847108",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mabel Arias | Asesor Inmobiliario"
+  },
+  {
+    "ts": 1788284230000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1021659454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕱𝖑𝖔𝖗𝖊𝖓𝖈𝖎𝖆 🦋"
+  },
+  {
+    "ts": 1788284235000,
+    "mensaje": "17",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "668711163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lian_velzx19"
+  },
+  {
+    "ts": 1788284238000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1965797818",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Milka Bailon Illicachi"
+  },
+  {
+    "ts": 1788284243000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1825731504",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aaron Diaz Fernandez"
+  },
+  {
+    "ts": 1788284256000,
+    "mensaje": "clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "730561030",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mariana Volta"
+  },
+  {
+    "ts": 1788284263000,
+    "mensaje": "SI LO QUIERO RECIBIR",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1599808625",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco_ht"
+  },
+  {
+    "ts": 1788284269000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1172708871",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝙈𝙖𝙜𝙖𝙡𝙞. 𝙈𝙂 🧚🏼‍♀️"
+  },
+  {
+    "ts": 1788284271000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1172708871",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝙈𝙖𝙜𝙖𝙡𝙞. 𝙈𝙂 🧚🏼‍♀️"
+  },
+  {
+    "ts": 1788284274000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1415828976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marco Cis Rom"
+  },
+  {
+    "ts": 1788284281000,
+    "mensaje": "Yo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1778621702",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julio Martinez"
+  },
+  {
+    "ts": 1788284321000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el certificado?Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1870843328",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "aleja_bonilla_14"
+  },
+  {
+    "ts": 1788284357000,
+    "mensaje": "Muy recomendable",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "1125940412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "carba.7"
+  },
+  {
+    "ts": 1788284358000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1125940412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "carba.7"
+  },
+  {
+    "ts": 1788284362000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1467618878",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Alfaro Labrin"
+  },
+  {
+    "ts": 1788284366000,
+    "mensaje": "Tino hermano ya me ví todos tus vidos de Instagram y me ví más de 10 veces el vídeo de la ckase gratuita ahora solo necesito que me digas como me comunico con esqs empresas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "551174621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yordan Velazquez"
+  },
+  {
+    "ts": 1788284370000,
+    "mensaje": "Tino hermano ya me ví todos tus vidos de Instagram y me ví más de 10 veces el vídeo de la ckase gratuita ahora solo necesito que me digas como me comunico con esqs empresas",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "551174621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yordan Velazquez"
+  },
+  {
+    "ts": 1788284375000,
+    "mensaje": "Buenos días como esta, yo muy bien\nAquí estoy",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "629397322",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosmery Miletza Alvarado"
+  },
+  {
+    "ts": 1788284385000,
+    "mensaje": "Catálogo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1804008105",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ammmtz"
+  },
+  {
+    "ts": 1788284394000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "626309576",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hagadol Gigante"
+  },
+  {
+    "ts": 1788284398000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1177307750",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "inicialesjr.28"
+  },
+  {
+    "ts": 1788284409000,
+    "mensaje": "Ahora estoy... Sorry por lo anterior",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "835491181",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Queipo"
+  },
+  {
+    "ts": 1788284414000,
+    "mensaje": "Clases!!.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1421166317",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José B🤴🏾"
   }
 ]
