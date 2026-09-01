@@ -11499,5 +11499,19 @@
     "nombreContacto": "Guille Forteza",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788208273000,
+    "subscriberId": "1376110894",
+    "nombreContacto": "Jorge Agote",
+    "remitente": "contacto",
+    "texto": "Claro"
+  },
+  {
+    "ts": 1788208295000,
+    "subscriberId": "1376110894",
+    "nombreContacto": "Jorge Agote",
+    "remitente": "contacto",
+    "texto": "Buenas"
   }
 ]
