@@ -16490,5 +16490,40 @@
     "nombreContacto": "María Laura Pili García",
     "remitente": "contacto",
     "texto": "Quiero"
+  },
+  {
+    "ts": 1788277628000,
+    "subscriberId": "1489791406",
+    "nombreContacto": "Claudia Luz Londoño",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788277628000,
+    "subscriberId": "1489791406",
+    "nombreContacto": "Claudia Luz Londoño",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788277685000,
+    "subscriberId": "1952837734",
+    "nombreContacto": "EL GORDDO",
+    "remitente": "contacto",
+    "texto": "Gracias!!!"
+  },
+  {
+    "ts": 1788277746000,
+    "subscriberId": "2041299023",
+    "nombreContacto": "Fabi Poppe",
+    "remitente": "agente",
+    "texto": "O te paso la agenda directa?"
+  },
+  {
+    "ts": 1788277806000,
+    "subscriberId": "1349511929",
+    "nombreContacto": "Psicóloga Paola Adrian",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
