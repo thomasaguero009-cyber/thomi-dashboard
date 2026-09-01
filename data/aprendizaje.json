@@ -65698,5 +65698,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Diego Protto"
+  },
+  {
+    "ts": 1788282024000,
+    "mensaje": "Me guataria, pero ahora mismo no tengo para invertir",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "704233667",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Olga Lucia Forero Sanchez"
+  },
+  {
+    "ts": 1788282035000,
+    "mensaje": "Envíame para revisar la fecha y hora",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1164299446",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Paulina Cabrera Vargas"
+  },
+  {
+    "ts": 1788282056000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1437492411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Evelyn Tobar | Virtual Tour"
+  },
+  {
+    "ts": 1788282056000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1437492411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Evelyn Tobar | Virtual Tour"
+  },
+  {
+    "ts": 1788282064000,
+    "mensaje": "Me lo puedes enviar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1937613882",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "frxnkix_pxntx"
+  },
+  {
+    "ts": 1788282077000,
+    "mensaje": "Gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "312244783",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Salo Creaciones Ropa y Accesorios 💖👗"
   }
 ]
