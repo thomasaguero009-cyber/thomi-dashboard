@@ -57728,5 +57728,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "ANA HENRIQUEZ CARDOZO"
+  },
+  {
+    "ts": 1788202704000,
+    "mensaje": "Hola buenas, si señor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "936370449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago Caro"
+  },
+  {
+    "ts": 1788202704000,
+    "mensaje": "Hola buenas, si señor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "936370449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago Caro"
+  },
+  {
+    "ts": 1788202706000,
+    "mensaje": "Si aquí  estoy",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1839443164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando Baquero B."
+  },
+  {
+    "ts": 1788202706000,
+    "mensaje": "Si aquí  estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1839443164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando Baquero B."
+  },
+  {
+    "ts": 1788202709000,
+    "mensaje": "Hola! Si si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1964947339",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "«Antonela»"
+  },
+  {
+    "ts": 1788202709000,
+    "mensaje": "Hola! Si si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1964947339",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "«Antonela»"
   }
 ]
