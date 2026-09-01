@@ -64708,5 +64708,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Victor Martinez"
+  },
+  {
+    "ts": 1788278715000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1729771242",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isis del Cid"
+  },
+  {
+    "ts": 1788278723000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "240004231",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo De León"
+  },
+  {
+    "ts": 1788278727000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "934137415",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrian Rodriguez"
+  },
+  {
+    "ts": 1788278919000,
+    "mensaje": "👀",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1874404242",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonard Chapman"
+  },
+  {
+    "ts": 1788278994000,
+    "mensaje": "Sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1758740607",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Johanna Cely"
   }
 ]

@@ -17197,5 +17197,61 @@
     "nombreContacto": "Katiuska Prieto",
     "remitente": "contacto",
     "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788278729000,
+    "subscriberId": "934137415",
+    "nombreContacto": "Adrian Rodriguez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788278807000,
+    "subscriberId": "2002357725",
+    "nombreContacto": "Yajaira Sanchez",
+    "remitente": "contacto",
+    "texto": "Buenas tardes! Como se hace"
+  },
+  {
+    "ts": 1788278868000,
+    "subscriberId": "2002357725",
+    "nombreContacto": "Yajaira Sanchez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788278872000,
+    "subscriberId": "2002357725",
+    "nombreContacto": "Yajaira Sanchez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788278946000,
+    "subscriberId": "2111933027",
+    "nombreContacto": "Keinner David Camargo Gutierrez",
+    "remitente": "contacto",
+    "texto": "Te agradezco"
+  },
+  {
+    "ts": 1788278962000,
+    "subscriberId": "1084179598",
+    "nombreContacto": "Jose Antonio Cordero Rodriguez",
+    "remitente": "contacto",
+    "texto": "Hola que tal\nSi claro"
+  },
+  {
+    "ts": 1788278962000,
+    "subscriberId": "1084179598",
+    "nombreContacto": "Jose Antonio Cordero Rodriguez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788278962000,
+    "subscriberId": "1084179598",
+    "nombreContacto": "Jose Antonio Cordero Rodriguez",
+    "remitente": "contacto",
+    "texto": "Si está bn"
   }
 ]
