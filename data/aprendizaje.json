@@ -58448,5 +58448,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Karoll Vannia Ayala Cavalcanti"
+  },
+  {
+    "ts": 1788259894000,
+    "mensaje": "Si quiero por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1580552877",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anny Alarcon"
+  },
+  {
+    "ts": 1788259905000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1288863838",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darcy Velasco"
+  },
+  {
+    "ts": 1788260127000,
+    "mensaje": "Hola y buenas,si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "471357017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Torres"
   }
 ]
