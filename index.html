@@ -4,35 +4,48 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thom.i · Aprendizaje</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg: #0a0a0f;
-    --card: #14141c;
-    --border: #24242f;
-    --text: #f2f2f5;
-    --text-dim: #8a8a97;
-    --purple: #7c6cf0;
-    --green: #34d399;
-    --pink: #f0568f;
+    /* Paleta "Matrix": negro puro + verde fósforo, con rojo solo para lo
+       negativo (caídas del embudo) — nada de morado/rosa, a propósito. */
+    --bg: #000000;
+    --card: #030a03;
+    --border: #143a14;
+    --text: #8ff0a4;
+    --text-dim: #3f7a3f;
+    --purple: #39ff14;
+    --green: #00ff41;
+    --pink: #ff2b2b;
   }
   *{ box-sizing:border-box; }
+  #matrix-rain{
+    position:fixed; inset:0; width:100%; height:100%; z-index:0;
+    opacity:.22; pointer-events:none;
+  }
   body{
-    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    background: radial-gradient(circle at 20% 0%, #1a1430 0%, var(--bg) 45%), var(--bg);
+    margin:0; font-family:"Share Tech Mono","Courier New",monospace;
+    background: var(--bg);
     color:var(--text); min-height:100vh; padding:32px 20px 60px;
   }
-  .wrap{ max-width:980px; margin:0 auto; }
+  .wrap{ max-width:980px; margin:0 auto; position:relative; z-index:1; }
   header{ margin-bottom:28px; }
-  header h1{ font-size:26px; margin:0 0 6px; display:flex; align-items:center; gap:10px; }
+  header h1{
+    font-size:26px; margin:0 0 6px; display:flex; align-items:center; gap:10px;
+    color:var(--green); text-shadow:0 0 6px rgba(0,255,65,.65), 0 0 18px rgba(0,255,65,.35);
+    letter-spacing:.5px;
+  }
   header p{ margin:0; color:var(--text-dim); font-size:14.5px; }
 
   .stats-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:16px; margin-bottom:28px; }
-  .stat-card{ background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; }
+  .stat-card{ background:var(--card); border:1px solid var(--border); border-radius:14px; padding:18px 20px; box-shadow:0 0 14px rgba(0,255,65,.05) inset; }
   .stat-card .l{ font-size:11.5px; font-weight:700; letter-spacing:.5px; text-transform:uppercase; color:var(--text-dim); margin-bottom:8px; }
-  .stat-card .v{ font-size:26px; font-weight:800; }
+  .stat-card .v{ font-size:26px; font-weight:800; color:var(--green); text-shadow:0 0 8px rgba(0,255,65,.55); }
 
-  .panel{ background:var(--card); border:1px solid var(--border); border-radius:16px; padding:22px; margin-bottom:24px; }
-  .panel h2{ font-size:15px; margin:0 0 16px; display:flex; align-items:center; gap:8px; }
+  .panel{ background:var(--card); border:1px solid var(--border); border-radius:16px; padding:22px; margin-bottom:24px; box-shadow:0 0 20px rgba(0,255,65,.04); }
+  .panel h2{ font-size:15px; margin:0 0 16px; display:flex; align-items:center; gap:8px; color:var(--green); text-shadow:0 0 5px rgba(0,255,65,.4); }
 
   .rank-row{ display:flex; align-items:center; gap:12px; padding:9px 0; border-bottom:1px solid var(--border); font-size:13.5px; }
   .rank-row:last-child{ border-bottom:none; }
@@ -44,7 +57,7 @@
 
   .search-input{
     width:100%; padding:11px 14px; border-radius:10px; border:1px solid var(--border);
-    background:#0e0e15; color:var(--text); font-size:14px; margin-bottom:16px;
+    background:#020602; color:var(--text); font-size:14px; margin-bottom:16px; font-family:inherit;
   }
   .search-input::placeholder{ color:var(--text-dim); }
 
@@ -52,11 +65,11 @@
   th{ text-align:left; color:var(--text-dim); font-size:11.5px; text-transform:uppercase; letter-spacing:.4px; font-weight:700; padding:0 10px 10px; }
   td{ padding:11px 10px; border-top:1px solid var(--border); vertical-align:top; }
   td.msg{ color:var(--text); }
-  td.btn{ color:var(--green); font-weight:600; white-space:nowrap; }
+  td.btn{ color:var(--green); font-weight:600; white-space:nowrap; text-shadow:0 0 6px rgba(0,255,65,.5); }
   td.date{ color:var(--text-dim); white-space:nowrap; }
   .table-wrap{ max-height:520px; overflow-y:auto; }
   .empty{ text-align:center; color:var(--text-dim); padding:40px 10px; font-size:14px; line-height:1.6; }
-  .empty code{ background:#0e0e15; border:1px solid var(--border); padding:2px 6px; border-radius:6px; color:var(--text); }
+  .empty code{ background:#020602; border:1px solid var(--border); padding:2px 6px; border-radius:6px; color:var(--text); }
 
   .howto{ font-size:13px; color:var(--text-dim); line-height:1.7; }
   .howto b{ color:var(--text); }
@@ -73,7 +86,7 @@
   .embudo-caida{ text-align:center; color:var(--pink); font-size:11.5px; font-weight:700; margin:6px 0 12px; }
   .embudo-ejemplos{ max-width:560px; margin:0 auto 22px; display:flex; flex-direction:column; gap:6px; }
   .embudo-ejemplo{
-    background:#0e0e15; border:1px solid var(--border); border-radius:10px; padding:9px 14px;
+    background:#020602; border:1px solid var(--border); border-radius:10px; padding:9px 14px;
     font-size:12.5px; cursor:pointer; transition:border-color .15s; line-height:1.5;
   }
   .embudo-ejemplo:hover{ border-color:var(--purple); }
@@ -88,10 +101,11 @@
     font-family:inherit;
   }
   .tab-btn:hover{ border-color:var(--purple); }
-  .tab-btn.active{ background:var(--purple); color:#fff; border-color:var(--purple); }
+  .tab-btn.active{ background:var(--purple); color:#000; border-color:var(--purple); box-shadow:0 0 16px rgba(57,255,20,.65); }
 </style>
 </head>
 <body>
+  <canvas id="matrix-rain"></canvas>
   <div class="wrap">
     <header>
       <h1>🤖 Thom.i <span style="color:var(--text-dim);font-weight:400;">· Aprendizaje</span></h1>
@@ -764,12 +778,12 @@
         <div class="stat-card"><div class="l">Primer mensaje</div><div class="v" style="font-size:14px;">${fmtFecha(primero)}</div></div>
         <div class="stat-card"><div class="l">Último mensaje</div><div class="v" style="font-size:14px;">${fmtFecha(ultimo)}</div></div>
       </div>
-      <div class="howto" style="margin-bottom:10px;background:#0e0e15;border:1px solid var(--border);border-radius:10px;padding:12px 14px;"><b>Análisis:</b> ${escHtml(analisis)}</div>
+      <div class="howto" style="margin-bottom:10px;background:#020602;border:1px solid var(--border);border-radius:10px;padding:12px 14px;"><b>Análisis:</b> ${escHtml(analisis)}</div>
       ${topPalabras.length ? `<div class="howto" style="margin-bottom:14px;">De qué habla más: ${topPalabras.map(p => escHtml(p)).join(', ')}</div>` : ''}
-      <div style="max-height:400px;overflow-y:auto;border:1px solid var(--border);border-radius:10px;padding:14px;background:#0e0e15;">
+      <div style="max-height:400px;overflow-y:auto;border:1px solid var(--border);border-radius:10px;padding:14px;background:#020602;">
         ${mensajes.map(m => `
           <div style="display:flex;${m.remitente === 'contacto' ? '' : 'flex-direction:row-reverse;'}margin-bottom:10px;">
-            <div style="max-width:70%;background:${m.remitente === 'contacto' ? 'var(--panel-2, #1a1a24)' : 'var(--green-dim, #16321f)'};border:1px solid var(--border);border-radius:10px;padding:8px 12px;">
+            <div style="max-width:70%;background:${m.remitente === 'contacto' ? '#0a1a0a' : '#16321f'};border:1px solid var(--border);border-radius:10px;padding:8px 12px;">
               <div style="font-size:11px;color:var(--text-dim);margin-bottom:3px;">${m.remitente === 'contacto' ? '👤 contacto' : '💬 vos'} · ${fmtFecha(m.ts)}</div>
               <div style="font-size:13.5px;white-space:pre-wrap;">${escHtml(m.texto)}</div>
             </div>
@@ -807,7 +821,7 @@
   document.getElementById('reglas-lista').innerHTML = REGLAS_THOMI.map((r, i) => `
     <div class="rank-row">
       <div class="rank-pos">${i+1}°</div>
-      <div class="rank-name" style="white-space:normal;">Mensaje incluye <code style="background:#0e0e15;border:1px solid var(--border);padding:2px 6px;border-radius:6px;">${escHtml(r.regex.source)}</code></div>
+      <div class="rank-name" style="white-space:normal;">Mensaje incluye <code style="background:#020602;border:1px solid var(--border);padding:2px 6px;border-radius:6px;">${escHtml(r.regex.source)}</code></div>
       <div class="rank-val" style="width:auto;color:var(--green);">→ ${escHtml(r.boton)}</div>
     </div>
   `).join('');
@@ -958,6 +972,52 @@
   setInterval(cargarAprendizaje, 20000);
   setInterval(cargarResumenInbox, 20000);
   setInterval(cargarConversaciones, 20000);
+</script>
+
+<!-- Lluvia digital de fondo (efecto Matrix) — puramente visual, separado
+     a propósito del script de datos de arriba: no toca nada de lo que
+     carga/calcula, solo dibuja detrás de todo. -->
+<script>
+(function(){
+  const canvas = document.getElementById('matrix-rain');
+  const ctx = canvas.getContext('2d');
+  const KATAKANA = 'アカサタナハマヤラワガザダバパイキシチニヒミリギジヂビピウクスツヌフムユルグズヅブプエケセテネヘメレゲゼデベペオコソトノホモヨロゴゾドボポヴッン';
+  const LATIN = '01ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  const CHARS = (KATAKANA + LATIN).split('');
+  const FONT_SIZE = 15;
+  let columnas, gotas;
+
+  function ajustarTamaño(){
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    columnas = Math.floor(canvas.width / FONT_SIZE);
+    gotas = new Array(columnas).fill(0).map(() => Math.random() * -100);
+  }
+  ajustarTamaño();
+  window.addEventListener('resize', ajustarTamaño);
+
+  function dibujar(){
+    // Rectángulo negro semitransparente en vez de limpiar del todo — es lo
+    // que deja la estela/rastro característica cayendo.
+    ctx.fillStyle = 'rgba(0,0,0,.08)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.font = FONT_SIZE + 'px monospace';
+    for(let i = 0; i < gotas.length; i++){
+      const char = CHARS[Math.floor(Math.random() * CHARS.length)];
+      const x = i * FONT_SIZE;
+      const y = gotas[i] * FONT_SIZE;
+      // La punta de cada columna un poco más brillante que el resto de la
+      // estela, para que se note la dirección de caída.
+      ctx.fillStyle = Math.random() < 0.06 ? '#d6ffe0' : '#00ff41';
+      ctx.fillText(char, x, y);
+
+      if(y > canvas.height && Math.random() > 0.975) gotas[i] = 0;
+      gotas[i]++;
+    }
+  }
+  setInterval(dibujar, 45);
+})();
 </script>
 </body>
 </html>
