@@ -64888,5 +64888,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "FlowPower ™"
+  },
+  {
+    "ts": 1788280433000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1873807235",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒥𝑜𝒶𝓆𝓊𝒾𝓃"
+  },
+  {
+    "ts": 1788280466000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1576177119",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "agvtours"
+  },
+  {
+    "ts": 1788280588000,
+    "mensaje": "Por supuesto que si estimado",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "255732631",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enrique Laurentin"
   }
 ]
