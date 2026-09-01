@@ -58328,5 +58328,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lucas"
+  },
+  {
+    "ts": 1788257765000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "895010842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis C"
+  },
+  {
+    "ts": 1788257999000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Buenos días! , si claro estoy al pendiente",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2072801009",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Abraham Castillo"
+  },
+  {
+    "ts": 1788258181000,
+    "mensaje": "Estoy ahora",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "987391153",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mica Jaureguy"
   }
 ]

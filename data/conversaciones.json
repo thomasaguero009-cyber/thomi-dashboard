@@ -11555,5 +11555,61 @@
     "nombreContacto": "Cristiano Rimoldi",
     "remitente": "contacto",
     "texto": "Este mensaje ha sido eliminado"
+  },
+  {
+    "ts": 1788257842000,
+    "subscriberId": "801853985",
+    "nombreContacto": "jrnanoblindajes.co",
+    "remitente": "contacto",
+    "texto": "Si señor"
+  },
+  {
+    "ts": 1788257902000,
+    "subscriberId": "801853985",
+    "nombreContacto": "jrnanoblindajes.co",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788257911000,
+    "subscriberId": "801853985",
+    "nombreContacto": "jrnanoblindajes.co",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788258102000,
+    "subscriberId": "385567653",
+    "nombreContacto": "Yamil Ballester",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788258094000,
+    "subscriberId": "385567653",
+    "nombreContacto": "Yamil Ballester",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788258215000,
+    "subscriberId": "1038850285",
+    "nombreContacto": "Emilia Algoberro",
+    "remitente": "contacto",
+    "texto": "Me encantaria, porfa"
+  },
+  {
+    "ts": 1788258284000,
+    "subscriberId": "910063917",
+    "nombreContacto": "Bianca Dianey",
+    "remitente": "contacto",
+    "texto": "Hola buen dia si porfavor si te es posible"
+  },
+  {
+    "ts": 1788258297000,
+    "subscriberId": "783607667",
+    "nombreContacto": "Alejandro Pascual",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
