@@ -16525,5 +16525,40 @@
     "nombreContacto": "Psicóloga Paola Adrian",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788277833000,
+    "subscriberId": "628596222",
+    "nombreContacto": "cecilia",
+    "remitente": "contacto",
+    "texto": "Si pásame lo por favor"
+  },
+  {
+    "ts": 1788277943000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788277950000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788278016000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788278052000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "contacto",
+    "texto": "Si si también porfa"
   }
 ]
