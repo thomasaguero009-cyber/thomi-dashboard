@@ -58738,5 +58738,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "sofia coppola"
+  },
+  {
+    "ts": 1788264118000,
+    "mensaje": "Siii, pásamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1586108374",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alba Gómez | AG Fitness✨"
+  },
+  {
+    "ts": 1788264207000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2142985539",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tami"
+  },
+  {
+    "ts": 1788264211000,
+    "mensaje": "Sisaa necesito plata",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1571716214",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebastián romero"
+  },
+  {
+    "ts": 1788264408000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "422188403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Antonieta Mora Carreño"
+  },
+  {
+    "ts": 1788264588000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "699255175",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesús Zabala"
   }
 ]
