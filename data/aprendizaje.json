@@ -65268,5 +65268,435 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roxana Vasquez de Velasco"
+  },
+  {
+    "ts": 1788281717000,
+    "mensaje": "Muchas gracias Tino, como va tu día todo bien?",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "583771034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Corujo"
+  },
+  {
+    "ts": 1788281720000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1919884066",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carim Soto"
+  },
+  {
+    "ts": 1788281728000,
+    "mensaje": "Ok gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "910106357",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝚐 𝚊 𝚋 𝚢"
+  },
+  {
+    "ts": 1788281730000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "134486976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saray Dayana Marin Correa"
+  },
+  {
+    "ts": 1788281740000,
+    "mensaje": "Si xfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "306201366",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Quesada Teruel"
+  },
+  {
+    "ts": 1788281748000,
+    "mensaje": "Quiero",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1021344756",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Selarroc Artsem"
+  },
+  {
+    "ts": 1788281750000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "607133274",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yorlet Cruz"
+  },
+  {
+    "ts": 1788281775000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1380114017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pepe"
+  },
+  {
+    "ts": 1788281778000,
+    "mensaje": "BotQue edad tenes?17",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1184591764",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Anguel Huallpa Quispe"
+  },
+  {
+    "ts": 1788281784000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "783607667",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Pascual"
+  },
+  {
+    "ts": 1788281788000,
+    "mensaje": "Hola sii",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "410864286",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aby Cardozo"
+  },
+  {
+    "ts": 1788281791000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "958459862",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jeanmanuel Navarro"
+  },
+  {
+    "ts": 1788281819000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "385567653",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamil Ballester"
+  },
+  {
+    "ts": 1788281822000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1165821832",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕁𝕦𝕒𝕟⚡ℕ𝕖𝕚𝕞𝕒𝕟"
+  },
+  {
+    "ts": 1788281825000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1646037813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ingrid Camacho"
+  },
+  {
+    "ts": 1788281827000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1062294344",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nopi_idk"
+  },
+  {
+    "ts": 1788281831000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "796663050",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "guido"
+  },
+  {
+    "ts": 1788281835000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2074371093",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander Abou Assaf"
+  },
+  {
+    "ts": 1788281839000,
+    "mensaje": "Clasr",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1302446649",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Hurtado Hofer"
+  },
+  {
+    "ts": 1788281849000,
+    "mensaje": "Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "373389108",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Sosa"
+  },
+  {
+    "ts": 1788281853000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1209829123",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alex Miler"
+  },
+  {
+    "ts": 1788281858000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1532848067",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kariangela Avila de Guzman"
+  },
+  {
+    "ts": 1788281859000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1532848067",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kariangela Avila de Guzman"
+  },
+  {
+    "ts": 1788281861000,
+    "mensaje": "Me puedes enviar información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1193246128",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Abigail Berenice Alfaro Fuentes"
+  },
+  {
+    "ts": 1788281865000,
+    "mensaje": "Si por favor \nSi me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "261227226",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Danny Espinoza"
+  },
+  {
+    "ts": 1788281873000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1050535827",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Patricia Parody"
+  },
+  {
+    "ts": 1788281877000,
+    "mensaje": "Si por favor gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1579617034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isabel Sumosa"
+  },
+  {
+    "ts": 1788281893000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1110373352",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "S@bry♥♥♥"
+  },
+  {
+    "ts": 1788281898000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "293163394",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Romel David Zabala Millan"
+  },
+  {
+    "ts": 1788281902000,
+    "mensaje": "Clase François Weffer",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "300976657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "francoisweffer"
+  },
+  {
+    "ts": 1788281912000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "846040487",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yael Leder Kalej"
+  },
+  {
+    "ts": 1788281920000,
+    "mensaje": "clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1498698601",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Leon"
+  },
+  {
+    "ts": 1788281922000,
+    "mensaje": "Hola! Cómo estás? Si!, claro! Sie lo podes pasar te lo agradecería!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "834395583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Naty Di Carlo"
+  },
+  {
+    "ts": 1788281930000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1536174656",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Reyes"
+  },
+  {
+    "ts": 1788281934000,
+    "mensaje": "Si!",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "113306163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Susana"
+  },
+  {
+    "ts": 1788281939000,
+    "mensaje": "Sip",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "425747727",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "merymarquez1969"
+  },
+  {
+    "ts": 1788281948000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "265984508",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "seba.romero22"
+  },
+  {
+    "ts": 1788281953000,
+    "mensaje": "Más adelante será gracias por la atención y por su tiempo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "142098400",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julio César 🔥"
+  },
+  {
+    "ts": 1788281959000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1835588834",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Manfredi"
+  },
+  {
+    "ts": 1788281969000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "341220309",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "santiser369"
+  },
+  {
+    "ts": 1788281972000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1672221944",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Santiago 🧖"
+  },
+  {
+    "ts": 1788281978000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2073781065",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ale_garcia1977"
+  },
+  {
+    "ts": 1788282019000,
+    "mensaje": "Cómo avanzamos ?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "237764644",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Protto"
   }
 ]
