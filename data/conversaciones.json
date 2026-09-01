@@ -19836,5 +19836,12 @@
     "nombreContacto": "𝕤𝕥𝕚𝕧𝕖𝕟",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788285296000,
+    "subscriberId": "525475509",
+    "nombreContacto": "Eduardo Perdomo",
+    "remitente": "contacto",
+    "texto": "Hola"
   }
 ]

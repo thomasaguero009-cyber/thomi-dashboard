@@ -67458,5 +67458,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Fausto"
+  },
+  {
+    "ts": 1788285033000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1253043405",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicolle Blondet Parodi"
+  },
+  {
+    "ts": 1788285035000,
+    "mensaje": "Si me gustaría pero no sé cuál son las condiciones xq soy mayor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "780816533",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isabel Morachi"
+  },
+  {
+    "ts": 1788285263000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "424002996",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ʀᴀᴍɪʀᴏ"
+  },
+  {
+    "ts": 1788285269000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "600625131",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Marquez"
+  },
+  {
+    "ts": 1788285276000,
+    "mensaje": "Clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "670664087",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stefany Ramirez❤️🖤"
+  },
+  {
+    "ts": 1788285280000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "2147228081",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mario Augusto Arenas"
+  },
+  {
+    "ts": 1788285286000,
+    "mensaje": "Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "205058034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788285292000,
+    "mensaje": "CLASE",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1259201245",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pinky Saturno Galdona"
+  },
+  {
+    "ts": 1788285297000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "525475509",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo Perdomo"
   }
 ]
