@@ -11513,5 +11513,26 @@
     "nombreContacto": "Jorge Agote",
     "remitente": "contacto",
     "texto": "Buenas"
+  },
+  {
+    "ts": 1788255431000,
+    "subscriberId": "2138596583",
+    "nombreContacto": "xcdftt",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788255437000,
+    "subscriberId": "2138596583",
+    "nombreContacto": "xcdftt",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788255455000,
+    "subscriberId": "2138596583",
+    "nombreContacto": "xcdftt",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la pase?Si por favor"
   }
 ]

@@ -58278,5 +58278,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Santiago Toinga"
+  },
+  {
+    "ts": 1788255368000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1322580460",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Gonzalez"
+  },
+  {
+    "ts": 1788255371000,
+    "mensaje": "Hola me podes ayudar",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2138596583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "xcdftt"
+  },
+  {
+    "ts": 1788255371000,
+    "mensaje": "Hola me podes ayudar",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "2138596583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "xcdftt"
+  },
+  {
+    "ts": 1788255369000,
+    "mensaje": "Bueno ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1322580460",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Gonzalez"
   }
 ]
