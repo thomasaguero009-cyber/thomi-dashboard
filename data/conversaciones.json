@@ -11100,5 +11100,40 @@
     "nombreContacto": "gusano Soldati",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788204028000,
+    "subscriberId": "909823053",
+    "nombreContacto": "Metalurgica \"El Negro\"",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788204098000,
+    "subscriberId": "525445994",
+    "nombreContacto": "enrique abarca",
+    "remitente": "contacto",
+    "texto": "Mi número por WhatsApp es 95400886"
+  },
+  {
+    "ts": 1788204140000,
+    "subscriberId": "1017847471",
+    "nombreContacto": "Stiven Posadas",
+    "remitente": "contacto",
+    "texto": "Clase"
+  },
+  {
+    "ts": 1788204140000,
+    "subscriberId": "1017847471",
+    "nombreContacto": "Stiven Posadas",
+    "remitente": "contacto",
+    "texto": "Si estoy preparado"
+  },
+  {
+    "ts": 1788204178000,
+    "subscriberId": "852855766",
+    "nombreContacto": "Gilmer Osorio",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Siiii"
   }
 ]
