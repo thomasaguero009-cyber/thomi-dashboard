@@ -58078,5 +58078,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Benja🗽⛩️"
+  },
+  {
+    "ts": 1788206115000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "208904915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla"
+  },
+  {
+    "ts": 1788206128000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "632325049",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patri Sclerandi"
+  },
+  {
+    "ts": 1788206169000,
+    "mensaje": "Sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "637946104",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juliana López"
+  },
+  {
+    "ts": 1788206238000,
+    "mensaje": "Hola, sí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "417673549",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝔂𝓪𝓭𝓲𝓻._𝓸𝓯𝓯"
+  },
+  {
+    "ts": 1788206369000,
+    "mensaje": "Buenas noches, sì, sí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "604707741",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cacho Bacigalupo"
   }
 ]

@@ -11338,5 +11338,75 @@
     "nombreContacto": "Erick Villa",
     "remitente": "contacto",
     "texto": "Buenas! Si claro me interesa"
+  },
+  {
+    "ts": 1788206113000,
+    "subscriberId": "208904915",
+    "nombreContacto": "Carla",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788206176000,
+    "subscriberId": "2076281496",
+    "nombreContacto": "anais rojas",
+    "remitente": "contacto",
+    "texto": "Hola buenas  noches!  Si"
+  },
+  {
+    "ts": 1788206178000,
+    "subscriberId": "906009236",
+    "nombreContacto": "maximo_3288",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788206178000,
+    "subscriberId": "906009236",
+    "nombreContacto": "maximo_3288",
+    "remitente": "contacto",
+    "texto": "No llega nada"
+  },
+  {
+    "ts": 1788206220000,
+    "subscriberId": "47173259",
+    "nombreContacto": "Enr_bonilla6383",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788206220000,
+    "subscriberId": "47173259",
+    "nombreContacto": "Enr_bonilla6383",
+    "remitente": "contacto",
+    "texto": "??"
+  },
+  {
+    "ts": 1788206220000,
+    "subscriberId": "47173259",
+    "nombreContacto": "Enr_bonilla6383",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 23 horas"
+  },
+  {
+    "ts": 1788206220000,
+    "subscriberId": "47173259",
+    "nombreContacto": "Enr_bonilla6383",
+    "remitente": "contacto",
+    "texto": "Clase"
+  },
+  {
+    "ts": 1788206280000,
+    "subscriberId": "699244632",
+    "nombreContacto": "gazelle.9923025",
+    "remitente": "contacto",
+    "texto": "Soy de Nicaragua"
+  },
+  {
+    "ts": 1788206368000,
+    "subscriberId": "604707741",
+    "nombreContacto": "Cacho Bacigalupo",
+    "remitente": "contacto",
+    "texto": "Buenas noches, sì, sí"
   }
 ]
