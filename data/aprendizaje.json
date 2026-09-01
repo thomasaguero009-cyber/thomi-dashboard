@@ -57988,5 +57988,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roberto Junior"
+  },
+  {
+    "ts": 1788204922000,
+    "mensaje": "CLASE",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1450197077",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ℭ𝔯𝔲𝔷𝔦𝔱𝔬"
+  },
+  {
+    "ts": 1788204959000,
+    "mensaje": "Así es",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1621363360",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "lisveth"
+  },
+  {
+    "ts": 1788205117000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1716681818",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Agus Rivero"
   }
 ]
