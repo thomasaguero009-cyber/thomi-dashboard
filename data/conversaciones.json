@@ -11849,5 +11849,40 @@
     "nombreContacto": "rojasjhostin_",
     "remitente": "contacto",
     "texto": "Amigo"
+  },
+  {
+    "ts": 1788259223000,
+    "subscriberId": "768652802",
+    "nombreContacto": "Emanuel Diaz",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788259226000,
+    "subscriberId": "768652802",
+    "nombreContacto": "Emanuel Diaz",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788259237000,
+    "subscriberId": "768652802",
+    "nombreContacto": "Emanuel Diaz",
+    "remitente": "contacto",
+    "texto": "36"
+  },
+  {
+    "ts": 1788259302000,
+    "subscriberId": "768652802",
+    "nombreContacto": "Emanuel Diaz",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788259325000,
+    "subscriberId": "768652802",
+    "nombreContacto": "Emanuel Diaz",
+    "remitente": "contacto",
+    "texto": "Listo vamos pa esa"
   }
 ]
