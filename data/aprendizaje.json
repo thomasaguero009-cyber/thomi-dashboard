@@ -60078,5 +60078,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "kisg12"
+  },
+  {
+    "ts": 1788272443000,
+    "mensaje": "Siii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1521414592",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nan Gonzalez"
+  },
+  {
+    "ts": 1788272625000,
+    "mensaje": "Información por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1710776886",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ma. Cristina Alascio"
   }
 ]
