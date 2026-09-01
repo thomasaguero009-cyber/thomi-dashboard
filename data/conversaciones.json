@@ -14327,5 +14327,47 @@
     "nombreContacto": "veronica velazquez",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788269777000,
+    "subscriberId": "936370449",
+    "nombreContacto": "Santiago Caro",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788269795000,
+    "subscriberId": "1023933231",
+    "nombreContacto": "Jose Segovia",
+    "remitente": "contacto",
+    "texto": "Dele"
+  },
+  {
+    "ts": 1788269856000,
+    "subscriberId": "1023933231",
+    "nombreContacto": "Jose Segovia",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788269862000,
+    "subscriberId": "333034675",
+    "nombreContacto": "Heliany Cruz",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788269880000,
+    "subscriberId": "348831408",
+    "nombreContacto": "Uriel ángel",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788269946000,
+    "subscriberId": "2030447088",
+    "nombreContacto": "Beronica Gabriela Ojeda Inciarte",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]

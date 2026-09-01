@@ -59818,5 +59818,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nani_paoo"
+  },
+  {
+    "ts": 1788269610000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "496597895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enrique Telmo"
+  },
+  {
+    "ts": 1788269645000,
+    "mensaje": "Sii lo quiero, quiero saber como exactamente funciona todo para obtener ingresos como usted lo explica",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1247498038",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "reny Rodriguez"
+  },
+  {
+    "ts": 1788269647000,
+    "mensaje": "ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "805365690",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "veronica velazquez"
+  },
+  {
+    "ts": 1788269771000,
+    "mensaje": "Es gratis?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "396957258",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "GONZALOLIONEL"
+  },
+  {
+    "ts": 1788269776000,
+    "mensaje": "Osea me salió lo del pago pero de ahí se me perdió la página y no pude hacer más",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "936370449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago Caro"
+  },
+  {
+    "ts": 1788269821000,
+    "mensaje": "BotMensaje de audioSii perdónnn",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1013513961",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "rosario.mansilla_"
+  },
+  {
+    "ts": 1788269861000,
+    "mensaje": "Hola",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "333034675",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Heliany Cruz"
+  },
+  {
+    "ts": 1788269879000,
+    "mensaje": "BotQuerés que te la envíe?Porfavor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "348831408",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Uriel ángel"
+  },
+  {
+    "ts": 1788269882000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "348831408",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Uriel ángel"
   }
 ]
