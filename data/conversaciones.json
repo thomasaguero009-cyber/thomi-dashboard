@@ -13543,5 +13543,68 @@
     "nombreContacto": "Maria Eucaris Orozco Cardona",
     "remitente": "contacto",
     "texto": "Hola buenas tardes, si por favor"
+  },
+  {
+    "ts": 1788268265000,
+    "subscriberId": "1196263529",
+    "nombreContacto": "Sofía González",
+    "remitente": "contacto",
+    "texto": "Si!"
+  },
+  {
+    "ts": 1788268294000,
+    "subscriberId": "791931844",
+    "nombreContacto": "Gise Sosa",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788268294000,
+    "subscriberId": "791931844",
+    "nombreContacto": "Gise Sosa",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si por favor"
+  },
+  {
+    "ts": 1788268375000,
+    "subscriberId": "452550453",
+    "nombreContacto": "Silvina Coscia",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788268375000,
+    "subscriberId": "452550453",
+    "nombreContacto": "Silvina Coscia",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788268412000,
+    "subscriberId": "157194584",
+    "nombreContacto": "Gaztøn",
+    "remitente": "contacto",
+    "texto": "Es solo responder mensajes?"
+  },
+  {
+    "ts": 1788268507000,
+    "subscriberId": "1296266894",
+    "nombreContacto": "justin ruiz",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788268507000,
+    "subscriberId": "1296266894",
+    "nombreContacto": "justin ruiz",
+    "remitente": "contacto",
+    "texto": "Buenas tardes"
+  },
+  {
+    "ts": 1788268514000,
+    "subscriberId": "1296266894",
+    "nombreContacto": "justin ruiz",
+    "remitente": "contacto",
+    "texto": "Si claro estoy muy interesado"
   }
 ]
