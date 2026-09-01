@@ -17449,5 +17449,75 @@
     "nombreContacto": "v_reyes",
     "remitente": "contacto",
     "texto": "Sisi"
+  },
+  {
+    "ts": 1788280823000,
+    "subscriberId": "608050994",
+    "nombreContacto": "andres",
+    "remitente": "contacto",
+    "texto": "si porfavor"
+  },
+  {
+    "ts": 1788280879000,
+    "subscriberId": "133123586",
+    "nombreContacto": "☽ 𝔖𝔞𝔫𝔱𝔦𝔞𝔤𝔬 ℝ𝔬𝔧𝔞𝔰 ☾",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi por favor 🙏"
+  },
+  {
+    "ts": 1788280893000,
+    "subscriberId": "623744509",
+    "nombreContacto": "Rene Limon",
+    "remitente": "contacto",
+    "texto": "Oye"
+  },
+  {
+    "ts": 1788280955000,
+    "subscriberId": "2140026975",
+    "nombreContacto": "Ferreteria Parodi",
+    "remitente": "contacto",
+    "texto": "Me gustó la idea"
+  },
+  {
+    "ts": 1788281017000,
+    "subscriberId": "2140026975",
+    "nombreContacto": "Ferreteria Parodi",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788281077000,
+    "subscriberId": "1577987333",
+    "nombreContacto": "Morelba Valera",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase la clase?"
+  },
+  {
+    "ts": 1788281077000,
+    "subscriberId": "1577987333",
+    "nombreContacto": "Morelba Valera",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788281077000,
+    "subscriberId": "1577987333",
+    "nombreContacto": "Morelba Valera",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1788281077000,
+    "subscriberId": "1577987333",
+    "nombreContacto": "Morelba Valera",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788281077000,
+    "subscriberId": "1577987333",
+    "nombreContacto": "Morelba Valera",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
