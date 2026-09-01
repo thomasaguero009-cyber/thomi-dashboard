@@ -58018,5 +58018,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Agus Rivero"
+  },
+  {
+    "ts": 1788205325000,
+    "mensaje": "Hola buenas, si me lo puedes pasar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1782696219",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jano V.N."
+  },
+  {
+    "ts": 1788205327000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Quiero saber cómo!?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "226829066",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pao"
+  },
+  {
+    "ts": 1788205344000,
+    "mensaje": "Hola, si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1317868603",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "M. pájaro"
+  },
+  {
+    "ts": 1788205430000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Sí",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1269483177",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jan"
   }
 ]
