@@ -58668,5 +58668,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Rubén Alvarado"
+  },
+  {
+    "ts": 1788262841000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1130114806",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "La_López"
+  },
+  {
+    "ts": 1788262858000,
+    "mensaje": "Hola Sii estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1325263951",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ruizz_6.5"
   }
 ]
