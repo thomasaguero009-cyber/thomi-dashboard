@@ -68028,5 +68028,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "BAGUĒS_PAME"
+  },
+  {
+    "ts": 1788285953000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2039900198",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Willy botina"
+  },
+  {
+    "ts": 1788286162000,
+    "mensaje": "Hola tino, claro,pásamelo 🙏🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1848147919",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "__salinchi__"
+  },
+  {
+    "ts": 1788286184000,
+    "mensaje": "holaa.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1582217846",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raul Garcia"
   }
 ]
