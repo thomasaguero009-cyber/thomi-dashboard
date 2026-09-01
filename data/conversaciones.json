@@ -19710,5 +19710,26 @@
     "nombreContacto": "Veronica Marulanda",
     "remitente": "contacto",
     "texto": "Si me interesa"
+  },
+  {
+    "ts": 1788284664000,
+    "subscriberId": "1456406973",
+    "nombreContacto": "Alejandro Aroca \"SSECC\"",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788284685000,
+    "subscriberId": "1455962451",
+    "nombreContacto": "Ezequiel Gonzalez",
+    "remitente": "contacto",
+    "texto": "Pero como seria?"
+  },
+  {
+    "ts": 1788284699000,
+    "subscriberId": "646765654",
+    "nombreContacto": "Fausto",
+    "remitente": "contacto",
+    "texto": "Si por fa"
   }
 ]

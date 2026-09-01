@@ -67358,5 +67358,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "José B🤴🏾"
+  },
+  {
+    "ts": 1788284431000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "867133143",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zully Bittencourt"
+  },
+  {
+    "ts": 1788284435000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1412175748",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicolas Ramirez"
+  },
+  {
+    "ts": 1788284438000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1462317755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Steven Ramirez"
+  },
+  {
+    "ts": 1788284441000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1054488243",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Montes de Oca"
+  },
+  {
+    "ts": 1788284453000,
+    "mensaje": "Clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1409532098",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giacomo Accettura"
+  },
+  {
+    "ts": 1788284456000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1409532098",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giacomo Accettura"
+  },
+  {
+    "ts": 1788284462000,
+    "mensaje": "CLASE",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1834101362",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel 🌬️"
+  },
+  {
+    "ts": 1788284505000,
+    "mensaje": "Si por fa gracias 😊",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "503571018",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jennifer Herrera de Pernett"
+  },
+  {
+    "ts": 1788284503000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "716877496",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Graciela G"
+  },
+  {
+    "ts": 1788284701000,
+    "mensaje": "Si por fa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "646765654",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fausto"
   }
 ]
