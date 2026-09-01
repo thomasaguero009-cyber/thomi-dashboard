@@ -16273,5 +16273,89 @@
     "nombreContacto": "Jefferson  vasquez",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788276641000,
+    "subscriberId": "155185120",
+    "nombreContacto": "Vanessa Jurado",
+    "remitente": "contacto",
+    "texto": "Hola si"
+  },
+  {
+    "ts": 1788276696000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788276696000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaContenido no disponibleLa historia expiró hace 27 horas"
+  },
+  {
+    "ts": 1788276696000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "contacto",
+    "texto": "Clase"
+  },
+  {
+    "ts": 1788276696000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1788276696000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "contacto",
+    "texto": "Okey gracias"
+  },
+  {
+    "ts": 1788276718000,
+    "subscriberId": "413504069",
+    "nombreContacto": "ikeroreja",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioCuando puedas mándamela por favor"
+  },
+  {
+    "ts": 1788276839000,
+    "subscriberId": "1630285721",
+    "nombreContacto": "@-Xandr3.",
+    "remitente": "contacto",
+    "texto": "Si porfa me puedes pasar la clase"
+  },
+  {
+    "ts": 1788276878000,
+    "subscriberId": "1515468562",
+    "nombreContacto": "𝓛𝓾𝓾 𝓐𝓻𝓻𝓲𝓮𝓽𝓪 🦋",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788276909000,
+    "subscriberId": "981121137",
+    "nombreContacto": "Uziel Emanuel Solis",
+    "remitente": "contacto",
+    "texto": "Hola tino"
+  },
+  {
+    "ts": 1788276909000,
+    "subscriberId": "981121137",
+    "nombreContacto": "Uziel Emanuel Solis",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788276909000,
+    "subscriberId": "981121137",
+    "nombreContacto": "Uziel Emanuel Solis",
+    "remitente": "contacto",
+    "texto": "Ok"
   }
 ]
