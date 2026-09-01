@@ -58688,5 +58688,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ruizz_6.5"
+  },
+  {
+    "ts": 1788263168000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "558913943",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Osqui Pedroso"
+  },
+  {
+    "ts": 1788263246000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2125160686",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mauricio Rodriguez"
+  },
+  {
+    "ts": 1788263377000,
+    "mensaje": "Si Gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "220711801",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Orlando Morales"
+  },
+  {
+    "ts": 1788263572000,
+    "mensaje": "No pasa nada , soy un gran admirador tuyo 🤩 , me encantan tus vídeos y tus consejos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1011871825",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "XxCrisGamerxX"
   }
 ]
