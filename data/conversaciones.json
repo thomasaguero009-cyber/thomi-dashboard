@@ -12122,5 +12122,33 @@
     "nombreContacto": "🥷💢",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788261081000,
+    "subscriberId": "225619849",
+    "nombreContacto": "Diana Coronel",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1788261093000,
+    "subscriberId": "225619849",
+    "nombreContacto": "Diana Coronel",
+    "remitente": "contacto",
+    "texto": "Cómo funciona?"
+  },
+  {
+    "ts": 1788261156000,
+    "subscriberId": "225619849",
+    "nombreContacto": "Diana Coronel",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788261161000,
+    "subscriberId": "225619849",
+    "nombreContacto": "Diana Coronel",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
