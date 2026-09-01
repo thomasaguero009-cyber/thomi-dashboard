@@ -10974,5 +10974,47 @@
     "nombreContacto": "Fernando Orúe",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788203584000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788203584000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788203632000,
+    "subscriberId": "273608892",
+    "nombreContacto": "JORDAN_67427",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788203687000,
+    "subscriberId": "2057658875",
+    "nombreContacto": "PabloRamón_1106����",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788203687000,
+    "subscriberId": "2057658875",
+    "nombreContacto": "PabloRamón_1106����",
+    "remitente": "contacto",
+    "texto": "Si gracias a ti, sería un placer"
+  },
+  {
+    "ts": 1788203701000,
+    "subscriberId": "2057658875",
+    "nombreContacto": "PabloRamón_1106����",
+    "remitente": "contacto",
+    "texto": "Como lo hago ??"
   }
 ]
