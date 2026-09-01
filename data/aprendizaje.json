@@ -58788,5 +58788,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jesús Zabala"
+  },
+  {
+    "ts": 1788264801000,
+    "mensaje": "Tino",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "983326161",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Analia Godoy"
+  },
+  {
+    "ts": 1788264860000,
+    "mensaje": "Si quisiera. Pero aviso de antemano no tengo dinero para invertir",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1801329603",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marina Schibli"
   }
 ]
