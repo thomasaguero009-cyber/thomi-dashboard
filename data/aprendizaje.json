@@ -58358,5 +58358,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mica Jaureguy"
+  },
+  {
+    "ts": 1788258448000,
+    "mensaje": "Síi!",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "583771034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Corujo"
+  },
+  {
+    "ts": 1788258450000,
+    "mensaje": "Síi!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "583771034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Corujo"
+  },
+  {
+    "ts": 1788258456000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "134486976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saray Dayana Marin Correa"
+  },
+  {
+    "ts": 1788258455000,
+    "mensaje": "Si por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "134486976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saray Dayana Marin Correa"
+  },
+  {
+    "ts": 1788258458000,
+    "mensaje": "Si claro",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1466959699",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Colmenarez"
+  },
+  {
+    "ts": 1788258458000,
+    "mensaje": "Si claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1466959699",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Colmenarez"
+  },
+  {
+    "ts": 1788258510000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "583771034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Corujo"
+  },
+  {
+    "ts": 1788258510000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "583771034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Corujo"
   }
 ]
