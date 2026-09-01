@@ -11415,5 +11415,19 @@
     "nombreContacto": "Yailyn Medina",
     "remitente": "contacto",
     "texto": "Después de el de 27$ debo comprar otros libros o ya pasamos a la mentoria de las 4 semanas?"
+  },
+  {
+    "ts": 1788207787000,
+    "subscriberId": "1871638976",
+    "nombreContacto": "Ronald Rodríguez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788207857000,
+    "subscriberId": "1431717051",
+    "nombreContacto": "Jake Andrew Núñez",
+    "remitente": "contacto",
+    "texto": "Sí quiero, ayudame"
   }
 ]
