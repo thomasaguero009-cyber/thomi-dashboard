@@ -16560,5 +16560,47 @@
     "nombreContacto": "Agustín Ibarra",
     "remitente": "contacto",
     "texto": "Si si también porfa"
+  },
+  {
+    "ts": 1788278140000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788278144000,
+    "subscriberId": "1909415638",
+    "nombreContacto": "Agustín Ibarra",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788278350000,
+    "subscriberId": "1516022061",
+    "nombreContacto": "Brenn Antonini",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788278365000,
+    "subscriberId": "1374483113",
+    "nombreContacto": "Alvaro Daza",
+    "remitente": "contacto",
+    "texto": "Veo tus videos y me interesa mucho me hace mucha ilusión"
+  },
+  {
+    "ts": 1788278394000,
+    "subscriberId": "1182351168",
+    "nombreContacto": "JP",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788278394000,
+    "subscriberId": "1182351168",
+    "nombreContacto": "JP",
+    "remitente": "contacto",
+    "texto": "Si por favor"
   }
 ]
