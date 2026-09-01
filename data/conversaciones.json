@@ -12451,5 +12451,61 @@
     "nombreContacto": "Luis Alberto",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788263900000,
+    "subscriberId": "754903675",
+    "nombreContacto": "Luis Alberto",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788263994000,
+    "subscriberId": "941921544",
+    "nombreContacto": "sofia coppola",
+    "remitente": "contacto",
+    "texto": "Y gracias por responder rapido"
+  },
+  {
+    "ts": 1788263998000,
+    "subscriberId": "941921544",
+    "nombreContacto": "sofia coppola",
+    "remitente": "contacto",
+    "texto": "🌸"
+  },
+  {
+    "ts": 1788264048000,
+    "subscriberId": "941921544",
+    "nombreContacto": "sofia coppola",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788264062000,
+    "subscriberId": "941921544",
+    "nombreContacto": "sofia coppola",
+    "remitente": "contacto",
+    "texto": "BotBuenisimooo, te lo pasoGracias"
+  },
+  {
+    "ts": 1788264148000,
+    "subscriberId": "88658907",
+    "nombreContacto": "Nnohe-Perez",
+    "remitente": "contacto",
+    "texto": "Si si pásalo por favor 🙏"
+  },
+  {
+    "ts": 1788264164000,
+    "subscriberId": "779492752",
+    "nombreContacto": "Diego Roman",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788264222000,
+    "subscriberId": "1571716214",
+    "nombreContacto": "Sebastián romero",
+    "remitente": "contacto",
+    "texto": "Pero me puedes explicar como funciona más o menos"
   }
 ]
