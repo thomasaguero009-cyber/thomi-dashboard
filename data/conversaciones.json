@@ -22559,5 +22559,68 @@
     "nombreContacto": "Ayde Patricia Cuentas Hernandez",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788341149000,
+    "subscriberId": "1726289071",
+    "nombreContacto": "gordito",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788341157000,
+    "subscriberId": "1726289071",
+    "nombreContacto": "gordito",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788341227000,
+    "subscriberId": "1506953282",
+    "nombreContacto": "Rebeka LA Chiqui Gutiérrez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788341227000,
+    "subscriberId": "1506953282",
+    "nombreContacto": "Rebeka LA Chiqui Gutiérrez",
+    "remitente": "contacto",
+    "texto": "Hola buenos días si si estoy muchas gracias 😊"
+  },
+  {
+    "ts": 1788341251000,
+    "subscriberId": "1471884332",
+    "nombreContacto": "Esteban Crespo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1788341251000,
+    "subscriberId": "1471884332",
+    "nombreContacto": "Esteban Crespo",
+    "remitente": "contacto",
+    "texto": "Si porfavor"
+  },
+  {
+    "ts": 1788341356000,
+    "subscriberId": "1296705277",
+    "nombreContacto": "Anthony Kehler",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788341356000,
+    "subscriberId": "1296705277",
+    "nombreContacto": "Anthony Kehler",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788341356000,
+    "subscriberId": "1296705277",
+    "nombreContacto": "Anthony Kehler",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
