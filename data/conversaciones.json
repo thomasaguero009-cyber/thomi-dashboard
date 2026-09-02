@@ -29594,5 +29594,54 @@
     "nombreContacto": "Jeannette Leon",
     "remitente": "contacto",
     "texto": "Hola si un gusto Saludarle. Me pasas la información. Gracias"
+  },
+  {
+    "ts": 1788372638000,
+    "subscriberId": "1892611370",
+    "nombreContacto": "Liliana Paredes",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788372646000,
+    "subscriberId": "1892611370",
+    "nombreContacto": "Liliana Paredes",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788372648000,
+    "subscriberId": "1892611370",
+    "nombreContacto": "Liliana Paredes",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788372776000,
+    "subscriberId": "1353891485",
+    "nombreContacto": "damiian_sotelo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1788372776000,
+    "subscriberId": "1353891485",
+    "nombreContacto": "damiian_sotelo",
+    "remitente": "contacto",
+    "texto": "Dale pásamela"
+  },
+  {
+    "ts": 1788372850000,
+    "subscriberId": "1893886458",
+    "nombreContacto": "Geraldine Ortiz Silva",
+    "remitente": "contacto",
+    "texto": "Hola, sii"
+  },
+  {
+    "ts": 1788372904000,
+    "subscriberId": "325523565",
+    "nombreContacto": "Lorena Beckwith",
+    "remitente": "contacto",
+    "texto": "Hola si, me interesa mucho. Gracias por compartirlo"
   }
 ]
