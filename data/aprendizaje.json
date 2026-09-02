@@ -71838,5 +71838,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "¥《Jesús 》¥♧"
+  },
+  {
+    "ts": 1788347186000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "936132381",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Brizuela"
+  },
+  {
+    "ts": 1788347187000,
+    "mensaje": "Ok Sisi pasamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "936132381",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Brizuela"
+  },
+  {
+    "ts": 1788347323000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "265860037",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patagon | Casas Rodantes"
+  },
+  {
+    "ts": 1788347323000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "265860037",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patagon | Casas Rodantes"
+  },
+  {
+    "ts": 1788347380000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1354223372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bastian sinner"
+  },
+  {
+    "ts": 1788347380000,
+    "mensaje": "Si quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1354223372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bastian sinner"
   }
 ]
