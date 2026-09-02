@@ -23294,5 +23294,33 @@
     "nombreContacto": "Hamacas Del Caribe",
     "remitente": "contacto",
     "texto": "Si me interesa mucho"
+  },
+  {
+    "ts": 1788351804000,
+    "subscriberId": "2004298383",
+    "nombreContacto": "Joel Stanziola",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788351804000,
+    "subscriberId": "2004298383",
+    "nombreContacto": "Joel Stanziola",
+    "remitente": "contacto",
+    "texto": "Hola vi tu video y me interesa un par time como el que mencionando"
+  },
+  {
+    "ts": 1788351895000,
+    "subscriberId": "1015687950",
+    "nombreContacto": "Alejandra Valerio",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788351902000,
+    "subscriberId": "1015687950",
+    "nombreContacto": "Alejandra Valerio",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
