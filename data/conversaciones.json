@@ -22692,5 +22692,26 @@
     "nombreContacto": "Kilian Del Pino",
     "remitente": "agente",
     "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788345078000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1788345270000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "contacto",
+    "texto": "No al final no puedo gracias por la ayuda pero no puedo lo e pensado mejor"
+  },
+  {
+    "ts": 1788345291000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "AGENDA 📞\n 👉 AGENDA 👈"
   }
 ]
