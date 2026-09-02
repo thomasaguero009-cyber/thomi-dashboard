@@ -29643,5 +29643,47 @@
     "nombreContacto": "Lorena Beckwith",
     "remitente": "contacto",
     "texto": "Hola si, me interesa mucho. Gracias por compartirlo"
+  },
+  {
+    "ts": 1788372965000,
+    "subscriberId": "325523565",
+    "nombreContacto": "Lorena Beckwith",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788372973000,
+    "subscriberId": "325523565",
+    "nombreContacto": "Lorena Beckwith",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788373057000,
+    "subscriberId": "1309584259",
+    "nombreContacto": "Lucas",
+    "remitente": "contacto",
+    "texto": "Pásamela"
+  },
+  {
+    "ts": 1788373095000,
+    "subscriberId": "1343488541",
+    "nombreContacto": "Chris marrero",
+    "remitente": "contacto",
+    "texto": "C queda cargando y no sale de hay, me podrias ayudar"
+  },
+  {
+    "ts": 1788373095000,
+    "subscriberId": "1343488541",
+    "nombreContacto": "Chris marrero",
+    "remitente": "contacto",
+    "texto": "Buen dia tino👋"
+  },
+  {
+    "ts": 1788373095000,
+    "subscriberId": "1343488541",
+    "nombreContacto": "Chris marrero",
+    "remitente": "contacto",
+    "texto": "Este mensaje ha sido eliminado"
   }
 ]
