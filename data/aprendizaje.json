@@ -80218,5 +80218,105 @@
     "setter": "thomi",
     "pageId": "4392005",
     "nombreContacto": "diegolopez6956"
+  },
+  {
+    "ts": 1788364023000,
+    "mensaje": "Buenas tardes!!\nSi, me gustaria saber!!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1631123998",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pao Ale"
+  },
+  {
+    "ts": 1788364122000,
+    "mensaje": "Permíteme por favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "879228721",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MAGALY AGUIRRE"
+  },
+  {
+    "ts": 1788364127000,
+    "mensaje": "Pues esque no es para mí es para mí padre",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "935356582",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ethan8232"
+  },
+  {
+    "ts": 1788364132000,
+    "mensaje": "Gracias por escribirme",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2103389931",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lupe Morales"
+  },
+  {
+    "ts": 1788364146000,
+    "mensaje": "Gracias por escribirme",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2103389931",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lupe Morales"
+  },
+  {
+    "ts": 1788364155000,
+    "mensaje": "???",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "622986411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕮𝖔𝖑𝖔𝖔 "
+  },
+  {
+    "ts": 1788364182000,
+    "mensaje": "Solo una pregunta al agendar y quedar dentro de cuánto es el costo por esa ayuda ?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "296936090",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francis Rodríguez"
+  },
+  {
+    "ts": 1788364203000,
+    "mensaje": "No entendí eso de agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "336374391",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enrique de León"
+  },
+  {
+    "ts": 1788364208000,
+    "mensaje": "Estuve poniendo mis datos fui seleccionado las opciones que me daban e iban conmigo pero al último me pedí pagar 690 y no tengo el capital para poder hacerlo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "316215190",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᵉᶻᵉ 𓆰𓆪"
+  },
+  {
+    "ts": 1788364211000,
+    "mensaje": "BotTe pudiste agendar?Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2027950903",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabian Ballon Paredes"
   }
 ]
