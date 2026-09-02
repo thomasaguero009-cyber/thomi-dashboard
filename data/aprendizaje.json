@@ -73948,5 +73948,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mont Rojas"
+  },
+  {
+    "ts": 1788352398000,
+    "mensaje": "Si, claro. Por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1651086458",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marii♡"
+  },
+  {
+    "ts": 1788352410000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1052618127",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌍Edgar✈"
+  },
+  {
+    "ts": 1788352410000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1052618127",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌍Edgar✈"
+  },
+  {
+    "ts": 1788352430000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1022157911",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Ufarte Escañuela"
+  },
+  {
+    "ts": 1788352434000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1022157911",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Ufarte Escañuela"
+  },
+  {
+    "ts": 1788352445000,
+    "mensaje": "Si quiero intertalo.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "401446412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zuly Vasquez"
+  },
+  {
+    "ts": 1788352445000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "401446412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zuly Vasquez"
   }
 ]
