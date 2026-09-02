@@ -22482,5 +22482,82 @@
     "nombreContacto": "Mariela Ojeda",
     "remitente": "contacto",
     "texto": "Bien y usted?"
+  },
+  {
+    "ts": 1788340954000,
+    "subscriberId": "681061304",
+    "nombreContacto": "Jeni",
+    "remitente": "contacto",
+    "texto": "6477-7987 mi wasap"
+  },
+  {
+    "ts": 1788340955000,
+    "subscriberId": "681061304",
+    "nombreContacto": "Jeni",
+    "remitente": "contacto",
+    "texto": "Ver este mensaje en InstagramTipo de mensaje no soportado"
+  },
+  {
+    "ts": 1788340981000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788340981000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788340999000,
+    "subscriberId": "1883413337",
+    "nombreContacto": "Tania Santana | reposteria🎂",
+    "remitente": "contacto",
+    "texto": "Este mensaje ha sido eliminado"
+  },
+  {
+    "ts": 1788341002000,
+    "subscriberId": "1061741687",
+    "nombreContacto": "BASTIAN'⚡",
+    "remitente": "contacto",
+    "texto": "Soy tu fan tinooo"
+  },
+  {
+    "ts": 1788341017000,
+    "subscriberId": "1687352201",
+    "nombreContacto": "cesar",
+    "remitente": "contacto",
+    "texto": "Bueno"
+  },
+  {
+    "ts": 1788341017000,
+    "subscriberId": "1687352201",
+    "nombreContacto": "cesar",
+    "remitente": "contacto",
+    "texto": "Tengo recien 13 años y quiero emprender desde chico me va muy mal en la escuela a si que quiero aprender a ganar dinero desde chico"
+  },
+  {
+    "ts": 1788341050000,
+    "subscriberId": "457678597",
+    "nombreContacto": "JORGE HIGUERA APABLAZA",
+    "remitente": "contacto",
+    "texto": "Si, quiero"
+  },
+  {
+    "ts": 1788341063000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el certificado?"
+  },
+  {
+    "ts": 1788341063000,
+    "subscriberId": "336585065",
+    "nombreContacto": "Ayde Patricia Cuentas Hernandez",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]

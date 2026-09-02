@@ -71058,5 +71058,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "pao"
+  },
+  {
+    "ts": 1788340943000,
+    "mensaje": "Si si demás pasame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "823166995",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vale"
+  },
+  {
+    "ts": 1788340991000,
+    "mensaje": "Hola Tino, si y de que se trata bien",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1232161911",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Andres Pinta"
+  },
+  {
+    "ts": 1788341037000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1838262766",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "★yhonbPalacios★"
+  },
+  {
+    "ts": 1788341056000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1325787996",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miriam Prigione"
+  },
+  {
+    "ts": 1788341057000,
+    "mensaje": "Si, quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "457678597",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JORGE HIGUERA APABLAZA"
+  },
+  {
+    "ts": 1788341089000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1726289071",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "gordito"
   }
 ]
