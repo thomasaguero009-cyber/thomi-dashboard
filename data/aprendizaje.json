@@ -73228,5 +73228,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gabriela Norma Guillermon"
+  },
+  {
+    "ts": 1788350428000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "698471198",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angélica Torres"
+  },
+  {
+    "ts": 1788350429000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "698471198",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angélica Torres"
+  },
+  {
+    "ts": 1788350472000,
+    "mensaje": "Hola buenas tardes! Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2140696326",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Esperlazza"
+  },
+  {
+    "ts": 1788350471000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2140696326",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Esperlazza"
+  },
+  {
+    "ts": 1788350504000,
+    "mensaje": "Claro aqui estoy",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "965455731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Montelongo"
+  },
+  {
+    "ts": 1788350505000,
+    "mensaje": "Claro aqui estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "965455731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Montelongo"
+  },
+  {
+    "ts": 1788350529000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1270129454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sailin Martinez del Pino"
+  },
+  {
+    "ts": 1788350530000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1270129454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sailin Martinez del Pino"
+  },
+  {
+    "ts": 1788350596000,
+    "mensaje": "Sii pásame info",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1946784175",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pao Carinaa"
+  },
+  {
+    "ts": 1788350597000,
+    "mensaje": "Sii pásame info",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1946784175",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pao Carinaa"
+  },
+  {
+    "ts": 1788350624000,
+    "mensaje": "Sisi me la podes pasar",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "644487467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "closeee_el_menor"
+  },
+  {
+    "ts": 1788350625000,
+    "mensaje": "Sisi me la podes pasar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "644487467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "closeee_el_menor"
   }
 ]
