@@ -26941,5 +26941,26 @@
     "nombreContacto": "Lautaro Lescano",
     "remitente": "contacto",
     "texto": "BotQueres que te la pase?Si"
+  },
+  {
+    "ts": 1788364866000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788364869000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788364880000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "contacto",
+    "texto": "17"
   }
 ]
