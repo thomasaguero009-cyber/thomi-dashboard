@@ -71348,5 +71348,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "dar ,_veider"
+  },
+  {
+    "ts": 1788346218000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1765547255",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grisel Luciani"
+  },
+  {
+    "ts": 1788346218000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1765547255",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grisel Luciani"
+  },
+  {
+    "ts": 1788346224000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "317377441",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Thomas"
+  },
+  {
+    "ts": 1788346224000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "317377441",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Thomas"
+  },
+  {
+    "ts": 1788346243000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "804861271",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Cantos"
+  },
+  {
+    "ts": 1788346244000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "804861271",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Cantos"
+  },
+  {
+    "ts": 1788346275000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1974210908",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Annielys Bennett"
+  },
+  {
+    "ts": 1788346276000,
+    "mensaje": "Como es eso",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1974210908",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Annielys Bennett"
   }
 ]

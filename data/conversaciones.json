@@ -22762,5 +22762,19 @@
     "nombreContacto": "Francisco Rodriguez",
     "remitente": "contacto",
     "texto": "Disculpa la demora en responder"
+  },
+  {
+    "ts": 1788346336000,
+    "subscriberId": "1974210908",
+    "nombreContacto": "Annielys Bennett",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788346339000,
+    "subscriberId": "1974210908",
+    "nombreContacto": "Annielys Bennett",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
