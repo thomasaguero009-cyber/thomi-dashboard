@@ -27669,5 +27669,96 @@
     "nombreContacto": "Daniel OB.",
     "remitente": "contacto",
     "texto": "BotHace clic👇Esto tiene un costo?"
+  },
+  {
+    "ts": 1788366388000,
+    "subscriberId": "462057445",
+    "nombreContacto": "Keii 🌙",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366393000,
+    "subscriberId": "438625031",
+    "nombreContacto": "Jonathan Adailton Guido Silva",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366429000,
+    "subscriberId": "14695290",
+    "nombreContacto": "Pablo Racanac",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788366429000,
+    "subscriberId": "14695290",
+    "nombreContacto": "Pablo Racanac",
+    "remitente": "contacto",
+    "texto": "Si se puede preguntar porque, hay alguna restricción de edad ?"
+  },
+  {
+    "ts": 1788366454000,
+    "subscriberId": "1033955768",
+    "nombreContacto": "pablositroma",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788366454000,
+    "subscriberId": "1033955768",
+    "nombreContacto": "pablositroma",
+    "remitente": "contacto",
+    "texto": "Si me lo puedes pasar por favor"
+  },
+  {
+    "ts": 1788366462000,
+    "subscriberId": "1113490757",
+    "nombreContacto": "Karina Battistini",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366469000,
+    "subscriberId": "1113490757",
+    "nombreContacto": "Karina Battistini",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788366471000,
+    "subscriberId": "1910957614",
+    "nombreContacto": "ArgenBras.Rio",
+    "remitente": "contacto",
+    "texto": "Ver este mensaje en InstagramTipo de mensaje no soportado"
+  },
+  {
+    "ts": 1788366534000,
+    "subscriberId": "1294947531",
+    "nombreContacto": "Jóse",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366541000,
+    "subscriberId": "1615818452",
+    "nombreContacto": "Rosell Jr",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366563000,
+    "subscriberId": "1537116102",
+    "nombreContacto": "Stefany Maquilladora y peinadora profesional ✨",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en menos de una hora"
+  },
+  {
+    "ts": 1788366563000,
+    "subscriberId": "1537116102",
+    "nombreContacto": "Stefany Maquilladora y peinadora profesional ✨",
+    "remitente": "contacto",
+    "texto": "Catálogo"
   }
 ]
