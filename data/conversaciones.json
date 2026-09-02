@@ -23490,5 +23490,68 @@
     "nombreContacto": "Alex Cárcamo Gutiérrez",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788353834000,
+    "subscriberId": "1984944288",
+    "nombreContacto": "marcela.15",
+    "remitente": "contacto",
+    "texto": "Estoy"
+  },
+  {
+    "ts": 1788353849000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "contacto",
+    "texto": "tengo una pregunta"
+  },
+  {
+    "ts": 1788353855000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "contacto",
+    "texto": "soy menor de edad"
+  },
+  {
+    "ts": 1788353867000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "contacto",
+    "texto": "y quiero ganar plata"
+  },
+  {
+    "ts": 1788353878000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "contacto",
+    "texto": "como funciona el trabajo este?"
+  },
+  {
+    "ts": 1788353897000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788353904000,
+    "subscriberId": "743986196",
+    "nombreContacto": "Benja",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788353993000,
+    "subscriberId": "1079787434",
+    "nombreContacto": "🧵 Bordados • Estampados",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788354001000,
+    "subscriberId": "1079787434",
+    "nombreContacto": "🧵 Bordados • Estampados",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
