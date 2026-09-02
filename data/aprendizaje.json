@@ -80118,5 +80118,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Veronica Manfredi"
+  },
+  {
+    "ts": 1788363322000,
+    "mensaje": "Enviame las propuestas del catálogo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1728471361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "abad26_"
+  },
+  {
+    "ts": 1788363374000,
+    "mensaje": "lo veré mañana",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1016820658",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Suarez"
+  },
+  {
+    "ts": 1788363378000,
+    "mensaje": "No",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1873059833",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Felipe Ramirez"
+  },
+  {
+    "ts": 1788363425000,
+    "mensaje": "BotMensaje de audioPerfecto",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "110539867",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Quiaragua José23"
+  },
+  {
+    "ts": 1788363425000,
+    "mensaje": "BotMensaje de audioPerfecto",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "110539867",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Quiaragua José23"
+  },
+  {
+    "ts": 1788363433000,
+    "mensaje": "Estaba laurando....🙏🏻🙏🏻",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "221063247",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Collino"
+  },
+  {
+    "ts": 1788363450000,
+    "mensaje": "Te soy sincera si puede. Por el momento no puedo pagar el monto ese. Capaz mas adelante si puede vuelva a la academia. Gracias.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1307683073",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Florencia Campos"
+  },
+  {
+    "ts": 1788363462000,
+    "mensaje": "Porque me estaba cobrando oa pagiba",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1657897351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "benito"
+  },
+  {
+    "ts": 1788363509000,
+    "mensaje": "Buenas,no no gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "391624084",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yeye"
   }
 ]
