@@ -83708,5 +83708,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Patricia"
+  },
+  {
+    "ts": 1788369291000,
+    "mensaje": "Toy para aprender a ser closer",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "375850374",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joaco P "
+  },
+  {
+    "ts": 1788369293000,
+    "mensaje": "tengo realmente 17 y estoy a meses de los 18",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "183283140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nicolas"
+  },
+  {
+    "ts": 1788369297000,
+    "mensaje": "BotPor aca te podes agendarYo te escribo",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1385825406",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Bertiz"
+  },
+  {
+    "ts": 1788369299000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1314069859",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josue Carrillo"
+  },
+  {
+    "ts": 1788369304000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1713850224",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Flowers"
+  },
+  {
+    "ts": 1788369310000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "86285860",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mauricio Reina"
+  },
+  {
+    "ts": 1788369313000,
+    "mensaje": "Si, si lo quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1488477946",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristhian Diaz"
   }
 ]

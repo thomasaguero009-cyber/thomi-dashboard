@@ -28600,5 +28600,40 @@
     "nombreContacto": "bbpituqui",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788369101000,
+    "subscriberId": "1502614664",
+    "nombreContacto": "bbpituqui",
+    "remitente": "contacto",
+    "texto": "Okis"
+  },
+  {
+    "ts": 1788369189000,
+    "subscriberId": "1502614664",
+    "nombreContacto": "bbpituqui",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788369193000,
+    "subscriberId": "1502614664",
+    "nombreContacto": "bbpituqui",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788369288000,
+    "subscriberId": "375850374",
+    "nombreContacto": "Joaco P ",
+    "remitente": "contacto",
+    "texto": "Dale tino"
+  },
+  {
+    "ts": 1788369288000,
+    "subscriberId": "375850374",
+    "nombreContacto": "Joaco P ",
+    "remitente": "contacto",
+    "texto": "Toy para aprender a ser closer"
   }
 ]
