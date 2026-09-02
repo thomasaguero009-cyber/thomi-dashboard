@@ -80968,5 +80968,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "jodnyer"
+  },
+  {
+    "ts": 1788365946000,
+    "mensaje": "Si quiero aprender por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2099717057",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isabel Gonzalez"
+  },
+  {
+    "ts": 1788365982000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "524863028",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gisela Ferrero"
   }
 ]

@@ -27347,5 +27347,54 @@
     "nombreContacto": "jodnyer",
     "remitente": "contacto",
     "texto": "Catalogo"
+  },
+  {
+    "ts": 1788365764000,
+    "subscriberId": "534049961",
+    "nombreContacto": "javierhernan",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788365766000,
+    "subscriberId": "1827446193",
+    "nombreContacto": "Fer Vivar",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi me gustaría"
+  },
+  {
+    "ts": 1788365812000,
+    "subscriberId": "1733406187",
+    "nombreContacto": "тишина",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788365812000,
+    "subscriberId": "1733406187",
+    "nombreContacto": "тишина",
+    "remitente": "contacto",
+    "texto": "Sisi estoy"
+  },
+  {
+    "ts": 1788365876000,
+    "subscriberId": "187184447",
+    "nombreContacto": "roque",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788365881000,
+    "subscriberId": "187184447",
+    "nombreContacto": "roque",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788365992000,
+    "subscriberId": "464502753",
+    "nombreContacto": "Jesus Pegueros",
+    "remitente": "contacto",
+    "texto": "Si quiero aprender"
   }
 ]
