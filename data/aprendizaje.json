@@ -79678,5 +79678,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "laura gauna"
+  },
+  {
+    "ts": 1788362125000,
+    "mensaje": "Soy de Perú",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1062219201",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gutierrez Aaron"
+  },
+  {
+    "ts": 1788362127000,
+    "mensaje": "Soy de Perú",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1062219201",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gutierrez Aaron"
+  },
+  {
+    "ts": 1788362175000,
+    "mensaje": "Clase",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "242621170",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "iris Camacho uzcanga"
+  },
+  {
+    "ts": 1788362188000,
+    "mensaje": "Vi El annunzio EN tu perfil y me interessa saber de que se trata o Como tengo que hacer para  mirar si puedo trabajar",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "25917308",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "LinaeLuigi Allocca"
+  },
+  {
+    "ts": 1788362205000,
+    "mensaje": "Pa te quería preguntar si no hay forma de pagar por Apple Pay",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "743639704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "aguirrexx_js"
+  },
+  {
+    "ts": 1788362217000,
+    "mensaje": "Pero igual gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1103726288",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby"
+  },
+  {
+    "ts": 1788362222000,
+    "mensaje": "Perdón andaba editando un vídeo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2052108381",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SAG"
+  },
+  {
+    "ts": 1788362229000,
+    "mensaje": "BotMensaje de audioSiiii entendí",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1260175808",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Esteban Negrete Mejia"
+  },
+  {
+    "ts": 1788362254000,
+    "mensaje": "BotTe pudiste agendar?Solo me aparece esa pregunta nada más y no me deja avanzar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "348103736",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emax P.A"
+  },
+  {
+    "ts": 1788362363000,
+    "mensaje": "A qué hora es la clase disculpe",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2136394900",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "goz2983"
+  },
+  {
+    "ts": 1788362397000,
+    "mensaje": "Catálogo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "583144313",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑳𝒆𝒐 𝒐𝒈✞"
+  },
+  {
+    "ts": 1788362397000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1609768356",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sssrsco"
   }
 ]
