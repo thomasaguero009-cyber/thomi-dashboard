@@ -29685,5 +29685,33 @@
     "nombreContacto": "Chris marrero",
     "remitente": "contacto",
     "texto": "Este mensaje ha sido eliminado"
+  },
+  {
+    "ts": 1788373227000,
+    "subscriberId": "557425008",
+    "nombreContacto": "Sabores Argentinos",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1788373287000,
+    "subscriberId": "557425008",
+    "nombreContacto": "Sabores Argentinos",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788373294000,
+    "subscriberId": "557425008",
+    "nombreContacto": "Sabores Argentinos",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788373360000,
+    "subscriberId": "557425008",
+    "nombreContacto": "Sabores Argentinos",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
