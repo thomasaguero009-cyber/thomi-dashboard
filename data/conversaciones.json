@@ -29034,5 +29034,33 @@
     "nombreContacto": "Samuel Guerrero",
     "remitente": "contacto",
     "texto": "De una envíasela, soy de Ecuador"
+  },
+  {
+    "ts": 1788370242000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Ayúdame por favor"
+  },
+  {
+    "ts": 1788370344000,
+    "subscriberId": "655145000",
+    "nombreContacto": "Gabriel Alberto Bárcenas Carranza",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788370410000,
+    "subscriberId": "655145000",
+    "nombreContacto": "Gabriel Alberto Bárcenas Carranza",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788370516000,
+    "subscriberId": "1978342906",
+    "nombreContacto": "Kari Alvarez",
+    "remitente": "contacto",
+    "texto": "Gracias"
   }
 ]
