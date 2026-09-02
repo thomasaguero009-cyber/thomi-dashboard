@@ -25009,5 +25009,33 @@
     "nombreContacto": "leonardosegovia19",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788360354000,
+    "subscriberId": "1926625272",
+    "nombreContacto": "leonardosegovia19",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788360412000,
+    "subscriberId": "1926625272",
+    "nombreContacto": "leonardosegovia19",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1788360500000,
+    "subscriberId": "1926625272",
+    "nombreContacto": "leonardosegovia19",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788360504000,
+    "subscriberId": "1926625272",
+    "nombreContacto": "leonardosegovia19",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
