@@ -80058,5 +80058,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "ᴠᴇᴄᴄᴛ ᴠɪᴄᴛᴏʀs ᴍᴏɴᴄᴀʏᴏ 🔥"
+  },
+  {
+    "ts": 1788363149000,
+    "mensaje": "Te súper agradezco",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1412952922",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla Chaparro"
+  },
+  {
+    "ts": 1788363179000,
+    "mensaje": "Cuanto es eso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "271278488",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maithe Elena Morales"
+  },
+  {
+    "ts": 1788363184000,
+    "mensaje": "BotQuerés que te la envíe?Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2147228585",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Aguirre"
+  },
+  {
+    "ts": 1788363274000,
+    "mensaje": "Si es así",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1563218975",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Victoria"
+  },
+  {
+    "ts": 1788363283000,
+    "mensaje": "Hi, thanks for contacting us. We've received your message and appreciate you reaching out, to us. We will get back to you, very shortly.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1128222052",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Le Belle SPA"
+  },
+  {
+    "ts": 1788363306000,
+    "mensaje": "Perdón, tuve una reunión en casa, recién ahora dispongo de tiempo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1835588834",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Manfredi"
   }
 ]
