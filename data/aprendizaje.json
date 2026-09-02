@@ -89388,5 +89388,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jenifer Cuello"
+  },
+  {
+    "ts": 1788375090000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "265930140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Duarte Pereira"
+  },
+  {
+    "ts": 1788375090000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "265930140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Duarte Pereira"
+  },
+  {
+    "ts": 1788375095000,
+    "mensaje": "Hola tino quiero comprar una mentoria",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "431037020",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑱𝒐𝒂𝒌𝒐"
+  },
+  {
+    "ts": 1788375096000,
+    "mensaje": "Hola tino quiero comprar una mentoria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "431037020",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑱𝒐𝒂𝒌𝒐"
+  },
+  {
+    "ts": 1788375106000,
+    "mensaje": "Gracias hay que pagar algo para ver tu clase",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "642528435",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mildree Sandoval"
+  },
+  {
+    "ts": 1788375144000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1574662307",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝖁𝖎𝖈𝖙𝖔𝖗𝖎𝖆"
+  },
+  {
+    "ts": 1788375144000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1574662307",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝖁𝖎𝖈𝖙𝖔𝖗𝖎𝖆"
+  },
+  {
+    "ts": 1788375298000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "936132381",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Brizuela"
+  },
+  {
+    "ts": 1788375301000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "142957187",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Maria Navarro"
+  },
+  {
+    "ts": 1788375303000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "976700629",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "paola_furtado"
   }
 ]
