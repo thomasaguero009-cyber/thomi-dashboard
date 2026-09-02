@@ -27760,5 +27760,82 @@
     "nombreContacto": "Stefany Maquilladora y peinadora profesional ✨",
     "remitente": "contacto",
     "texto": "Catálogo"
+  },
+  {
+    "ts": 1788366617000,
+    "subscriberId": "1240563748",
+    "nombreContacto": "𝓕𝓻𝓪𝓷𝓬𝓲𝓼𝓬𝓸 𝓖𝓪𝓻𝓬𝓲𝓪",
+    "remitente": "contacto",
+    "texto": "Si."
+  },
+  {
+    "ts": 1788366651000,
+    "subscriberId": "132450165",
+    "nombreContacto": "Carina Gomez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788366661000,
+    "subscriberId": "1190841783",
+    "nombreContacto": "Camii Guedes",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366674000,
+    "subscriberId": "612162720",
+    "nombreContacto": "Milda luz salazar",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366700000,
+    "subscriberId": "1548420587",
+    "nombreContacto": "Deivis Pereira",
+    "remitente": "contacto",
+    "texto": "Sos un bot"
+  },
+  {
+    "ts": 1788366700000,
+    "subscriberId": "1548420587",
+    "nombreContacto": "Deivis Pereira",
+    "remitente": "contacto",
+    "texto": "?"
+  },
+  {
+    "ts": 1788366728000,
+    "subscriberId": "1082132948",
+    "nombreContacto": "Nereida Romero Gutierrez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366739000,
+    "subscriberId": "415133739",
+    "nombreContacto": "Jesica C. Mocayar",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788366758000,
+    "subscriberId": "285308078",
+    "nombreContacto": "Dianelis Rondón Palomino",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788366766000,
+    "subscriberId": "285308078",
+    "nombreContacto": "Dianelis Rondón Palomino",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788366766000,
+    "subscriberId": "285308078",
+    "nombreContacto": "Dianelis Rondón Palomino",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
