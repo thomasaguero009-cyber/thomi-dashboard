@@ -23224,5 +23224,26 @@
     "nombreContacto": "Martin Suquillo",
     "remitente": "contacto",
     "texto": "Por aquí porfavor"
+  },
+  {
+    "ts": 1788350536000,
+    "subscriberId": "1270129454",
+    "nombreContacto": "Sailin Martinez del Pino",
+    "remitente": "contacto",
+    "texto": "Hola si por favor gracias"
+  },
+  {
+    "ts": 1788350590000,
+    "subscriberId": "1270129454",
+    "nombreContacto": "Sailin Martinez del Pino",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788350692000,
+    "subscriberId": "644487467",
+    "nombreContacto": "closeee_el_menor",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
