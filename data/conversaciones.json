@@ -28635,5 +28635,33 @@
     "nombreContacto": "Joaco P ",
     "remitente": "contacto",
     "texto": "Toy para aprender a ser closer"
+  },
+  {
+    "ts": 1788369407000,
+    "subscriberId": "1750256915",
+    "nombreContacto": "Veronica Jimenez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788369415000,
+    "subscriberId": "1750256915",
+    "nombreContacto": "Veronica Jimenez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788369433000,
+    "subscriberId": "1613169122",
+    "nombreContacto": "Carolina Perez",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788369483000,
+    "subscriberId": "1328783388",
+    "nombreContacto": "GABRIEL",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
   }
 ]
