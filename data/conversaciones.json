@@ -23266,5 +23266,33 @@
     "nombreContacto": "Lau Echeverry",
     "remitente": "contacto",
     "texto": "Info"
+  },
+  {
+    "ts": 1788351352000,
+    "subscriberId": "1397148578",
+    "nombreContacto": "Lau Echeverry",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788351356000,
+    "subscriberId": "1397148578",
+    "nombreContacto": "Lau Echeverry",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788351371000,
+    "subscriberId": "1397148578",
+    "nombreContacto": "Lau Echeverry",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1788351413000,
+    "subscriberId": "931656547",
+    "nombreContacto": "Hamacas Del Caribe",
+    "remitente": "contacto",
+    "texto": "Si me interesa mucho"
   }
 ]
