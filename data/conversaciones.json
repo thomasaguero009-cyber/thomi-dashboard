@@ -22748,5 +22748,19 @@
     "nombreContacto": "Feovane",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788346096000,
+    "subscriberId": "658608244",
+    "nombreContacto": "Valentina Pedraza",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Si, gracias"
+  },
+  {
+    "ts": 1788346168000,
+    "subscriberId": "1064188687",
+    "nombreContacto": "Francisco Rodriguez",
+    "remitente": "contacto",
+    "texto": "Disculpa la demora en responder"
   }
 ]

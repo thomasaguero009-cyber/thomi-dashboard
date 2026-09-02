@@ -71198,5 +71198,155 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ariel Denis"
+  },
+  {
+    "ts": 1788345930000,
+    "mensaje": "Oki sería genial",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "208571954",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "samira saar"
+  },
+  {
+    "ts": 1788345937000,
+    "mensaje": "BotMensaje de audioPor favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1629095833",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Moisés Ale"
+  },
+  {
+    "ts": 1788345955000,
+    "mensaje": "Si gracias !",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1364451766",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zoe Ganoza"
+  },
+  {
+    "ts": 1788346090000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "658608244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentina Pedraza"
+  },
+  {
+    "ts": 1788346091000,
+    "mensaje": "Buenos días",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "658608244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentina Pedraza"
+  },
+  {
+    "ts": 1788346115000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1836525834",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_snuki_666"
+  },
+  {
+    "ts": 1788346115000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1836525834",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_snuki_666"
+  },
+  {
+    "ts": 1788346155000,
+    "mensaje": "Y adonde te mando",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "447708550",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mel Charras"
+  },
+  {
+    "ts": 1788346155000,
+    "mensaje": "Y adonde te mando",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "447708550",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mel Charras"
+  },
+  {
+    "ts": 1788346162000,
+    "mensaje": "Buenaas me podrías ayudar porfavor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "298158755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian"
+  },
+  {
+    "ts": 1788346162000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "298158755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian"
+  },
+  {
+    "ts": 1788346164000,
+    "mensaje": "Si por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1064188687",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Rodriguez"
+  },
+  {
+    "ts": 1788346164000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1064188687",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Rodriguez"
+  },
+  {
+    "ts": 1788346171000,
+    "mensaje": "Si pásame me interesa generar ingreso xq como está argentina tenemos que tener mínimo 4 trabajo jajaja",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1217399639",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dar ,_veider"
+  },
+  {
+    "ts": 1788346171000,
+    "mensaje": "Si pásame me interesa generar ingreso xq como está argentina tenemos que tener mínimo 4 trabajo jajaja",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1217399639",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dar ,_veider"
   }
 ]
