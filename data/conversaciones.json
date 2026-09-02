@@ -22622,5 +22622,47 @@
     "nombreContacto": "Anthony Kehler",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788341462000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788341477000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "contacto",
+    "texto": "BotBuenisimooo, te lo pasoGraciassss"
+  },
+  {
+    "ts": 1788341528000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788341581000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "contacto",
+    "texto": "Vega vale"
+  },
+  {
+    "ts": 1788341669000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788341672000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
