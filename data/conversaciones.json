@@ -29888,5 +29888,47 @@
     "nombreContacto": "Cristopher Garcia",
     "remitente": "contacto",
     "texto": "Catálogo"
+  },
+  {
+    "ts": 1788374138000,
+    "subscriberId": "1300620405",
+    "nombreContacto": "Shareth Copa",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788374144000,
+    "subscriberId": "40229314",
+    "nombreContacto": "Debra Belloso",
+    "remitente": "contacto",
+    "texto": "Lo acabo de ver el mensaje"
+  },
+  {
+    "ts": 1788374161000,
+    "subscriberId": "40229314",
+    "nombreContacto": "Debra Belloso",
+    "remitente": "contacto",
+    "texto": "Me lo puedes enviar ? Estoy full interesada"
+  },
+  {
+    "ts": 1788374219000,
+    "subscriberId": "1029179625",
+    "nombreContacto": "Eliana Gómez C",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1788374248000,
+    "subscriberId": "432468612",
+    "nombreContacto": "Argenis Gonzalez",
+    "remitente": "contacto",
+    "texto": "Si estoy"
+  },
+  {
+    "ts": 1788374411000,
+    "subscriberId": "1464305398",
+    "nombreContacto": "rocy16968",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
