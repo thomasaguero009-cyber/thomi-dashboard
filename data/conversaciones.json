@@ -22776,5 +22776,47 @@
     "nombreContacto": "Annielys Bennett",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788346722000,
+    "subscriberId": "1193525726",
+    "nombreContacto": "Gaby Labadie",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788346730000,
+    "subscriberId": "1193525726",
+    "nombreContacto": "Gaby Labadie",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788346740000,
+    "subscriberId": "1300374688",
+    "nombreContacto": "Brayan Martinez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas"
+  },
+  {
+    "ts": 1788346740000,
+    "subscriberId": "1300374688",
+    "nombreContacto": "Brayan Martinez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788346740000,
+    "subscriberId": "1300374688",
+    "nombreContacto": "Brayan Martinez",
+    "remitente": "contacto",
+    "texto": "Hola buenas\nSi por favor"
+  },
+  {
+    "ts": 1788346784000,
+    "subscriberId": "2052480421",
+    "nombreContacto": "María Alfaro",
+    "remitente": "contacto",
+    "texto": "Si quiero"
   }
 ]

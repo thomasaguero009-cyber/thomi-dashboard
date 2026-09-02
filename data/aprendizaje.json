@@ -71428,5 +71428,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Annielys Bennett"
+  },
+  {
+    "ts": 1788346611000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "260723838",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yesi PM"
+  },
+  {
+    "ts": 1788346611000,
+    "mensaje": "Buenas me pasas info de cómo es ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "260723838",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yesi PM"
+  },
+  {
+    "ts": 1788346662000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1193525726",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Labadie"
+  },
+  {
+    "ts": 1788346662000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1193525726",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Labadie"
+  },
+  {
+    "ts": 1788346734000,
+    "mensaje": "Si dale, gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "711825988",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "german rodrigo Fraccarolli"
+  },
+  {
+    "ts": 1788346735000,
+    "mensaje": "Si dale, gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "711825988",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "german rodrigo Fraccarolli"
+  },
+  {
+    "ts": 1788346739000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1300374688",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brayan Martinez"
+  },
+  {
+    "ts": 1788346755000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1453453561",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kevin Anthony caballero Quispe"
+  },
+  {
+    "ts": 1788346756000,
+    "mensaje": "Hola Tino vengo del vídeo de Youtube me pasas las 60 preguntas porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1453453561",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kevin Anthony caballero Quispe"
+  },
+  {
+    "ts": 1788346778000,
+    "mensaje": "Ok gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2052480421",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "María Alfaro"
+  },
+  {
+    "ts": 1788346777000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2052480421",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "María Alfaro"
   }
 ]
