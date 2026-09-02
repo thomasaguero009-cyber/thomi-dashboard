@@ -76328,5 +76328,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Centro Holístico Palmera Azul"
+  },
+  {
+    "ts": 1788355813000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1645927522",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Centro Holístico Palmera Azul"
+  },
+  {
+    "ts": 1788355827000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1291647835",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Susana Nuñez"
+  },
+  {
+    "ts": 1788355828000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1291647835",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Susana Nuñez"
+  },
+  {
+    "ts": 1788355871000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1903202454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CONSTRUCTORA ESPACIO ARQ"
+  },
+  {
+    "ts": 1788355872000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1903202454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CONSTRUCTORA ESPACIO ARQ"
+  },
+  {
+    "ts": 1788356080000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "113394840",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yanevelazquez"
+  },
+  {
+    "ts": 1788356081000,
+    "mensaje": "Asi es",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "113394840",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yanevelazquez"
+  },
+  {
+    "ts": 1788356083000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "341893034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Perez"
+  },
+  {
+    "ts": 1788356093000,
+    "mensaje": "Me pasas el listado o es captación para vender algo?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "568930589",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valerie Ledgard"
+  },
+  {
+    "ts": 1788356093000,
+    "mensaje": "Me pasas el listado o es captación para vender algo?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "568930589",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valerie Ledgard"
   }
 ]
