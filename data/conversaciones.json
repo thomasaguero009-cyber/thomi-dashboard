@@ -29279,5 +29279,82 @@
     "nombreContacto": "Santamaria Maycol",
     "remitente": "contacto",
     "texto": "Por favor"
+  },
+  {
+    "ts": 1788372029000,
+    "subscriberId": "620077017",
+    "nombreContacto": "Liliana Seijas",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788372080000,
+    "subscriberId": "1378303841",
+    "nombreContacto": "Santamaria Maycol",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788372088000,
+    "subscriberId": "1378303841",
+    "nombreContacto": "Santamaria Maycol",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788372113000,
+    "subscriberId": "1750184801",
+    "nombreContacto": "andrea Francisco",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788372113000,
+    "subscriberId": "1750184801",
+    "nombreContacto": "andrea Francisco",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788372217000,
+    "subscriberId": "411465709",
+    "nombreContacto": "José Ismael Avilez",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788372217000,
+    "subscriberId": "411465709",
+    "nombreContacto": "José Ismael Avilez",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioPásamela"
+  },
+  {
+    "ts": 1788372225000,
+    "subscriberId": "1696551296",
+    "nombreContacto": "santi maciel",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788372232000,
+    "subscriberId": "1696551296",
+    "nombreContacto": "santi maciel",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788372291000,
+    "subscriberId": "1710532538",
+    "nombreContacto": "Ruby Sugobono Stephen",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo. Gracias"
+  },
+  {
+    "ts": 1788372291000,
+    "subscriberId": "1710532538",
+    "nombreContacto": "Ruby Sugobono Stephen",
+    "remitente": "contacto",
+    "texto": "Si claro"
   }
 ]
