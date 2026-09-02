@@ -23245,5 +23245,26 @@
     "nombreContacto": "closeee_el_menor",
     "remitente": "agente",
     "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788351161000,
+    "subscriberId": "19405362",
+    "nombreContacto": "María Del Carmen Luna",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788351169000,
+    "subscriberId": "19405362",
+    "nombreContacto": "María Del Carmen Luna",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788351295000,
+    "subscriberId": "1397148578",
+    "nombreContacto": "Lau Echeverry",
+    "remitente": "contacto",
+    "texto": "Info"
   }
 ]
