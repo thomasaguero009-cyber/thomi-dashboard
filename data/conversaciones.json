@@ -22713,5 +22713,40 @@
     "nombreContacto": "Kilian Del Pino",
     "remitente": "agente",
     "texto": "AGENDA 📞\n 👉 AGENDA 👈"
+  },
+  {
+    "ts": 1788345618000,
+    "subscriberId": "1666691059",
+    "nombreContacto": "Gabriela Gomez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788345618000,
+    "subscriberId": "1666691059",
+    "nombreContacto": "Gabriela Gomez",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788345779000,
+    "subscriberId": "896273409",
+    "nombreContacto": "Yanelis Guzman",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788345866000,
+    "subscriberId": "1974243949",
+    "nombreContacto": "Feovane",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788345874000,
+    "subscriberId": "1974243949",
+    "nombreContacto": "Feovane",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]

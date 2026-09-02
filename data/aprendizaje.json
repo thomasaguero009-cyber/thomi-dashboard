@@ -71138,5 +71138,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "May Merino"
+  },
+  {
+    "ts": 1788345618000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1666691059",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriela Gomez"
+  },
+  {
+    "ts": 1788345685000,
+    "mensaje": "Si pásamelo, pero tengo que pagar algo o es gratis?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1601094653",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Mario Abraham Velázquez"
+  },
+  {
+    "ts": 1788345787000,
+    "mensaje": "Cómo genero dinero en Venezuela \nQue me recomiendas?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "493463767",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Savid Eduardo Delgado Delgado"
+  },
+  {
+    "ts": 1788345806000,
+    "mensaje": "Holaa si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1974243949",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Feovane"
+  },
+  {
+    "ts": 1788345896000,
+    "mensaje": "Hola de que trata su publicación.??\nGracias.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "426444008",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ansay Berrios Villanueva..💙💙💙"
+  },
+  {
+    "ts": 1788345915000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2061832410",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel Denis"
   }
 ]
