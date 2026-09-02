@@ -78828,5 +78828,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Paola Rodriguez"
+  },
+  {
+    "ts": 1788360116000,
+    "mensaje": "Pasamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1276296499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "analia"
+  },
+  {
+    "ts": 1788360117000,
+    "mensaje": "Hola buenas tardes dale si si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1291188057",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucrecia Fernanda Mario Arrarte"
+  },
+  {
+    "ts": 1788360119000,
+    "mensaje": "Buenas😊ok muchas gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1353790744",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "escalonagutierrezyanara"
+  },
+  {
+    "ts": 1788360128000,
+    "mensaje": "Interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1910265035",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamile Mere"
+  },
+  {
+    "ts": 1788360176000,
+    "mensaje": "Sisi porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "691742759",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ivette"
+  },
+  {
+    "ts": 1788360216000,
+    "mensaje": "Hola ...si gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2124098099",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "hoxana"
+  },
+  {
+    "ts": 1788360218000,
+    "mensaje": "Si estoy me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1926625272",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "leonardosegovia19"
   }
 ]
