@@ -85758,5 +85758,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Bill ruggiero"
+  },
+  {
+    "ts": 1788370522000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1212224891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "zoé farias"
+  },
+  {
+    "ts": 1788370524000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1473008653",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Javier Gallegos"
+  },
+  {
+    "ts": 1788370617000,
+    "mensaje": "Soy tu fan",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "319354063",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "G I A N⁷⁷⁷"
   }
 ]
