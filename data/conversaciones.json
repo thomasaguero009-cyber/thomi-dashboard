@@ -22664,5 +22664,26 @@
     "nombreContacto": "Kilian Del Pino",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788341722000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "contacto",
+    "texto": "Tengo 18"
+  },
+  {
+    "ts": 1788341789000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788341835000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioVale ya te voy diciendo"
   }
 ]
