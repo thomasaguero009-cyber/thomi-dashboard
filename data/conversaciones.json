@@ -28145,5 +28145,54 @@
     "nombreContacto": "Grexi maria zambrano velez",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788368222000,
+    "subscriberId": "1218988208",
+    "nombreContacto": "Marcela R Muniz Carvajal",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788368229000,
+    "subscriberId": "1218988208",
+    "nombreContacto": "Marcela R Muniz Carvajal",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788368295000,
+    "subscriberId": "1218988208",
+    "nombreContacto": "Marcela R Muniz Carvajal",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788368306000,
+    "subscriberId": "2029953894",
+    "nombreContacto": "Ruby Wong",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1788368353000,
+    "subscriberId": "1276066643",
+    "nombreContacto": "Flower👀",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788368414000,
+    "subscriberId": "1276066643",
+    "nombreContacto": "Flower👀",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788368420000,
+    "subscriberId": "1276066643",
+    "nombreContacto": "Flower👀",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
