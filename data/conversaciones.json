@@ -29237,5 +29237,47 @@
     "nombreContacto": "Yas_hdez",
     "remitente": "contacto",
     "texto": "Hola si, una disculpa apenas logre ver el mensaje"
+  },
+  {
+    "ts": 1788371741000,
+    "subscriberId": "2125771225",
+    "nombreContacto": "Joshua",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioMe la puedes mandar"
+  },
+  {
+    "ts": 1788371754000,
+    "subscriberId": "2125771225",
+    "nombreContacto": "Joshua",
+    "remitente": "contacto",
+    "texto": "Por favor tino"
+  },
+  {
+    "ts": 1788371827000,
+    "subscriberId": "1773034578",
+    "nombreContacto": "RPL",
+    "remitente": "contacto",
+    "texto": "Sí por favor, ¡me puedes ayudar! Gracias 👌👌🙏🙏"
+  },
+  {
+    "ts": 1788371870000,
+    "subscriberId": "494408510",
+    "nombreContacto": "N👁£",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi, gracias"
+  },
+  {
+    "ts": 1788372007000,
+    "subscriberId": "739888980",
+    "nombreContacto": "Gustavo Piglia",
+    "remitente": "contacto",
+    "texto": "Yo"
+  },
+  {
+    "ts": 1788372021000,
+    "subscriberId": "1378303841",
+    "nombreContacto": "Santamaria Maycol",
+    "remitente": "contacto",
+    "texto": "Por favor"
   }
 ]
