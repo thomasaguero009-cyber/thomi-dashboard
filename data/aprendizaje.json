@@ -80318,5 +80318,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Fabian Ballon Paredes"
+  },
+  {
+    "ts": 1788364237000,
+    "mensaje": "Esas cosas son pagas no cuento con el recurso para pagar eso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2097193258",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gonzalez Daurimar"
+  },
+  {
+    "ts": 1788364265000,
+    "mensaje": "Dame un momento",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1758193463",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐬𝐚𝐧𝐭𝐢𝐚𝐠𝐨"
+  },
+  {
+    "ts": 1788364270000,
+    "mensaje": "Gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "973660933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maricela Zota"
+  },
+  {
+    "ts": 1788364274000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1429956589",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Davila Javier Kelvin"
+  },
+  {
+    "ts": 1788364277000,
+    "mensaje": "No me gusta hacer perder el tiempo a la gente que tomo mucho tiempo en llegar tan lejos",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1158725149",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elitaa✨"
+  },
+  {
+    "ts": 1788364332000,
+    "mensaje": "No aun no me agende",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "593419419",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcela Bautista"
   }
 ]
