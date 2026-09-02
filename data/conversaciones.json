@@ -22685,5 +22685,12 @@
     "nombreContacto": "Kilian Del Pino",
     "remitente": "contacto",
     "texto": "BotMensaje de audioVale ya te voy diciendo"
+  },
+  {
+    "ts": 1788343036000,
+    "subscriberId": "732595511",
+    "nombreContacto": "Kilian Del Pino",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
   }
 ]
