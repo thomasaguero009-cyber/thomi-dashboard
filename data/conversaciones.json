@@ -23427,5 +23427,26 @@
     "nombreContacto": "Virginia",
     "remitente": "contacto",
     "texto": "Tienes el catálogo?"
+  },
+  {
+    "ts": 1788353241000,
+    "subscriberId": "386415637",
+    "nombreContacto": "error !",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788353249000,
+    "subscriberId": "386415637",
+    "nombreContacto": "error !",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788353406000,
+    "subscriberId": "2012902314",
+    "nombreContacto": "pedrito1836292",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
