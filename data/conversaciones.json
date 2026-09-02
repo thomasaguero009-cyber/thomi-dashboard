@@ -23098,5 +23098,82 @@
     "nombreContacto": "𝒻𝑒𝓁𝒾𝒸𝒾𝓉𝒶𝓈_𝑔𝒶𝓂𝒶𝓇𝓇𝒶🤍",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788349855000,
+    "subscriberId": "2025307254",
+    "nombreContacto": "𝒻𝑒𝓁𝒾𝒸𝒾𝓉𝒶𝓈_𝑔𝒶𝓂𝒶𝓇𝓇𝒶🤍",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788349859000,
+    "subscriberId": "2025307254",
+    "nombreContacto": "𝒻𝑒𝓁𝒾𝒸𝒾𝓉𝒶𝓈_𝑔𝒶𝓂𝒶𝓇𝓇𝒶🤍",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788349868000,
+    "subscriberId": "2025307254",
+    "nombreContacto": "𝒻𝑒𝓁𝒾𝒸𝒾𝓉𝒶𝓈_𝑔𝒶𝓂𝒶𝓇𝓇𝒶🤍",
+    "remitente": "contacto",
+    "texto": "23"
+  },
+  {
+    "ts": 1788349874000,
+    "subscriberId": "2025307254",
+    "nombreContacto": "𝒻𝑒𝓁𝒾𝒸𝒾𝓉𝒶𝓈_𝑔𝒶𝓂𝒶𝓇𝓇𝒶🤍",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1788349987000,
+    "subscriberId": "280126128",
+    "nombreContacto": "Natasha M. 🤍",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788349990000,
+    "subscriberId": "280126128",
+    "nombreContacto": "Natasha M. 🤍",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788350030000,
+    "subscriberId": "718090559",
+    "nombreContacto": "Darx.👼🏻",
+    "remitente": "contacto",
+    "texto": "pero eso es de verdad?"
+  },
+  {
+    "ts": 1788350040000,
+    "subscriberId": "1846656048",
+    "nombreContacto": "Daniel Mendez",
+    "remitente": "contacto",
+    "texto": "Hola buenas tardes quiero empezar a vender me ayudas"
+  },
+  {
+    "ts": 1788350054000,
+    "subscriberId": "1593984064",
+    "nombreContacto": "Maxi Esteban",
+    "remitente": "contacto",
+    "texto": "Tino"
+  },
+  {
+    "ts": 1788350054000,
+    "subscriberId": "1593984064",
+    "nombreContacto": "Maxi Esteban",
+    "remitente": "contacto",
+    "texto": "Buenas tardes"
+  },
+  {
+    "ts": 1788350076000,
+    "subscriberId": "1593984064",
+    "nombreContacto": "Maxi Esteban",
+    "remitente": "contacto",
+    "texto": "Vi los videos tuyos de como generar ingresos?"
   }
 ]
