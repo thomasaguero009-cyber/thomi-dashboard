@@ -22818,5 +22818,33 @@
     "nombreContacto": "María Alfaro",
     "remitente": "contacto",
     "texto": "Si quiero"
+  },
+  {
+    "ts": 1788346838000,
+    "subscriberId": "2052480421",
+    "nombreContacto": "María Alfaro",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788346926000,
+    "subscriberId": "1877531279",
+    "nombreContacto": "Antonello",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788346933000,
+    "subscriberId": "1877531279",
+    "nombreContacto": "Antonello",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788347067000,
+    "subscriberId": "1969797453",
+    "nombreContacto": "Gaston Pereyra",
+    "remitente": "contacto",
+    "texto": "Nesesito generar money"
   }
 ]
