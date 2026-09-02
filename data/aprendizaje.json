@@ -80378,5 +80378,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Marcela Bautista"
+  },
+  {
+    "ts": 1788364564000,
+    "mensaje": "claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1260394025",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JCarlos Petit"
+  },
+  {
+    "ts": 1788364571000,
+    "mensaje": "Hola,si por favor,me gustaria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "358750815",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dany Calvo"
+  },
+  {
+    "ts": 1788364626000,
+    "mensaje": "Me interesa mucho",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "128194525",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Víctor Figueredo"
+  },
+  {
+    "ts": 1788364692000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1473518067",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lautaro Lescano"
   }
 ]

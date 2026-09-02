@@ -26892,5 +26892,54 @@
     "nombreContacto": "Viviana Daniele",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788364523000,
+    "subscriberId": "1255225119",
+    "nombreContacto": "Viviana Daniele",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788364572000,
+    "subscriberId": "358750815",
+    "nombreContacto": "Dany Calvo",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788364632000,
+    "subscriberId": "1232548071",
+    "nombreContacto": "cejascee",
+    "remitente": "contacto",
+    "texto": "si quiero"
+  },
+  {
+    "ts": 1788364691000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788364752000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788364758000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788364777000,
+    "subscriberId": "1473518067",
+    "nombreContacto": "Lautaro Lescano",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la pase?Si"
   }
 ]
