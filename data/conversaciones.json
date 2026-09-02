@@ -22930,5 +22930,40 @@
     "nombreContacto": "v_i_v_i_a_n_a",
     "remitente": "agente",
     "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788348314000,
+    "subscriberId": "595352657",
+    "nombreContacto": "v_i_v_i_a_n_a",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788348384000,
+    "subscriberId": "595352657",
+    "nombreContacto": "v_i_v_i_a_n_a",
+    "remitente": "contacto",
+    "texto": "Sii enviame veo todos tus videos y los de tu novia son unos jenios los dos."
+  },
+  {
+    "ts": 1788348496000,
+    "subscriberId": "522745105",
+    "nombreContacto": "Rene BM",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788348502000,
+    "subscriberId": "522745105",
+    "nombreContacto": "Rene BM",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788348516000,
+    "subscriberId": "522745105",
+    "nombreContacto": "Rene BM",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la pase?Si por favor"
   }
 ]

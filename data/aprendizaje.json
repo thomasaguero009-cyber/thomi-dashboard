@@ -72448,5 +72448,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "v_i_v_i_a_n_a"
+  },
+  {
+    "ts": 1788348418000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1710494943",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Amëricä Môssô"
+  },
+  {
+    "ts": 1788348419000,
+    "mensaje": "Hola, buenos días ☀️ \nSi me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1710494943",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Amëricä Môssô"
+  },
+  {
+    "ts": 1788348436000,
+    "mensaje": "Si quiero saber",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "522745105",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rene BM"
+  },
+  {
+    "ts": 1788348437000,
+    "mensaje": "Si quiero saber",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "522745105",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rene BM"
+  },
+  {
+    "ts": 1788348579000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1438263499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Ramon Martín Cañas"
+  },
+  {
+    "ts": 1788348581000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1438263499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Ramon Martín Cañas"
+  },
+  {
+    "ts": 1788348596000,
+    "mensaje": "Y mira Tino se q es un bot lo q responde ahora pero estoy vendiendo galletitas para juntar plata para ayudr a mi mamá q me está mandando para vivir en una pension en brasil porque me surgió la posibilidad de jugar profesionalmente y bueno si conoces a alguien que pueda prestar plata yo te juro q se la devuelvo gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "466206961",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dedé Duarte"
+  },
+  {
+    "ts": 1788348597000,
+    "mensaje": "Y mira Tino se q es un bot lo q responde ahora pero estoy vendiendo galletitas para juntar plata para ayudr a mi mamá q me está mandando para vivir en una pension en brasil porque me surgió la posibilidad de jugar profesionalmente y bueno si conoces a alguien que pueda prestar plata yo te juro q se la devuelvo gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "466206961",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dedé Duarte"
   }
 ]
