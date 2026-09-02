@@ -28971,5 +28971,68 @@
     "nombreContacto": "Alex",
     "remitente": "contacto",
     "texto": "Si me parece exelente"
+  },
+  {
+    "ts": 1788369960000,
+    "subscriberId": "1480234683",
+    "nombreContacto": "Eduardo Monteleone",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788370042000,
+    "subscriberId": "700024386",
+    "nombreContacto": "Imanol Bustillo",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Okey"
+  },
+  {
+    "ts": 1788370044000,
+    "subscriberId": "1449649328",
+    "nombreContacto": "Luisa Martinez Marykay",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788370047000,
+    "subscriberId": "700024386",
+    "nombreContacto": "Imanol Bustillo",
+    "remitente": "contacto",
+    "texto": "Pasame los datos"
+  },
+  {
+    "ts": 1788370061000,
+    "subscriberId": "792791617",
+    "nombreContacto": "Elma Valentina Vega",
+    "remitente": "contacto",
+    "texto": "Me contas un poquito"
+  },
+  {
+    "ts": 1788370144000,
+    "subscriberId": "1937483838",
+    "nombreContacto": "Daniel Segovia",
+    "remitente": "contacto",
+    "texto": "Si quiero saber como"
+  },
+  {
+    "ts": 1788370186000,
+    "subscriberId": "1937483838",
+    "nombreContacto": "Daniel Segovia",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788370188000,
+    "subscriberId": "1667185129",
+    "nombreContacto": "Facundo",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788370202000,
+    "subscriberId": "1730492445",
+    "nombreContacto": "Samuel Guerrero",
+    "remitente": "contacto",
+    "texto": "De una envíasela, soy de Ecuador"
   }
 ]
