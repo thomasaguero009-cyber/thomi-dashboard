@@ -33311,5 +33311,82 @@
     "nombreContacto": "Ana Valente",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788442520000,
+    "subscriberId": "1632660027",
+    "nombreContacto": "Monica Machado",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788442528000,
+    "subscriberId": "1632660027",
+    "nombreContacto": "Monica Machado",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788442621000,
+    "subscriberId": "2094375731",
+    "nombreContacto": "Rafael Francisco Hurtado Yanez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788442629000,
+    "subscriberId": "2094375731",
+    "nombreContacto": "Rafael Francisco Hurtado Yanez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788442695000,
+    "subscriberId": "2094375731",
+    "nombreContacto": "Rafael Francisco Hurtado Yanez",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788442741000,
+    "subscriberId": "2094375731",
+    "nombreContacto": "Rafael Francisco Hurtado Yanez",
+    "remitente": "contacto",
+    "texto": "Si x favor"
+  },
+  {
+    "ts": 1788442752000,
+    "subscriberId": "38841726",
+    "nombreContacto": "Fernando Bellorin",
+    "remitente": "contacto",
+    "texto": "Como se hace para lo del WhatsApp"
+  },
+  {
+    "ts": 1788442774000,
+    "subscriberId": "1409287673",
+    "nombreContacto": "seba  montaña",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788442804000,
+    "subscriberId": "38841726",
+    "nombreContacto": "Fernando Bellorin",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788442811000,
+    "subscriberId": "898999403",
+    "nombreContacto": "Gustavo Orellana",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788442811000,
+    "subscriberId": "38841726",
+    "nombreContacto": "Fernando Bellorin",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
