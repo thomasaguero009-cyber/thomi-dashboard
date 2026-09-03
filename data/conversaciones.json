@@ -30847,5 +30847,40 @@
     "nombreContacto": "JeSi Buiatti",
     "remitente": "contacto",
     "texto": "Yo envié la palabra catálogo"
+  },
+  {
+    "ts": 1788379228000,
+    "subscriberId": "2008309606",
+    "nombreContacto": "Natalia Sarli",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788379232000,
+    "subscriberId": "2008309606",
+    "nombreContacto": "Natalia Sarli",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788379383000,
+    "subscriberId": "1794671181",
+    "nombreContacto": "Axel Carrillo",
+    "remitente": "contacto",
+    "texto": "Gracias tino"
+  },
+  {
+    "ts": 1788379387000,
+    "subscriberId": "1794671181",
+    "nombreContacto": "Axel Carrillo",
+    "remitente": "contacto",
+    "texto": "Soy tu fan"
+  },
+  {
+    "ts": 1788379395000,
+    "subscriberId": "2140415643",
+    "nombreContacto": "Steven Zapata",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi estoy 💐🌹"
   }
 ]
