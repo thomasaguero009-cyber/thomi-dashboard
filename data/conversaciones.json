@@ -32184,5 +32184,40 @@
     "nombreContacto": "Cheila Leon",
     "remitente": "contacto",
     "texto": "BotBuenas! vi tu comentario estas para que te pase la clase?Si"
+  },
+  {
+    "ts": 1788437203000,
+    "subscriberId": "313425620",
+    "nombreContacto": "Jimmy Curo",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788437211000,
+    "subscriberId": "313425620",
+    "nombreContacto": "Jimmy Curo",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788437406000,
+    "subscriberId": "1090181577",
+    "nombreContacto": "Gustavo Almada",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788437407000,
+    "subscriberId": "1090181577",
+    "nombreContacto": "Gustavo Almada",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788437413000,
+    "subscriberId": "1090181577",
+    "nombreContacto": "Gustavo Almada",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioGracias 🫂"
   }
 ]
