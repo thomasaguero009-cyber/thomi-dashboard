@@ -34249,5 +34249,61 @@
     "nombreContacto": "Yuri Yuri",
     "remitente": "agente",
     "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788448237000,
+    "subscriberId": "1303687001",
+    "nombreContacto": "Luis cisneros Urbina",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1788448237000,
+    "subscriberId": "1303687001",
+    "nombreContacto": "Luis cisneros Urbina",
+    "remitente": "contacto",
+    "texto": "BotHace clic👇Está bien bro gracias"
+  },
+  {
+    "ts": 1788448237000,
+    "subscriberId": "1303687001",
+    "nombreContacto": "Luis cisneros Urbina",
+    "remitente": "contacto",
+    "texto": "Oye tinoo"
+  },
+  {
+    "ts": 1788448237000,
+    "subscriberId": "1303687001",
+    "nombreContacto": "Luis cisneros Urbina",
+    "remitente": "contacto",
+    "texto": "Estoy muy interesado pero hay un problema"
+  },
+  {
+    "ts": 1788448259000,
+    "subscriberId": "1505760196",
+    "nombreContacto": "Anabella Guzman",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788448324000,
+    "subscriberId": "790436441",
+    "nombreContacto": "Solange Salvatierra",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788448400000,
+    "subscriberId": "504804914",
+    "nombreContacto": "Fernando Maila",
+    "remitente": "contacto",
+    "texto": "holaaa, si por favor"
+  },
+  {
+    "ts": 1788448453000,
+    "subscriberId": "1670003047",
+    "nombreContacto": "Maria Cabrera",
+    "remitente": "contacto",
+    "texto": "Certificado"
   }
 ]
