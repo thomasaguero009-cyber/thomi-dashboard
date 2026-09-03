@@ -31106,5 +31106,40 @@
     "nombreContacto": "Daniel Rodri",
     "remitente": "contacto",
     "texto": "Quisiera el catálogo"
+  },
+  {
+    "ts": 1788432961000,
+    "subscriberId": "1387294093",
+    "nombreContacto": "Martin H. Capobianco",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788433043000,
+    "subscriberId": "1804772739",
+    "nombreContacto": "Jose Escobar",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788433060000,
+    "subscriberId": "1804772739",
+    "nombreContacto": "Jose Escobar",
+    "remitente": "contacto",
+    "texto": "Si pasamela"
+  },
+  {
+    "ts": 1788433148000,
+    "subscriberId": "1804772739",
+    "nombreContacto": "Jose Escobar",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788433152000,
+    "subscriberId": "1804772739",
+    "nombreContacto": "Jose Escobar",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]

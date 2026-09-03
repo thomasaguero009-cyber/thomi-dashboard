@@ -95028,5 +95028,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lissette Madruga Brioso"
+  },
+  {
+    "ts": 1788432660000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1721058226",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Arlyn Moracho"
+  },
+  {
+    "ts": 1788433196000,
+    "mensaje": "Siii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1866677977",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vale"
   }
 ]
