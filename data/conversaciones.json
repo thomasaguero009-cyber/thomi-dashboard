@@ -30798,5 +30798,26 @@
     "nombreContacto": "GAMEZ606?",
     "remitente": "contacto",
     "texto": "Buenas tardes si me podrias compartir el catálogo"
+  },
+  {
+    "ts": 1788378682000,
+    "subscriberId": "111379598",
+    "nombreContacto": "sandra acevedo",
+    "remitente": "contacto",
+    "texto": "buenas noches"
+  },
+  {
+    "ts": 1788378739000,
+    "subscriberId": "111379598",
+    "nombreContacto": "sandra acevedo",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788378747000,
+    "subscriberId": "111379598",
+    "nombreContacto": "sandra acevedo",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
