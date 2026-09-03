@@ -95168,5 +95168,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carolina Rivero"
+  },
+  {
+    "ts": 1788434243000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1009480080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Flores"
+  },
+  {
+    "ts": 1788434345000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1614348541",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yamile lucero"
+  },
+  {
+    "ts": 1788434356000,
+    "mensaje": "Hay alguna en salud?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1450866252",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Beatriz Rauber"
+  },
+  {
+    "ts": 1788434463000,
+    "mensaje": "Si dale es para un amigo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1832361179",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Erik"
+  },
+  {
+    "ts": 1788434506000,
+    "mensaje": "Qué precio tiene",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1729147042",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Arely Orantes"
+  },
+  {
+    "ts": 1788434690000,
+    "mensaje": "BotMensaje de audioSi si tino seria joya",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "716634329",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "📍sofia📍"
   }
 ]
