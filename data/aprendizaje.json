@@ -99068,5 +99068,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "...Liliana Bustos"
+  },
+  {
+    "ts": 1788444968000,
+    "mensaje": "Si, gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1422323230",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vivi Dlm"
+  },
+  {
+    "ts": 1788445018000,
+    "mensaje": "tengo 61",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1015687950",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra Valerio"
+  },
+  {
+    "ts": 1788445035000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1303687001",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis cisneros Urbina"
   }
 ]
