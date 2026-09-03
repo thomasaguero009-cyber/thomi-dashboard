@@ -34305,5 +34305,47 @@
     "nombreContacto": "Maria Cabrera",
     "remitente": "contacto",
     "texto": "Certificado"
+  },
+  {
+    "ts": 1788448533000,
+    "subscriberId": "1847053219",
+    "nombreContacto": "Milexa Piña",
+    "remitente": "contacto",
+    "texto": "Si claro por eso le envie"
+  },
+  {
+    "ts": 1788448598000,
+    "subscriberId": "844606755",
+    "nombreContacto": "Maribel Nuñez",
+    "remitente": "contacto",
+    "texto": "Si quiero aprender"
+  },
+  {
+    "ts": 1788448661000,
+    "subscriberId": "260264114",
+    "nombreContacto": "SOL",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788448668000,
+    "subscriberId": "260264114",
+    "nombreContacto": "SOL",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788448703000,
+    "subscriberId": "1315685717",
+    "nombreContacto": "Mariangel Villalba",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788448793000,
+    "subscriberId": "1034489883",
+    "nombreContacto": "✝️Eduardo Alejandro✝️",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
