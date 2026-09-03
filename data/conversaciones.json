@@ -36244,5 +36244,75 @@
     "nombreContacto": "María José Gibeaud",
     "remitente": "agente",
     "texto": "fue sin querer"
+  },
+  {
+    "ts": 1788458195000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "contacto",
+    "texto": "No hay problema"
+  },
+  {
+    "ts": 1788458238000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "contacto",
+    "texto": "PDF."
+  },
+  {
+    "ts": 1788458245000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788458250000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788458263000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788458351000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788458355000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788458372000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "contacto",
+    "texto": "43 años"
+  },
+  {
+    "ts": 1788458378000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1788458378000,
+    "subscriberId": "507317750",
+    "nombreContacto": "Freeman Fernandez",
+    "remitente": "contacto",
+    "texto": "Soy de Venezuela"
   }
 ]

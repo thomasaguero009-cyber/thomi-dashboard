@@ -108048,5 +108048,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "María José Gibeaud"
+  },
+  {
+    "ts": 1788458168000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "350506843",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesica Cabrera"
+  },
+  {
+    "ts": 1788458170000,
+    "mensaje": "Hola si me interesa saber cómo se hace",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "733294249",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Gonzalez"
   }
 ]
