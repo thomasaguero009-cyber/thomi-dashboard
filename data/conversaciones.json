@@ -34480,5 +34480,103 @@
     "nombreContacto": "Monica Tamara Coñequir",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788449123000,
+    "subscriberId": "1156398147",
+    "nombreContacto": "Andrea Re",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788449131000,
+    "subscriberId": "1156398147",
+    "nombreContacto": "Andrea Re",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788449133000,
+    "subscriberId": "1156398147",
+    "nombreContacto": "Andrea Re",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1788449192000,
+    "subscriberId": "2139561842",
+    "nombreContacto": "Ruth Sorelly Vasquez Fajardo",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788449192000,
+    "subscriberId": "2139561842",
+    "nombreContacto": "Ruth Sorelly Vasquez Fajardo",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788449225000,
+    "subscriberId": "1058970995",
+    "nombreContacto": "Marisu Jauregui",
+    "remitente": "contacto",
+    "texto": "Di me gustaría"
+  },
+  {
+    "ts": 1788449267000,
+    "subscriberId": "1423253083",
+    "nombreContacto": "Verónica Soljančić",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788449294000,
+    "subscriberId": "1070748585",
+    "nombreContacto": "Fla Rms",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788449402000,
+    "subscriberId": "1531664546",
+    "nombreContacto": "Axel Salcedo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788449402000,
+    "subscriberId": "1531664546",
+    "nombreContacto": "Axel Salcedo",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788449402000,
+    "subscriberId": "1531664546",
+    "nombreContacto": "Axel Salcedo",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSii por favor"
+  },
+  {
+    "ts": 1788449414000,
+    "subscriberId": "313425620",
+    "nombreContacto": "Jimmy Curo",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788449414000,
+    "subscriberId": "313425620",
+    "nombreContacto": "Jimmy Curo",
+    "remitente": "contacto",
+    "texto": "Ya vi el video Tino"
+  },
+  {
+    "ts": 1788449414000,
+    "subscriberId": "313425620",
+    "nombreContacto": "Jimmy Curo",
+    "remitente": "contacto",
+    "texto": "Pero se paraliza en el medio aprox"
   }
 ]
