@@ -33675,5 +33675,68 @@
     "nombreContacto": "Bell Sapela",
     "remitente": "agente",
     "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788444447000,
+    "subscriberId": "1587634340",
+    "nombreContacto": "Pamela Bogdanski",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444485000,
+    "subscriberId": "1208577342",
+    "nombreContacto": "Roxana Martinez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788444487000,
+    "subscriberId": "981798475",
+    "nombreContacto": "Yaniris Soler",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444493000,
+    "subscriberId": "1208577342",
+    "nombreContacto": "Roxana Martinez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788444496000,
+    "subscriberId": "1894157756",
+    "nombreContacto": "Ira",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444515000,
+    "subscriberId": "1271178491",
+    "nombreContacto": "Nahu Benitez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444561000,
+    "subscriberId": "321015386",
+    "nombreContacto": "joaquin freire",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444572000,
+    "subscriberId": "1743434398",
+    "nombreContacto": "Sool Farinella",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444596000,
+    "subscriberId": "392119015",
+    "nombreContacto": "Agus Vazquez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
   }
 ]
