@@ -94998,5 +94998,35 @@
     "setter": "thomi",
     "pageId": "435755",
     "nombreContacto": "michelmontanez04"
+  },
+  {
+    "ts": 1788432420000,
+    "mensaje": "buenos dias, si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1837926513",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ernesto.r71"
+  },
+  {
+    "ts": 1788432508000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2084220249",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Abraham"
+  },
+  {
+    "ts": 1788432618000,
+    "mensaje": "Si me gustaría saber",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "976503610",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lissette Madruga Brioso"
   }
 ]
