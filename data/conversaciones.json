@@ -35166,5 +35166,47 @@
     "nombreContacto": "Luna León",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788451307000,
+    "subscriberId": "980885614",
+    "nombreContacto": "Agustin Zambrano",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788451311000,
+    "subscriberId": "980885614",
+    "nombreContacto": "Agustin Zambrano",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788451317000,
+    "subscriberId": "1704030045",
+    "nombreContacto": "kevin_bryan",
+    "remitente": "contacto",
+    "texto": "estoy"
+  },
+  {
+    "ts": 1788451396000,
+    "subscriberId": "232697766",
+    "nombreContacto": "Grupo Gruser Lilian Herrera",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788451403000,
+    "subscriberId": "232697766",
+    "nombreContacto": "Grupo Gruser Lilian Herrera",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788451469000,
+    "subscriberId": "232697766",
+    "nombreContacto": "Grupo Gruser Lilian Herrera",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
