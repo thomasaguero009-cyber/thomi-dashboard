@@ -97358,5 +97358,355 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mauricio Florencio Yañez Rocha"
+  },
+  {
+    "ts": 1788441321000,
+    "mensaje": "BotQueres que te la envie?Si si por favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "464723494",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_sisterna__"
+  },
+  {
+    "ts": 1788441324000,
+    "mensaje": ".",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1875516354",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bismar Ardaya Corani"
+  },
+  {
+    "ts": 1788441325000,
+    "mensaje": ".",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1875516354",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bismar Ardaya Corani"
+  },
+  {
+    "ts": 1788441326000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "780220748",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nelson Gonzalez"
+  },
+  {
+    "ts": 1788441326000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "780220748",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nelson Gonzalez"
+  },
+  {
+    "ts": 1788441329000,
+    "mensaje": "Si desearía aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1152591359",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rossybeth Moreno"
+  },
+  {
+    "ts": 1788441330000,
+    "mensaje": "Si desearía aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1152591359",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rossybeth Moreno"
+  },
+  {
+    "ts": 1788441333000,
+    "mensaje": "BotQueres que te la envie?Enviala",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1153685940",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stiven"
+  },
+  {
+    "ts": 1788441352000,
+    "mensaje": "BotO te paso la agenda directa?Ok!",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1901896174",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martín Maidana"
+  },
+  {
+    "ts": 1788441356000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "475282017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Esteban Andres"
+  },
+  {
+    "ts": 1788441357000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "475282017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Esteban Andres"
+  },
+  {
+    "ts": 1788441383000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "764172411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "agqc.08"
+  },
+  {
+    "ts": 1788441383000,
+    "mensaje": "Hola tino,un gusto Me llamo America,estoy muy bien y tu ,si claro que aqui estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "764172411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "agqc.08"
+  },
+  {
+    "ts": 1788441388000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "963417005",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vilu welsh"
+  },
+  {
+    "ts": 1788441393000,
+    "mensaje": "No pude ver la clase, me ocupe",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "926401163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gio DElia"
+  },
+  {
+    "ts": 1788441397000,
+    "mensaje": "Si xfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "826932643",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "francelby colmenarez"
+  },
+  {
+    "ts": 1788441396000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "826932643",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "francelby colmenarez"
+  },
+  {
+    "ts": 1788441412000,
+    "mensaje": "Genial cuando la darás ? Y hora?  Y buenisima tu actitud 👏",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "384283736",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nancy Morales"
+  },
+  {
+    "ts": 1788441419000,
+    "mensaje": "Yo vivo en Argentina",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "587989105",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Romina Marti"
+  },
+  {
+    "ts": 1788441422000,
+    "mensaje": "Yo vivo en Argentina",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "587989105",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Romina Marti"
+  },
+  {
+    "ts": 1788441433000,
+    "mensaje": "Vi el video y me saco",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "896649652",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "GAMEZ606?"
+  },
+  {
+    "ts": 1788441434000,
+    "mensaje": "Vi el video y me saco",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "896649652",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "GAMEZ606?"
+  },
+  {
+    "ts": 1788441448000,
+    "mensaje": "Dejame evaluar la opción, si entendí lo que es, lo que no se es de que tipos de productos estaré siendo closer y actualmente tengo un negocio por temas de tiempo no lo se",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1349113896",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofía"
+  },
+  {
+    "ts": 1788441450000,
+    "mensaje": "Hola bien y vos",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "138807172",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Rosalez"
+  },
+  {
+    "ts": 1788441451000,
+    "mensaje": "Hola bien y vos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "138807172",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Rosalez"
+  },
+  {
+    "ts": 1788441457000,
+    "mensaje": "Sib",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "434078330",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Eduardo Sanchez Chunza"
+  },
+  {
+    "ts": 1788441465000,
+    "mensaje": "Por favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "300811701",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Ramírez"
+  },
+  {
+    "ts": 1788441501000,
+    "mensaje": "Ya ví lo de agendar el tema es que ahorita no cuento con el dinero... No se si en el momento que lo tenga puedo agendar?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "49617502",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yas_hdez"
+  },
+  {
+    "ts": 1788441512000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1914931564",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "estefano isaac"
+  },
+  {
+    "ts": 1788441555000,
+    "mensaje": "Dale gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "48035945",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorenam Baier"
+  },
+  {
+    "ts": 1788441557000,
+    "mensaje": "Dale gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "48035945",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorenam Baier"
+  },
+  {
+    "ts": 1788441558000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1707643939",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pedro Martínez"
+  },
+  {
+    "ts": 1788441558000,
+    "mensaje": "Cuáles son los pasos a seguir",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1707643939",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pedro Martínez"
+  },
+  {
+    "ts": 1788441567000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1419802760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karol"
+  },
+  {
+    "ts": 1788441567000,
+    "mensaje": "Graciass",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1419802760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karol"
   }
 ]
