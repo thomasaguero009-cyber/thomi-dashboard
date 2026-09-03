@@ -96168,5 +96168,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Richard Z"
+  },
+  {
+    "ts": 1788438221000,
+    "mensaje": "si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1111580860",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "silviprouty"
+  },
+  {
+    "ts": 1788438301000,
+    "mensaje": "Ayúdame como comienzo",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1652902620",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcela Vidal"
   }
 ]
