@@ -107838,5 +107838,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "dominic"
+  },
+  {
+    "ts": 1788454830000,
+    "mensaje": "Saber e los trabajos de waps",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1364547253",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriela Closter"
+  },
+  {
+    "ts": 1788455109000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "693017782",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "WERTAKO 👽"
   }
 ]
