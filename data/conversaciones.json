@@ -33640,5 +33640,40 @@
     "nombreContacto": "Elkin Alvarez",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788444288000,
+    "subscriberId": "1269300627",
+    "nombreContacto": "Juan Jose Garcia",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444291000,
+    "subscriberId": "791076201",
+    "nombreContacto": "Yamina M Lobo",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788444296000,
+    "subscriberId": "791076201",
+    "nombreContacto": "Yamina M Lobo",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788444300000,
+    "subscriberId": "147136079",
+    "nombreContacto": "Bell Sapela",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788444307000,
+    "subscriberId": "147136079",
+    "nombreContacto": "Bell Sapela",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
   }
 ]

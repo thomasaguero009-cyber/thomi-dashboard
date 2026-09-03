@@ -98598,5 +98598,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Harold Alberto Bayer Varela"
+  },
+  {
+    "ts": 1788444287000,
+    "mensaje": "BotO te paso la agenda directa?Si por favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1269300627",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Jose Garcia"
+  },
+  {
+    "ts": 1788444299000,
+    "mensaje": "Lo que pada es que ahora es para mi muy dificil sacar presupuesto para hacet esto",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "147136079",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bell Sapela"
   }
 ]
