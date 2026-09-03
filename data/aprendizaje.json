@@ -95128,5 +95128,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Norma Marchan"
+  },
+  {
+    "ts": 1788433908000,
+    "mensaje": "Hola cómo estás??? Pasamelo!!!",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1766705933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabi Pipita"
+  },
+  {
+    "ts": 1788433911000,
+    "mensaje": "Hola cómo estás??? Pasamelo!!!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1766705933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabi Pipita"
+  },
+  {
+    "ts": 1788434091000,
+    "mensaje": "Si quisiera aprender",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1043280601",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "karen tiapa"
+  },
+  {
+    "ts": 1788434119000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "894410895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carolina Rivero"
   }
 ]

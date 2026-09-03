@@ -31239,5 +31239,68 @@
     "nombreContacto": "Norma Marchan",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788433971000,
+    "subscriberId": "1766705933",
+    "nombreContacto": "Fabi Pipita",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788433978000,
+    "subscriberId": "1766705933",
+    "nombreContacto": "Fabi Pipita",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788434044000,
+    "subscriberId": "1766705933",
+    "nombreContacto": "Fabi Pipita",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788434138000,
+    "subscriberId": "1888344720",
+    "nombreContacto": "César",
+    "remitente": "contacto",
+    "texto": "Enviame nomas y eso se paga por que no tengo dinero"
+  },
+  {
+    "ts": 1788434199000,
+    "subscriberId": "1888344720",
+    "nombreContacto": "César",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788434206000,
+    "subscriberId": "1888344720",
+    "nombreContacto": "César",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788434251000,
+    "subscriberId": "1009480080",
+    "nombreContacto": "Lorena Flores",
+    "remitente": "contacto",
+    "texto": "Kiero información siii por favor"
+  },
+  {
+    "ts": 1788434325000,
+    "subscriberId": "860329594",
+    "nombreContacto": "S❤l Vega",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788434329000,
+    "subscriberId": "860329594",
+    "nombreContacto": "S❤l Vega",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
