@@ -30819,5 +30819,33 @@
     "nombreContacto": "sandra acevedo",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788378971000,
+    "subscriberId": "1218902547",
+    "nombreContacto": "D'xvid HA",
+    "remitente": "contacto",
+    "texto": "Por favor"
+  },
+  {
+    "ts": 1788379061000,
+    "subscriberId": "893127835",
+    "nombreContacto": "Sandra Andrea Hernandez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788379081000,
+    "subscriberId": "893127835",
+    "nombreContacto": "Sandra Andrea Hernandez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788379127000,
+    "subscriberId": "394057888",
+    "nombreContacto": "JeSi Buiatti",
+    "remitente": "contacto",
+    "texto": "Yo envié la palabra catálogo"
   }
 ]
