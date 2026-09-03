@@ -30133,5 +30133,54 @@
     "nombreContacto": "Brenda Olivera",
     "remitente": "contacto",
     "texto": "????"
+  },
+  {
+    "ts": 1788375923000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788375930000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788375939000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788375996000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788376038000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "contacto",
+    "texto": "Si, porfavor"
+  },
+  {
+    "ts": 1788376126000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788376130000,
+    "subscriberId": "75075828",
+    "nombreContacto": "Laura Calderón",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
