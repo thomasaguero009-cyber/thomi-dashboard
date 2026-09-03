@@ -35348,5 +35348,61 @@
     "nombreContacto": "Nicolás Chris",
     "remitente": "contacto",
     "texto": "WhatsApp"
+  },
+  {
+    "ts": 1788452129000,
+    "subscriberId": "432124437",
+    "nombreContacto": "Nicolás Chris",
+    "remitente": "agente",
+    "texto": "Buenas"
+  },
+  {
+    "ts": 1788452135000,
+    "subscriberId": "432124437",
+    "nombreContacto": "Nicolás Chris",
+    "remitente": "agente",
+    "texto": "Mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788452165000,
+    "subscriberId": "795447585",
+    "nombreContacto": "Neri 🦋",
+    "remitente": "contacto",
+    "texto": "La verdad es que me interesaría!"
+  },
+  {
+    "ts": 1788452253000,
+    "subscriberId": "1342098493",
+    "nombreContacto": "Igone Ardila Paz",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788452257000,
+    "subscriberId": "1342098493",
+    "nombreContacto": "Igone Ardila Paz",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788452368000,
+    "subscriberId": "834436164",
+    "nombreContacto": "Edgar Romero",
+    "remitente": "agente",
+    "texto": "Buenas, ahí vi que me seguiste, bien ahí\n\nSi necesitas una mano sobre cómo empezar a ganar plata por internet avísame y te tiro unos tips en base a tu situación"
+  },
+  {
+    "ts": 1788452368000,
+    "subscriberId": "834436164",
+    "nombreContacto": "Edgar Romero",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelContenido no disponibleCatálogo"
+  },
+  {
+    "ts": 1788452368000,
+    "subscriberId": "834436164",
+    "nombreContacto": "Edgar Romero",
+    "remitente": "contacto",
+    "texto": "Estoy"
   }
 ]
