@@ -30084,5 +30084,54 @@
     "nombreContacto": "Victor vuelvas",
     "remitente": "contacto",
     "texto": "Catálogo"
+  },
+  {
+    "ts": 1788375721000,
+    "subscriberId": "1589222483",
+    "nombreContacto": "Néstor Yáñez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788375754000,
+    "subscriberId": "287245875",
+    "nombreContacto": "Micaela Aguirre",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788375762000,
+    "subscriberId": "287245875",
+    "nombreContacto": "Micaela Aguirre",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788375790000,
+    "subscriberId": "1550185503",
+    "nombreContacto": "Brenda Olivera",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaContenido no disponibleLa historia expiró hace 2 horas"
+  },
+  {
+    "ts": 1788375790000,
+    "subscriberId": "1550185503",
+    "nombreContacto": "Brenda Olivera",
+    "remitente": "contacto",
+    "texto": "Quieroooo"
+  },
+  {
+    "ts": 1788375790000,
+    "subscriberId": "1550185503",
+    "nombreContacto": "Brenda Olivera",
+    "remitente": "contacto",
+    "texto": "Necesito trabajar tino porfavor"
+  },
+  {
+    "ts": 1788375790000,
+    "subscriberId": "1550185503",
+    "nombreContacto": "Brenda Olivera",
+    "remitente": "contacto",
+    "texto": "????"
   }
 ]
