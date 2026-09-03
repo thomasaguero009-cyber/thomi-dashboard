@@ -30889,5 +30889,33 @@
     "nombreContacto": "Jorge Gonzalez",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788381781000,
+    "subscriberId": "461521682",
+    "nombreContacto": "Norma.B",
+    "remitente": "contacto",
+    "texto": "Si sí"
+  },
+  {
+    "ts": 1788381869000,
+    "subscriberId": "461521682",
+    "nombreContacto": "Norma.B",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788381872000,
+    "subscriberId": "461521682",
+    "nombreContacto": "Norma.B",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788381885000,
+    "subscriberId": "461521682",
+    "nombreContacto": "Norma.B",
+    "remitente": "contacto",
+    "texto": "44"
   }
 ]
