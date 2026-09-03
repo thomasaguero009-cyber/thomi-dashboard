@@ -107908,5 +107908,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lorena Villagra"
+  },
+  {
+    "ts": 1788456152000,
+    "mensaje": "Catalogo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1174502192",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "criz™"
+  },
+  {
+    "ts": 1788456213000,
+    "mensaje": "👍",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1558296293",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Deossa"
+  },
+  {
+    "ts": 1788456247000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "995180015",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaston Valenzuela"
+  },
+  {
+    "ts": 1788456261000,
+    "mensaje": "Si estoy interesada, gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2102477636",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamileth Parra"
   }
 ]
