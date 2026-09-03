@@ -96288,5 +96288,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nancy Rolla"
+  },
+  {
+    "ts": 1788439303000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "53635894",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝟒𝟕⛩"
+  },
+  {
+    "ts": 1788439304000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "53635894",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝟒𝟕⛩"
+  },
+  {
+    "ts": 1788439302000,
+    "mensaje": "Yo quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1933837677",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jiménez Fabricio"
+  },
+  {
+    "ts": 1788439321000,
+    "mensaje": "Si me gustaria que me la envies",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2039068483",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paula Andrea Urani"
+  },
+  {
+    "ts": 1788439325000,
+    "mensaje": "Gracias!",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "296196139",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ulises"
+  },
+  {
+    "ts": 1788439657000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1665617294",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Maciel"
+  },
+  {
+    "ts": 1788439656000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1665617294",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Maciel"
+  },
+  {
+    "ts": 1788439733000,
+    "mensaje": "¡Hola, Tino mossu!",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "981798475",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yaniris Soler"
+  },
+  {
+    "ts": 1788439734000,
+    "mensaje": "¡Hola, Tino mossu!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "981798475",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yaniris Soler"
+  },
+  {
+    "ts": 1788439806000,
+    "mensaje": "Si pasalo",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "731590178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Suarez"
+  },
+  {
+    "ts": 1788439807000,
+    "mensaje": "Si pasalo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "731590178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Suarez"
   }
 ]
