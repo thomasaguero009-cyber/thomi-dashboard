@@ -32163,5 +32163,26 @@
     "nombreContacto": "Brian Niicolas",
     "remitente": "agente",
     "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1788436891000,
+    "subscriberId": "384638517",
+    "nombreContacto": "Ivia Pich Otero",
+    "remitente": "contacto",
+    "texto": "Pero quiero saber antes de que se trata ja"
+  },
+  {
+    "ts": 1788436922000,
+    "subscriberId": "384638517",
+    "nombreContacto": "Ivia Pich Otero",
+    "remitente": "contacto",
+    "texto": "Tenés que saber inglés?"
+  },
+  {
+    "ts": 1788437114000,
+    "subscriberId": "1366915620",
+    "nombreContacto": "Cheila Leon",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario estas para que te pase la clase?Si"
   }
 ]
