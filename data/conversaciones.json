@@ -32513,5 +32513,26 @@
     "nombreContacto": "fer.564843",
     "remitente": "contacto",
     "texto": "Si quiero aprender"
+  },
+  {
+    "ts": 1788439029000,
+    "subscriberId": "302157444",
+    "nombreContacto": "Nancy Rolla",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788439036000,
+    "subscriberId": "302157444",
+    "nombreContacto": "Nancy Rolla",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788439102000,
+    "subscriberId": "302157444",
+    "nombreContacto": "Nancy Rolla",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
