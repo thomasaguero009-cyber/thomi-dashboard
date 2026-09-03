@@ -108068,5 +108068,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Sandra Gonzalez"
+  },
+  {
+    "ts": 1788460715000,
+    "mensaje": "Quiero aprender Porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "385622921",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🐐"
+  },
+  {
+    "ts": 1788460716000,
+    "mensaje": "Por acá pásamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1923625824",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jhordan"
+  },
+  {
+    "ts": 1788460717000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1189981542",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Ojeda Cardozo"
+  },
+  {
+    "ts": 1788460719000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1594033052",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Batista"
   }
 ]
