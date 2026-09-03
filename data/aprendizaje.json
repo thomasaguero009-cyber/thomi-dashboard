@@ -107858,5 +107858,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "WERTAKO 👽"
+  },
+  {
+    "ts": 1788455209000,
+    "mensaje": "Si estoy aquí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1957953371",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Irma Yegres"
+  },
+  {
+    "ts": 1788455372000,
+    "mensaje": "Si por favor me dedico a gestorias gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "27450156",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Delia Renee Bentos"
   }
 ]

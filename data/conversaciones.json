@@ -35999,5 +35999,33 @@
     "nombreContacto": "WERTAKO 👽",
     "remitente": "contacto",
     "texto": "Lo que soy de España no soy latino americano"
+  },
+  {
+    "ts": 1788455117000,
+    "subscriberId": "693017782",
+    "nombreContacto": "WERTAKO 👽",
+    "remitente": "contacto",
+    "texto": "Pasa algo?"
+  },
+  {
+    "ts": 1788455169000,
+    "subscriberId": "693017782",
+    "nombreContacto": "WERTAKO 👽",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788455176000,
+    "subscriberId": "693017782",
+    "nombreContacto": "WERTAKO 👽",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788455209000,
+    "subscriberId": "1957953371",
+    "nombreContacto": "Irma Yegres",
+    "remitente": "contacto",
+    "texto": "Si estoy aquí"
   }
 ]
