@@ -33262,5 +33262,26 @@
     "nombreContacto": "Pedro Martínez",
     "remitente": "contacto",
     "texto": "Muchas gracias por tu generosidad con tu tiempo"
+  },
+  {
+    "ts": 1788441626000,
+    "subscriberId": "1419802760",
+    "nombreContacto": "Karol",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788441634000,
+    "subscriberId": "1419802760",
+    "nombreContacto": "Karol",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788441700000,
+    "subscriberId": "1419802760",
+    "nombreContacto": "Karol",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
