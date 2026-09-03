@@ -106878,5 +106878,335 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "susana"
+  },
+  {
+    "ts": 1788453615000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1397110408",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla Aparicio"
+  },
+  {
+    "ts": 1788453618000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1880747204",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fas Sa"
+  },
+  {
+    "ts": 1788453621000,
+    "mensaje": "Hola saludos 👋.\n\nSi claro!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1908384339",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lopez Jose"
+  },
+  {
+    "ts": 1788453622000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1394389420",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "gaby1russo"
+  },
+  {
+    "ts": 1788453625000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1175607360",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brumae 💧"
+  },
+  {
+    "ts": 1788453631000,
+    "mensaje": "Hola ok si estoy aquí gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "111280806",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marta"
+  },
+  {
+    "ts": 1788453633000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1202891478",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Espe Agus J My"
+  },
+  {
+    "ts": 1788453636000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "2008309606",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia Sarli"
+  },
+  {
+    "ts": 1788453640000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "2078719526",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Romero Teresita"
+  },
+  {
+    "ts": 1788453643000,
+    "mensaje": "Si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "720615391",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Christopher Caicedo"
+  },
+  {
+    "ts": 1788453646000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "695113473",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jor"
+  },
+  {
+    "ts": 1788453651000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1086570548",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grace Chirinos Pineda"
+  },
+  {
+    "ts": 1788453654000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "705747503",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Liliana Aguilera"
+  },
+  {
+    "ts": 1788453656000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1643538237",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kary Gretshen Herrera Catalá"
+  },
+  {
+    "ts": 1788453660000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1034286486",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvio Contreras"
+  },
+  {
+    "ts": 1788453670000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "565870835",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jackie Aranda"
+  },
+  {
+    "ts": 1788453777000,
+    "mensaje": "Hola si hay pude ver un video",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2036695581",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mary Miño"
+  },
+  {
+    "ts": 1788453815000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "595371863",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Consultora Empresarial/Contadora/Docente"
+  },
+  {
+    "ts": 1788453821000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1198086174",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zigala Rivera"
+  },
+  {
+    "ts": 1788453828000,
+    "mensaje": "Soy el chico que te respondió tu rell",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1342077976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tiger.80738173"
+  },
+  {
+    "ts": 1788453833000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "433815774",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamile Jurenik"
+  },
+  {
+    "ts": 1788453836000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "507408704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rocio Nicolini Birardo"
+  },
+  {
+    "ts": 1788453839000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1768663498",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giovanni Herrera"
+  },
+  {
+    "ts": 1788453842000,
+    "mensaje": "👌",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1008525483",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maikel Melo Pérez"
+  },
+  {
+    "ts": 1788453851000,
+    "mensaje": "En estas empresas puedo trabajar gratis ?",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "982397472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enmanuell Garcia"
+  },
+  {
+    "ts": 1788453854000,
+    "mensaje": "No la e podido ver",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1629345842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yan Carlo Batista Bermúdez"
+  },
+  {
+    "ts": 1788453863000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1998730149",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvana"
+  },
+  {
+    "ts": 1788453868000,
+    "mensaje": "Si pasame",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2086740452",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Delcar"
+  },
+  {
+    "ts": 1788453872000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "155264638",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristina"
+  },
+  {
+    "ts": 1788453882000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1521320114",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vilma Fuentes"
+  },
+  {
+    "ts": 1788453885000,
+    "mensaje": "no le llego el video",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "843991093",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ale Panelo Vocal Coach"
+  },
+  {
+    "ts": 1788453875000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1430352771",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Allende Arturo"
+  },
+  {
+    "ts": 1788453888000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "69731516",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "angelinegonzales_"
   }
 ]
