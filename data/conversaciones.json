@@ -33612,5 +33612,33 @@
     "nombreContacto": "Tania Chavez Gomez",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788443424000,
+    "subscriberId": "1130749290",
+    "nombreContacto": "Tania Chavez Gomez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788443456000,
+    "subscriberId": "777021119",
+    "nombreContacto": "Harold Alberto Bayer Varela",
+    "remitente": "contacto",
+    "texto": "Yo vivo en miami!"
+  },
+  {
+    "ts": 1788443526000,
+    "subscriberId": "662769554",
+    "nombreContacto": "Elkin Alvarez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788443534000,
+    "subscriberId": "662769554",
+    "nombreContacto": "Elkin Alvarez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
