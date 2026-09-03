@@ -34578,5 +34578,26 @@
     "nombreContacto": "Jimmy Curo",
     "remitente": "contacto",
     "texto": "Pero se paraliza en el medio aprox"
+  },
+  {
+    "ts": 1788449470000,
+    "subscriberId": "117835956",
+    "nombreContacto": "Maximo Garcia",
+    "remitente": "contacto",
+    "texto": "Dale Tino pasame"
+  },
+  {
+    "ts": 1788449483000,
+    "subscriberId": "1887079066",
+    "nombreContacto": "L ",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788449517000,
+    "subscriberId": "1993914675",
+    "nombreContacto": "Alejo gomez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
   }
 ]
