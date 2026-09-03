@@ -99098,5 +99098,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Luis cisneros Urbina"
+  },
+  {
+    "ts": 1788445822000,
+    "mensaje": "Holaaaa para mandarme la guía",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "309121445",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Xavier Rios Terrones"
+  },
+  {
+    "ts": 1788445878000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "527023811",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vanesa"
+  },
+  {
+    "ts": 1788445952000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1220476085",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zailín"
+  },
+  {
+    "ts": 1788445956000,
+    "mensaje": "Estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "380984755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lazaro Morales"
+  },
+  {
+    "ts": 1788445954000,
+    "mensaje": "Hola buenas tardes!  Si pasamelo ! Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1058417563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodrigo  Yubel"
   }
 ]

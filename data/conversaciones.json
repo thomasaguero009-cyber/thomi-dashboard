@@ -33892,5 +33892,19 @@
     "nombreContacto": "Ilian Pinzon",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788445939000,
+    "subscriberId": "527023811",
+    "nombreContacto": "Vanesa",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788445946000,
+    "subscriberId": "527023811",
+    "nombreContacto": "Vanesa",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
