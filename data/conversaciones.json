@@ -32233,5 +32233,75 @@
     "nombreContacto": "Thi4go",
     "remitente": "contacto",
     "texto": "Hola tino buenas dale perfecto llego a casa que ahora mismo estoy estudiando y te escribo"
+  },
+  {
+    "ts": 1788437784000,
+    "subscriberId": "607233217",
+    "nombreContacto": "frida.moda",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788437784000,
+    "subscriberId": "607233217",
+    "nombreContacto": "frida.moda",
+    "remitente": "contacto",
+    "texto": "Hola, sí"
+  },
+  {
+    "ts": 1788437844000,
+    "subscriberId": "607233217",
+    "nombreContacto": "frida.moda",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788437852000,
+    "subscriberId": "607233217",
+    "nombreContacto": "frida.moda",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788437918000,
+    "subscriberId": "607233217",
+    "nombreContacto": "frida.moda",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788437929000,
+    "subscriberId": "102461974",
+    "nombreContacto": "lin",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo 🙏"
+  },
+  {
+    "ts": 1788437929000,
+    "subscriberId": "102461974",
+    "nombreContacto": "lin",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788437953000,
+    "subscriberId": "102461974",
+    "nombreContacto": "lin",
+    "remitente": "contacto",
+    "texto": "Tino yo soy de Cuba"
+  },
+  {
+    "ts": 1788437988000,
+    "subscriberId": "102461974",
+    "nombreContacto": "lin",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788437994000,
+    "subscriberId": "102461974",
+    "nombreContacto": "lin",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
