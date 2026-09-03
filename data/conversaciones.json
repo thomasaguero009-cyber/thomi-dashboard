@@ -35831,5 +35831,68 @@
     "nombreContacto": "matias ocampo",
     "remitente": "contacto",
     "texto": "Si por favor"
+  },
+  {
+    "ts": 1788453972000,
+    "subscriberId": "566647810",
+    "nombreContacto": "Valeria Edith Suarez",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788453994000,
+    "subscriberId": "566647810",
+    "nombreContacto": "Valeria Edith Suarez",
+    "remitente": "contacto",
+    "texto": "Necesito info del catalogo gracias"
+  },
+  {
+    "ts": 1788454058000,
+    "subscriberId": "1953498468",
+    "nombreContacto": "Rosa Salas",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788454058000,
+    "subscriberId": "1953498468",
+    "nombreContacto": "Rosa Salas",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo 🙌"
+  },
+  {
+    "ts": 1788454058000,
+    "subscriberId": "1953498468",
+    "nombreContacto": "Rosa Salas",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788454058000,
+    "subscriberId": "1953498468",
+    "nombreContacto": "Rosa Salas",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788454109000,
+    "subscriberId": "1735854455",
+    "nombreContacto": "Dayana :3",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788454116000,
+    "subscriberId": "1735854455",
+    "nombreContacto": "Dayana :3",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788454204000,
+    "subscriberId": "489111099",
+    "nombreContacto": "Gabriela Baez",
+    "remitente": "contacto",
+    "texto": "Si dale pásame"
   }
 ]
