@@ -36111,5 +36111,117 @@
     "nombreContacto": "criz™",
     "remitente": "contacto",
     "texto": "Tengo"
+  },
+  {
+    "ts": 1788456370000,
+    "subscriberId": "1926976135",
+    "nombreContacto": "Centro Terapéutico URANIA 🪷",
+    "remitente": "contacto",
+    "texto": "Hola gracias si estoy interesada"
+  },
+  {
+    "ts": 1788456371000,
+    "subscriberId": "1926976135",
+    "nombreContacto": "Centro Terapéutico URANIA 🪷",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788456421000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "contacto",
+    "texto": "Me mamdaron correo electrónico y mensaje de WhatsApp ya que mañana 04/09 me hacen video llamada , pero tengo miedo q sea estafa"
+  },
+  {
+    "ts": 1788456435000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Maria Jose como estas?"
+  },
+  {
+    "ts": 1788456438000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Si esta perfecto"
+  },
+  {
+    "ts": 1788456443000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "enviame tu correo y lo verificamos"
+  },
+  {
+    "ts": 1788456454000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Si esta perfecto"
+  },
+  {
+    "ts": 1788456454000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "enviame tu correo y lo verificamos"
+  },
+  {
+    "ts": 1788456454000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "contacto",
+    "texto": "mariagibeaud@gmail.com"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "contacto",
+    "texto": "Me mamdaron correo electrónico y mensaje de WhatsApp ya que mañana 04/09 me hacen video llamada , pero tengo miedo q sea estafa"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Maria Jose como estas?"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Si esta perfecto"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "enviame tu correo y lo verificamos"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "contacto",
+    "texto": "mariagibeaud@gmail.com"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "Buenisimo si, Jhonatan es el director"
+  },
+  {
+    "ts": 1788456552000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "contacto",
+    "texto": "Ok, Jonathan me mandó WhatsApp"
   }
 ]
