@@ -99228,5 +99228,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "la cande"
+  },
+  {
+    "ts": 1788447648000,
+    "mensaje": "Buenas tardes como estas. Por favor pásamela certificación.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "282699169",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "lizaidafreitez"
+  },
+  {
+    "ts": 1788447666000,
+    "mensaje": "si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1841598667",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Luis Camacho Gonzales"
+  },
+  {
+    "ts": 1788447702000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1184780361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ramiro"
+  },
+  {
+    "ts": 1788447706000,
+    "mensaje": "Ok si necesito hacer ingreso",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "768890037",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Betty Segura"
+  },
+  {
+    "ts": 1788447731000,
+    "mensaje": "BotQue edad tenes?Tengo 18",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1326000256",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Rodriguez"
+  },
+  {
+    "ts": 1788447742000,
+    "mensaje": "No estoy interesado  gracias por tu tiempo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1859870519",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cxrlos"
+  },
+  {
+    "ts": 1788447754000,
+    "mensaje": "BotMensaje de audioSiiii genial",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1241305004",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "noelia basael"
+  },
+  {
+    "ts": 1788447805000,
+    "mensaje": "Si por favor 🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1828353248",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "gabriel garcía"
+  },
+  {
+    "ts": 1788447847000,
+    "mensaje": "Como es el negocio",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1312132134",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roselys Piñate"
   }
 ]
