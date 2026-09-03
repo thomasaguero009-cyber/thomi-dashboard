@@ -96618,5 +96618,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Levi Rivero"
+  },
+  {
+    "ts": 1788440116000,
+    "mensaje": "Quiero saber sobre lo del curso que te preparan y te conectan con un cliente",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "981944429",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mrcos_lpz"
+  },
+  {
+    "ts": 1788440271000,
+    "mensaje": "😊😊✨",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "351342376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MICHELLE 😁💖🥺"
+  },
+  {
+    "ts": 1788440271000,
+    "mensaje": "😊😊✨",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "351342376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MICHELLE 😁💖🥺"
+  },
+  {
+    "ts": 1788440280000,
+    "mensaje": "😊😊✨",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "351342376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MICHELLE 😁💖🥺"
+  },
+  {
+    "ts": 1788440284000,
+    "mensaje": "Siiii por fa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "488664431",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CRISTINAS"
+  },
+  {
+    "ts": 1788440284000,
+    "mensaje": "Siiii por fa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "488664431",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CRISTINAS"
+  },
+  {
+    "ts": 1788440348000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1044806995",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Malena Pierre"
   }
 ]
