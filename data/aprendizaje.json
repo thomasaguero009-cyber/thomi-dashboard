@@ -98838,5 +98838,235 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Susana Pereira"
+  },
+  {
+    "ts": 1788444623000,
+    "mensaje": "Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1128813141",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Johnny Valdez"
+  },
+  {
+    "ts": 1788444626000,
+    "mensaje": "34 años tengo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1403458907",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maru🦋🌈"
+  },
+  {
+    "ts": 1788444628000,
+    "mensaje": "Ayuda porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "241304080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sharhuc Franco Mozo"
+  },
+  {
+    "ts": 1788444636000,
+    "mensaje": "Disculpe si lo dejé en visto, lo estoy pensando, en si me dará resultado o no.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2076495220",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cin 🐼💙"
+  },
+  {
+    "ts": 1788444642000,
+    "mensaje": "Perdona estoy en un curso. \nMás tarde te hablo de ser posible",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1421444100",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia García"
+  },
+  {
+    "ts": 1788444642000,
+    "mensaje": "Perdona estoy en un curso. \nMás tarde te hablo de ser posible",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1421444100",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia García"
+  },
+  {
+    "ts": 1788444651000,
+    "mensaje": "Hola tino volvi, ya me suscribi ala clase el sábado tengo la llamada",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1354223372",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bastian sinner"
+  },
+  {
+    "ts": 1788444667000,
+    "mensaje": "Igual si no respondo al toque, luego lo hago 🤭",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1982296866",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rocco panes artesanales"
+  },
+  {
+    "ts": 1788444667000,
+    "mensaje": "Igual si no respondo al toque, luego lo hago 🤭",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1982296866",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rocco panes artesanales"
+  },
+  {
+    "ts": 1788444685000,
+    "mensaje": "Pues qué te digo hice todo el procedimiento, el asunto es que cuando me llamaron me pidieron dinero para lo del tema de la asesoría y obviamente pues en estos casos no tengo la posibilidad de conseguir esa cantidad",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "658608244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentina Pedraza"
+  },
+  {
+    "ts": 1788444703000,
+    "mensaje": "Mil disculpas",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1162479599",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lup 🔎"
+  },
+  {
+    "ts": 1788444709000,
+    "mensaje": "No he podido ver la clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "729533984",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nury Jimenez"
+  },
+  {
+    "ts": 1788444713000,
+    "mensaje": "No se, como quieras",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1415730645",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Antonio Valdes Quiz"
+  },
+  {
+    "ts": 1788444718000,
+    "mensaje": "Hay q pagar?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1750256915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Jimenez"
+  },
+  {
+    "ts": 1788444727000,
+    "mensaje": "No me dio la opción",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1200664637",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vania 🪐"
+  },
+  {
+    "ts": 1788444734000,
+    "mensaje": "Si disculpe me ocupé en el trabajo luego te escribo gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1954730054",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sandrogarciatennisacademy"
+  },
+  {
+    "ts": 1788444738000,
+    "mensaje": "BotMensaje de audioManda",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "795986064",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matias | Ecommerce 🌎"
+  },
+  {
+    "ts": 1788444755000,
+    "mensaje": "Igual gracias, feliz noche!",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1897605918",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Orcleydis Yosseli Garcia Lugo"
+  },
+  {
+    "ts": 1788444764000,
+    "mensaje": "10/10/1978",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1356384982",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pedro Eduardo"
+  },
+  {
+    "ts": 1788444779000,
+    "mensaje": "BotMensaje de audiosi eso ya lo vi",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "255082588",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo"
+  },
+  {
+    "ts": 1788444782000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "255082588",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo"
+  },
+  {
+    "ts": 1788444823000,
+    "mensaje": "Hola  buenas tardes. Si quiero generar dinero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1837754693",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yuraima Rodriguez"
+  },
+  {
+    "ts": 1788444866000,
+    "mensaje": "Q tal es para mi hijo y nieta",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1879962735",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "...Liliana Bustos"
   }
 ]
