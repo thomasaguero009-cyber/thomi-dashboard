@@ -33283,5 +33283,19 @@
     "nombreContacto": "Karol",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788441964000,
+    "subscriberId": "1419802760",
+    "nombreContacto": "Karol",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788441966000,
+    "subscriberId": "1419802760",
+    "nombreContacto": "Karol",
+    "remitente": "contacto",
+    "texto": "Gracias"
   }
 ]
