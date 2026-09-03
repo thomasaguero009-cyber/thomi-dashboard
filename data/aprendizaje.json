@@ -108008,5 +108008,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "María José Gibeaud"
+  },
+  {
+    "ts": 1788456623000,
+    "mensaje": "Bueno si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1677928298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lujan Franco"
+  },
+  {
+    "ts": 1788456753000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1155695114",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "222.jeanvv__"
+  },
+  {
+    "ts": 1788456802000,
+    "mensaje": "Me encantaría conocer al respecto",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "735976926",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Steven Mera"
+  },
+  {
+    "ts": 1788456881000,
+    "mensaje": "Bueno muchas gracias x responderme y esperare a mañana",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1748238035",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "María José Gibeaud"
   }
 ]

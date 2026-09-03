@@ -36223,5 +36223,26 @@
     "nombreContacto": "María José Gibeaud",
     "remitente": "contacto",
     "texto": "Ok, Jonathan me mandó WhatsApp"
+  },
+  {
+    "ts": 1788456625000,
+    "subscriberId": "109846485",
+    "nombreContacto": "@its.sbxstian",
+    "remitente": "contacto",
+    "texto": "Buenas tardes por cierto, mucho gusto soy sebastian"
+  },
+  {
+    "ts": 1788456854000,
+    "subscriberId": "1095649244",
+    "nombreContacto": "Emanuel Valdivia",
+    "remitente": "contacto",
+    "texto": "Así es"
+  },
+  {
+    "ts": 1788456905000,
+    "subscriberId": "1748238035",
+    "nombreContacto": "María José Gibeaud",
+    "remitente": "agente",
+    "texto": "fue sin querer"
   }
 ]
