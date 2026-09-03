@@ -31218,5 +31218,26 @@
     "nombreContacto": "Norma Marchan",
     "remitente": "contacto",
     "texto": "Hola, si estoy interesada, pero tengo unas interrogantes..\n¿¿aplica para Venezuela??\n¿¿Se debe invertir para obtener ganancias??"
+  },
+  {
+    "ts": 1788433542000,
+    "subscriberId": "2009388074",
+    "nombreContacto": "Norma Marchan",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788433550000,
+    "subscriberId": "2009388074",
+    "nombreContacto": "Norma Marchan",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788433616000,
+    "subscriberId": "2009388074",
+    "nombreContacto": "Norma Marchan",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]

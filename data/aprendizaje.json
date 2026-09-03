@@ -95048,5 +95048,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "vale"
+  },
+  {
+    "ts": 1788433251000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1495843609",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Clau Pazos Martinez"
+  },
+  {
+    "ts": 1788433294000,
+    "mensaje": "excelente, si muchas gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "752293870",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Armando Ve"
+  },
+  {
+    "ts": 1788433454000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "105133425",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Ricardo Salazar"
+  },
+  {
+    "ts": 1788433455000,
+    "mensaje": "Hola Tino mucho gusto.\nSi quiero, me llama mucho la atención sobre ese modelo de negocio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "105133425",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Ricardo Salazar"
+  },
+  {
+    "ts": 1788433462000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "997053936",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maglis Mejias"
+  },
+  {
+    "ts": 1788433466000,
+    "mensaje": "Holaa, si por fi",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "349459278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofi"
+  },
+  {
+    "ts": 1788433466000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "349459278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofi"
+  },
+  {
+    "ts": 1788433481000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2009388074",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norma Marchan"
   }
 ]
