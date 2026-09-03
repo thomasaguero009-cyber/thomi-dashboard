@@ -97898,5 +97898,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "martinezandres077"
+  },
+  {
+    "ts": 1788442280000,
+    "mensaje": "Enséñame por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "350420257",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roberto Espinal "
+  },
+  {
+    "ts": 1788442291000,
+    "mensaje": "Hola Buenas Tardes, te escribo desde Venezuela 🇻🇪 \n\nTe agradezco mucho por favor 🙏🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1910284947",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Valente"
+  },
+  {
+    "ts": 1788442381000,
+    "mensaje": "Buenas, como estas??\nSisi pásamelo por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "420061880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diferente.al.Resto🖤"
+  },
+  {
+    "ts": 1788442423000,
+    "mensaje": "Dale sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "533836511",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Gonzalez"
+  },
+  {
+    "ts": 1788442461000,
+    "mensaje": "Si dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1632660027",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Machado"
   }
 ]

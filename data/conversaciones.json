@@ -33297,5 +33297,19 @@
     "nombreContacto": "Karol",
     "remitente": "contacto",
     "texto": "Gracias"
+  },
+  {
+    "ts": 1788442350000,
+    "subscriberId": "1910284947",
+    "nombreContacto": "Ana Valente",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788442358000,
+    "subscriberId": "1910284947",
+    "nombreContacto": "Ana Valente",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
