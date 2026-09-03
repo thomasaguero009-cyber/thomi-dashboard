@@ -106118,5 +106118,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Samu"
+  },
+  {
+    "ts": 1788452757000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1021904524",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ilen Melendez"
+  },
+  {
+    "ts": 1788452762000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "568425386",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ivonne Asenjo"
+  },
+  {
+    "ts": 1788452876000,
+    "mensaje": "Si por favor 🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1279237389",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sherezada Vanessa Collazos Zevallos"
+  },
+  {
+    "ts": 1788452908000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1272564779",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Ricci"
+  },
+  {
+    "ts": 1788452928000,
+    "mensaje": "Si estoy muy buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1208136918",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cheo jose"
+  },
+  {
+    "ts": 1788452957000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "108735511",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Alejandro Romero Mora"
+  },
+  {
+    "ts": 1788452962000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "119499586",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Stipech"
+  },
+  {
+    "ts": 1788452964000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1818856660",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Clau"
+  },
+  {
+    "ts": 1788452967000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1130573897",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "biestrojosé@coto"
+  },
+  {
+    "ts": 1788452969000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "782081678",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🍃Duvi🍀"
+  },
+  {
+    "ts": 1788452973000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "852672401",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jocelyn Belmar"
   }
 ]
