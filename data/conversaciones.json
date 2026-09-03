@@ -32842,5 +32842,26 @@
     "nombreContacto": "Malena Pierre",
     "remitente": "agente",
     "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788440496000,
+    "subscriberId": "1584199467",
+    "nombreContacto": "Juan Gabriel Aguayo Galeano",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788440504000,
+    "subscriberId": "1584199467",
+    "nombreContacto": "Juan Gabriel Aguayo Galeano",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788440570000,
+    "subscriberId": "1584199467",
+    "nombreContacto": "Juan Gabriel Aguayo Galeano",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]

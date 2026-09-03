@@ -96688,5 +96688,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Malena Pierre"
+  },
+  {
+    "ts": 1788440431000,
+    "mensaje": "Hola buenas tardes es un honor para mí, Si quiero por favor gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "209814825",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Dallos"
+  },
+  {
+    "ts": 1788440430000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "209814825",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Dallos"
+  },
+  {
+    "ts": 1788440436000,
+    "mensaje": "Hola si me gustaria saber",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1584199467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Gabriel Aguayo Galeano"
+  },
+  {
+    "ts": 1788440436000,
+    "mensaje": "Hola si me gustaria saber",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1584199467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Gabriel Aguayo Galeano"
   }
 ]
