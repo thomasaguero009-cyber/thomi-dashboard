@@ -96188,5 +96188,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Marcela Vidal"
+  },
+  {
+    "ts": 1788438494000,
+    "mensaje": "Como sería eso?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "666133890",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "GRIS"
+  },
+  {
+    "ts": 1788438544000,
+    "mensaje": "Hola si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "879976859",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julian Torfe"
+  },
+  {
+    "ts": 1788438560000,
+    "mensaje": "Yo quiero tomar una clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1044806995",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Malena Pierre"
+  },
+  {
+    "ts": 1788438602000,
+    "mensaje": "Sii gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1407404302",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "muebles rústicos"
   }
 ]

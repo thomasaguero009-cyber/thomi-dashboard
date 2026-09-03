@@ -32380,5 +32380,33 @@
     "nombreContacto": "Martha Lucia Zapata Ramirez",
     "remitente": "contacto",
     "texto": "Ggracias  la verdad si quisiera"
+  },
+  {
+    "ts": 1788438367000,
+    "subscriberId": "1652902620",
+    "nombreContacto": "Marcela Vidal",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788438462000,
+    "subscriberId": "857166859",
+    "nombreContacto": "Esmeralda Yepez Montenegro",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝❤"
+  },
+  {
+    "ts": 1788438462000,
+    "subscriberId": "857166859",
+    "nombreContacto": "Esmeralda Yepez Montenegro",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788438558000,
+    "subscriberId": "1044806995",
+    "nombreContacto": "Malena Pierre",
+    "remitente": "contacto",
+    "texto": "Yo quiero tomar una clase"
   }
 ]
