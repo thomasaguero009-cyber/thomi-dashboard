@@ -107878,5 +107878,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Delia Renee Bentos"
+  },
+  {
+    "ts": 1788455477000,
+    "mensaje": "Si estoy interesado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "707289692",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "aguirree_14_"
+  },
+  {
+    "ts": 1788455581000,
+    "mensaje": "Me puedes ayudar YO",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "930663824",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Estevez"
   }
 ]

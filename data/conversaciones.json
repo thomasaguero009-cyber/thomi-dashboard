@@ -36027,5 +36027,33 @@
     "nombreContacto": "Irma Yegres",
     "remitente": "contacto",
     "texto": "Si estoy aquí"
+  },
+  {
+    "ts": 1788455432000,
+    "subscriberId": "27450156",
+    "nombreContacto": "Delia Renee Bentos",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788455472000,
+    "subscriberId": "1112979349",
+    "nombreContacto": "Júliaaa <3",
+    "remitente": "contacto",
+    "texto": "Si porfavor enviame la classe. Muchas gracias"
+  },
+  {
+    "ts": 1788455486000,
+    "subscriberId": "1882938487",
+    "nombreContacto": "Leandro Tejerina",
+    "remitente": "contacto",
+    "texto": "Hola buenas. Si quiero aprender"
+  },
+  {
+    "ts": 1788455590000,
+    "subscriberId": "930663824",
+    "nombreContacto": "Elizabeth Estevez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo gracias"
   }
 ]
