@@ -94948,5 +94948,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jorge Gonzalez"
+  },
+  {
+    "ts": 1788379570000,
+    "mensaje": "Hola buenas noches si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "607836003",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Visleny Padovano"
+  },
+  {
+    "ts": 1788379571000,
+    "mensaje": "Hola buenas noches si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "607836003",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Visleny Padovano"
+  },
+  {
+    "ts": 1788379621000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "461521682",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norma.B"
+  },
+  {
+    "ts": 1788379621000,
+    "mensaje": "Preguntó porque no tengo un sueldo, estoy sin trabajo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "461521682",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norma.B"
   }
 ]
