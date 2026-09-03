@@ -35208,5 +35208,26 @@
     "nombreContacto": "Grupo Gruser Lilian Herrera",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788451562000,
+    "subscriberId": "232697766",
+    "nombreContacto": "Grupo Gruser Lilian Herrera",
+    "remitente": "contacto",
+    "texto": "Ok la clase es gratis , y hay cobro de suscripción al final de la clase  ?"
+  },
+  {
+    "ts": 1788451658000,
+    "subscriberId": "584832803",
+    "nombreContacto": "YUKA - Services animación",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788451709000,
+    "subscriberId": "813846589",
+    "nombreContacto": "Naty Ballario",
+    "remitente": "contacto",
+    "texto": "Cuáles serían los requisitos?"
   }
 ]
