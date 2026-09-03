@@ -96228,5 +96228,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "muebles rústicos"
+  },
+  {
+    "ts": 1788438673000,
+    "mensaje": "Hola 🙋‍♀️ Si obvio .",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1428111490",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Koky Bonavitta"
+  },
+  {
+    "ts": 1788438738000,
+    "mensaje": "Buenas tardes , de una 🙏🏼",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2049214498",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Parra"
+  },
+  {
+    "ts": 1788438785000,
+    "mensaje": "🤔",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "617034180",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paulo Rodríguez"
+  },
+  {
+    "ts": 1788438825000,
+    "mensaje": "Sí estoy. Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1680679046",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariadna Olivera"
+  },
+  {
+    "ts": 1788438912000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "131392493",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yordy_🕸️🕷️🦹🏽"
   }
 ]
