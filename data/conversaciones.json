@@ -33871,5 +33871,26 @@
     "nombreContacto": "Lorena Funes",
     "remitente": "contacto",
     "texto": "Mi interesa"
+  },
+  {
+    "ts": 1788444944000,
+    "subscriberId": "504887493",
+    "nombreContacto": "Lorena Funes",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788444950000,
+    "subscriberId": "504887493",
+    "nombreContacto": "Lorena Funes",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788445028000,
+    "subscriberId": "293342706",
+    "nombreContacto": "Ilian Pinzon",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
