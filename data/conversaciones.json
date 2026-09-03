@@ -31071,5 +31071,40 @@
     "nombreContacto": "Natha Meza",
     "remitente": "contacto",
     "texto": "Hola muy buenos días ✨ \nSi claro que sí pásalo"
+  },
+  {
+    "ts": 1788432726000,
+    "subscriberId": "1905526303",
+    "nombreContacto": "mahurymarcella",
+    "remitente": "contacto",
+    "texto": "Si lo quiero"
+  },
+  {
+    "ts": 1788432786000,
+    "subscriberId": "1905526303",
+    "nombreContacto": "mahurymarcella",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788432794000,
+    "subscriberId": "1905526303",
+    "nombreContacto": "mahurymarcella",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788432817000,
+    "subscriberId": "1167803477",
+    "nombreContacto": "Daniel Rodri",
+    "remitente": "contacto",
+    "texto": "Buenas si"
+  },
+  {
+    "ts": 1788432821000,
+    "subscriberId": "1167803477",
+    "nombreContacto": "Daniel Rodri",
+    "remitente": "contacto",
+    "texto": "Quisiera el catálogo"
   }
 ]
