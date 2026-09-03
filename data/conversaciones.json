@@ -34032,5 +34032,40 @@
     "nombreContacto": "Hory",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788447324000,
+    "subscriberId": "768890037",
+    "nombreContacto": "Betty Segura",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788447324000,
+    "subscriberId": "768890037",
+    "nombreContacto": "Betty Segura",
+    "remitente": "contacto",
+    "texto": "Si pero tuesta algo"
+  },
+  {
+    "ts": 1788447414000,
+    "subscriberId": "404779678",
+    "nombreContacto": "susana ledesma del valle",
+    "remitente": "contacto",
+    "texto": "Estoy"
+  },
+  {
+    "ts": 1788447513000,
+    "subscriberId": "376640247",
+    "nombreContacto": "la cande",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788447521000,
+    "subscriberId": "376640247",
+    "nombreContacto": "la cande",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]

@@ -99168,5 +99168,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "al que quiere ber muerto"
+  },
+  {
+    "ts": 1788447028000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1169291621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐷𝑟𝑎_𝑦ℎ𝑎𝑛_05"
+  },
+  {
+    "ts": 1788447060000,
+    "mensaje": "Hola si dale gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2083724681",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Virginia Djellatian"
+  },
+  {
+    "ts": 1788447143000,
+    "mensaje": "Hola Tino, claro me encantaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "600004320",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ethan Achoy"
+  },
+  {
+    "ts": 1788447311000,
+    "mensaje": "Si estoy preparada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1756268656",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕷𝖆 𝕽𝖊𝖞𝖓𝖆👑"
+  },
+  {
+    "ts": 1788447366000,
+    "mensaje": "Estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "875287973",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yenny cespedes"
+  },
+  {
+    "ts": 1788447454000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "376640247",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "la cande"
   }
 ]
