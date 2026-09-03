@@ -35033,5 +35033,19 @@
     "nombreContacto": "Loreley Elizabeth Pereyra",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788450596000,
+    "subscriberId": "268601249",
+    "nombreContacto": "Loreley Elizabeth Pereyra",
+    "remitente": "contacto",
+    "texto": "50"
+  },
+  {
+    "ts": 1788450603000,
+    "subscriberId": "268601249",
+    "nombreContacto": "Loreley Elizabeth Pereyra",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
   }
 ]
