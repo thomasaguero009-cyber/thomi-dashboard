@@ -112158,5 +112158,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Bernardita Moreno"
+  },
+  {
+    "ts": 1788531707000,
+    "mensaje": "Hola buenas tardes Tino, muchas gracias. Si por favor envíamela.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "426101070",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Amelia Guerrero"
+  },
+  {
+    "ts": 1788531884000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "2012965092",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rafael Solano Quintero"
+  },
+  {
+    "ts": 1788531886000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1459943334",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandy rodriguez"
+  },
+  {
+    "ts": 1788531889000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "414272629",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celina Duran"
+  },
+  {
+    "ts": 1788531897000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "909951143",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Ines Garcia"
+  },
+  {
+    "ts": 1788531899000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "801359764",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabi Caceres"
+  },
+  {
+    "ts": 1788531905000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "801291467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ester Molina"
+  },
+  {
+    "ts": 1788531914000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "801291467",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ester Molina"
+  },
+  {
+    "ts": 1788531916000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1002238661",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia Higa"
   }
 ]
