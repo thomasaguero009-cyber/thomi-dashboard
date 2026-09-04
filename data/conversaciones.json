@@ -38841,5 +38841,33 @@
     "nombreContacto": "JOHAN",
     "remitente": "agente",
     "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788525387000,
+    "subscriberId": "715492640",
+    "nombreContacto": "Jesus Lopez",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788525486000,
+    "subscriberId": "1632194699",
+    "nombreContacto": "Sandra Nikoloric",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788525486000,
+    "subscriberId": "1632194699",
+    "nombreContacto": "Sandra Nikoloric",
+    "remitente": "contacto",
+    "texto": "Deseo info de los trabajos en WhatsApp, gracias"
+  },
+  {
+    "ts": 1788525494000,
+    "subscriberId": "1632194699",
+    "nombreContacto": "Sandra Nikoloric",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
