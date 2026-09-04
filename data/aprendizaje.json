@@ -115348,5 +115348,165 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Milagros Escobar"
+  },
+  {
+    "ts": 1788534920000,
+    "mensaje": "Hola perdón ,llegue de trabajar te hablé y me desmaye,mil disculpas",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1412478441",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Noguera"
+  },
+  {
+    "ts": 1788534923000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1172228962",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernanda Rivarola"
+  },
+  {
+    "ts": 1788534929000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "461803756",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cosmeticos._.ana"
+  },
+  {
+    "ts": 1788534940000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "44785404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mydeepskincare"
+  },
+  {
+    "ts": 1788534945000,
+    "mensaje": "Tengo 57 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1806710763",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gonzalo Palma"
+  },
+  {
+    "ts": 1788534949000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1180598439",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Alberto Baños Espínola"
+  },
+  {
+    "ts": 1788534961000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1130510505",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MIMINA"
+  },
+  {
+    "ts": 1788534964000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1406726783",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ary Capricorni"
+  },
+  {
+    "ts": 1788534969000,
+    "mensaje": "Si porfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1673656175",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "FerchuX"
+  },
+  {
+    "ts": 1788535031000,
+    "mensaje": "E rgalarias algo de dinero",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1110941259",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alvin"
+  },
+  {
+    "ts": 1788535033000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1143800904",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kato Torres"
+  },
+  {
+    "ts": 1788535038000,
+    "mensaje": "Sí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2076004685",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pz_.lzo"
+  },
+  {
+    "ts": 1788535044000,
+    "mensaje": "Si quiero que me pases si podes",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1193630231",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leandro Ariel Quintana"
+  },
+  {
+    "ts": 1788535048000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "112073351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago Gibert"
+  },
+  {
+    "ts": 1788535123000,
+    "mensaje": "Si me interesa ,no es arriesgado?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1887622733",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norma Alicia Hernandez Calderon"
+  },
+  {
+    "ts": 1788535138000,
+    "mensaje": "Dale gracias soy de Argentina",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1449514297",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sole"
   }
 ]
