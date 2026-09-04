@@ -114088,5 +114088,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Marina Piras"
+  },
+  {
+    "ts": 1788533611000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1404362508",
+    "setter": "thomi",
+    "pageId": "4392005",
+    "nombreContacto": "Luis Miguel"
+  },
+  {
+    "ts": 1788533698000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1033735695",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrian Andres"
+  },
+  {
+    "ts": 1788533704000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "2074496534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pastelito"
+  },
+  {
+    "ts": 1788533711000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1295536791",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ིྀ࿐𝒴𝒶𝓃𝒾 જ⁀➴🇨🇺ೄྀ"
   }
 ]
