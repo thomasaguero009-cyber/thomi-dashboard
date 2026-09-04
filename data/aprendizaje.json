@@ -115618,5 +115618,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "👑✨"
+  },
+  {
+    "ts": 1788536678000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1717325829",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mike Tovar"
+  },
+  {
+    "ts": 1788536681000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1645505365",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvana Fraguglia"
+  },
+  {
+    "ts": 1788536690000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "847189713",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ale Hernandez"
+  },
+  {
+    "ts": 1788536699000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "528496806",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "myriam alicia ibarrs"
+  },
+  {
+    "ts": 1788536703000,
+    "mensaje": "BotQueres que te la envie?Sisi me interesa",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "369037056",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcela Elsesser"
+  },
+  {
+    "ts": 1788536707000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "931380786",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rigoberto Pérez"
+  },
+  {
+    "ts": 1788536711000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1838059611",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Zampedri"
   }
 ]
