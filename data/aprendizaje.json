@@ -118948,5 +118948,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Edgardo Sánchez"
+  },
+  {
+    "ts": 1788540981000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "566886016",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "malu"
+  },
+  {
+    "ts": 1788540990000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1784681268",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anderson Cano"
+  },
+  {
+    "ts": 1788540996000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "893674482",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Katty Preciado de Lattronico"
+  },
+  {
+    "ts": 1788541003000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1201418539",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Liliana Lozano"
+  },
+  {
+    "ts": 1788541008000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1540115874",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nuni Sosa"
+  },
+  {
+    "ts": 1788541021000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1690373148",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cruz Og Kush"
+  },
+  {
+    "ts": 1788541057000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "102327889",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vittooor_2"
   }
 ]
