@@ -37784,5 +37784,47 @@
     "nombreContacto": "Dulfa Diaz Escorcia",
     "remitente": "contacto",
     "texto": "Si estoy interesada"
+  },
+  {
+    "ts": 1788519946000,
+    "subscriberId": "1546076021",
+    "nombreContacto": "Elgibor",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788519954000,
+    "subscriberId": "1546076021",
+    "nombreContacto": "Elgibor",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788520020000,
+    "subscriberId": "1546076021",
+    "nombreContacto": "Elgibor",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788520173000,
+    "subscriberId": "1479467846",
+    "nombreContacto": "Santi Jr Arrieche",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788520177000,
+    "subscriberId": "1479467846",
+    "nombreContacto": "Santi Jr Arrieche",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788520210000,
+    "subscriberId": "1479467846",
+    "nombreContacto": "Santi Jr Arrieche",
+    "remitente": "contacto",
+    "texto": "BotQuerés que te la envíe?¿Es confiable?"
   }
 ]
