@@ -41753,5 +41753,54 @@
     "nombreContacto": "Claudia Hernández",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788537663000,
+    "subscriberId": "1682841613",
+    "nombreContacto": "Gabriela Gómez",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1788537663000,
+    "subscriberId": "607683156",
+    "nombreContacto": "Jeueldiaz",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788537669000,
+    "subscriberId": "607683156",
+    "nombreContacto": "Jeueldiaz",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788537711000,
+    "subscriberId": "398119255",
+    "nombreContacto": "Claudia Paz Fernandez",
+    "remitente": "contacto",
+    "texto": "Catalogo"
+  },
+  {
+    "ts": 1788537837000,
+    "subscriberId": "1116886587",
+    "nombreContacto": "Juan Carlos Novillo",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788537866000,
+    "subscriberId": "79145117",
+    "nombreContacto": "Ivan Sagario",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788537903000,
+    "subscriberId": "1116886587",
+    "nombreContacto": "Juan Carlos Novillo",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
