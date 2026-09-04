@@ -37504,5 +37504,26 @@
     "nombreContacto": "Omar Omar",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788516618000,
+    "subscriberId": "2027196938",
+    "nombreContacto": "Omar Omar",
+    "remitente": "contacto",
+    "texto": "46"
+  },
+  {
+    "ts": 1788516685000,
+    "subscriberId": "2027196938",
+    "nombreContacto": "Omar Omar",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788516918000,
+    "subscriberId": "1166844689",
+    "nombreContacto": "Euge Ruiz",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
   }
 ]

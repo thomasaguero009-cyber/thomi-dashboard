@@ -109268,5 +109268,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "sannttiaggo_"
+  },
+  {
+    "ts": 1788516348000,
+    "mensaje": "Si, por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1176775364",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Susy Labrada"
+  },
+  {
+    "ts": 1788516857000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1166844689",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Euge Ruiz"
+  },
+  {
+    "ts": 1788516858000,
+    "mensaje": "Grscias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1166844689",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Euge Ruiz"
   }
 ]
