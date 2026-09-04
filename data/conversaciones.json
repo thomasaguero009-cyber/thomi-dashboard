@@ -42754,5 +42754,89 @@
     "nombreContacto": "valennpretto",
     "remitente": "contacto",
     "texto": "okk"
+  },
+  {
+    "ts": 1788544227000,
+    "subscriberId": "912661278",
+    "nombreContacto": "valennpretto",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788544231000,
+    "subscriberId": "912661278",
+    "nombreContacto": "valennpretto",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788544316000,
+    "subscriberId": "310489830",
+    "nombreContacto": "Julissa Velasquez",
+    "remitente": "contacto",
+    "texto": "Soy madre y tengo que mantener a mi hijo"
+  },
+  {
+    "ts": 1788544367000,
+    "subscriberId": "310489830",
+    "nombreContacto": "Julissa Velasquez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788544370000,
+    "subscriberId": "310489830",
+    "nombreContacto": "Julissa Velasquez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788544424000,
+    "subscriberId": "856011509",
+    "nombreContacto": "Darwin Alberto Velez Duarte",
+    "remitente": "contacto",
+    "texto": "Por supuesto que sí."
+  },
+  {
+    "ts": 1788544424000,
+    "subscriberId": "856011509",
+    "nombreContacto": "Darwin Alberto Velez Duarte",
+    "remitente": "agente",
+    "texto": "Eyyy no entendi, tenes 15 minutos para ver mi clase exlusiva?"
+  },
+  {
+    "ts": 1788544424000,
+    "subscriberId": "856011509",
+    "nombreContacto": "Darwin Alberto Velez Duarte",
+    "remitente": "contacto",
+    "texto": "Caballero espero."
+  },
+  {
+    "ts": 1788544424000,
+    "subscriberId": "856011509",
+    "nombreContacto": "Darwin Alberto Velez Duarte",
+    "remitente": "contacto",
+    "texto": "Si es para hacer ingresos lo hago."
+  },
+  {
+    "ts": 1788544424000,
+    "subscriberId": "856011509",
+    "nombreContacto": "Darwin Alberto Velez Duarte",
+    "remitente": "contacto",
+    "texto": "Tino me quedé esperando la clase ?"
+  },
+  {
+    "ts": 1788544449000,
+    "subscriberId": "888017688",
+    "nombreContacto": "Imelda Rodriguez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788544453000,
+    "subscriberId": "888017688",
+    "nombreContacto": "Imelda Rodriguez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
