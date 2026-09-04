@@ -37693,5 +37693,61 @@
     "nombreContacto": "Derek The Lucke",
     "remitente": "contacto",
     "texto": "Sii"
+  },
+  {
+    "ts": 1788518438000,
+    "subscriberId": "1501677092",
+    "nombreContacto": "Derek The Lucke",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788518446000,
+    "subscriberId": "1501677092",
+    "nombreContacto": "Derek The Lucke",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788518489000,
+    "subscriberId": "1984129498",
+    "nombreContacto": "pame moreno",
+    "remitente": "contacto",
+    "texto": "Estoy"
+  },
+  {
+    "ts": 1788518532000,
+    "subscriberId": "1421408649",
+    "nombreContacto": "kittysoberana",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788518532000,
+    "subscriberId": "1421408649",
+    "nombreContacto": "kittysoberana",
+    "remitente": "contacto",
+    "texto": "Hola!\nAquí estoy."
+  },
+  {
+    "ts": 1788518592000,
+    "subscriberId": "1421408649",
+    "nombreContacto": "kittysoberana",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788518600000,
+    "subscriberId": "1421408649",
+    "nombreContacto": "kittysoberana",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788518666000,
+    "subscriberId": "1421408649",
+    "nombreContacto": "kittysoberana",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
