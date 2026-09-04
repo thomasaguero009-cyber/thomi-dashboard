@@ -41711,5 +41711,47 @@
     "nombreContacto": "Mirta",
     "remitente": "contacto",
     "texto": "Hola, si me lo.podes pasar te agradezco."
+  },
+  {
+    "ts": 1788537315000,
+    "subscriberId": "2103050343",
+    "nombreContacto": "jonatan",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788537319000,
+    "subscriberId": "2103050343",
+    "nombreContacto": "jonatan",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788537387000,
+    "subscriberId": "312779130",
+    "nombreContacto": "Rosa de la cruz",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788537387000,
+    "subscriberId": "312779130",
+    "nombreContacto": "Rosa de la cruz",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788537566000,
+    "subscriberId": "1940915620",
+    "nombreContacto": "Claudia Hernández",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788537574000,
+    "subscriberId": "1940915620",
+    "nombreContacto": "Claudia Hernández",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
