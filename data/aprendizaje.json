@@ -109098,5 +109098,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "David Martiliano"
+  },
+  {
+    "ts": 1788465028000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "680084201",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Namaste Naymar Gil"
+  },
+  {
+    "ts": 1788465118000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2053528107",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia Fernandez"
+  },
+  {
+    "ts": 1788465122000,
+    "mensaje": "Si estoy 😊",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "775225252",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carolina"
   }
 ]

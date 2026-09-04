@@ -37028,5 +37028,54 @@
     "nombreContacto": "Neyra Guevara",
     "remitente": "agente",
     "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788465026000,
+    "subscriberId": "680084201",
+    "nombreContacto": "Namaste Naymar Gil",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788465026000,
+    "subscriberId": "680084201",
+    "nombreContacto": "Namaste Naymar Gil",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788465102000,
+    "subscriberId": "1484002800",
+    "nombreContacto": "Cecilia Parodi",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788465109000,
+    "subscriberId": "1484002800",
+    "nombreContacto": "Cecilia Parodi",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788465182000,
+    "subscriberId": "775225252",
+    "nombreContacto": "Carolina",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788465190000,
+    "subscriberId": "775225252",
+    "nombreContacto": "Carolina",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788465245000,
+    "subscriberId": "537729578",
+    "nombreContacto": "Grace Mac Gaw",
+    "remitente": "contacto",
+    "texto": "Hola, si es gratis (no tengo plata, soy jubilada), puedes pasarme \nMuchas gracias"
   }
 ]
