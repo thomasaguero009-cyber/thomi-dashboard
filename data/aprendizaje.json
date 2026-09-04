@@ -109128,5 +109128,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carolina"
+  },
+  {
+    "ts": 1788465380000,
+    "mensaje": "Me interesa participar en responder wasap a ver si me ayudas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "715492640",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus Lopez"
+  },
+  {
+    "ts": 1788465461000,
+    "mensaje": "Vale aquí estamos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "779024698",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vekos Zuares"
+  },
+  {
+    "ts": 1788465558000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "705168080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rafadeza"
   }
 ]
