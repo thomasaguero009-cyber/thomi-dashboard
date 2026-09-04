@@ -111168,5 +111168,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Luis Miguel"
+  },
+  {
+    "ts": 1788528469000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "111338779",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "༼👾ǤℋØ$₮👾༽ §ÁNCHEZ【¥Ŧ】"
+  },
+  {
+    "ts": 1788528603000,
+    "mensaje": "Yo ahora estoy en España  estaré un tiempo aquí.. si pásamelo.\n Mil gracias.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1826021130",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Detalles Ranita"
   }
 ]
