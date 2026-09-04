@@ -109298,5 +109298,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Euge Ruiz"
+  },
+  {
+    "ts": 1788517439000,
+    "mensaje": "Si, por favor, me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "897333333",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yilmar Murillo"
+  },
+  {
+    "ts": 1788517440000,
+    "mensaje": "Si, por favor, me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "897333333",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yilmar Murillo"
+  },
+  {
+    "ts": 1788517558000,
+    "mensaje": "Si quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1072185029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Susana Mabel Cibotti"
+  },
+  {
+    "ts": 1788517558000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1072185029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Susana Mabel Cibotti"
+  },
+  {
+    "ts": 1788517596000,
+    "mensaje": "Pdf",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2103739857",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dilan brizueña"
+  },
+  {
+    "ts": 1788517682000,
+    "mensaje": "Hola Tino cómo estás? Quiero entrar al programa pero no sé si los enlaces que aparecen son truchos o son los que vos realmente tenes, me podrías ayudar con eso por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "363860088",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joaqo"
+  },
+  {
+    "ts": 1788517682000,
+    "mensaje": "Hola Tino cómo estás? Quiero entrar al programa pero no sé si los enlaces que aparecen son truchos o son los que vos realmente tenes, me podrías ayudar con eso por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "363860088",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joaqo"
+  },
+  {
+    "ts": 1788517799000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "364424531",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kattia BM"
+  },
+  {
+    "ts": 1788517799000,
+    "mensaje": "Por favor necesito urgente trabajar me la pasas por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "364424531",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kattia BM"
+  },
+  {
+    "ts": 1788517809000,
+    "mensaje": "Si..estoy",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1883539793",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Marroncelli"
+  },
+  {
+    "ts": 1788517810000,
+    "mensaje": "Si..estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1883539793",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Marroncelli"
   }
 ]

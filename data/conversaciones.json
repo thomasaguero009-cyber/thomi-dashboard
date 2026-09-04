@@ -37546,5 +37546,54 @@
     "nombreContacto": "Yilmar Murillo",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788517524000,
+    "subscriberId": "897333333",
+    "nombreContacto": "Yilmar Murillo",
+    "remitente": "contacto",
+    "texto": "Si, por favor, estaré atento"
+  },
+  {
+    "ts": 1788517656000,
+    "subscriberId": "2103739857",
+    "nombreContacto": "Dilan brizueña",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788517662000,
+    "subscriberId": "2103739857",
+    "nombreContacto": "Dilan brizueña",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788517665000,
+    "subscriberId": "2103739857",
+    "nombreContacto": "Dilan brizueña",
+    "remitente": "contacto",
+    "texto": "Please me interesa un montón"
+  },
+  {
+    "ts": 1788517742000,
+    "subscriberId": "363860088",
+    "nombreContacto": "Joaqo",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788517748000,
+    "subscriberId": "363860088",
+    "nombreContacto": "Joaqo",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788517761000,
+    "subscriberId": "363860088",
+    "nombreContacto": "Joaqo",
+    "remitente": "contacto",
+    "texto": "Sii por favor"
   }
 ]
