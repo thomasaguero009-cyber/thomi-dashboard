@@ -118668,5 +118668,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alejandro Lopez"
+  },
+  {
+    "ts": 1788540258000,
+    "mensaje": "Hay que hacer algún tipo de invercion",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "113365601",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hector Obando"
+  },
+  {
+    "ts": 1788540269000,
+    "mensaje": "Si lo ví pero ,esto es real?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1291349807",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorgito+naa"
   }
 ]
