@@ -41907,5 +41907,26 @@
     "nombreContacto": "Ivanjose Camacholimares",
     "remitente": "contacto",
     "texto": "Si Gracias"
+  },
+  {
+    "ts": 1788538561000,
+    "subscriberId": "1802991261",
+    "nombreContacto": "Alejandra Baez",
+    "remitente": "contacto",
+    "texto": "SI por favor"
+  },
+  {
+    "ts": 1788538677000,
+    "subscriberId": "432930538",
+    "nombreContacto": "Maria Teresa Rodriguez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788538684000,
+    "subscriberId": "432930538",
+    "nombreContacto": "Maria Teresa Rodriguez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
