@@ -42677,5 +42677,33 @@
     "nombreContacto": "Hugo Cabaña",
     "remitente": "contacto",
     "texto": "Catalogo"
+  },
+  {
+    "ts": 1788543707000,
+    "subscriberId": "556910755",
+    "nombreContacto": "XXL",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788543715000,
+    "subscriberId": "556910755",
+    "nombreContacto": "XXL",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788543860000,
+    "subscriberId": "105644825",
+    "nombreContacto": "José Maria González",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788543867000,
+    "subscriberId": "105644825",
+    "nombreContacto": "José Maria González",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
