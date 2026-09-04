@@ -110178,5 +110178,145 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Pepe Fornes"
+  },
+  {
+    "ts": 1788523519000,
+    "mensaje": "sii",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1295474885",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonardo HC"
+  },
+  {
+    "ts": 1788523519000,
+    "mensaje": "sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1295474885",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonardo HC"
+  },
+  {
+    "ts": 1788523645000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "102744404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Ponce"
+  },
+  {
+    "ts": 1788523644000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "102744404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Ponce"
+  },
+  {
+    "ts": 1788523664000,
+    "mensaje": "Sii",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "239672968",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yamilf_goxz"
+  },
+  {
+    "ts": 1788523665000,
+    "mensaje": "Sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "239672968",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yamilf_goxz"
+  },
+  {
+    "ts": 1788523715000,
+    "mensaje": "Si gracias 🫂",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1964257485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "massi"
+  },
+  {
+    "ts": 1788523716000,
+    "mensaje": "Si gracias 🫂",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1964257485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "massi"
+  },
+  {
+    "ts": 1788523749000,
+    "mensaje": "Daleeee por fa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "406084226",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marie Pezzarini"
+  },
+  {
+    "ts": 1788523749000,
+    "mensaje": "Daleeee por fa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "406084226",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marie Pezzarini"
+  },
+  {
+    "ts": 1788523785000,
+    "mensaje": "Si, estoy interesada, gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1916277298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isa Barrera Uribe"
+  },
+  {
+    "ts": 1788523785000,
+    "mensaje": "Si, estoy interesada, gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1916277298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isa Barrera Uribe"
+  },
+  {
+    "ts": 1788523806000,
+    "mensaje": "Si son para mi mama,realmente , ella es Enfermera y a la verdad le vendria bien",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "580189510",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eber Gil Hechavarría"
+  },
+  {
+    "ts": 1788523807000,
+    "mensaje": "Si son para mi mama,realmente , ella es Enfermera y a la verdad le vendria bien",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "580189510",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eber Gil Hechavarría"
   }
 ]
