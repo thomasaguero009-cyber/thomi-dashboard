@@ -39030,5 +39030,26 @@
     "nombreContacto": "Mary Flor Medina",
     "remitente": "agente",
     "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788526535000,
+    "subscriberId": "1291553042",
+    "nombreContacto": "Carlos David Muñoz Paulino",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788526629000,
+    "subscriberId": "1066793102",
+    "nombreContacto": "Mary Flor Medina",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788526633000,
+    "subscriberId": "2051003519",
+    "nombreContacto": "jhoyfer fuentes",
+    "remitente": "contacto",
+    "texto": "Hola buenas tardes si claro me interesa"
   }
 ]
