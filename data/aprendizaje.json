@@ -111468,5 +111468,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Amazonas Express"
+  },
+  {
+    "ts": 1788530122000,
+    "mensaje": "Estoy.  Eso.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1049316042",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Del Carmen Javier"
+  },
+  {
+    "ts": 1788530130000,
+    "mensaje": "Cuando abro el catalogo que hago??",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "57300764",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emilia Baez"
+  },
+  {
+    "ts": 1788530133000,
+    "mensaje": "Tengo 50 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "217901387",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Esnayda Guadalupe Ortiz"
+  },
+  {
+    "ts": 1788530138000,
+    "mensaje": "BotTe pudiste agendar?No me dejo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "502578763",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᴘᴀᴅɪʟʟᴀ⁰⁸"
+  },
+  {
+    "ts": 1788530145000,
+    "mensaje": "Pero q edad deberia tener mas o menos para poder trabajar en esto de los mensajes",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "832590916",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jesus"
+  },
+  {
+    "ts": 1788530344000,
+    "mensaje": "Hola buenas tardes. Si acá estamos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1153359786",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Noemi Sosa de Barnard"
   }
 ]

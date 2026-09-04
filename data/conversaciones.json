@@ -39786,5 +39786,47 @@
     "nombreContacto": "Amazonas Express",
     "remitente": "contacto",
     "texto": "Ahora te escuché"
+  },
+  {
+    "ts": 1788530123000,
+    "subscriberId": "1049316042",
+    "nombreContacto": "Maria Del Carmen Javier",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788530139000,
+    "subscriberId": "502578763",
+    "nombreContacto": "ᴘᴀᴅɪʟʟᴀ⁰⁸",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788530242000,
+    "subscriberId": "955771901",
+    "nombreContacto": "Lev Patricia",
+    "remitente": "contacto",
+    "texto": "Si   claro"
+  },
+  {
+    "ts": 1788530305000,
+    "subscriberId": "955771901",
+    "nombreContacto": "Lev Patricia",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788530312000,
+    "subscriberId": "955771901",
+    "nombreContacto": "Lev Patricia",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788530403000,
+    "subscriberId": "1153359786",
+    "nombreContacto": "Sandra Noemi Sosa de Barnard",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
