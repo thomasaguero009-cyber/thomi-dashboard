@@ -111128,5 +111128,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carlos David Muñoz Paulino"
+  },
+  {
+    "ts": 1788527472000,
+    "mensaje": "Hola buenas si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "801359764",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabi Caceres"
+  },
+  {
+    "ts": 1788527511000,
+    "mensaje": "Tino disculpa la hora pero mira \nTengo unos compañeros q se me cagan de risa pq no tengo plata para mucho y no quiero depender de lo que gane mi papá\nY me dicen que si hago esto voy a ganar dos pesos y nose que más \nYo confío en q con esto voy a al menos salir adelante a mi edad mientras ellos no hacen nada, voy a intentar callarles la boda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1503498316",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "santuu"
+  },
+  {
+    "ts": 1788527530000,
+    "mensaje": "hola rino si Quero que me guíes para aprender dame una mano la estoy pasando mal soy padre soltero viví con mi hija de 7 años y necesito darle un mejor futuro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "896855303",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pacheko Vsd"
   }
 ]
