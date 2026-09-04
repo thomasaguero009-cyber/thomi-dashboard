@@ -42313,5 +42313,47 @@
     "nombreContacto": "___adrxx",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788541903000,
+    "subscriberId": "1625649258",
+    "nombreContacto": "Tania Domínguez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788541913000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "muchas gracias"
+  },
+  {
+    "ts": 1788541969000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788542023000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "BotHACE CLIC👇gracias"
+  },
+  {
+    "ts": 1788542034000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "sos el mejor"
+  },
+  {
+    "ts": 1788542093000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
