@@ -43447,5 +43447,54 @@
     "nombreContacto": "Bruno",
     "remitente": "agente",
     "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788546379000,
+    "subscriberId": "192378600",
+    "nombreContacto": "Lía Verónica Herrera",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788546386000,
+    "subscriberId": "192378600",
+    "nombreContacto": "Lía Verónica Herrera",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788546402000,
+    "subscriberId": "1997124403",
+    "nombreContacto": "Ian",
+    "remitente": "contacto",
+    "texto": "Tinoo"
+  },
+  {
+    "ts": 1788546450000,
+    "subscriberId": "1997124403",
+    "nombreContacto": "Ian",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788546453000,
+    "subscriberId": "1997124403",
+    "nombreContacto": "Ian",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788546481000,
+    "subscriberId": "1997124403",
+    "nombreContacto": "Ian",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788546505000,
+    "subscriberId": "1997124403",
+    "nombreContacto": "Ian",
+    "remitente": "contacto",
+    "texto": "Me arias ese favor"
   }
 ]
