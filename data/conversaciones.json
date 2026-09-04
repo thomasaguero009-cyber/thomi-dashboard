@@ -43041,5 +43041,26 @@
     "nombreContacto": "Mariela Moreno",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788545264000,
+    "subscriberId": "2019587221",
+    "nombreContacto": "Nataly Gomez",
+    "remitente": "contacto",
+    "texto": "Buenas noches"
+  },
+  {
+    "ts": 1788545379000,
+    "subscriberId": "1546717251",
+    "nombreContacto": "Blanca Castro",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788545387000,
+    "subscriberId": "1546717251",
+    "nombreContacto": "Blanca Castro",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
