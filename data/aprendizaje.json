@@ -109168,5 +109168,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Claudia Noguera"
+  },
+  {
+    "ts": 1788514432000,
+    "mensaje": "Me interesa",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1406726783",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ary Capricorni"
+  },
+  {
+    "ts": 1788514433000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1406726783",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ary Capricorni"
+  },
+  {
+    "ts": 1788514449000,
+    "mensaje": "Hola tino",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1463927870",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ian Ramírez"
+  },
+  {
+    "ts": 1788514449000,
+    "mensaje": "Hola tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1463927870",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ian Ramírez"
   }
 ]
