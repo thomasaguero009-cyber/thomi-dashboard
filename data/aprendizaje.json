@@ -111078,5 +111078,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "El_chain"
+  },
+  {
+    "ts": 1788526150000,
+    "mensaje": "Me interesa mucho bro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1819788198",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Miguel Conesa Benitez"
+  },
+  {
+    "ts": 1788526157000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "428944249",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jessica Urriago Lozano"
+  },
+  {
+    "ts": 1788526161000,
+    "mensaje": "Si porfavor pero dengo 64 años no hay problema",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1994578373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yadira Kihuen"
   }
 ]
