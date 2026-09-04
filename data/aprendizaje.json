@@ -109508,5 +109508,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Este Fania"
+  },
+  {
+    "ts": 1788519476000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "289085802",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Felipe Lagos"
+  },
+  {
+    "ts": 1788519476000,
+    "mensaje": "Me.interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "289085802",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Felipe Lagos"
   }
 ]
