@@ -43062,5 +43062,54 @@
     "nombreContacto": "Blanca Castro",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788545417000,
+    "subscriberId": "363009679",
+    "nombreContacto": "Emi",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelcatálogo"
+  },
+  {
+    "ts": 1788545417000,
+    "subscriberId": "363009679",
+    "nombreContacto": "Emi",
+    "remitente": "contacto",
+    "texto": "hola cómo estás ?"
+  },
+  {
+    "ts": 1788545417000,
+    "subscriberId": "363009679",
+    "nombreContacto": "Emi",
+    "remitente": "contacto",
+    "texto": "dale"
+  },
+  {
+    "ts": 1788545488000,
+    "subscriberId": "1321376998",
+    "nombreContacto": "Eulalia Carretero Estévez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788545492000,
+    "subscriberId": "1321376998",
+    "nombreContacto": "Eulalia Carretero Estévez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788545693000,
+    "subscriberId": "1509863597",
+    "nombreContacto": "Samanta Araceli",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788545700000,
+    "subscriberId": "1509863597",
+    "nombreContacto": "Samanta Araceli",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
