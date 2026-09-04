@@ -43370,5 +43370,82 @@
     "nombreContacto": "Hiliana Oramas",
     "remitente": "agente",
     "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1788546227000,
+    "subscriberId": "1566617484",
+    "nombreContacto": "Jacky Lop Nei",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788546235000,
+    "subscriberId": "1566617484",
+    "nombreContacto": "Jacky Lop Nei",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788546288000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉 VER PDF👈"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "contacto",
+    "texto": "Dale dale"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "contacto",
+    "texto": "Tengo 17 años"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788546295000,
+    "subscriberId": "716431221",
+    "nombreContacto": "Bruno",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
   }
 ]
