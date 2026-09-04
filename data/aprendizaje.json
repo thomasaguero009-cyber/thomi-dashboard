@@ -109218,5 +109218,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Magaly Farfan Silva"
+  },
+  {
+    "ts": 1788514881000,
+    "mensaje": "comentó en tu publicación o reelCatálogo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "783408778",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "monigutierrezr"
+  },
+  {
+    "ts": 1788514885000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "723318612",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tamara Quintana"
   }
 ]
