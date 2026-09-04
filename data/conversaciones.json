@@ -40297,5 +40297,40 @@
     "nombreContacto": "𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓜𝓪𝓽𝓽𝓸𝓼",
     "remitente": "contacto",
     "texto": "Dime PS, cuando me haces la reunión?"
+  },
+  {
+    "ts": 1788531021000,
+    "subscriberId": "42747928",
+    "nombreContacto": "Pedro Luciano D Alessandro",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788531025000,
+    "subscriberId": "42747928",
+    "nombreContacto": "Pedro Luciano D Alessandro",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788531072000,
+    "subscriberId": "42747928",
+    "nombreContacto": "Pedro Luciano D Alessandro",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1788531159000,
+    "subscriberId": "42747928",
+    "nombreContacto": "Pedro Luciano D Alessandro",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788531163000,
+    "subscriberId": "42747928",
+    "nombreContacto": "Pedro Luciano D Alessandro",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
