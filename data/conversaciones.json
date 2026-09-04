@@ -40332,5 +40332,54 @@
     "nombreContacto": "Pedro Luciano D Alessandro",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788531408000,
+    "subscriberId": "1676299946",
+    "nombreContacto": "karolgarcia",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase por favor"
+  },
+  {
+    "ts": 1788531408000,
+    "subscriberId": "1676299946",
+    "nombreContacto": "karolgarcia",
+    "remitente": "contacto",
+    "texto": "Si por favor mándame la clase"
+  },
+  {
+    "ts": 1788531417000,
+    "subscriberId": "1409513987",
+    "nombreContacto": "Elpidio Rojas",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788531417000,
+    "subscriberId": "1409513987",
+    "nombreContacto": "Elpidio Rojas",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788531417000,
+    "subscriberId": "1409513987",
+    "nombreContacto": "Elpidio Rojas",
+    "remitente": "contacto",
+    "texto": "Dime por favor"
+  },
+  {
+    "ts": 1788531482000,
+    "subscriberId": "4857290",
+    "nombreContacto": "Oba Gaston",
+    "remitente": "contacto",
+    "texto": "Quería saber que si me mando algo por ahora no me llego .\nAbrazo y gracias"
+  },
+  {
+    "ts": 1788531508000,
+    "subscriberId": "4857290",
+    "nombreContacto": "Oba Gaston",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
   }
 ]
