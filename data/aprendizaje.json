@@ -108288,5 +108288,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Piti Cano"
+  },
+  {
+    "ts": 1788462715000,
+    "mensaje": "Claro",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1863381437",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CANNING DANCE STUDIO"
+  },
+  {
+    "ts": 1788462716000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1863381437",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CANNING DANCE STUDIO"
+  },
+  {
+    "ts": 1788462717000,
+    "mensaje": "Si quiero que me ayudes porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1788579833",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alex Joel"
+  },
+  {
+    "ts": 1788462717000,
+    "mensaje": "Si quiero que me ayudes porfa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1788579833",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alex Joel"
+  },
+  {
+    "ts": 1788462718000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "336857401",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑬𝒍𝒔𝒂 𝑴𝒆𝒅𝒊𝒏𝒂"
   }
 ]
