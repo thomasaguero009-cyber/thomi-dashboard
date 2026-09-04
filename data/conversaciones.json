@@ -41683,5 +41683,33 @@
     "nombreContacto": "Adrián",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788537022000,
+    "subscriberId": "917049764",
+    "nombreContacto": "Adrián",
+    "remitente": "contacto",
+    "texto": "Si por supuesto"
+  },
+  {
+    "ts": 1788537080000,
+    "subscriberId": "971299973",
+    "nombreContacto": "leilany",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si me interesa... Gracias"
+  },
+  {
+    "ts": 1788537087000,
+    "subscriberId": "101465171",
+    "nombreContacto": "Rosana Ayala Verón",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788537172000,
+    "subscriberId": "1085537532",
+    "nombreContacto": "Mirta",
+    "remitente": "contacto",
+    "texto": "Hola, si me lo.podes pasar te agradezco."
   }
 ]
