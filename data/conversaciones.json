@@ -37532,5 +37532,19 @@
     "nombreContacto": "Euge Ruiz",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788517500000,
+    "subscriberId": "897333333",
+    "nombreContacto": "Yilmar Murillo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788517503000,
+    "subscriberId": "897333333",
+    "nombreContacto": "Yilmar Murillo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
