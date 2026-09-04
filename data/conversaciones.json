@@ -42166,5 +42166,47 @@
     "nombreContacto": "Gianluigi Orlando",
     "remitente": "agente",
     "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788540653000,
+    "subscriberId": "1948898146",
+    "nombreContacto": "Veronica Echude",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788540653000,
+    "subscriberId": "1948898146",
+    "nombreContacto": "Veronica Echude",
+    "remitente": "contacto",
+    "texto": "697 dolares. No tengo. Ya no puedo"
+  },
+  {
+    "ts": 1788540742000,
+    "subscriberId": "1751743510",
+    "nombreContacto": "Laura Viviana Toto",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788540812000,
+    "subscriberId": "441995515",
+    "nombreContacto": "Claudio Eduardo Herrera",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788540839000,
+    "subscriberId": "1512696219",
+    "nombreContacto": "Yeslevis Palacio Martelo",
+    "remitente": "contacto",
+    "texto": "Sin claro"
+  },
+  {
+    "ts": 1788540839000,
+    "subscriberId": "1512696219",
+    "nombreContacto": "Yeslevis Palacio Martelo",
+    "remitente": "contacto",
+    "texto": "Gracias"
   }
 ]
