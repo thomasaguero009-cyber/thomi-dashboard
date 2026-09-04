@@ -111328,5 +111328,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jose Requiniva"
+  },
+  {
+    "ts": 1788528993000,
+    "mensaje": "Si, por supuesto q estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1862704568",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Del Ángel"
+  },
+  {
+    "ts": 1788529031000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "938321343",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jaime pajaro"
+  },
+  {
+    "ts": 1788529073000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1488889142",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BRUNODELCDA"
+  },
+  {
+    "ts": 1788529074000,
+    "mensaje": "Acá estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "628724197",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yaz Avalos"
   }
 ]
