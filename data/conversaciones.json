@@ -42229,5 +42229,82 @@
     "nombreContacto": "Anelis Tejada",
     "remitente": "agente",
     "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788541224000,
+    "subscriberId": "1887318862",
+    "nombreContacto": "Anelis Tejada",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788541236000,
+    "subscriberId": "1887318862",
+    "nombreContacto": "Anelis Tejada",
+    "remitente": "contacto",
+    "texto": "Si claro"
+  },
+  {
+    "ts": 1788541298000,
+    "subscriberId": "1925597758",
+    "nombreContacto": "Matias Sica",
+    "remitente": "contacto",
+    "texto": "ayudame a independizarme"
+  },
+  {
+    "ts": 1788541360000,
+    "subscriberId": "238245125",
+    "nombreContacto": "Vale Pellegrini",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788541368000,
+    "subscriberId": "238245125",
+    "nombreContacto": "Vale Pellegrini",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788541497000,
+    "subscriberId": "665231007",
+    "nombreContacto": "Maria Eugenia Fernandez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788541505000,
+    "subscriberId": "665231007",
+    "nombreContacto": "Maria Eugenia Fernandez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788541588000,
+    "subscriberId": "1461823495",
+    "nombreContacto": "lonay",
+    "remitente": "contacto",
+    "texto": "Buenas tardes mi nombre es Lonay Torrealba soy de Caracas-Venezuela"
+  },
+  {
+    "ts": 1788541590000,
+    "subscriberId": "703924787",
+    "nombreContacto": "Maria",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788541645000,
+    "subscriberId": "1505146742",
+    "nombreContacto": "___adrxx",
+    "remitente": "contacto",
+    "texto": "Lo de responder mensajes para empresas en estados unidos"
+  },
+  {
+    "ts": 1788541649000,
+    "subscriberId": "1505146742",
+    "nombreContacto": "___adrxx",
+    "remitente": "contacto",
+    "texto": "??"
   }
 ]
