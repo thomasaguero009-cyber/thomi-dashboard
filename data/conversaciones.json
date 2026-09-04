@@ -43678,5 +43678,47 @@
     "nombreContacto": "Carlos Makiaa",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788547244000,
+    "subscriberId": "580059364",
+    "nombreContacto": "Carlos Makiaa",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788547262000,
+    "subscriberId": "1047985857",
+    "nombreContacto": "LiLi Miranda!",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788547262000,
+    "subscriberId": "1047985857",
+    "nombreContacto": "LiLi Miranda!",
+    "remitente": "contacto",
+    "texto": "Ok perfecto ahora lo miro"
+  },
+  {
+    "ts": 1788547395000,
+    "subscriberId": "157051101",
+    "nombreContacto": "Yisself Peña",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788547402000,
+    "subscriberId": "157051101",
+    "nombreContacto": "Yisself Peña",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788547468000,
+    "subscriberId": "157051101",
+    "nombreContacto": "Yisself Peña",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
