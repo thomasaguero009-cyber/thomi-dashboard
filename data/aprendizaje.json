@@ -108338,5 +108338,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝑬𝒍𝒔𝒂 𝑴𝒆𝒅𝒊𝒏𝒂"
+  },
+  {
+    "ts": 1788463623000,
+    "mensaje": "Me podes  wnviar información",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "279175072",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Cinalli All Beauty"
+  },
+  {
+    "ts": 1788463624000,
+    "mensaje": "Me podes  wnviar información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "279175072",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Cinalli All Beauty"
+  },
+  {
+    "ts": 1788463636000,
+    "mensaje": "SI LO QUIERO RECIBIR",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "96206503",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lilith Angelica"
+  },
+  {
+    "ts": 1788463729000,
+    "mensaje": "Disculpa esque estoy trabajando. Y no puedo estar mucho en el celu",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "635773861",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jonathan Bumstead"
+  },
+  {
+    "ts": 1788463776000,
+    "mensaje": "BotPudiste confirmar asistencia por whatsapp para hacer la reunion?En WhatsApp? Por donde?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "123709805",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Milton Fontal"
+  },
+  {
+    "ts": 1788463784000,
+    "mensaje": "No me perdi con el correo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1726458444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Antonio Duque"
+  },
+  {
+    "ts": 1788463788000,
+    "mensaje": "Bueno",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1915699884",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesica Garro"
+  },
+  {
+    "ts": 1788463800000,
+    "mensaje": "Me parece que si, no recuerdo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1095649244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emanuel Valdivia"
   }
 ]

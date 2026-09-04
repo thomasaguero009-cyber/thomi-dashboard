@@ -36447,5 +36447,54 @@
     "nombreContacto": "Daniel Cavaleiro",
     "remitente": "contacto",
     "texto": "Si buenisimo"
+  },
+  {
+    "ts": 1788463684000,
+    "subscriberId": "279175072",
+    "nombreContacto": "Monica Cinalli All Beauty",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788463688000,
+    "subscriberId": "279175072",
+    "nombreContacto": "Monica Cinalli All Beauty",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788463777000,
+    "subscriberId": "123709805",
+    "nombreContacto": "Milton Fontal",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788463785000,
+    "subscriberId": "1726458444",
+    "nombreContacto": "Antonio Duque",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788463789000,
+    "subscriberId": "1915699884",
+    "nombreContacto": "Jesica Garro",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788463795000,
+    "subscriberId": "1915699884",
+    "nombreContacto": "Jesica Garro",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788463801000,
+    "subscriberId": "1095649244",
+    "nombreContacto": "Emanuel Valdivia",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
   }
 ]
