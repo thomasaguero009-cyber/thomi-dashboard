@@ -42355,5 +42355,82 @@
     "nombreContacto": "uriiell",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788542129000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la envie?dale"
+  },
+  {
+    "ts": 1788542132000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "dale"
+  },
+  {
+    "ts": 1788542137000,
+    "subscriberId": "469822039",
+    "nombreContacto": "uriiell",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la envie?di"
+  },
+  {
+    "ts": 1788542155000,
+    "subscriberId": "1546949331",
+    "nombreContacto": "Juan Pablo Guzman Rosillo",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788542310000,
+    "subscriberId": "84223649",
+    "nombreContacto": "Edgardo Sánchez",
+    "remitente": "agente",
+    "texto": "Mirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo termines, agendá tu llamada porque los lugares con el director se ocupan rápido"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "agente",
+    "texto": "Si estan de acuerdo que ellos me hablen"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "Listo"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "Me dijeron que no había problema, que luchara por mis sueños"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "Hola tino"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "Mañana cumplo mis 18 años"
+  },
+  {
+    "ts": 1788542336000,
+    "subscriberId": "1283730183",
+    "nombreContacto": "Jeroo",
+    "remitente": "contacto",
+    "texto": "Después de eso me podrías dar la clase donde explicas"
   }
 ]
