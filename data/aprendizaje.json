@@ -111108,5 +111108,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yadira Kihuen"
+  },
+  {
+    "ts": 1788526268000,
+    "mensaje": "Si si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "538994109",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Janina Sosa"
+  },
+  {
+    "ts": 1788526476000,
+    "mensaje": "Buenas",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1291553042",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos David Muñoz Paulino"
   }
 ]
