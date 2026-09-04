@@ -37343,5 +37343,33 @@
     "nombreContacto": "adelin",
     "remitente": "agente",
     "texto": "Hace clic👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788515582000,
+    "subscriberId": "533644654",
+    "nombreContacto": "Mabel Rivas",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788515653000,
+    "subscriberId": "1850746936",
+    "nombreContacto": "Elyz Garcia",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788515660000,
+    "subscriberId": "1850746936",
+    "nombreContacto": "Elyz Garcia",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788515726000,
+    "subscriberId": "1850746936",
+    "nombreContacto": "Elyz Garcia",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
