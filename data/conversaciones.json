@@ -41928,5 +41928,40 @@
     "nombreContacto": "Maria Teresa Rodriguez",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788538838000,
+    "subscriberId": "14951303",
+    "nombreContacto": "Mercedes Traico",
+    "remitente": "contacto",
+    "texto": "Tito si porfa"
+  },
+  {
+    "ts": 1788538927000,
+    "subscriberId": "14951303",
+    "nombreContacto": "Mercedes Traico",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788538930000,
+    "subscriberId": "14951303",
+    "nombreContacto": "Mercedes Traico",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788538949000,
+    "subscriberId": "14951303",
+    "nombreContacto": "Mercedes Traico",
+    "remitente": "contacto",
+    "texto": "49"
+  },
+  {
+    "ts": 1788538956000,
+    "subscriberId": "14951303",
+    "nombreContacto": "Mercedes Traico",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
   }
 ]
