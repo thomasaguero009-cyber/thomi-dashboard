@@ -43720,5 +43720,19 @@
     "nombreContacto": "Yisself Peña",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788547754000,
+    "subscriberId": "787722264",
+    "nombreContacto": "Motivation",
+    "remitente": "contacto",
+    "texto": "Pero en Cuba"
+  },
+  {
+    "ts": 1788547772000,
+    "subscriberId": "787722264",
+    "nombreContacto": "Motivation",
+    "remitente": "contacto",
+    "texto": "Decirme si se podee"
   }
 ]
