@@ -37175,5 +37175,40 @@
     "nombreContacto": "Rafadeza",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788465633000,
+    "subscriberId": "699988210",
+    "nombreContacto": "juan rosas",
+    "remitente": "contacto",
+    "texto": "si pasamela porfavor"
+  },
+  {
+    "ts": 1788465670000,
+    "subscriberId": "1837539449",
+    "nombreContacto": "Martin Ariel Martinez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788465670000,
+    "subscriberId": "1837539449",
+    "nombreContacto": "Martin Ariel Martinez",
+    "remitente": "contacto",
+    "texto": "Me intereda obvio"
+  },
+  {
+    "ts": 1788465737000,
+    "subscriberId": "1569522793",
+    "nombreContacto": "Raquel Giorgio",
+    "remitente": "contacto",
+    "texto": "Si, estoy"
+  },
+  {
+    "ts": 1788465771000,
+    "subscriberId": "508019334",
+    "nombreContacto": "HectorCrnj",
+    "remitente": "contacto",
+    "texto": "Si porfavor"
   }
 ]
