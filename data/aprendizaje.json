@@ -109408,5 +109408,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Maria Marroncelli"
+  },
+  {
+    "ts": 1788517879000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "720796644",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Contacto desconocido"
+  },
+  {
+    "ts": 1788517882000,
+    "mensaje": "comentó en tu publicación o reelCertificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "720796644",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Contacto desconocido"
+  },
+  {
+    "ts": 1788517901000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1979098672",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia Céspedes"
+  },
+  {
+    "ts": 1788517918000,
+    "mensaje": "Hola ok",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "948715434",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gamboa"
+  },
+  {
+    "ts": 1788517918000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "948715434",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gamboa"
+  },
+  {
+    "ts": 1788517931000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "270917351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "👾乁⁠|⁠ ⁠･⁠ ⁠〰⁠ ⁠･⁠ ⁠|⁠ㄏ"
+  },
+  {
+    "ts": 1788517932000,
+    "mensaje": "Hola si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "270917351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "👾乁⁠|⁠ ⁠･⁠ ⁠〰⁠ ⁠･⁠ ⁠|⁠ㄏ"
+  },
+  {
+    "ts": 1788517937000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2087546893",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Bernal"
+  },
+  {
+    "ts": 1788517937000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2087546893",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Bernal"
   }
 ]
