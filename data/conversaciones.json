@@ -42488,5 +42488,47 @@
     "nombreContacto": "Soledad_Rodriguez",
     "remitente": "contacto",
     "texto": "Pero quiero saber de q se trata, como es?"
+  },
+  {
+    "ts": 1788542759000,
+    "subscriberId": "2061066726",
+    "nombreContacto": "Ferreteria El Gringo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788542762000,
+    "subscriberId": "2061066726",
+    "nombreContacto": "Ferreteria El Gringo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788542853000,
+    "subscriberId": "1950182182",
+    "nombreContacto": "Tincho Martin",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788542885000,
+    "subscriberId": "505987545",
+    "nombreContacto": "_benji_0🪐",
+    "remitente": "contacto",
+    "texto": "Una cosa no me salvas 100$ 👉👈"
+  },
+  {
+    "ts": 1788542949000,
+    "subscriberId": "35397026",
+    "nombreContacto": "chrispascuale5",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788542953000,
+    "subscriberId": "35397026",
+    "nombreContacto": "chrispascuale5",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
