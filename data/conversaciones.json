@@ -39555,5 +39555,19 @@
     "nombreContacto": "Rafael Solano Quintero",
     "remitente": "contacto",
     "texto": "Si porfa"
+  },
+  {
+    "ts": 1788529520000,
+    "subscriberId": "1594837308",
+    "nombreContacto": "Reina Nieto de Jakits",
+    "remitente": "contacto",
+    "texto": "Listo"
+  },
+  {
+    "ts": 1788529577000,
+    "subscriberId": "414272629",
+    "nombreContacto": "Celina Duran",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioSi lo quiero"
   }
 ]
