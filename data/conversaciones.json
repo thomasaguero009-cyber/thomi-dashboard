@@ -39142,5 +39142,54 @@
     "nombreContacto": "gear",
     "remitente": "contacto",
     "texto": "Si estoy y muchas gracias"
+  },
+  {
+    "ts": 1788527762000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788527768000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788527804000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1788527892000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788527896000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788527912000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "contacto",
+    "texto": "46 años"
+  },
+  {
+    "ts": 1788527919000,
+    "subscriberId": "1301210740",
+    "nombreContacto": "gear",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
   }
 ]
