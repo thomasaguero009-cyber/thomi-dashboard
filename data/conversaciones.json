@@ -41158,5 +41158,40 @@
     "nombreContacto": "Ana",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788533779000,
+    "subscriberId": "420449098",
+    "nombreContacto": "SONRIE Y AGRADECE 😅😅😅",
+    "remitente": "contacto",
+    "texto": "si quiero"
+  },
+  {
+    "ts": 1788533798000,
+    "subscriberId": "420449098",
+    "nombreContacto": "SONRIE Y AGRADECE 😅😅😅",
+    "remitente": "contacto",
+    "texto": "Claro que si"
+  },
+  {
+    "ts": 1788533910000,
+    "subscriberId": "570708664",
+    "nombreContacto": "Lucia Villanueva Posse",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788533914000,
+    "subscriberId": "570708664",
+    "nombreContacto": "Lucia Villanueva Posse",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788533963000,
+    "subscriberId": "1282990691",
+    "nombreContacto": "Indra de Hueck",
+    "remitente": "contacto",
+    "texto": "Necesito trabajar"
   }
 ]
