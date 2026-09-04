@@ -124028,5 +124028,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Fran Mendez"
+  },
+  {
+    "ts": 1788547828000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1523600769",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julissa Maldonado"
+  },
+  {
+    "ts": 1788547829000,
+    "mensaje": "Si gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1523600769",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julissa Maldonado"
+  },
+  {
+    "ts": 1788547830000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1459016227",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_Yotapesi_"
+  },
+  {
+    "ts": 1788547830000,
+    "mensaje": "buenas noches, si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1459016227",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "_Yotapesi_"
+  },
+  {
+    "ts": 1788547993000,
+    "mensaje": "Holaa\nSi por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "659442993",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel_17"
+  },
+  {
+    "ts": 1788548077000,
+    "mensaje": "Si. Te agradesco",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "935482061",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maira Rosillo"
+  },
+  {
+    "ts": 1788548096000,
+    "mensaje": "Hola! Si...estoy interesada 😃",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "78521361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kanu Cha"
+  },
+  {
+    "ts": 1788548099000,
+    "mensaje": "Hola si la verdad me interesaria mucho",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "620662143",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Gutierrez"
   }
 ]
