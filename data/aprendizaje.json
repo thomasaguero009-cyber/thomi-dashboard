@@ -111058,5 +111058,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Emanuel gonzalez"
+  },
+  {
+    "ts": 1788525680000,
+    "mensaje": "Hola buena tarde bendiciones",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "825237505",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pilar Valdivia Herrera"
+  },
+  {
+    "ts": 1788525751000,
+    "mensaje": "Estoy interesado",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "965978945",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "El_chain"
   }
 ]
