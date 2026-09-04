@@ -37308,5 +37308,40 @@
     "nombreContacto": "Davi Cito",
     "remitente": "contacto",
     "texto": "Te agradezco mucho la atención pero no es para mí gracias."
+  },
+  {
+    "ts": 1788515127000,
+    "subscriberId": "436045674",
+    "nombreContacto": "Davi Cito",
+    "remitente": "agente",
+    "texto": "Mirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo termines, agendá tu llamada porque los lugares con el director se ocupan rápido"
+  },
+  {
+    "ts": 1788515225000,
+    "subscriberId": "366631092",
+    "nombreContacto": "Sarah",
+    "remitente": "contacto",
+    "texto": "I see no link"
+  },
+  {
+    "ts": 1788515322000,
+    "subscriberId": "126440491",
+    "nombreContacto": "adelin",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788515326000,
+    "subscriberId": "126440491",
+    "nombreContacto": "adelin",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788515361000,
+    "subscriberId": "126440491",
+    "nombreContacto": "adelin",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉VER CLASE👈"
   }
 ]
