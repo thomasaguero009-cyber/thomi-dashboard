@@ -41802,5 +41802,89 @@
     "nombreContacto": "Juan Carlos Novillo",
     "remitente": "agente",
     "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788537929000,
+    "subscriberId": "647559221",
+    "nombreContacto": "Eliseo Edith Garcia",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788537935000,
+    "subscriberId": "647559221",
+    "nombreContacto": "Eliseo Edith Garcia",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1788537945000,
+    "subscriberId": "1095737623",
+    "nombreContacto": "Vero Sol",
+    "remitente": "contacto",
+    "texto": "Hola Sisi pásame"
+  },
+  {
+    "ts": 1788538005000,
+    "subscriberId": "1095737623",
+    "nombreContacto": "Vero Sol",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788538013000,
+    "subscriberId": "1095737623",
+    "nombreContacto": "Vero Sol",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788538067000,
+    "subscriberId": "1314798918",
+    "nombreContacto": "Kary",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788538099000,
+    "subscriberId": "1483836074",
+    "nombreContacto": "Jose Maria Calise",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788538099000,
+    "subscriberId": "1483836074",
+    "nombreContacto": "Jose Maria Calise",
+    "remitente": "contacto",
+    "texto": "Estoy"
+  },
+  {
+    "ts": 1788538163000,
+    "subscriberId": "2042342232",
+    "nombreContacto": "adri🔆☕",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788538163000,
+    "subscriberId": "2042342232",
+    "nombreContacto": "adri🔆☕",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1788538163000,
+    "subscriberId": "2042342232",
+    "nombreContacto": "adri🔆☕",
+    "remitente": "contacto",
+    "texto": "Si gracias"
+  },
+  {
+    "ts": 1788538189000,
+    "subscriberId": "79989156",
+    "nombreContacto": "Linnette Rodriguez",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
