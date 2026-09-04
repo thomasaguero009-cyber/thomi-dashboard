@@ -115568,5 +115568,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Agente inmobiliario -Inmuebles"
+  },
+  {
+    "ts": 1788535556000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "436045674",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Davi Cito"
+  },
+  {
+    "ts": 1788535559000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1947147593",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Liliana"
+  },
+  {
+    "ts": 1788535563000,
+    "mensaje": "",
+    "boton": "🟡COMO VA?",
+    "respuesta": "",
+    "subscriberId": "1951776199",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Cecilia Torrillas"
+  },
+  {
+    "ts": 1788535699000,
+    "mensaje": "si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1054511760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MrSoulKing"
   }
 ]

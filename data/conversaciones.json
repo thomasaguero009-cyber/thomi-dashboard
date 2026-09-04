@@ -41564,5 +41564,47 @@
     "nombreContacto": "Agente inmobiliario -Inmuebles",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788535568000,
+    "subscriberId": "2108415929",
+    "nombreContacto": "Paula Baez Nuñez",
+    "remitente": "contacto",
+    "texto": "Sí"
+  },
+  {
+    "ts": 1788535639000,
+    "subscriberId": "1767009042",
+    "nombreContacto": "Sorangel Leon",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788535721000,
+    "subscriberId": "391933537",
+    "nombreContacto": "Tavo",
+    "remitente": "contacto",
+    "texto": "Deaaa"
+  },
+  {
+    "ts": 1788535723000,
+    "subscriberId": "391933537",
+    "nombreContacto": "Tavo",
+    "remitente": "contacto",
+    "texto": "Ver este mensaje en InstagramTipo de mensaje no soportado"
+  },
+  {
+    "ts": 1788535783000,
+    "subscriberId": "391933537",
+    "nombreContacto": "Tavo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788535787000,
+    "subscriberId": "391933537",
+    "nombreContacto": "Tavo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
