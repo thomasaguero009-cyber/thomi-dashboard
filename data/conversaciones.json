@@ -41886,5 +41886,26 @@
     "nombreContacto": "Linnette Rodriguez",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788538276000,
+    "subscriberId": "82726452",
+    "nombreContacto": "Janner",
+    "remitente": "contacto",
+    "texto": "Te compartió un reel"
+  },
+  {
+    "ts": 1788538339000,
+    "subscriberId": "555687554",
+    "nombreContacto": "Ivanjose Camacholimares",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788538339000,
+    "subscriberId": "555687554",
+    "nombreContacto": "Ivanjose Camacholimares",
+    "remitente": "contacto",
+    "texto": "Si Gracias"
   }
 ]
