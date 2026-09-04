@@ -40577,5 +40577,89 @@
     "nombreContacto": "jenn.",
     "remitente": "contacto",
     "texto": "si"
+  },
+  {
+    "ts": 1788532273000,
+    "subscriberId": "306215144",
+    "nombreContacto": "David Rodriguez",
+    "remitente": "contacto",
+    "texto": "Si necesito ayuda"
+  },
+  {
+    "ts": 1788532282000,
+    "subscriberId": "1672738635",
+    "nombreContacto": "Danilson Reyes Tovar",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas"
+  },
+  {
+    "ts": 1788532282000,
+    "subscriberId": "1672738635",
+    "nombreContacto": "Danilson Reyes Tovar",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788532282000,
+    "subscriberId": "1672738635",
+    "nombreContacto": "Danilson Reyes Tovar",
+    "remitente": "contacto",
+    "texto": "Si porfa"
+  },
+  {
+    "ts": 1788532341000,
+    "subscriberId": "1871676328",
+    "nombreContacto": "Yrama Carpio",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788532378000,
+    "subscriberId": "121670607",
+    "nombreContacto": "kenimar Fernández",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas."
+  },
+  {
+    "ts": 1788532378000,
+    "subscriberId": "121670607",
+    "nombreContacto": "kenimar Fernández",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788532378000,
+    "subscriberId": "121670607",
+    "nombreContacto": "kenimar Fernández",
+    "remitente": "contacto",
+    "texto": "Si, disculpa q no te había respondido"
+  },
+  {
+    "ts": 1788532399000,
+    "subscriberId": "1604736438",
+    "nombreContacto": "Williams Bölïvär",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1788532403000,
+    "subscriberId": "1681885713",
+    "nombreContacto": "Luca Farias🧛‍♂️",
+    "remitente": "contacto",
+    "texto": "Si como es tino"
+  },
+  {
+    "ts": 1788532470000,
+    "subscriberId": "632687272",
+    "nombreContacto": "Lucy Suarez Dominguez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788532497000,
+    "subscriberId": "129982568",
+    "nombreContacto": "Mary Elena Suárez D G.",
+    "remitente": "contacto",
+    "texto": "Si por favor"
   }
 ]
