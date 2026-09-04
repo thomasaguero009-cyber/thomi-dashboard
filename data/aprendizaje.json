@@ -109248,5 +109248,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Sarah"
+  },
+  {
+    "ts": 1788515988000,
+    "mensaje": "Sip revisare las opciones gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "591745703",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "luis Enrique González arteaga"
+  },
+  {
+    "ts": 1788516186000,
+    "mensaje": "hola si me encantaria, te empecé a seguir para ingormarme mas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "144268469",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sannttiaggo_"
   }
 ]
