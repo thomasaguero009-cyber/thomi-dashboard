@@ -41508,5 +41508,61 @@
     "nombreContacto": "Valeria Dominguez",
     "remitente": "contacto",
     "texto": "Graciasss"
+  },
+  {
+    "ts": 1788535248000,
+    "subscriberId": "959972837",
+    "nombreContacto": "Daysis Baez.",
+    "remitente": "contacto",
+    "texto": "BotMensaje de audioHola mucho gusto claro envíamela porfavor."
+  },
+  {
+    "ts": 1788535276000,
+    "subscriberId": "959972837",
+    "nombreContacto": "Daysis Baez.",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Gracias veré la informacion ."
+  },
+  {
+    "ts": 1788535310000,
+    "subscriberId": "959972837",
+    "nombreContacto": "Daysis Baez.",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788535314000,
+    "subscriberId": "959972837",
+    "nombreContacto": "Daysis Baez.",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788535339000,
+    "subscriberId": "2059827389",
+    "nombreContacto": "Absolutepan",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1788535339000,
+    "subscriberId": "2059827389",
+    "nombreContacto": "Absolutepan",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1788535476000,
+    "subscriberId": "2039193961",
+    "nombreContacto": "Agente inmobiliario -Inmuebles",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788535484000,
+    "subscriberId": "2039193961",
+    "nombreContacto": "Agente inmobiliario -Inmuebles",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]

@@ -115508,5 +115508,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "sole"
+  },
+  {
+    "ts": 1788535222000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1892417756",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Suarez"
+  },
+  {
+    "ts": 1788535229000,
+    "mensaje": "Si si quiero gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "930044700",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "negrita_25"
+  },
+  {
+    "ts": 1788535340000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2059827389",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Absolutepan"
+  },
+  {
+    "ts": 1788535364000,
+    "mensaje": "Acá estoy pendiente veamos si es cierto habrás visto que he adiestrado ballenas no es IA la foto de mi perfil. Puedo con esto.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1338518133",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Horacio Baratelli.Todo Agua💧"
+  },
+  {
+    "ts": 1788535410000,
+    "mensaje": "Hola Si me gustaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1363637083",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniela MB"
+  },
+  {
+    "ts": 1788535416000,
+    "mensaje": "Soy de Venezuela",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2039193961",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Agente inmobiliario -Inmuebles"
   }
 ]
