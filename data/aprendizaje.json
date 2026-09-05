@@ -124318,5 +124318,15 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Rodrigo"
+  },
+  {
+    "ts": 1788550167000,
+    "mensaje": "[TEST viejo action]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
   }
 ]
