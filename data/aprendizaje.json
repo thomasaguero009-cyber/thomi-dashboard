@@ -130578,5 +130578,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Kessly Stephanie"
+  },
+  {
+    "ts": 1788606942000,
+    "mensaje": "Pero excelente después veré esa clases",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1132340933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angela"
+  },
+  {
+    "ts": 1788606956000,
+    "mensaje": "Pero cuanto cuesta la inscripcion para iniciar a trabajar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "117867713",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra Torres M"
+  },
+  {
+    "ts": 1788606978000,
+    "mensaje": "Desconfío un poco es la realidad",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "560422221",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Luz"
+  },
+  {
+    "ts": 1788607068000,
+    "mensaje": "Buenas",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "519225327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martinez Angela"
+  },
+  {
+    "ts": 1788607105000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1075276046",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luiger Mosquera"
+  },
+  {
+    "ts": 1788607161000,
+    "mensaje": "Mándame si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "865997265",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tdiesel55"
+  },
+  {
+    "ts": 1788607166000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "137953725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Farfan"
+  },
+  {
+    "ts": 1788607200000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "69923208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alberto Ramos"
   }
 ]
