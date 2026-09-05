@@ -124328,5 +124328,35 @@
     "setter": "",
     "pageId": "",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1788550255000,
+    "mensaje": "[TEST retry]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788550300000,
+    "mensaje": "[TEST retry2]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788550341000,
+    "mensaje": "[TEST retry3]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
   }
 ]
