@@ -136448,5 +136448,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mary"
+  },
+  {
+    "ts": 1788624056000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "310391591",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Florian👹"
+  },
+  {
+    "ts": 1788624088000,
+    "mensaje": "Me interesa 👍🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1516681572",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pau ✨"
+  },
+  {
+    "ts": 1788624228000,
+    "mensaje": "BotQuerés que te la envíe?Si claro",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1828825515",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabian Sandoval"
+  },
+  {
+    "ts": 1788624276000,
+    "mensaje": "Yo?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "439412050",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Sellen"
+  },
+  {
+    "ts": 1788624285000,
+    "mensaje": "Hola 👋 De nada :D, gracias por el interes ❤️",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "89735386",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sama :]"
   }
 ]
