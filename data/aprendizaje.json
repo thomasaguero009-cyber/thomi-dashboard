@@ -139168,5 +139168,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "freen sarocha .."
+  },
+  {
+    "ts": 1788630183000,
+    "mensaje": "😅",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2133074611",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mauro_48"
+  },
+  {
+    "ts": 1788630297000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "937614770",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isaac Juarez"
+  },
+  {
+    "ts": 1788630302000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1158455195",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrik🌅"
+  },
+  {
+    "ts": 1788630304000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "347089894",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pelos brown"
+  },
+  {
+    "ts": 1788630308000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1218358403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Lucia Marroquin"
+  },
+  {
+    "ts": 1788630312000,
+    "mensaje": "BotMirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo...Gracias por la información",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1625721985",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus guerrero"
   }
 ]
