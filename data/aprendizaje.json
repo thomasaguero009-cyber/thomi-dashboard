@@ -124358,5 +124358,55 @@
     "setter": "",
     "pageId": "",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1788555977000,
+    "mensaje": "[TEST retry4]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788556024000,
+    "mensaje": "[TEST v7]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788556088000,
+    "mensaje": "[TEST v8 revert]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788556139000,
+    "mensaje": "[TEST vuelta a v5]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788556171000,
+    "mensaje": "[TEST deployment nuevo]",
+    "boton": "Catalogo",
+    "respuesta": "",
+    "subscriberId": "",
+    "setter": "",
+    "pageId": "",
+    "nombreContacto": ""
   }
 ]
