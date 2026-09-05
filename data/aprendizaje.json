@@ -130428,5 +130428,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carmen Isabel"
+  },
+  {
+    "ts": 1788605143000,
+    "mensaje": "Me podés ayudar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2079573045",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco catriel Rodríguez"
+  },
+  {
+    "ts": 1788605197000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Bueno gracias 🙌🙌🙌",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "35773407",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Indiana Sanchez"
+  },
+  {
+    "ts": 1788605302000,
+    "mensaje": "Buenos días",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1774948688",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Olmos"
+  },
+  {
+    "ts": 1788605349000,
+    "mensaje": "Si obvio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1414429584",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✨ 𝒴𝒶𝓂𝒾𝓁𝒶 ✨"
+  },
+  {
+    "ts": 1788605366000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "752885852",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge paul"
   }
 ]
