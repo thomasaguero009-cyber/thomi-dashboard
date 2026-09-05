@@ -130498,5 +130498,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "stars__bren__"
+  },
+  {
+    "ts": 1788606646000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "656533399",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eliza"
+  },
+  {
+    "ts": 1788606726000,
+    "mensaje": "Hola si me interesa como lo hago nino",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "803245255",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Fariña"
+  },
+  {
+    "ts": 1788606744000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "155755951",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "leidys"
+  },
+  {
+    "ts": 1788606750000,
+    "mensaje": "Si por supuesto. Estamos nodo Tiburon !!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "272255152",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JManuel Morillo"
+  },
+  {
+    "ts": 1788606756000,
+    "mensaje": "BotEstas para ver la clase?Sii",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1748855407",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manu coba"
+  },
+  {
+    "ts": 1788606760000,
+    "mensaje": "Tiene costo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1763423265",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mafer Mafer"
+  },
+  {
+    "ts": 1788606783000,
+    "mensaje": "Vos hablas de una clase gratis y lo que mandas es una historia de tu vida sin pruebas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "548498904",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gendry Lanz"
+  },
+  {
+    "ts": 1788606823000,
+    "mensaje": "Si quiero pero esto no es estafa?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "12830541",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kessly Stephanie"
   }
 ]
