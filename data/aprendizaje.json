@@ -134258,5 +134258,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Natalia Lopez"
+  },
+  {
+    "ts": 1788619524000,
+    "mensaje": "Hola! Sii me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2022899552",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nancy Anobile"
+  },
+  {
+    "ts": 1788619525000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "94571332",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carina Rosazza"
+  },
+  {
+    "ts": 1788619548000,
+    "mensaje": "Hola cómo estás vos, sí realmente me interesa saber y conocer como funciona esto que nos comentas en tus historias y reels",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1848720276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jaqueline Alegre"
+  },
+  {
+    "ts": 1788619556000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "54288983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Castaño"
+  },
+  {
+    "ts": 1788619582000,
+    "mensaje": "Hola buenas, sisi enviamela por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "430214771",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sofii💗"
   }
 ]
