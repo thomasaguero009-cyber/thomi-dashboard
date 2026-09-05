@@ -137768,5 +137768,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Bal"
+  },
+  {
+    "ts": 1788628643000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "433083478",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gustavo Monzon"
+  },
+  {
+    "ts": 1788628644000,
+    "mensaje": "Ayúdame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "433083478",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gustavo Monzon"
   }
 ]
