@@ -131018,5 +131018,135 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Kevin Zanchez"
+  },
+  {
+    "ts": 1788608715000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas como sería eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1290817705",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nazaria Giménez"
+  },
+  {
+    "ts": 1788608728000,
+    "mensaje": "Hay que pagar por la asedoria?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "150269344",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andreina Vidoza"
+  },
+  {
+    "ts": 1788608736000,
+    "mensaje": "Quisiera pero no tengo ninguna forma de pagar el dolar para agendarme 😕",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1107843150",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduar Valdes"
+  },
+  {
+    "ts": 1788608741000,
+    "mensaje": "Cuánto cuesta ?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1063400305",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Silvina Marisol Choilaf"
+  },
+  {
+    "ts": 1788608745000,
+    "mensaje": "BotEstas para ver la clase?si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "865856555",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dulce DL"
+  },
+  {
+    "ts": 1788608755000,
+    "mensaje": "Pero igual muchas gracias 🫂",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1095522566",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Huber Duque Zapata"
+  },
+  {
+    "ts": 1788608758000,
+    "mensaje": "Okey como es el negocio :)",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1739428363",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Guimarey Yani"
+  },
+  {
+    "ts": 1788608763000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1475079337",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MR."
+  },
+  {
+    "ts": 1788608779000,
+    "mensaje": "Me quedé dormido jajajaja",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2087025992",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis David Torres"
+  },
+  {
+    "ts": 1788608784000,
+    "mensaje": "Ando laborando",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1201743023",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mtie.gomez"
+  },
+  {
+    "ts": 1788608799000,
+    "mensaje": "No me pude agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1139649570",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nmz_1501"
+  },
+  {
+    "ts": 1788608807000,
+    "mensaje": "Ay , hola tino ,buenas tardes",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1489537155",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕶𝕬1𝕽𝕺_ADM👀"
+  },
+  {
+    "ts": 1788608820000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1748855407",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manu coba"
   }
 ]
