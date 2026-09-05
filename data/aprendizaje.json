@@ -132648,5 +132648,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "️"
+  },
+  {
+    "ts": 1788613250000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1474170267",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabricio Guarino"
+  },
+  {
+    "ts": 1788613388000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1729154338",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cariana Ramirez"
   }
 ]
