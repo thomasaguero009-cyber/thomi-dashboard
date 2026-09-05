@@ -134938,5 +134938,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Florencia Fagundez"
+  },
+  {
+    "ts": 1788622910000,
+    "mensaje": "Hola buenas tardes\nLa verdad, me interesa la oferta.\nMe podría proporcionar su número de contacto por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "572022801",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Arciniega"
+  },
+  {
+    "ts": 1788622989000,
+    "mensaje": "BotMensaje de audioSi me gusta pero lamentablemente yo no puedo invertir porque no trabajo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1822771798",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Amanda"
+  },
+  {
+    "ts": 1788623001000,
+    "mensaje": "Muchas gracias tino eres un rey",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "929730857",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alfredo.cardenas10"
+  },
+  {
+    "ts": 1788623004000,
+    "mensaje": "Ya quedé agendada para el 8 de septiembre a las 8pm",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1656434903",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stef franco°"
+  },
+  {
+    "ts": 1788623007000,
+    "mensaje": "Ya quedé agendada para el 8 de septiembre a las 8pm",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1656434903",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stef franco°"
+  },
+  {
+    "ts": 1788623035000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1723725367",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "eve05"
+  },
+  {
+    "ts": 1788623043000,
+    "mensaje": "Dale más tarde te aviso porque estoy en una guardia clínica",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "131583616",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sonia Alborelli"
+  },
+  {
+    "ts": 1788623080000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "402676865",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lielv2423"
   }
 ]
