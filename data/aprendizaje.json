@@ -136948,5 +136948,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mateo"
+  },
+  {
+    "ts": 1788626126000,
+    "mensaje": "Buenas tardes dále sí mándame la clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1420922627",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "roxanaisabelb"
+  },
+  {
+    "ts": 1788626179000,
+    "mensaje": "Si dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "853987226",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enrique Zambrano"
+  },
+  {
+    "ts": 1788626441000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "706001597",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "more"
+  },
+  {
+    "ts": 1788626443000,
+    "mensaje": "👍🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "306700135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jessica Pérez"
   }
 ]
