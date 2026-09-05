@@ -130378,5 +130378,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "3Mm4nuel._11"
+  },
+  {
+    "ts": 1788604856000,
+    "mensaje": "Tiene un costo la certificación?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "137953725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Farfan"
+  },
+  {
+    "ts": 1788604950000,
+    "mensaje": "O como hago ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "324736461",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucho Reino"
+  },
+  {
+    "ts": 1788605051000,
+    "mensaje": "Catalogo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "479268162",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "👤."
+  },
+  {
+    "ts": 1788605051000,
+    "mensaje": "Buenas, me interesa.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1072533323",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MEY DANIA 💖"
+  },
+  {
+    "ts": 1788605100000,
+    "mensaje": "Estoy interesada, pero me gustaria hablarle",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1333222724",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Isabel"
   }
 ]
