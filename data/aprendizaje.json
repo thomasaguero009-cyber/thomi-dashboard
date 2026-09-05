@@ -132458,5 +132458,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jazmiin Rodriiguez"
+  },
+  {
+    "ts": 1788612332000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "362224163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enzo maximiliano"
+  },
+  {
+    "ts": 1788612401000,
+    "mensaje": "Me encantaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "232609598",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Checo Vega 🇲🇽"
+  },
+  {
+    "ts": 1788612426000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1121249022",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yadira Josefina"
+  },
+  {
+    "ts": 1788612456000,
+    "mensaje": "Me interesa me ayudarías",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "405240645",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lis"
   }
 ]
