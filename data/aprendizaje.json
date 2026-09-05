@@ -136588,5 +136588,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Maggie"
+  },
+  {
+    "ts": 1788624672000,
+    "mensaje": "Hola buenas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "624295500",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lis Francis Rodriguez"
+  },
+  {
+    "ts": 1788624784000,
+    "mensaje": "Hola yo soy tu fan",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1979489795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓴𝓲𝓷_𝓾𝓷𝓷𝓲𝓸𝓷28"
+  },
+  {
+    "ts": 1788624786000,
+    "mensaje": "Como se hace",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1031166608",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🦋 𝓮𝓵𝓲𝓪𝓷𝓪 🦋"
   }
 ]
