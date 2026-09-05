@@ -124108,5 +124108,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lorena Gutierrez"
+  },
+  {
+    "ts": 1788548248000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1832450940",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mariluz abrego"
+  },
+  {
+    "ts": 1788548348000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1361121324",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Olea"
+  },
+  {
+    "ts": 1788548400000,
+    "mensaje": "No",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "836346740",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "macaibz"
   }
 ]
