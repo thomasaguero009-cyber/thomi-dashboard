@@ -56257,5 +56257,33 @@
     "nombreContacto": "Micaela Gerez",
     "remitente": "contacto",
     "texto": "Ya me agende"
+  },
+  {
+    "ts": 1788610497000,
+    "subscriberId": "1134412273",
+    "nombreContacto": "Prii Gartner",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788610497000,
+    "subscriberId": "1134412273",
+    "nombreContacto": "Prii Gartner",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1788610497000,
+    "subscriberId": "1134412273",
+    "nombreContacto": "Prii Gartner",
+    "remitente": "contacto",
+    "texto": "BotTe pudiste agendar?En donde"
+  },
+  {
+    "ts": 1788610497000,
+    "subscriberId": "1134412273",
+    "nombreContacto": "Prii Gartner",
+    "remitente": "contacto",
+    "texto": "Si entendí pude todo pero me cobran"
   }
 ]
