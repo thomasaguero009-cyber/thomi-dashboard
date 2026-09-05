@@ -134458,5 +134458,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "michelle_sg79"
+  },
+  {
+    "ts": 1788620469000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2020887751",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Robby Rodriguez"
+  },
+  {
+    "ts": 1788620693000,
+    "mensaje": "Hola Tino , si ! Gracias !!!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1501779450",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ines Lange"
+  },
+  {
+    "ts": 1788620701000,
+    "mensaje": "Es para lo de WhatsApp?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1323058131",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maggie"
+  },
+  {
+    "ts": 1788620786000,
+    "mensaje": "?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1761864904",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Fernanda Perdomo"
+  },
+  {
+    "ts": 1788621005000,
+    "mensaje": "Hola, quiero la certificación de google porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "987441331",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alo_Moon☆"
   }
 ]
