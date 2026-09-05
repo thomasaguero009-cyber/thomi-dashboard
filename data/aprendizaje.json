@@ -134538,5 +134538,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Paola Castro ⭐️"
+  },
+  {
+    "ts": 1788621353000,
+    "mensaje": "Estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "91866546",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samanta Da Silva Casola"
+  },
+  {
+    "ts": 1788621398000,
+    "mensaje": "Me puedes ayudar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "148640009",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "DIEGO JP"
+  },
+  {
+    "ts": 1788621503000,
+    "mensaje": "Si pero quiero saber como es la dinámica para ver si puedo hacerlo yo hay que hacer un pago para eso x que de verdad me urge ganar dinero x muchas mecesidades que tengo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1644091612",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nervis Chirinos"
+  },
+  {
+    "ts": 1788621612000,
+    "mensaje": "Hola si quieres aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "907120139",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sayayin ZZZ"
+  },
+  {
+    "ts": 1788621615000,
+    "mensaje": "Si porfavor, necesitamos aprender para sobrevivir",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1909944593",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yummy"
   }
 ]
