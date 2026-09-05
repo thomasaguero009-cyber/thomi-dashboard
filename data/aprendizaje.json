@@ -124298,5 +124298,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yessica Narvaez"
+  },
+  {
+    "ts": 1788549630000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1293844308",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Javicho Pinto"
+  },
+  {
+    "ts": 1788549706000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "98476571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodrigo"
   }
 ]
