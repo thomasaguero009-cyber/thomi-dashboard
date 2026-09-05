@@ -131928,5 +131928,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "cesar"
+  },
+  {
+    "ts": 1788611434000,
+    "mensaje": "Eso importa",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1782301183",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maricela Guzñay Moran"
+  },
+  {
+    "ts": 1788611464000,
+    "mensaje": "Buenas! Si, me interesa. Muchas gracias!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "185482911",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Estefanía Muñoz"
+  },
+  {
+    "ts": 1788611548000,
+    "mensaje": "Gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2102085498",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paw veterinaria"
+  },
+  {
+    "ts": 1788611554000,
+    "mensaje": "54 años!",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "930330435",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mele  Perfectti Bercovich"
+  },
+  {
+    "ts": 1788611562000,
+    "mensaje": "Sisi",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1113524342",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diana Esquivel"
+  },
+  {
+    "ts": 1788611563000,
+    "mensaje": "Si quiero aprender pero tengo 13 años",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "832464025",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emiliano Nievas"
+  },
+  {
+    "ts": 1788611564000,
+    "mensaje": "Ok gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "846486575",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "freen sarocha .."
+  },
+  {
+    "ts": 1788611593000,
+    "mensaje": "Mi nieto tiene 26 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "78521361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kanu Cha"
+  },
+  {
+    "ts": 1788611618000,
+    "mensaje": "Si envíalo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1333730050",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cesar"
+  },
+  {
+    "ts": 1788611710000,
+    "mensaje": "BotMensaje de audioSi si vi la clase pero no me deja atenderme",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "362224163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enzo maximiliano"
   }
 ]
