@@ -134508,5 +134508,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alo_Moon☆"
+  },
+  {
+    "ts": 1788621093000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1747014324",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jafet Chicass"
+  },
+  {
+    "ts": 1788621094000,
+    "mensaje": "Por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1549495992",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Batz"
+  },
+  {
+    "ts": 1788621311000,
+    "mensaje": "Si gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1592002319",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paola Castro ⭐️"
   }
 ]
