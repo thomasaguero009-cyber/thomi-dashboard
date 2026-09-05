@@ -132798,5 +132798,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Analia Pacheco"
+  },
+  {
+    "ts": 1788614134000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1233280524",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Payasita Pamelin"
+  },
+  {
+    "ts": 1788614230000,
+    "mensaje": "Me ayudarías? Gracias !",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1900929071",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marisol Lagos"
+  },
+  {
+    "ts": 1788614318000,
+    "mensaje": "Si porfavor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "480814319",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jare 💗🧸"
+  },
+  {
+    "ts": 1788614319000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "480814319",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jare 💗🧸"
   }
 ]
