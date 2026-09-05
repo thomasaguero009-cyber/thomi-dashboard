@@ -66792,5 +66792,40 @@
     "nombreContacto": "cast",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788617721000,
+    "subscriberId": "2027861051",
+    "nombreContacto": "Gaston Madrid",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788617721000,
+    "subscriberId": "2027861051",
+    "nombreContacto": "Gaston Madrid",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1788617721000,
+    "subscriberId": "2027861051",
+    "nombreContacto": "Gaston Madrid",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1788617726000,
+    "subscriberId": "196089226",
+    "nombreContacto": "jadecita ♥️✨",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788617726000,
+    "subscriberId": "196089226",
+    "nombreContacto": "jadecita ♥️✨",
+    "remitente": "contacto",
+    "texto": "Buenas tardes, me encantaría aprender"
   }
 ]
