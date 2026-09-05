@@ -136908,5 +136908,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Graciela Jaichenco"
+  },
+  {
+    "ts": 1788625864000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "153837094",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Lopez"
+  },
+  {
+    "ts": 1788625914000,
+    "mensaje": "Ayúdame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "278344101",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Maria Arango"
+  },
+  {
+    "ts": 1788625977000,
+    "mensaje": "Hola!\nSi claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1200851823",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Estefanía Durango"
+  },
+  {
+    "ts": 1788626050000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "678957433",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mateo"
   }
 ]
