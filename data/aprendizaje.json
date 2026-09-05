@@ -131668,5 +131668,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ikiam"
+  },
+  {
+    "ts": 1788611044000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1021514472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "May Gor Gui"
+  },
+  {
+    "ts": 1788611045000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Claro que si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1021514472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "May Gor Gui"
+  },
+  {
+    "ts": 1788611064000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "368475796",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Therapeer"
+  },
+  {
+    "ts": 1788611063000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "368475796",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel Therapeer"
+  },
+  {
+    "ts": 1788611106000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1364974013",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "netge_02"
+  },
+  {
+    "ts": 1788611106000,
+    "mensaje": "Si la verdad estoy en blanco no sé en qué avanzar en mi negocio?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1364974013",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "netge_02"
   }
 ]
