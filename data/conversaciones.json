@@ -44056,5 +44056,54 @@
     "nombreContacto": "Gerardo Fonseca",
     "remitente": "contacto",
     "texto": "Pero"
+  },
+  {
+    "ts": 1788548767000,
+    "subscriberId": "1265619919",
+    "nombreContacto": "Gerardo Fonseca",
+    "remitente": "contacto",
+    "texto": "..."
+  },
+  {
+    "ts": 1788548772000,
+    "subscriberId": "1607141769",
+    "nombreContacto": "valen",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788548772000,
+    "subscriberId": "1607141769",
+    "nombreContacto": "valen",
+    "remitente": "contacto",
+    "texto": "Hola tino tengo 16 años me interesa lo de responder mensajes"
+  },
+  {
+    "ts": 1788548772000,
+    "subscriberId": "1607141769",
+    "nombreContacto": "valen",
+    "remitente": "contacto",
+    "texto": "?"
+  },
+  {
+    "ts": 1788548837000,
+    "subscriberId": "1592563774",
+    "nombreContacto": "valen",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788548837000,
+    "subscriberId": "1592563774",
+    "nombreContacto": "valen",
+    "remitente": "contacto",
+    "texto": "Hola tino tengo 16 años me interesa lo de responder mensajes"
+  },
+  {
+    "ts": 1788548837000,
+    "subscriberId": "1592563774",
+    "nombreContacto": "valen",
+    "remitente": "contacto",
+    "texto": "?"
   }
 ]
