@@ -66001,5 +66001,26 @@
     "nombreContacto": "Isabel Calles",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788615041000,
+    "subscriberId": "1908481474",
+    "nombreContacto": "Isabel Calles",
+    "remitente": "contacto",
+    "texto": "Sí, dale."
+  },
+  {
+    "ts": 1788615129000,
+    "subscriberId": "1908481474",
+    "nombreContacto": "Isabel Calles",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788615133000,
+    "subscriberId": "1908481474",
+    "nombreContacto": "Isabel Calles",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
