@@ -134158,5 +134158,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roxi"
+  },
+  {
+    "ts": 1788618762000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1754270658",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Soledad Ocaña"
+  },
+  {
+    "ts": 1788618772000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "812546214",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tary Rodriguez"
+  },
+  {
+    "ts": 1788618854000,
+    "mensaje": "Mensajes en WhatsApp",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1633129485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jimzmeyj_"
   }
 ]
