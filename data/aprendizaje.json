@@ -137668,5 +137668,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Francys Rodriguez Mictil"
+  },
+  {
+    "ts": 1788628268000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1110747911",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pato Gonzalez"
+  },
+  {
+    "ts": 1788628271000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "54288983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Castaño"
+  },
+  {
+    "ts": 1788628273000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "501119671",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia Lopez"
+  },
+  {
+    "ts": 1788628280000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1688784653",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝖒𝖎𝖑𝖎 🎀"
+  },
+  {
+    "ts": 1788628289000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1150445122",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🍁Niicol🍁"
+  },
+  {
+    "ts": 1788628293000,
+    "mensaje": "Hola infoo",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1756200505",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✨𝓜𝓪𝓪𝓻 𝓢𝓽𝓻𝓾𝓿𝓪𝔂✨"
+  },
+  {
+    "ts": 1788628295000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1848720276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jaqueline Alegre"
+  },
+  {
+    "ts": 1788628304000,
+    "mensaje": "Cuánto cobran ?",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "55516582",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicky Mclean"
+  },
+  {
+    "ts": 1788628394000,
+    "mensaje": "ℍ𝕠𝕝𝕒",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1794690138",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕗𝕝𝕒𝕔𝕠 𝕤𝕠𝕝𝕥𝕖𝕣𝕠"
+  },
+  {
+    "ts": 1788628399000,
+    "mensaje": "Ammmm será q le creo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "89769405",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bal"
   }
 ]
