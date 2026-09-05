@@ -132668,5 +132668,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Cariana Ramirez"
+  },
+  {
+    "ts": 1788613518000,
+    "mensaje": "Hola si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1449711127",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosalia Gimenez"
+  },
+  {
+    "ts": 1788613793000,
+    "mensaje": "Q onda",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1664262727",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ignacio Mercau"
+  },
+  {
+    "ts": 1788613794000,
+    "mensaje": "Q onda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1664262727",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ignacio Mercau"
+  },
+  {
+    "ts": 1788613796000,
+    "mensaje": "Necesito tu ayuda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "613729029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "chris_gc"
+  },
+  {
+    "ts": 1788613796000,
+    "mensaje": "Necesito tu ayuda",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "613729029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "chris_gc"
+  },
+  {
+    "ts": 1788613802000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1985622684",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pandis! 𖤐"
   }
 ]
