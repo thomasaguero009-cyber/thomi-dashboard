@@ -124248,5 +124248,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mariano Caceres"
+  },
+  {
+    "ts": 1788549355000,
+    "mensaje": "Si me gustaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1774344859",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Couso"
+  },
+  {
+    "ts": 1788549355000,
+    "mensaje": "Si me gustaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1774344859",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Couso"
+  },
+  {
+    "ts": 1788549357000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1462025335",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matias CR7"
+  },
+  {
+    "ts": 1788549534000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2112531178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Alejandro II"
+  },
+  {
+    "ts": 1788549603000,
+    "mensaje": "Hola saludos 🫂",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1844732225",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yessica Narvaez"
   }
 ]
