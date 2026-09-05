@@ -139088,5 +139088,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Isaias Palacios"
+  },
+  {
+    "ts": 1788629762000,
+    "mensaje": "Me gustaría aprender a generar ingresos. Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "374178944",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "belencamp6"
+  },
+  {
+    "ts": 1788629772000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "2084090365",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dixon"
+  },
+  {
+    "ts": 1788629775000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1512164041",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🖤🥀EVIE🥀🖤"
+  },
+  {
+    "ts": 1788629787000,
+    "mensaje": "BotMirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo...Listo, agendé la llamada.",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "377589080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "daniii.val"
+  },
+  {
+    "ts": 1788629799000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "45296311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Néstor"
+  },
+  {
+    "ts": 1788629800000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "45296311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Néstor"
+  },
+  {
+    "ts": 1788629803000,
+    "mensaje": "Hola, que tal, s dle me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "906523538",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mica ❣️"
+  },
+  {
+    "ts": 1788629807000,
+    "mensaje": "Ok gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "846486575",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "freen sarocha .."
   }
 ]
