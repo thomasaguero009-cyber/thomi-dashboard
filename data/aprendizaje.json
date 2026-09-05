@@ -143058,5 +143058,135 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Tdiesel55"
+  },
+  {
+    "ts": 1788633020000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1464657986",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Mota"
+  },
+  {
+    "ts": 1788633026000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1418459400",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giselle"
+  },
+  {
+    "ts": 1788633031000,
+    "mensaje": "Si, envíamela por favor, gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1497848698",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Sosa"
+  },
+  {
+    "ts": 1788633034000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "80509170",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrea Del Pilar Sánchez"
+  },
+  {
+    "ts": 1788633039000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1418579139",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "laly.tonlorenzi"
+  },
+  {
+    "ts": 1788633041000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "486922058",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angel Flavio Zoloaga"
+  },
+  {
+    "ts": 1788633045000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1072287906",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yoselopez"
+  },
+  {
+    "ts": 1788633048000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "289634868",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosmery Luna"
+  },
+  {
+    "ts": 1788633053000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "135504656",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "andres victoria"
+  },
+  {
+    "ts": 1788633064000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "680004761",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leidy Herrera"
+  },
+  {
+    "ts": 1788633073000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "299776601",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ℝosaluz 🅑︎.🅖︎."
+  },
+  {
+    "ts": 1788633238000,
+    "mensaje": "Gracias. Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2024398898",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorhum Ararodz"
+  },
+  {
+    "ts": 1788633239000,
+    "mensaje": "Me gustaría ver ??",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1680719889",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian_AZ"
   }
 ]
