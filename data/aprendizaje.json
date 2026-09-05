@@ -134588,5 +134588,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yummy"
+  },
+  {
+    "ts": 1788621836000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1672122087",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raquel Romero Quintero"
+  },
+  {
+    "ts": 1788622096000,
+    "mensaje": "Perdón estaba comiendo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "461180941",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "C A T A L I N A  IOJ  🪄✨"
+  },
+  {
+    "ts": 1788622104000,
+    "mensaje": "En realidad cuando agende una reunión con un asesor me dijo que iba a derivar con otro pero nunca se comunicaron conmigo después y luego quise volver a agendar una reunión por la página pero el problema es ahora ya no me llega el link de zoom en el correo, solo me avisa el horario de la reunión.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "126113320",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maximiliano Suarez"
+  },
+  {
+    "ts": 1788622109000,
+    "mensaje": "BotQueres que te la envie?Si, porfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "987441331",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alo_Moon☆"
+  },
+  {
+    "ts": 1788622113000,
+    "mensaje": "Gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1571653786",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Erika Juliana Cuellar Romero"
+  },
+  {
+    "ts": 1788622124000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "573863932",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosa Isabel Perez Sanchez"
+  },
+  {
+    "ts": 1788622133000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "573863932",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosa Isabel Perez Sanchez"
+  },
+  {
+    "ts": 1788622137000,
+    "mensaje": "BotQue edad tenes?No se dice",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "119796029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕬𝖓𝖙𝖔𝖓𝖊𝖑𝖑𝖆 🪽"
+  },
+  {
+    "ts": 1788622141000,
+    "mensaje": "Catálogo plis",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "382796013",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marian Jessica Matos Menendez"
+  },
+  {
+    "ts": 1788622210000,
+    "mensaje": "Ahí entro",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "331926803",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🥷🏻🥷🏻"
   }
 ]
