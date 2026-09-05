@@ -130808,5 +130808,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Janeth Valencia"
+  },
+  {
+    "ts": 1788607519000,
+    "mensaje": "El martes 9 cumplo 44. Años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1929766606",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mateo Oria"
+  },
+  {
+    "ts": 1788607523000,
+    "mensaje": "Bueno",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1360743963",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sabri Medina"
+  },
+  {
+    "ts": 1788607553000,
+    "mensaje": "Me Gustaría Escucharla. Pero es Gratuita ó Tiene un Costo?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "971938259",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fátima Knipping"
+  },
+  {
+    "ts": 1788607558000,
+    "mensaje": "Daleee! Muchas agracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1312414445",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sofy"
+  },
+  {
+    "ts": 1788607577000,
+    "mensaje": "16",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "498589875",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ist_axils"
+  },
+  {
+    "ts": 1788607584000,
+    "mensaje": "Lo necesito mucho",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "238969361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Janet De Las Mercedes García Izquierdo"
+  },
+  {
+    "ts": 1788607587000,
+    "mensaje": "Lo necesito mucho",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "238969361",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Janet De Las Mercedes García Izquierdo"
+  },
+  {
+    "ts": 1788607608000,
+    "mensaje": "Si me van aceptar yo ya quiero empezar a ser independiente",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1027076909",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "leomil17"
+  },
+  {
+    "ts": 1788607681000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "937711195",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mateo Domingo"
+  },
+  {
+    "ts": 1788607735000,
+    "mensaje": "Buenos días \nEso es posible \nActualmente estoy estudiando y no tengo tiempo de trabajar en verdad en ayudaría el generar ingresos ya que estoy completamente en ceros",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1398076419",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Cortes"
+  },
+  {
+    "ts": 1788607769000,
+    "mensaje": "Hola , buen día . Quiero trabajar respondiendo msm en WhatsApp para ventas ., ¿me puedes ayudar ? \nGracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "158340619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriela Moreno"
+  },
+  {
+    "ts": 1788607809000,
+    "mensaje": "Eso es posible solo respondiendo mensaje?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1706164106",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alan"
   }
 ]
