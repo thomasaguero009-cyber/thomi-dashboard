@@ -134418,5 +134418,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "ᴀʟᴇ ᴄᴏᴄᴜᴄᴄɪ"
+  },
+  {
+    "ts": 1788620191000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1258307499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mia Agüero"
+  },
+  {
+    "ts": 1788620192000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1258307499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mia Agüero"
+  },
+  {
+    "ts": 1788620361000,
+    "mensaje": "Buenas , De nada si me gustaria aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1200212810",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jessi Guevara"
+  },
+  {
+    "ts": 1788620370000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "71636890",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "michelle_sg79"
   }
 ]
