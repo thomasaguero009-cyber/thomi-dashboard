@@ -132728,5 +132728,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "pandis! 𖤐"
+  },
+  {
+    "ts": 1788614042000,
+    "mensaje": "Informacion.",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1461976955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Perez"
+  },
+  {
+    "ts": 1788614042000,
+    "mensaje": "Informacion.",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1461976955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Perez"
+  },
+  {
+    "ts": 1788614045000,
+    "mensaje": "",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "406399582",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ariiiadnee"
+  },
+  {
+    "ts": 1788614045000,
+    "mensaje": "",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "146879133",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dilan_Stig"
+  },
+  {
+    "ts": 1788614090000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1256234853",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mar  Leon"
+  },
+  {
+    "ts": 1788614093000,
+    "mensaje": "Sii quisiera saber como",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1088821349",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isaias Alarcon"
+  },
+  {
+    "ts": 1788614099000,
+    "mensaje": "Si pasame por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "120462043",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Analia Pacheco"
   }
 ]
