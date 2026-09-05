@@ -130988,5 +130988,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "c"
+  },
+  {
+    "ts": 1788608530000,
+    "mensaje": "Hola, buenos días, pues si me interesa, me podría pasar información por favor o los requerimientos para ello por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "419017564",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "leon"
+  },
+  {
+    "ts": 1788608668000,
+    "mensaje": "Hola si envíame xfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "801619683",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brenda Torero"
+  },
+  {
+    "ts": 1788608708000,
+    "mensaje": "Te pasaste amigo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "941296301",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kevin Zanchez"
   }
 ]
