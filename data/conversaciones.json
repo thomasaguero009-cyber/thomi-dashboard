@@ -50251,5 +50251,12 @@
     "nombreContacto": "🌷 Belén 🌷",
     "remitente": "contacto",
     "texto": "Lo vi a todo quiero entrar en todo"
+  },
+  {
+    "ts": 1788604795000,
+    "subscriberId": "1049412903",
+    "nombreContacto": "🌷 Belén 🌷",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
   }
 ]
