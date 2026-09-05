@@ -66288,5 +66288,40 @@
     "nombreContacto": "Isaac Juarez",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788615996000,
+    "subscriberId": "937614770",
+    "nombreContacto": "Isaac Juarez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788616084000,
+    "subscriberId": "937614770",
+    "nombreContacto": "Isaac Juarez",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788616088000,
+    "subscriberId": "937614770",
+    "nombreContacto": "Isaac Juarez",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788616109000,
+    "subscriberId": "937614770",
+    "nombreContacto": "Isaac Juarez",
+    "remitente": "contacto",
+    "texto": "Tengo 26 años"
+  },
+  {
+    "ts": 1788616175000,
+    "subscriberId": "937614770",
+    "nombreContacto": "Isaac Juarez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
