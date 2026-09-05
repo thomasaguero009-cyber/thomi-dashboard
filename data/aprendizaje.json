@@ -130928,5 +130928,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alan"
+  },
+  {
+    "ts": 1788607831000,
+    "mensaje": "Bien día Tino.\nGracias por responder mi mensaje, Por favor, quedo a la espera.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1293357159",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Yar Gust"
+  },
+  {
+    "ts": 1788607885000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "150269344",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andreina Vidoza"
+  },
+  {
+    "ts": 1788607922000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "391382560",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Esther Basurto"
+  },
+  {
+    "ts": 1788608241000,
+    "mensaje": "Si!!!!gracias!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1031837210",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cintia🔥"
+  },
+  {
+    "ts": 1788608254000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...SI",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1940871986",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "EXEQUIEL"
+  },
+  {
+    "ts": 1788608370000,
+    "mensaje": "Buenos días Claro me gustaría aprender 😊",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1724165034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "c"
   }
 ]
