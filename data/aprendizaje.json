@@ -143248,5 +143248,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝗝𝗼𝗮𝗻𝗻𝗮 𝗕𝗮𝗿𝗯𝗼𝘇𝗮 | 𝘗𝘦𝘳𝘪𝘰𝘥𝘪𝘴𝘵𝘢"
+  },
+  {
+    "ts": 1788633624000,
+    "mensaje": "Hola como sería lo de contestar mensaje que vos ayudas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "42019713",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miriam Fernández"
+  },
+  {
+    "ts": 1788633744000,
+    "mensaje": "Acá estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1539156886",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gust Paredes"
+  },
+  {
+    "ts": 1788633808000,
+    "mensaje": "certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "726138010",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mariana González"
   }
 ]
