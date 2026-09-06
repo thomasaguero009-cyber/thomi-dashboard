@@ -143788,5 +143788,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carmen Silva"
+  },
+  {
+    "ts": 1788638181000,
+    "mensaje": "Hola! Si, me interesa :)",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1501794780",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cony Lobos"
+  },
+  {
+    "ts": 1788638184000,
+    "mensaje": "Sii me gustaria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "919185802",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "samir rodriguez"
+  },
+  {
+    "ts": 1788638186000,
+    "mensaje": "BotMensaje de audioSi porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1463597827",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "walter cervantes lozano"
+  },
+  {
+    "ts": 1788638188000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Hola, buenas tardes noches",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2096052629",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elías⚽⚡✨"
+  },
+  {
+    "ts": 1788638216000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "913856842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Xoaa Avila"
   }
 ]
