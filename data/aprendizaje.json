@@ -143928,5 +143928,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Eddie Rodriguez"
+  },
+  {
+    "ts": 1788638781000,
+    "mensaje": "Si claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1194540453",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keyvin Garcia"
+  },
+  {
+    "ts": 1788638788000,
+    "mensaje": "Hola buenas noches .. como seria ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1968475892",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natii Gelveez"
+  },
+  {
+    "ts": 1788638792000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "331957587",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑳𝑨𝒁𝑨𝑹𝑶👑"
+  },
+  {
+    "ts": 1788638861000,
+    "mensaje": "Si, me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "338220113",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Raúl Caulier Cisterna"
+  },
+  {
+    "ts": 1788638895000,
+    "mensaje": "Hola disculpa la pregunta es que tengo 11 años crees que me puedan aceptar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "396170554",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "aura cecilia sanchez mejias"
   }
 ]
