@@ -143548,5 +143548,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Chamba Joan"
+  },
+  {
+    "ts": 1788634518000,
+    "mensaje": ".",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1091558178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gonzalez Mariibel"
+  },
+  {
+    "ts": 1788634694000,
+    "mensaje": "Saludos!! tino.mossu en estos momentos no estoy disponible a la brevedad posible te asistire.Gracias anticipadas",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2027174104",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Johenna Correa"
+  },
+  {
+    "ts": 1788634761000,
+    "mensaje": "Como entrar en gloser de venta",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1427755525",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "1%"
   }
 ]
