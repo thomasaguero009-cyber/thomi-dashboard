@@ -157508,5 +157508,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝔍𝔬𝔲𝔰𝔱𝔢𝔪 ℭ𝔬𝔱𝔯𝔦𝔫𝔞"
+  },
+  {
+    "ts": 1788705940000,
+    "mensaje": "Enséñame como.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "708863487",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mario Mendoza"
+  },
+  {
+    "ts": 1788706007000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1543536622",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alberto Cardoso"
+  },
+  {
+    "ts": 1788706017000,
+    "mensaje": "Si , dime",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "715696880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lachi Lacho"
+  },
+  {
+    "ts": 1788706021000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "331118108",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mikka Zaracho999"
+  },
+  {
+    "ts": 1788706080000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1568932072",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cheuly Adrian"
+  },
+  {
+    "ts": 1788706168000,
+    "mensaje": "Daleee",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "527214752",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexazaitev"
+  },
+  {
+    "ts": 1788706253000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1869941812",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yasmin Eunices Caicedo de Rivero"
+  },
+  {
+    "ts": 1788706430000,
+    "mensaje": "Sép gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2120624586",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ary Mend"
+  },
+  {
+    "ts": 1788706488000,
+    "mensaje": "Si, me interesa!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2022486396",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luz_Duarte"
   }
 ]
