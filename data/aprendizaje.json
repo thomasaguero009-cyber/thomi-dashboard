@@ -156448,5 +156448,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Deborah Molina"
+  },
+  {
+    "ts": 1788702646000,
+    "mensaje": "Buenas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "288668385",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Chelo Suarez"
+  },
+  {
+    "ts": 1788702712000,
+    "mensaje": "Tengo interés",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "897163980",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miriam Gorgal Miacci"
+  },
+  {
+    "ts": 1788702727000,
+    "mensaje": "Okey,dame detalles...",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2112943608",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabrixxio"
   }
 ]
