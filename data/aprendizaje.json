@@ -159128,5 +159128,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": ""
+  },
+  {
+    "ts": 1788709575000,
+    "mensaje": "Hola si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "477377311",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Alejandra Doria"
+  },
+  {
+    "ts": 1788709585000,
+    "mensaje": "Sí. Graciassss",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "256950377",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Delvis Robaina Cabrera"
+  },
+  {
+    "ts": 1788709613000,
+    "mensaje": "Si quiero 😊",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1172734555",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ireniux24"
+  },
+  {
+    "ts": 1788709616000,
+    "mensaje": "Estoy esperando",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "478151464",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vicuña Edwin"
+  },
+  {
+    "ts": 1788709662000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1631242485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mariela Beatriz Recio"
   }
 ]
