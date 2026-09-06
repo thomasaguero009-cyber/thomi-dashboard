@@ -159268,5 +159268,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "raul diaz"
+  },
+  {
+    "ts": 1788710448000,
+    "mensaje": "Catalago",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "665903091",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Rehigan R O"
+  },
+  {
+    "ts": 1788710568000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "384867617",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Jiménez"
+  },
+  {
+    "ts": 1788710571000,
+    "mensaje": "Sí claro encantado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2076054367",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keyner v"
+  },
+  {
+    "ts": 1788710589000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "17875586",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "monserrath2015"
+  },
+  {
+    "ts": 1788710596000,
+    "mensaje": "Hola! Si por favor 🤗",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2107563066",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "goncalvesanak"
+  },
+  {
+    "ts": 1788710627000,
+    "mensaje": "Si, estoy interesada.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1343230296",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yessica Martinez"
+  },
+  {
+    "ts": 1788710662000,
+    "mensaje": "si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2123272124",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "maximo"
+  },
+  {
+    "ts": 1788710662000,
+    "mensaje": "si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2123272124",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "maximo"
   }
 ]
