@@ -157058,5 +157058,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gastón Ezequiel Vallejo"
+  },
+  {
+    "ts": 1788704421000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1704026481",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maximo Jimenez"
+  },
+  {
+    "ts": 1788704431000,
+    "mensaje": "A cómo en realidad hacerlo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1633267574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Daniel Vargas"
+  },
+  {
+    "ts": 1788704437000,
+    "mensaje": "No habia opciones",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1245546132",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᴜ ʀ ɪ ɪ"
+  },
+  {
+    "ts": 1788704462000,
+    "mensaje": "digamos.q yo cierro o la venta",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1700811919",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "noah_cintia"
+  },
+  {
+    "ts": 1788704495000,
+    "mensaje": "Un millón gracias 🫂 Tino , te avisaré",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2132677265",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudio Montalvo"
+  },
+  {
+    "ts": 1788704553000,
+    "mensaje": "Gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "626554697",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tatiana Navarro"
+  },
+  {
+    "ts": 1788704558000,
+    "mensaje": "No entra a la clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1715671570",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edwin Choquehuanca"
+  },
+  {
+    "ts": 1788704577000,
+    "mensaje": "Cómo hago para verla",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1897589437",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ezequiel bustos"
+  },
+  {
+    "ts": 1788704590000,
+    "mensaje": "BotTe pudiste agendar?Creo que es por el internet pero la clase se guinda un poco",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1192700856",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel_9521"
+  },
+  {
+    "ts": 1788704605000,
+    "mensaje": "Bro yo soy de Colombia y pss si quiero Llegar ah ser como tú",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "749318697",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "keiler portillo"
+  },
+  {
+    "ts": 1788704626000,
+    "mensaje": "Si buenisimo! Que costo tiene?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "61242463",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victoria Mordacci"
   }
 ]
