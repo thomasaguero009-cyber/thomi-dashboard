@@ -154768,5 +154768,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Uli Camargo C"
+  },
+  {
+    "ts": 1788700241000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1899543332",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mailin García"
+  },
+  {
+    "ts": 1788700242000,
+    "mensaje": "Hola.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1899543332",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mailin García"
+  },
+  {
+    "ts": 1788700286000,
+    "mensaje": "Buenas Tino, me encantaría 🤝",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "539319321",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Fernandez"
+  },
+  {
+    "ts": 1788700286000,
+    "mensaje": "Buenas Tino, me encantaría 🤝",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "539319321",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Fernandez"
+  },
+  {
+    "ts": 1788700344000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1137711084",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julio Contreras"
+  },
+  {
+    "ts": 1788700345000,
+    "mensaje": "Hola buenas tardes. Cómo es eso que respondiendo mensajes puedo generar ingresos?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1137711084",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julio Contreras"
+  },
+  {
+    "ts": 1788700365000,
+    "mensaje": "Si mi hermano estoy interesado quiero aprender y echar para delante",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "604683773",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yovany Gomez"
+  },
+  {
+    "ts": 1788700365000,
+    "mensaje": "Si mi hermano estoy interesado quiero aprender y echar para delante",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "604683773",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yovany Gomez"
+  },
+  {
+    "ts": 1788700514000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1796314475",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Sánchez"
   }
 ]
