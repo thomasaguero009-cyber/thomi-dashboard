@@ -121308,5 +121308,40 @@
     "nombreContacto": "Patricia",
     "remitente": "contacto",
     "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788642535000,
+    "subscriberId": "1707781606",
+    "nombreContacto": "Alvaro",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 11 horas"
+  },
+  {
+    "ts": 1788642535000,
+    "subscriberId": "1707781606",
+    "nombreContacto": "Alvaro",
+    "remitente": "contacto",
+    "texto": "Catálogo"
+  },
+  {
+    "ts": 1788642536000,
+    "subscriberId": "1707781606",
+    "nombreContacto": "wen moreno",
+    "remitente": "contacto",
+    "texto": "Si claro"
+  },
+  {
+    "ts": 1788642543000,
+    "subscriberId": "45668906",
+    "nombreContacto": "Jose luis Dajil pinto",
+    "remitente": "contacto",
+    "texto": "Me diron permiso"
+  },
+  {
+    "ts": 1788642543000,
+    "subscriberId": "45668906",
+    "nombreContacto": "Kevin bryan pitti",
+    "remitente": "contacto",
+    "texto": "Buenas noches claro que si me gustaría"
   }
 ]
