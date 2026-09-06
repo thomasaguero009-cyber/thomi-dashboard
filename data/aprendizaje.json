@@ -165438,5 +165438,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Zy’QUIERO chocolate artesanal y tablas de quesos."
+  },
+  {
+    "ts": 1788716139000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1464737376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tiana maimara"
+  },
+  {
+    "ts": 1788716143000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1464737376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tiana maimara"
+  },
+  {
+    "ts": 1788716292000,
+    "mensaje": "Hola si x favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "846016170",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karina Fierro"
+  },
+  {
+    "ts": 1788716304000,
+    "mensaje": "Hola cómo sería?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "150839707",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Caro Maya"
+  },
+  {
+    "ts": 1788716342000,
+    "mensaje": "Buenas tardes si por favor 🪄 se lo agradecería",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1851344208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Genesis Arotoma"
+  },
+  {
+    "ts": 1788716401000,
+    "mensaje": "Buenas Sii estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "459970340",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vãleria_Morales_28"
+  },
+  {
+    "ts": 1788716406000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2008442228",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrian Borgonovo"
+  },
+  {
+    "ts": 1788716409000,
+    "mensaje": "Hola si estoy es verdad la verdad que si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1124859603",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Wil Neitzkee"
   }
 ]
