@@ -155468,5 +155468,33 @@
     "nombreContacto": "Anderson Chamorro Navarro",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788705485000,
+    "subscriberId": "1633805865",
+    "nombreContacto": "Anderson Chamorro Navarro",
+    "remitente": "contacto",
+    "texto": "Bueno"
+  },
+  {
+    "ts": 1788705573000,
+    "subscriberId": "1633805865",
+    "nombreContacto": "Anderson Chamorro Navarro",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788705577000,
+    "subscriberId": "1633805865",
+    "nombreContacto": "Anderson Chamorro Navarro",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788705610000,
+    "subscriberId": "1633805865",
+    "nombreContacto": "Anderson Chamorro Navarro",
+    "remitente": "contacto",
+    "texto": "32"
   }
 ]
