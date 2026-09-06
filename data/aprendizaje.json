@@ -159178,5 +159178,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mariela Beatriz Recio"
+  },
+  {
+    "ts": 1788709894000,
+    "mensaje": "Como es eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1595528810",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alberto Araujo"
+  },
+  {
+    "ts": 1788710061000,
+    "mensaje": "Como genero ingreso",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "705574331",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luiggi Adriano Franzo Perez"
+  },
+  {
+    "ts": 1788710126000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1887368405",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Henry Melissa"
+  },
+  {
+    "ts": 1788710127000,
+    "mensaje": "okay",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "970633135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Expert Balayage | Colour Correction | Curly Hair    📍Stockwell"
+  },
+  {
+    "ts": 1788710163000,
+    "mensaje": "Claro q quiero su ayuda se lo agradeceria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "965747042",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Carlos"
+  },
+  {
+    "ts": 1788710265000,
+    "mensaje": "hola Tino, si. me brindas información por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1239451082",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rommina Furco"
+  },
+  {
+    "ts": 1788710342000,
+    "mensaje": "No me llegó nada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1118550595",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Oslay Daudinot | Opinión y Debate"
+  },
+  {
+    "ts": 1788710403000,
+    "mensaje": "Si, si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "752922657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "멋진🫐!!"
+  },
+  {
+    "ts": 1788710404000,
+    "mensaje": "Bueno gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "352371481",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "raul diaz"
   }
 ]
