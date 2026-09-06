@@ -164458,5 +164458,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gabriel Líder Mundial"
+  },
+  {
+    "ts": 1788715228000,
+    "mensaje": "Hola buenas, si hermano mandamela por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "59960704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samir Duran"
+  },
+  {
+    "ts": 1788715493000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1762747630",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mar"
+  },
+  {
+    "ts": 1788715496000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1080469041",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marian  Villarreal"
+  },
+  {
+    "ts": 1788715498000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1341508420",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ingrid Cortez"
+  },
+  {
+    "ts": 1788715500000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "474224869",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lina Olmedo"
+  },
+  {
+    "ts": 1788715504000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1996245945",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodolfo Barrera"
+  },
+  {
+    "ts": 1788715507000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1109504213",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel Ramirez"
+  },
+  {
+    "ts": 1788715509000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1249854587",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Barahona"
+  },
+  {
+    "ts": 1788715513000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "303105955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Perla Ruby Guerrero Durán"
   }
 ]
