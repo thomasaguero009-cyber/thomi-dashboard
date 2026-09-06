@@ -157598,5 +157598,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Luz_Duarte"
+  },
+  {
+    "ts": 1788706554000,
+    "mensaje": "Me mandas saludos ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1962037743",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yolamaspiolita"
+  },
+  {
+    "ts": 1788706710000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "132460842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Denn Rod"
+  },
+  {
+    "ts": 1788706713000,
+    "mensaje": "Este mensaje ha sido eliminado",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2051976015",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑲𝒐𝒌𝒊"
+  },
+  {
+    "ts": 1788706796000,
+    "mensaje": "Si. Estoy dispuesto hacerlo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1598505433",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicolas Jiménez Dominguez"
+  },
+  {
+    "ts": 1788706812000,
+    "mensaje": "Sip",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "913633612",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "barrozo__jose≈"
   }
 ]
