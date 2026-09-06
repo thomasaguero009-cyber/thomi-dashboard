@@ -212203,5 +212203,26 @@
     "nombreContacto": "Monica Alejandra cortez",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788719137000,
+    "subscriberId": "1837997060",
+    "nombreContacto": "Monica Alejandra cortez",
+    "remitente": "contacto",
+    "texto": "34 años"
+  },
+  {
+    "ts": 1788719204000,
+    "subscriberId": "1837997060",
+    "nombreContacto": "Monica Alejandra cortez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788719277000,
+    "subscriberId": "1837997060",
+    "nombreContacto": "Monica Alejandra cortez",
+    "remitente": "contacto",
+    "texto": "Gracias la voy a ver en este momento"
   }
 ]
