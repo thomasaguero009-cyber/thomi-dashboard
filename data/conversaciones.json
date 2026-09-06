@@ -167417,5 +167417,54 @@
     "nombreContacto": "Guadalupe",
     "remitente": "agente",
     "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788711019000,
+    "subscriberId": "55766145",
+    "nombreContacto": "Guadalupe",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788711084000,
+    "subscriberId": "55766145",
+    "nombreContacto": "Guadalupe",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788711187000,
+    "subscriberId": "55766145",
+    "nombreContacto": "Guadalupe",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788711275000,
+    "subscriberId": "55766145",
+    "nombreContacto": "Guadalupe",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788711279000,
+    "subscriberId": "55766145",
+    "nombreContacto": "Guadalupe",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788711280000,
+    "subscriberId": "297948717",
+    "nombreContacto": "Belen Vazquez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788711280000,
+    "subscriberId": "297948717",
+    "nombreContacto": "Belen Vazquez",
+    "remitente": "contacto",
+    "texto": "Sii"
   }
 ]
