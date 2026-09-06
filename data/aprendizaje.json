@@ -159348,5 +159348,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "maximo"
+  },
+  {
+    "ts": 1788710851000,
+    "mensaje": "Hola buenos cualquier cosa te aviso gracias que sigas bien",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1566157504",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Seltzer"
+  },
+  {
+    "ts": 1788710895000,
+    "mensaje": "bunaa, si me interesa, y como seria?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "980533614",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Naka Skt"
+  },
+  {
+    "ts": 1788710903000,
+    "mensaje": "Certificación de Google por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "910361026",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Guillermo Pulgar Ferrer"
   }
 ]
