@@ -154488,5 +154488,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Silvana Mellimaci"
+  },
+  {
+    "ts": 1788698718000,
+    "mensaje": "No agende eso si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "943802899",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tomas Levin"
+  },
+  {
+    "ts": 1788698729000,
+    "mensaje": "Siii claro pero no tengo el dinero que pides ni para pagarlo a cuotas tampoco",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1691989464",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sol Solecito"
+  },
+  {
+    "ts": 1788698813000,
+    "mensaje": "Si ESTOY",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1061898585",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Johanny Pena"
+  },
+  {
+    "ts": 1788698853000,
+    "mensaje": "Enviame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "997783147",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tamara"
+  },
+  {
+    "ts": 1788698854000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "797170706",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fran"
+  },
+  {
+    "ts": 1788698857000,
+    "mensaje": "Es en serio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "723070587",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tony Alexander Hurtado Alarcon"
+  },
+  {
+    "ts": 1788698906000,
+    "mensaje": "Wsp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "141639952",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "دوفان كوينتيرو"
+  },
+  {
+    "ts": 1788698912000,
+    "mensaje": "Hola tino si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "844203887",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓿𝓲𝓴𝓲ও"
+  },
+  {
+    "ts": 1788698914000,
+    "mensaje": "Si ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "668925863",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elivan Jiménez Alejo"
+  },
+  {
+    "ts": 1788698938000,
+    "mensaje": "Tengo interés claro que si",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "504551491",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vero de abreu"
+  },
+  {
+    "ts": 1788698980000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "814579338",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Genesis Eliana Toapanta"
+  },
+  {
+    "ts": 1788698980000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "814579338",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Genesis Eliana Toapanta"
   }
 ]
