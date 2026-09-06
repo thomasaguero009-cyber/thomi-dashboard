@@ -143668,5 +143668,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Fernando"
+  },
+  {
+    "ts": 1788637225000,
+    "mensaje": "Sii listoo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "20270328",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jennifer Vps"
+  },
+  {
+    "ts": 1788637227000,
+    "mensaje": "Por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "835096218",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zull Graterol"
+  },
+  {
+    "ts": 1788637278000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1142910231",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tamy Ramirez"
+  },
+  {
+    "ts": 1788637368000,
+    "mensaje": "Okay",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "240086385",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kánser"
+  },
+  {
+    "ts": 1788637383000,
+    "mensaje": "Claro como seria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1866851583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yelena Acosta Specht"
+  },
+  {
+    "ts": 1788637395000,
+    "mensaje": "Hola si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1789926957",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VARIEDADESAUTOMOR"
   }
 ]
