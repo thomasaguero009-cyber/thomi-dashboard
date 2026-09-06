@@ -156988,5 +156988,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gerson Gonzalez"
+  },
+  {
+    "ts": 1788704118000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1605607895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VITÓRIA FRANÇA"
+  },
+  {
+    "ts": 1788704158000,
+    "mensaje": "Cómo seria eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1297647971",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "₳Ⱡ฿₳ Đł₳Ɽ₮Ɇ"
+  },
+  {
+    "ts": 1788704184000,
+    "mensaje": "Me agendare más adelante",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1628715223",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cesar Gonzalez"
+  },
+  {
+    "ts": 1788704240000,
+    "mensaje": "Disculpa antes de empezar quiero hacer una pregunta tengo que pagar algo para el proceso?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "385494002",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angel Agudelo"
+  },
+  {
+    "ts": 1788704273000,
+    "mensaje": "BotPor ultimo te consulto, pudiste confirmar asistencia por whatsapp para hacer la reunion?Cómo sería eso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1922277314",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "andres segovia"
+  },
+  {
+    "ts": 1788704284000,
+    "mensaje": "No tengo para pagarte, en el caso de que sea paga la info",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2144119588",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia Cases"
+  },
+  {
+    "ts": 1788704352000,
+    "mensaje": "Pero me interesa agendar una llamada con tú asesor de ventas",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "409699966",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gastón Ezequiel Vallejo"
   }
 ]
