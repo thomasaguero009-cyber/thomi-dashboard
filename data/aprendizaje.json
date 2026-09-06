@@ -156668,5 +156668,145 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Pau Saharian"
+  },
+  {
+    "ts": 1788703528000,
+    "mensaje": "No chao",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "697167128",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "franco_1993"
+  },
+  {
+    "ts": 1788703529000,
+    "mensaje": "No chao",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "697167128",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "franco_1993"
+  },
+  {
+    "ts": 1788703535000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "58353140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "."
+  },
+  {
+    "ts": 1788703540000,
+    "mensaje": "Es.gratis?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "5779040",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natu Romero"
+  },
+  {
+    "ts": 1788703549000,
+    "mensaje": "Ok me la envías y si mi hijo le interesa y a mi yerna que se comuniquen ellos contigo muchas gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "569585547",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabiola Contreras"
+  },
+  {
+    "ts": 1788703554000,
+    "mensaje": "Has tenido estudiantes q no han podido pagar tus clases de asesorías no por no querer sino por no poder? Pues me gustaria tomar tus clases y tener ese trabajo de closer pero economicamente por el pais en donde estoy, estoy muy lejos de poder pagar aun tu asesoramiento",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1878354051",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Day"
+  },
+  {
+    "ts": 1788703593000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "574941753",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mathias Cesaro"
+  },
+  {
+    "ts": 1788703609000,
+    "mensaje": "pasalo noma",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "309689522",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "calamar272828"
+  },
+  {
+    "ts": 1788703609000,
+    "mensaje": "pasalo noma",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "309689522",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "calamar272828"
+  },
+  {
+    "ts": 1788703661000,
+    "mensaje": "Enserio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1850424888",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ada Diaz"
+  },
+  {
+    "ts": 1788703741000,
+    "mensaje": "Hola, si, soy cubana y vivo en Cuba y necesito un ingreso fuerte",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1824093943",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ailemys Aguilar"
+  },
+  {
+    "ts": 1788703798000,
+    "mensaje": "ClientEstaba asesorandome pero no entiendo la ultima parte q me lleva a mercado pago.",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "54682456",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cande Bonino"
+  },
+  {
+    "ts": 1788703808000,
+    "mensaje": "Mil gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1589323545",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grace Echavez Guzman"
+  },
+  {
+    "ts": 1788703810000,
+    "mensaje": "Mil gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1589323545",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grace Echavez Guzman"
   }
 ]
