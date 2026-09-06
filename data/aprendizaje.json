@@ -157168,5 +157168,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Victoria Mordacci"
+  },
+  {
+    "ts": 1788704722000,
+    "mensaje": "Hola me ayudas?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1844803000",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brandon Jaramillo"
+  },
+  {
+    "ts": 1788704725000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "657009216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vale Montoya"
+  },
+  {
+    "ts": 1788704769000,
+    "mensaje": "y cómo puedo contactar con esas empresas",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1635161891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Grajales Salo"
+  },
+  {
+    "ts": 1788704795000,
+    "mensaje": "Comentarios.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "218082807",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "wilfredo50318"
+  },
+  {
+    "ts": 1788704820000,
+    "mensaje": "Holaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1157351749",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕲𝖎𝖆𝖓"
+  },
+  {
+    "ts": 1788704826000,
+    "mensaje": "Entre pero ahora no tengo tiempo para responder la llamada porque estoy en el trabajo soy militar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "473922979",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elian Mendez"
+  },
+  {
+    "ts": 1788704833000,
+    "mensaje": "Q precio tiene",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1489921060",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "romi asan"
+  },
+  {
+    "ts": 1788704841000,
+    "mensaje": "Tengo !..",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "375563075",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lucas.reyes95"
+  },
+  {
+    "ts": 1788704958000,
+    "mensaje": "Hay rango límite de edad ? Lo armo para ella ( te escribo yo xq ella está en LA movida de su mudanza “temporal “….verá si se adapta ..)",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1948773779",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mary"
+  },
+  {
+    "ts": 1788704971000,
+    "mensaje": "Tino , bro , no se agendarme",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1528581452",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CHANG MARTINEZ 🇨🇳"
+  },
+  {
+    "ts": 1788704990000,
+    "mensaje": "Si. Pasamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "309584005",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriela Leiva"
   }
 ]
