@@ -173478,5 +173478,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Perlita 🕷️"
+  },
+  {
+    "ts": 1788794172000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "385585932",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𓂀"
+  },
+  {
+    "ts": 1788794328000,
+    "mensaje": "Buenas tardes , saludos , si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "47565492",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Odette Guerra / Lifestyle & Proyectos"
+  },
+  {
+    "ts": 1788794353000,
+    "mensaje": "Porfa",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2028929854",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VBrian Laines"
   }
 ]
