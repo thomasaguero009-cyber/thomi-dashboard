@@ -173328,5 +173328,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Andrea Macchi Fernandez"
+  },
+  {
+    "ts": 1788791892000,
+    "mensaje": "Genio dame una mano por trabajo",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1810155414",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos adrian Aguirre"
+  },
+  {
+    "ts": 1788791958000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1148638006",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julio Villegas"
+  },
+  {
+    "ts": 1788791978000,
+    "mensaje": "Hola si que tal te agradezcco por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2018641124",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Investprivadas Group"
   }
 ]
