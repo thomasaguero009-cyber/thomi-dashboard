@@ -170558,5 +170558,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carmen Isabel"
+  },
+  {
+    "ts": 1788780128000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Gracias a ti por hacer tan buen contenido",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "210948047",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nil Lopez Guillen"
+  },
+  {
+    "ts": 1788780132000,
+    "mensaje": "Bueno lo que pasa es que.....",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1067232476",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leydi Aguilar"
+  },
+  {
+    "ts": 1788780133000,
+    "mensaje": "Bueno lo que pasa es que.....",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1067232476",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leydi Aguilar"
+  },
+  {
+    "ts": 1788780138000,
+    "mensaje": "Pues si es q en general tengo muchos turnos de diferentes horarios",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1215426504",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Abel"
+  },
+  {
+    "ts": 1788780142000,
+    "mensaje": "Me llamaron y no llegué a contestar, es una llamada de Oregon?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "792753704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Tosar"
+  },
+  {
+    "ts": 1788780156000,
+    "mensaje": "Vos me llamaste",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "749611937",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabio Augusto  D'Amore"
+  },
+  {
+    "ts": 1788780158000,
+    "mensaje": "Vos me llamaste",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "749611937",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabio Augusto  D'Amore"
+  },
+  {
+    "ts": 1788780161000,
+    "mensaje": "¿Queres ser mi amigo?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "947100480",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dxni_zx7"
+  },
+  {
+    "ts": 1788780200000,
+    "mensaje": "Buen día",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1778262499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zaid Llamas"
   }
 ]
