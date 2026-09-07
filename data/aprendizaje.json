@@ -173258,5 +173258,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "tm.ahse"
+  },
+  {
+    "ts": 1788791251000,
+    "mensaje": "Holi",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1130156824",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofía León"
+  },
+  {
+    "ts": 1788791318000,
+    "mensaje": "Siii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1993966731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Montenegro"
+  },
+  {
+    "ts": 1788791345000,
+    "mensaje": "Okey",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1839168060",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "AC"
+  },
+  {
+    "ts": 1788791407000,
+    "mensaje": "Me interesa Tino",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "486631430",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Olvr Gon"
   }
 ]
