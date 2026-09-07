@@ -173358,5 +173358,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Investprivadas Group"
+  },
+  {
+    "ts": 1788792125000,
+    "mensaje": "Hola!!",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2046131706",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Leal"
+  },
+  {
+    "ts": 1788792269000,
+    "mensaje": "hola tino, y que costo tiene la clase o algún costo que haya?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1664583045",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fran"
   }
 ]
