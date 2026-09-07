@@ -171018,5 +171018,45 @@
     "setter": "thomi",
     "pageId": "435755",
     "nombreContacto": "Arce María luz"
+  },
+  {
+    "ts": 1788781878000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "387280073",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Franklin Ortiz"
+  },
+  {
+    "ts": 1788781957000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Franco Quiroga",
+    "respuesta": "",
+    "subscriberId": "1587245202",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Marlene Alvarez"
+  },
+  {
+    "ts": 1788781993000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Valeria Linares",
+    "respuesta": "",
+    "subscriberId": "1937879970",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Gaby Rivera"
+  },
+  {
+    "ts": 1788782019000,
+    "mensaje": "Estoy ready.",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1081118057",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Gauna Ivan"
   }
 ]
