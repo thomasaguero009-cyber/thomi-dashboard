@@ -173818,5 +173818,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Santiago Mendoza"
+  },
+  {
+    "ts": 1788798626000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si quiero aprender",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "423520759",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mia Orellano"
+  },
+  {
+    "ts": 1788798651000,
+    "mensaje": "Si dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1329538340",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura"
+  },
+  {
+    "ts": 1788798676000,
+    "mensaje": "Si, si quiero",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "45113321",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Naioth Patiño"
+  },
+  {
+    "ts": 1788798816000,
+    "mensaje": "Siii, cuando quieras.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1625826950",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Julia Miraglia"
+  },
+  {
+    "ts": 1788798853000,
+    "mensaje": "Si estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1876660985",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maca Vera"
+  },
+  {
+    "ts": 1788798904000,
+    "mensaje": "estoy si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "276339907",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Camacho"
+  },
+  {
+    "ts": 1788799056000,
+    "mensaje": "Hola me podrías enviar la info por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "564124578",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan David Sanabria Gonzalez"
   }
 ]
