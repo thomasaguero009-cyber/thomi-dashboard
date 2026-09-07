@@ -173408,5 +173408,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ismael Scafide"
+  },
+  {
+    "ts": 1788792939000,
+    "mensaje": "No se que hacer",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1831830510",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sole Fusco"
+  },
+  {
+    "ts": 1788793061000,
+    "mensaje": "Estoy de una ídolo máximo",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1290706535",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel López"
   }
 ]
