@@ -173748,5 +173748,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "JOSEPH"
+  },
+  {
+    "ts": 1788797270000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "829062614",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Agustin Ferreira"
+  },
+  {
+    "ts": 1788797561000,
+    "mensaje": "Hola buenas tardes si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1571465775",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hecmir  Zambrano"
+  },
+  {
+    "ts": 1788797657000,
+    "mensaje": "Hola buenas!!sisi pasamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1597124275",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓛𝓾𝔃 𝓛𝓮𝓭𝓮𝓼𝓶𝓪"
+  },
+  {
+    "ts": 1788797707000,
+    "mensaje": "Hola Tino te agradecería mucho que porfa me lo envíes gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1995735725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Zambrano"
   }
 ]
