@@ -173788,5 +173788,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Victor Zambrano"
+  },
+  {
+    "ts": 1788797952000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "275884427",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcela Tejada"
+  },
+  {
+    "ts": 1788797978000,
+    "mensaje": "Buenas si quiero ayuda gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "498484415",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mariicruz bravo"
+  },
+  {
+    "ts": 1788798067000,
+    "mensaje": "Regalame más información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1539145090",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago Mendoza"
   }
 ]
