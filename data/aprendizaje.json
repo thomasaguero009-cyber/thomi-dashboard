@@ -173378,5 +173378,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Fran"
+  },
+  {
+    "ts": 1788792364000,
+    "mensaje": "Si, claro que me lo puedes enviar",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1492207164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aristides Francisco Benitez Flores"
+  },
+  {
+    "ts": 1788792721000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Claro me encantaría",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1726574807",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "€ve 🫧"
+  },
+  {
+    "ts": 1788792901000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1496290546",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ismael Scafide"
   }
 ]
