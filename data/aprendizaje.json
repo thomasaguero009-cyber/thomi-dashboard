@@ -173638,5 +173638,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Benja Bichir"
+  },
+  {
+    "ts": 1788795723000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1808280521",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jerman Rodriguez"
+  },
+  {
+    "ts": 1788795745000,
+    "mensaje": "hola",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1480849758",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "modo__off_777"
+  },
+  {
+    "ts": 1788795761000,
+    "mensaje": "Hola Tino .. quiero aprender soy de Venezuela",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1219198208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Flores"
+  },
+  {
+    "ts": 1788795803000,
+    "mensaje": "Buenas. So",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "247994975",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alvaro David Duran"
+  },
+  {
+    "ts": 1788796114000,
+    "mensaje": "Espero su respuesta atentamente",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1926191256",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alvaro Vargas"
   }
 ]
