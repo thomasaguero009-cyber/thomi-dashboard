@@ -173568,5 +173568,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gus"
+  },
+  {
+    "ts": 1788795022000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Sii quiero aprender",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1705971963",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Richard González"
+  },
+  {
+    "ts": 1788795058000,
+    "mensaje": "Hola buenas disculpa no uso telegram",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1229558323",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla Picon"
+  },
+  {
+    "ts": 1788795096000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "46415648",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bley"
+  },
+  {
+    "ts": 1788795146000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1773557473",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Facundo🐺"
+  },
+  {
+    "ts": 1788795284000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "394190619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "19__rendon✨"
+  },
+  {
+    "ts": 1788795334000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "892334781",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "elisa💗"
+  },
+  {
+    "ts": 1788795537000,
+    "mensaje": "si estoy,muchas gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1487983765",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benja Bichir"
   }
 ]
