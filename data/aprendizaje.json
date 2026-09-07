@@ -170738,5 +170738,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nicolas Andino"
+  },
+  {
+    "ts": 1788780821000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1825320725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karen"
+  },
+  {
+    "ts": 1788780822000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1825320725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karen"
+  },
+  {
+    "ts": 1788780836000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1656901030",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "marisol"
+  },
+  {
+    "ts": 1788780837000,
+    "mensaje": "Claro tino es verdad que el estudio no sirve",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1656901030",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "marisol"
+  },
+  {
+    "ts": 1788780842000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1590609289",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gi"
+  },
+  {
+    "ts": 1788780842000,
+    "mensaje": "Buenas buenas 🍀",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1590609289",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gi"
+  },
+  {
+    "ts": 1788780871000,
+    "mensaje": "Buenas buenas 🍀",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1590609289",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gi"
+  },
+  {
+    "ts": 1788780900000,
+    "mensaje": "De que hablamos?😂",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1781062691",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Camil"
+  },
+  {
+    "ts": 1788780900000,
+    "mensaje": "De que hablamos?😂",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1781062691",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Camil"
   }
 ]
