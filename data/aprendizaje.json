@@ -173298,5 +173298,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Olvr Gon"
+  },
+  {
+    "ts": 1788791424000,
+    "mensaje": "Me ayudas?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2006247235",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres Felipe"
+  },
+  {
+    "ts": 1788791504000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1452923150",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lidio Contreras"
+  },
+  {
+    "ts": 1788791636000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "669705293",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrea Macchi Fernandez"
   }
 ]
