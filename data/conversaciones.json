@@ -240203,5 +240203,397 @@
     "nombreContacto": "Eunice",
     "remitente": "contacto",
     "texto": "Si me interesa saber"
+  },
+  {
+    "ts": 1788798624000,
+    "subscriberId": "423520759",
+    "nombreContacto": "Lend Berl",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798624000,
+    "subscriberId": "423520759",
+    "nombreContacto": "Lend Berl",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788798624000,
+    "subscriberId": "423520759",
+    "nombreContacto": "Lend Berl",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788798624000,
+    "subscriberId": "423520759",
+    "nombreContacto": "Lend Berl",
+    "remitente": "contacto",
+    "texto": "Me parece interesante"
+  },
+  {
+    "ts": 1788798627000,
+    "subscriberId": "806754865",
+    "nombreContacto": "Mia Orellano",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798627000,
+    "subscriberId": "806754865",
+    "nombreContacto": "Mia Orellano",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1788798627000,
+    "subscriberId": "806754865",
+    "nombreContacto": "Mia Orellano",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si quiero aprender"
+  },
+  {
+    "ts": 1788798633000,
+    "subscriberId": "1062849394",
+    "nombreContacto": "nano",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798633000,
+    "subscriberId": "1062849394",
+    "nombreContacto": "nano",
+    "remitente": "contacto",
+    "texto": "Claro genial"
+  },
+  {
+    "ts": 1788798634000,
+    "subscriberId": "1062849394",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "Ok gracias"
+  },
+  {
+    "ts": 1788798647000,
+    "subscriberId": "1329538340",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase bro"
+  },
+  {
+    "ts": 1788798647000,
+    "subscriberId": "1329538340",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo gracias"
+  },
+  {
+    "ts": 1788798647000,
+    "subscriberId": "1329538340",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "Ok gracias"
+  },
+  {
+    "ts": 1788798653000,
+    "subscriberId": "1947736534",
+    "nombreContacto": "Laura",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788798653000,
+    "subscriberId": "1947736534",
+    "nombreContacto": "Laura",
+    "remitente": "contacto",
+    "texto": "Si dale"
+  },
+  {
+    "ts": 1788798664000,
+    "subscriberId": "45113321",
+    "nombreContacto": "Flor murgera🧡💚💙",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798664000,
+    "subscriberId": "45113321",
+    "nombreContacto": "Flor murgera🧡💚💙",
+    "remitente": "contacto",
+    "texto": "Hola soy menor de edad"
+  },
+  {
+    "ts": 1788798665000,
+    "subscriberId": "45113321",
+    "nombreContacto": "Naioth Patiño",
+    "remitente": "contacto",
+    "texto": "Si, si quiero"
+  },
+  {
+    "ts": 1788798690000,
+    "subscriberId": "1062849394",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "Pasame la clase la verdad si me interesa aprender"
+  },
+  {
+    "ts": 1788798759000,
+    "subscriberId": "1062849394",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788798765000,
+    "subscriberId": "211926955",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase bro"
+  },
+  {
+    "ts": 1788798765000,
+    "subscriberId": "211926955",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo gracias"
+  },
+  {
+    "ts": 1788798765000,
+    "subscriberId": "211926955",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "Ok gracias"
+  },
+  {
+    "ts": 1788798765000,
+    "subscriberId": "211926955",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "contacto",
+    "texto": "Pasame la clase la verdad si me interesa aprender"
+  },
+  {
+    "ts": 1788798765000,
+    "subscriberId": "211926955",
+    "nombreContacto": "Magdiel Martinez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788798771000,
+    "subscriberId": "1160030725",
+    "nombreContacto": "laffargue",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798771000,
+    "subscriberId": "1160030725",
+    "nombreContacto": "laffargue",
+    "remitente": "contacto",
+    "texto": "me pasas tu numero porfa"
+  },
+  {
+    "ts": 1788798776000,
+    "subscriberId": "120758954",
+    "nombreContacto": "Kevin",
+    "remitente": "contacto",
+    "texto": "Hola tino quiero empezar a ganar dinero"
+  },
+  {
+    "ts": 1788798777000,
+    "subscriberId": "120758954",
+    "nombreContacto": "Silvana Mariela",
+    "remitente": "contacto",
+    "texto": "Muchas gracias"
+  },
+  {
+    "ts": 1788798800000,
+    "subscriberId": "1433029826",
+    "nombreContacto": "Silvana Mariela",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝🙌"
+  },
+  {
+    "ts": 1788798800000,
+    "subscriberId": "1433029826",
+    "nombreContacto": "Silvana Mariela",
+    "remitente": "contacto",
+    "texto": "Muchas gracias"
+  },
+  {
+    "ts": 1788798813000,
+    "subscriberId": "1625826950",
+    "nombreContacto": "Maria Julia Miraglia",
+    "remitente": "contacto",
+    "texto": "Siii, cuando quieras."
+  },
+  {
+    "ts": 1788798812000,
+    "subscriberId": "1625826950",
+    "nombreContacto": "꧁⚤Jake ᐖ꧂",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Apoco?"
+  },
+  {
+    "ts": 1788798818000,
+    "subscriberId": "2100311463",
+    "nombreContacto": "Maria Julia Miraglia",
+    "remitente": "agente",
+    "texto": "Che ahí vi que me seguiste, bien ahí\n\nSi necesitas una mano sobre cómo empezar a ganar plata por internet avísame y te tiro unos tips en base a tu situación"
+  },
+  {
+    "ts": 1788798818000,
+    "subscriberId": "2100311463",
+    "nombreContacto": "Maria Julia Miraglia",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelWhatsApp"
+  },
+  {
+    "ts": 1788798818000,
+    "subscriberId": "2100311463",
+    "nombreContacto": "Maria Julia Miraglia",
+    "remitente": "contacto",
+    "texto": "Siii, cuando quieras."
+  },
+  {
+    "ts": 1788798825000,
+    "subscriberId": "2100311463",
+    "nombreContacto": "Neycito Vargas",
+    "remitente": "contacto",
+    "texto": "Si estoy disponible"
+  },
+  {
+    "ts": 1788798831000,
+    "subscriberId": "2092672642",
+    "nombreContacto": "Neycito Vargas",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas 🙌"
+  },
+  {
+    "ts": 1788798831000,
+    "subscriberId": "2092672642",
+    "nombreContacto": "Neycito Vargas",
+    "remitente": "contacto",
+    "texto": "Buenas tardes"
+  },
+  {
+    "ts": 1788798831000,
+    "subscriberId": "2092672642",
+    "nombreContacto": "Neycito Vargas",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798831000,
+    "subscriberId": "2092672642",
+    "nombreContacto": "Neycito Vargas",
+    "remitente": "contacto",
+    "texto": "Si estoy disponible"
+  },
+  {
+    "ts": 1788798848000,
+    "subscriberId": "566461819",
+    "nombreContacto": "Mauricio Bravo",
+    "remitente": "contacto",
+    "texto": "Hola tino. Necesito ayuda, tengo muchas deudas y necesito un trabajo aparte del que tengo para saldarlas"
+  },
+  {
+    "ts": 1788798849000,
+    "subscriberId": "1876660985",
+    "nombreContacto": "Locotron EV",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798849000,
+    "subscriberId": "1876660985",
+    "nombreContacto": "Locotron EV",
+    "remitente": "contacto",
+    "texto": "Me daría más información sobre como generar ingresos a través de la plataforma WhatsApp?"
+  },
+  {
+    "ts": 1788798850000,
+    "subscriberId": "1876660985",
+    "nombreContacto": "Maca Vera",
+    "remitente": "contacto",
+    "texto": "Si estoy interesada"
+  },
+  {
+    "ts": 1788798857000,
+    "subscriberId": "1093208665",
+    "nombreContacto": "Maca Vera",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788798857000,
+    "subscriberId": "1093208665",
+    "nombreContacto": "Maca Vera",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798857000,
+    "subscriberId": "1093208665",
+    "nombreContacto": "Maca Vera",
+    "remitente": "contacto",
+    "texto": "Si estoy interesada"
+  },
+  {
+    "ts": 1788798864000,
+    "subscriberId": "120790420",
+    "nombreContacto": "Mauricio Bravo",
+    "remitente": "contacto",
+    "texto": "Hola tino. Necesito ayuda, tengo muchas deudas y necesito un trabajo aparte del que tengo para saldarlas"
+  },
+  {
+    "ts": 1788798864000,
+    "subscriberId": "120790420",
+    "nombreContacto": "Mauricio Bravo",
+    "remitente": "contacto",
+    "texto": "Me interesa lo del video que sacaste hace poco"
+  },
+  {
+    "ts": 1788798874000,
+    "subscriberId": "1962605629",
+    "nombreContacto": "Ali Amaya",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788798874000,
+    "subscriberId": "1962605629",
+    "nombreContacto": "Ali Amaya",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798874000,
+    "subscriberId": "1962605629",
+    "nombreContacto": "Ali Amaya",
+    "remitente": "contacto",
+    "texto": "Hola! Buenas!! Si me interesa"
+  },
+  {
+    "ts": 1788798900000,
+    "subscriberId": "276339907",
+    "nombreContacto": "𝓥𝓪𝓵𝓮𝓷𝓽𝓲𝓷𝓪",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788798900000,
+    "subscriberId": "276339907",
+    "nombreContacto": "𝓥𝓪𝓵𝓮𝓷𝓽𝓲𝓷𝓪",
+    "remitente": "contacto",
+    "texto": "Sos tino?"
+  },
+  {
+    "ts": 1788798901000,
+    "subscriberId": "276339907",
+    "nombreContacto": "Andres Camacho",
+    "remitente": "contacto",
+    "texto": "estoy si"
   }
 ]
