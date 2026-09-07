@@ -171058,5 +171058,25 @@
     "setter": "thomi",
     "pageId": "435755",
     "nombreContacto": "Gauna Ivan"
+  },
+  {
+    "ts": 1788782923000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "857949565",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Antonio De León"
+  },
+  {
+    "ts": 1788782924000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "857949565",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Antonio De León"
   }
 ]
