@@ -173728,5 +173728,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Christopher Lolo"
+  },
+  {
+    "ts": 1788796852000,
+    "mensaje": "BotMensaje de audioMe puedes mandar la clase porfaaaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1639030095",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Colomba Fuster Nieri"
+  },
+  {
+    "ts": 1788796922000,
+    "mensaje": "Holaaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2081945276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JOSEPH"
   }
 ]
