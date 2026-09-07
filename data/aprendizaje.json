@@ -171638,5 +171638,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "👿👿👿👿👿"
+  },
+  {
+    "ts": 1788784344000,
+    "mensaje": "Hola buenas me interesaria",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1425785661",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "04.dylan"
+  },
+  {
+    "ts": 1788784346000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1995041179",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Arias"
+  },
+  {
+    "ts": 1788784347000,
+    "mensaje": "Buenas, si me gustaría más información, por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1119810722",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yaru"
+  },
+  {
+    "ts": 1788784446000,
+    "mensaje": "Hola compadre claro por supuesto mil gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1101223351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julian Mauricio Neira Betancourt"
+  },
+  {
+    "ts": 1788784575000,
+    "mensaje": "?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2013854415",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra🩵"
   }
 ]
