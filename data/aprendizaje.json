@@ -173688,5 +173688,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alvaro Vargas"
+  },
+  {
+    "ts": 1788796316000,
+    "mensaje": "hola buenas Sisi estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "509341282",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "milagroosrodriguezz_"
+  },
+  {
+    "ts": 1788796642000,
+    "mensaje": "Okey gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "819251827",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniela Velázquez"
+  },
+  {
+    "ts": 1788796657000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "392500470",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Espino"
+  },
+  {
+    "ts": 1788796685000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1490701871",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Christopher Lolo"
   }
 ]
