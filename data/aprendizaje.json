@@ -173918,5 +173918,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝕂𝕖𝕧𝕚𝕟"
+  },
+  {
+    "ts": 1788799659000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "611217290",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Ardila"
+  },
+  {
+    "ts": 1788799731000,
+    "mensaje": "Si estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2098402424",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Facundo Mancebo"
+  },
+  {
+    "ts": 1788799801000,
+    "mensaje": "Hola Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1335623318",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gustavo💫"
   }
 ]
