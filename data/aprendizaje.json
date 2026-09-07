@@ -173018,5 +173018,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Khristian Toro"
+  },
+  {
+    "ts": 1788789664000,
+    "mensaje": "Si porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "955615574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicolas Balderrama"
+  },
+  {
+    "ts": 1788789720000,
+    "mensaje": "Sisi lo necesito",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1081821210",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CeciRoman"
   }
 ]
