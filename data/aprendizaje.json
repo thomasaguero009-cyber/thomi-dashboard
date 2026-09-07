@@ -173508,5 +173508,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "VBrian Laines"
+  },
+  {
+    "ts": 1788794477000,
+    "mensaje": "Si pásamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "164960937",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Coach Héctor Luis González"
+  },
+  {
+    "ts": 1788794619000,
+    "mensaje": "Hola,si me gustaría aprender, gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2006012017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zul Sil"
+  },
+  {
+    "ts": 1788794700000,
+    "mensaje": "Sii",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1603369722",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "kaled davila"
+  },
+  {
+    "ts": 1788794795000,
+    "mensaje": "Si enviamelo por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1117539977",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "richard manuel araujo quintero"
+  },
+  {
+    "ts": 1788794985000,
+    "mensaje": "Soy claudia",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1794999645",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Osito Cld"
+  },
+  {
+    "ts": 1788794999000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "344851933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gus"
   }
 ]
