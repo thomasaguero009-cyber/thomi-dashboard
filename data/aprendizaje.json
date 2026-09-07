@@ -168998,5 +168998,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "♡TAMITA CORAZON♡"
+  },
+  {
+    "ts": 1788777214000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "947262109",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karina Robba"
+  },
+  {
+    "ts": 1788777215000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "947262109",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karina Robba"
+  },
+  {
+    "ts": 1788777218000,
+    "mensaje": "Hola Sí, Muchas Gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1821765506",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "\"OwenRoyale\""
+  },
+  {
+    "ts": 1788777218000,
+    "mensaje": "Hola Sí, Muchas Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1821765506",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "\"OwenRoyale\""
+  },
+  {
+    "ts": 1788777231000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1998065320",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Syramad Acevedo"
+  },
+  {
+    "ts": 1788777232000,
+    "mensaje": "Si me gustaría aprender y porfa información cuánto debo tener para invertir o pagar?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1998065320",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Syramad Acevedo"
+  },
+  {
+    "ts": 1788777289000,
+    "mensaje": "Si me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "427363114",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Beatriz Rodríguez Guilarte"
+  },
+  {
+    "ts": 1788777289000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "427363114",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Beatriz Rodríguez Guilarte"
+  },
+  {
+    "ts": 1788777295000,
+    "mensaje": "Si lo quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1050060520",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anita Guzman"
+  },
+  {
+    "ts": 1788777296000,
+    "mensaje": "Si lo quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1050060520",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anita Guzman"
   }
 ]
