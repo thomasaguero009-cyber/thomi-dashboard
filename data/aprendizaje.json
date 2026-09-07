@@ -171688,5 +171688,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alejandra🩵"
+  },
+  {
+    "ts": 1788786215000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "875892812",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕭𝖆𝖗𝖉𝖊𝖗𝖔$"
+  },
+  {
+    "ts": 1788786215000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "875892812",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕭𝖆𝖗𝖉𝖊𝖗𝖔$"
+  },
+  {
+    "ts": 1788786235000,
+    "mensaje": "Hola, disculpa si cuando puedas me lo pasas. Muchas gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1315584172",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tabares Sol"
+  },
+  {
+    "ts": 1788786235000,
+    "mensaje": "Hola, disculpa si cuando puedas me lo pasas. Muchas gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1315584172",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tabares Sol"
+  },
+  {
+    "ts": 1788786243000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1845142528",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cruz Margarita Guzman Arreaza"
+  },
+  {
+    "ts": 1788786244000,
+    "mensaje": "Hola buenos días, si lo necesito",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1845142528",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cruz Margarita Guzman Arreaza"
+  },
+  {
+    "ts": 1788786259000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "291734508",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Rivas"
+  },
+  {
+    "ts": 1788786259000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "291734508",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel Rivas"
+  },
+  {
+    "ts": 1788786269000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1744671177",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dany Doncos"
+  },
+  {
+    "ts": 1788786270000,
+    "mensaje": "?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1744671177",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dany Doncos"
   }
 ]
