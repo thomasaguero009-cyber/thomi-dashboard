@@ -171078,5 +171078,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jorge Antonio De León"
+  },
+  {
+    "ts": 1788783051000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "671885292",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "💯🥷"
+  },
+  {
+    "ts": 1788783052000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "671885292",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "💯🥷"
+  },
+  {
+    "ts": 1788783053000,
+    "mensaje": "Si claro",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "82148135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kattyノ彡"
+  },
+  {
+    "ts": 1788783053000,
+    "mensaje": "Si claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "82148135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kattyノ彡"
+  },
+  {
+    "ts": 1788783275000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "666865472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santi Rivas"
+  },
+  {
+    "ts": 1788783277000,
+    "mensaje": "BotMensaje de audioTodo bien, si estoy interesado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2035866850",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕶𝕬𝕴𝕷"
+  },
+  {
+    "ts": 1788783276000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2035866850",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝕶𝕬𝕴𝕷"
+  },
+  {
+    "ts": 1788783277000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "592636577",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Teresa Diaz"
+  },
+  {
+    "ts": 1788783278000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "592636577",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Teresa Diaz"
+  },
+  {
+    "ts": 1788783295000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "535207298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ค๖ril ❦"
+  },
+  {
+    "ts": 1788783295000,
+    "mensaje": "Holaaa! Sii, me interesa.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "535207298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ค๖ril ❦"
   }
 ]
