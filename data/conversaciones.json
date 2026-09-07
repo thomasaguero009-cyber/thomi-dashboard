@@ -241736,5 +241736,19 @@
     "nombreContacto": "Mely Rojas",
     "remitente": "contacto",
     "texto": "Buenas como.seria?"
+  },
+  {
+    "ts": 1788800378000,
+    "subscriberId": "2135827115",
+    "nombreContacto": "David2802",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788800384000,
+    "subscriberId": "2135827115",
+    "nombreContacto": "David2802",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
