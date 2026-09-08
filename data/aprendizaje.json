@@ -175558,5 +175558,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Marly Moreno"
+  },
+  {
+    "ts": 1788869561000,
+    "mensaje": "Si hermano, solo estudio y me gustaría tener dinero propio",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1864043471",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓔𝔂𝓾𝓪𝓵𝓵𝓲 𝓶𝓹"
+  },
+  {
+    "ts": 1788869562000,
+    "mensaje": "Si hermano, solo estudio y me gustaría tener dinero propio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1864043471",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓔𝔂𝓾𝓪𝓵𝓵𝓲 𝓶𝓹"
+  },
+  {
+    "ts": 1788869609000,
+    "mensaje": "Cual es la temática",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "533945852",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jaeguer Eren"
+  },
+  {
+    "ts": 1788869610000,
+    "mensaje": "?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "336808659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "IAM_MARY22"
+  },
+  {
+    "ts": 1788869611000,
+    "mensaje": "?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "336808659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "IAM_MARY22"
+  },
+  {
+    "ts": 1788869612000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1091459566",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Manuel"
+  },
+  {
+    "ts": 1788869612000,
+    "mensaje": "Me puedes ayudar con un curso tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1091459566",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Manuel"
+  },
+  {
+    "ts": 1788869609000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "533945852",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jaeguer Eren"
   }
 ]
