@@ -247574,5 +247574,54 @@
     "nombreContacto": "Kevin López",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "agente",
+    "texto": "Mirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo termines, agendá tu llamada porque los lugares con el director se ocupan rápido"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "agente",
+    "texto": "Contamee no me dejes en visto jaja... Pudiste agendar?"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "contacto",
+    "texto": "No he podido la conexión en mi país"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "contacto",
+    "texto": "Es algo complicado"
+  },
+  {
+    "ts": 1788872119000,
+    "subscriberId": "596362181",
+    "nombreContacto": "Luis Daniel Gutierrez",
+    "remitente": "contacto",
+    "texto": "Tengo q ir a un lugar donde tenga buena conexión"
   }
 ]
