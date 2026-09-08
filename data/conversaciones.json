@@ -270968,5 +270968,33 @@
     "nombreContacto": "Gabriel Rios",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788885357000,
+    "subscriberId": "964999182",
+    "nombreContacto": "Gabriel Rios",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788885393000,
+    "subscriberId": "964999182",
+    "nombreContacto": "Gabriel Rios",
+    "remitente": "contacto",
+    "texto": "Si porfavor"
+  },
+  {
+    "ts": 1788885481000,
+    "subscriberId": "964999182",
+    "nombreContacto": "Gabriel Rios",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788885485000,
+    "subscriberId": "964999182",
+    "nombreContacto": "Gabriel Rios",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
