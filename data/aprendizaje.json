@@ -180178,5 +180178,175 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Eduardo Saravia Quispe"
+  },
+  {
+    "ts": 1788876315000,
+    "mensaje": "Clase",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "441554842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Melanie Pinilla"
+  },
+  {
+    "ts": 1788876315000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "441554842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Melanie Pinilla"
+  },
+  {
+    "ts": 1788876317000,
+    "mensaje": "Clase",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "304091822",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Alonso"
+  },
+  {
+    "ts": 1788876317000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "304091822",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Alonso"
+  },
+  {
+    "ts": 1788876318000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1885769571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keila Pain"
+  },
+  {
+    "ts": 1788876318000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1885769571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keila Pain"
+  },
+  {
+    "ts": 1788876322000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1067859290",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Person"
+  },
+  {
+    "ts": 1788876321000,
+    "mensaje": "Clase!",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "761353403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofi"
+  },
+  {
+    "ts": 1788876322000,
+    "mensaje": "Clase!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "761353403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofi"
+  },
+  {
+    "ts": 1788876323000,
+    "mensaje": "clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1067859290",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Person"
+  },
+  {
+    "ts": 1788876258000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "693469901",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jxan  roman©️®️"
+  },
+  {
+    "ts": 1788876374000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1974930411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Thomas Susunday"
+  },
+  {
+    "ts": 1788876376000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "687184364",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edicta valiente"
+  },
+  {
+    "ts": 1788876374000,
+    "mensaje": "Clase",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1974930411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Thomas Susunday"
+  },
+  {
+    "ts": 1788876375000,
+    "mensaje": "Clase",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "687184364",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edicta valiente"
+  },
+  {
+    "ts": 1788876377000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "480481574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vidanatural.365"
+  },
+  {
+    "ts": 1788876377000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "480481574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "vidanatural.365"
   }
 ]
