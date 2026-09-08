@@ -177228,5 +177228,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Kevin López"
+  },
+  {
+    "ts": 1788872123000,
+    "mensaje": "Estoy",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "346348880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "julietadiaz050"
+  },
+  {
+    "ts": 1788872123000,
+    "mensaje": "Estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "346348880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "julietadiaz050"
   }
 ]
