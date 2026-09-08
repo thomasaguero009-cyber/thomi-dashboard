@@ -190458,5 +190458,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Aurelia Friedrich"
+  },
+  {
+    "ts": 1788893138000,
+    "mensaje": "Hola como estas  si ami megustaria generar ingreso me ayudas porfa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "977268855",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcelo Belmar Estroz"
+  },
+  {
+    "ts": 1788893139000,
+    "mensaje": "Hola como estas  si ami megustaria generar ingreso me ayudas porfa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "977268855",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcelo Belmar Estroz"
+  },
+  {
+    "ts": 1788893149000,
+    "mensaje": "Y el catalogo por ahora no",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1781420686",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VCF"
+  },
+  {
+    "ts": 1788893153000,
+    "mensaje": "Y el catalogo por ahora no",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1781420686",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VCF"
+  },
+  {
+    "ts": 1788893177000,
+    "mensaje": "Pues si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "439341216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zully Chavez"
+  },
+  {
+    "ts": 1788893177000,
+    "mensaje": "Pues si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "439341216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zully Chavez"
+  },
+  {
+    "ts": 1788893261000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1572660465",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Suárez"
+  },
+  {
+    "ts": 1788893261000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1572660465",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Suárez"
+  },
+  {
+    "ts": 1788893287000,
+    "mensaje": "Si estoy pásamelo",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "60822547",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tato"
+  },
+  {
+    "ts": 1788893288000,
+    "mensaje": "Si estoy pásamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "60822547",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tato"
   }
 ]
