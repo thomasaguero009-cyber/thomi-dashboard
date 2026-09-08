@@ -190558,5 +190558,145 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Tato"
+  },
+  {
+    "ts": 1788893421000,
+    "mensaje": "Estoy",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1454366064",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Silva"
+  },
+  {
+    "ts": 1788893422000,
+    "mensaje": "Estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1454366064",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio Silva"
+  },
+  {
+    "ts": 1788893429000,
+    "mensaje": "si  por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1437848907",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Guizado Vargas"
+  },
+  {
+    "ts": 1788893429000,
+    "mensaje": "si  por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1437848907",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lorena Guizado Vargas"
+  },
+  {
+    "ts": 1788893446000,
+    "mensaje": "Buenas si quiero aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "254794312",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Cuadra"
+  },
+  {
+    "ts": 1788893447000,
+    "mensaje": "Buenas si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "254794312",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Cuadra"
+  },
+  {
+    "ts": 1788893522000,
+    "mensaje": "Okey gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "333377292",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "andrea"
+  },
+  {
+    "ts": 1788893523000,
+    "mensaje": "Okey gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "333377292",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "andrea"
+  },
+  {
+    "ts": 1788893558000,
+    "mensaje": "Quiero aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "900583485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "laboca.agus"
+  },
+  {
+    "ts": 1788893559000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "900583485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "laboca.agus"
+  },
+  {
+    "ts": 1788893630000,
+    "mensaje": "Tu eres una persona que admiro mucho por tu inteligencia con los negocios y el dinero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "835808236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᴀɴᴛᴏ"
+  },
+  {
+    "ts": 1788893630000,
+    "mensaje": "Tu eres una persona que admiro mucho por tu inteligencia con los negocios y el dinero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "835808236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᴀɴᴛᴏ"
+  },
+  {
+    "ts": 1788893647000,
+    "mensaje": "Muchas gracias, te sigo porque me gusta mucho tu contenido 🫶🏻",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "903253062",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alma_muena"
+  },
+  {
+    "ts": 1788893647000,
+    "mensaje": "Muchas gracias, te sigo porque me gusta mucho tu contenido 🫶🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "903253062",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alma_muena"
   }
 ]
