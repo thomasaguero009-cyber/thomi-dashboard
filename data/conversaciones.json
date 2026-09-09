@@ -290869,5 +290869,19 @@
     "nombreContacto": "Cristian Lobos",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788951154000,
+    "subscriberId": "1962781305",
+    "nombreContacto": "Cristian Lobos",
+    "remitente": "contacto",
+    "texto": "Tengo 33 años"
+  },
+  {
+    "ts": 1788951220000,
+    "subscriberId": "1962781305",
+    "nombreContacto": "Cristian Lobos",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
