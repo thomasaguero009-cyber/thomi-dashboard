@@ -197828,5 +197828,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alberto Garcete"
+  },
+  {
+    "ts": 1788967546000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "235974623",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luz Maria Aular"
+  },
+  {
+    "ts": 1788967546000,
+    "mensaje": "Hola buenas si si por favor gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "235974623",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luz Maria Aular"
+  },
+  {
+    "ts": 1788967548000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1483800873",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lupe Botello"
+  },
+  {
+    "ts": 1788967548000,
+    "mensaje": "Ok gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1483800873",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lupe Botello"
+  },
+  {
+    "ts": 1788967562000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "291102502",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jaslic"
+  },
+  {
+    "ts": 1788967562000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "291102502",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jaslic"
+  },
+  {
+    "ts": 1788967726000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "751396710",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ℒ𝓊𝒸𝓎 ℳ𝒾𝓇𝑒𝓁𝓁𝒶"
+  },
+  {
+    "ts": 1788967728000,
+    "mensaje": "Cómo?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "751396710",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ℒ𝓊𝒸𝓎 ℳ𝒾𝓇𝑒𝓁𝓁𝒶"
+  },
+  {
+    "ts": 1788967793000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "578512014",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhaniel Urueta"
+  },
+  {
+    "ts": 1788967793000,
+    "mensaje": "Como?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "578512014",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhaniel Urueta"
   }
 ]
