@@ -299304,5 +299304,47 @@
     "nombreContacto": "Jimena Toledo",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788960097000,
+    "subscriberId": "930483215",
+    "nombreContacto": "Jimena Toledo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788960100000,
+    "subscriberId": "930483215",
+    "nombreContacto": "Jimena Toledo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1788960250000,
+    "subscriberId": "1426311175",
+    "nombreContacto": "Lili 👾",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788960250000,
+    "subscriberId": "1426311175",
+    "nombreContacto": "Lili 👾",
+    "remitente": "contacto",
+    "texto": "Buenas , si por favor 🙏🏻"
+  },
+  {
+    "ts": 1788960252000,
+    "subscriberId": "728963255",
+    "nombreContacto": "litzy🌸",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1788960252000,
+    "subscriberId": "728963255",
+    "nombreContacto": "litzy🌸",
+    "remitente": "contacto",
+    "texto": "Certificado"
   }
 ]
