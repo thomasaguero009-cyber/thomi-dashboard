@@ -198458,5 +198458,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "david Villegas"
+  },
+  {
+    "ts": 1788969106000,
+    "mensaje": "Ok",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1364984214",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rolando Pancho Agustinoy"
+  },
+  {
+    "ts": 1788969107000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1364984214",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rolando Pancho Agustinoy"
+  },
+  {
+    "ts": 1788969170000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "584853865",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Demi Tuny Tuny"
+  },
+  {
+    "ts": 1788969170000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "584853865",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Demi Tuny Tuny"
+  },
+  {
+    "ts": 1788969302000,
+    "mensaje": "Como es eso?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1350447097",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑵𝒊𝒏𝒐𝒔𝒌𝒂𝑽𝒂𝒔𝒒𝒖𝒆𝒛𝑱𝒐𝒓"
+  },
+  {
+    "ts": 1788969303000,
+    "mensaje": "Como es eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1350447097",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑵𝒊𝒏𝒐𝒔𝒌𝒂𝑽𝒂𝒔𝒒𝒖𝒆𝒛𝑱𝒐𝒓"
   }
 ]
