@@ -297498,5 +297498,68 @@
     "nombreContacto": "Ana Ramirez",
     "remitente": "contacto",
     "texto": "N tengo plata para dar. Gracias igual . Entiendo q sea tu trabajo ."
+  },
+  {
+    "ts": 1788954198000,
+    "subscriberId": "1538118127",
+    "nombreContacto": "Juan Carlos González",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788954269000,
+    "subscriberId": "897717955",
+    "nombreContacto": "Las mejores prendas femeninas , llenas de diseños !",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788954269000,
+    "subscriberId": "897717955",
+    "nombreContacto": "Las mejores prendas femeninas , llenas de diseños !",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1788954293000,
+    "subscriberId": "1929223951",
+    "nombreContacto": "Adriana Yamile Pérez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788954293000,
+    "subscriberId": "1929223951",
+    "nombreContacto": "Adriana Yamile Pérez",
+    "remitente": "contacto",
+    "texto": "Ok,podrías darme más información por favor"
+  },
+  {
+    "ts": 1788954315000,
+    "subscriberId": "741803749",
+    "nombreContacto": "Geral Villarraga",
+    "remitente": "contacto",
+    "texto": "18"
+  },
+  {
+    "ts": 1788954315000,
+    "subscriberId": "741803749",
+    "nombreContacto": "Geral Villarraga",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1788954315000,
+    "subscriberId": "741803749",
+    "nombreContacto": "Geral Villarraga",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788954315000,
+    "subscriberId": "741803749",
+    "nombreContacto": "Geral Villarraga",
+    "remitente": "contacto",
+    "texto": "Si pues pague 9302"
   }
 ]
