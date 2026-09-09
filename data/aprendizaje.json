@@ -192998,5 +192998,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nancy Gonzalez"
+  },
+  {
+    "ts": 1788896765000,
+    "mensaje": "Hola tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "394039780",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VN Hz"
+  },
+  {
+    "ts": 1788896765000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "394039780",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "VN Hz"
+  },
+  {
+    "ts": 1788896782000,
+    "mensaje": "BotBuenas! vi tu comentario estas para que te pase la plataforma?Si pero como funciona",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "629905731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bridni Joselyn Vázquez Román"
+  },
+  {
+    "ts": 1788896782000,
+    "mensaje": "BotBuenas! vi tu comentario estas para que te pase la plataforma?Si pero como funciona",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "629905731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bridni Joselyn Vázquez Román"
+  },
+  {
+    "ts": 1788896791000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2063956924",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MARIANO MONSALVO"
+  },
+  {
+    "ts": 1788896791000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2063956924",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MARIANO MONSALVO"
+  },
+  {
+    "ts": 1788896802000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1887424728",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zeniff Leal"
+  },
+  {
+    "ts": 1788896802000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1887424728",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zeniff Leal"
+  },
+  {
+    "ts": 1788896817000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1599746460",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "junior"
+  },
+  {
+    "ts": 1788896818000,
+    "mensaje": "Sisi estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1599746460",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "junior"
+  },
+  {
+    "ts": 1788896936000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "559768523",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Elias Simisterra Mera"
+  },
+  {
+    "ts": 1788896936000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "559768523",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Elias Simisterra Mera"
   }
 ]
