@@ -300116,5 +300116,26 @@
     "nombreContacto": "Guillermo Mayorga",
     "remitente": "contacto",
     "texto": "Tono saludos"
+  },
+  {
+    "ts": 1788961826000,
+    "subscriberId": "1308273789",
+    "nombreContacto": "Guillermo Mayorga",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788961835000,
+    "subscriberId": "1308273789",
+    "nombreContacto": "Guillermo Mayorga",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788961902000,
+    "subscriberId": "1308273789",
+    "nombreContacto": "Guillermo Mayorga",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
   }
 ]
