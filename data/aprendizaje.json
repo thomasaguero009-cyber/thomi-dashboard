@@ -200998,5 +200998,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "costuragladis"
+  },
+  {
+    "ts": 1788974127000,
+    "mensaje": "Gracias 😊",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1971929374",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vanessa Díaz/agente inmobiliario"
+  },
+  {
+    "ts": 1788974127000,
+    "mensaje": "Gracias 😊",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1971929374",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vanessa Díaz/agente inmobiliario"
+  },
+  {
+    "ts": 1788974151000,
+    "mensaje": "Como seria esa ayuda",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "158831404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jony Cruz"
+  },
+  {
+    "ts": 1788974152000,
+    "mensaje": "Como seria esa ayuda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "158831404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jony Cruz"
+  },
+  {
+    "ts": 1788974165000,
+    "mensaje": "Lo borraste pa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "16953398",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martin Marchesano"
+  },
+  {
+    "ts": 1788974166000,
+    "mensaje": "Lo borraste pa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "16953398",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martin Marchesano"
+  },
+  {
+    "ts": 1788974322000,
+    "mensaje": "CARPETA",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1316725555",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pieroo"
+  },
+  {
+    "ts": 1788974388000,
+    "mensaje": "Si estoy interesada",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1298174797",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "francis alfonso"
+  },
+  {
+    "ts": 1788974389000,
+    "mensaje": "Si estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1298174797",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "francis alfonso"
   }
 ]
