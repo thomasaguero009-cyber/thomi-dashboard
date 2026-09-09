@@ -194878,5 +194878,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "celeste"
+  },
+  {
+    "ts": 1788954963000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1923642744",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexis Canelon"
+  },
+  {
+    "ts": 1788954962000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1536965299",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Correa"
+  },
+  {
+    "ts": 1788954964000,
+    "mensaje": "Cuanta riqueza generas al día?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1923642744",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexis Canelon"
+  },
+  {
+    "ts": 1788955145000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "19377938",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emely Pamela"
+  },
+  {
+    "ts": 1788955146000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "19377938",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emely Pamela"
+  },
+  {
+    "ts": 1788955214000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1431453103",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samuel Riveras"
+  },
+  {
+    "ts": 1788955214000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1431453103",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samuel Riveras"
   }
 ]
