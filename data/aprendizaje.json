@@ -197608,5 +197608,115 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "kaiw_iwye"
+  },
+  {
+    "ts": 1788966929000,
+    "mensaje": "Si estoy interesada",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1512036755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ori❣️"
+  },
+  {
+    "ts": 1788966930000,
+    "mensaje": "Si estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1512036755",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ori❣️"
+  },
+  {
+    "ts": 1788966935000,
+    "mensaje": "Certificado",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1165840100",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tami Rivero"
+  },
+  {
+    "ts": 1788966936000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1165840100",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tami Rivero"
+  },
+  {
+    "ts": 1788966991000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "323878447",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "...."
+  },
+  {
+    "ts": 1788967117000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "499741531",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leo Rodríguez"
+  },
+  {
+    "ts": 1788967118000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "499741531",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leo Rodríguez"
+  },
+  {
+    "ts": 1788967126000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "719667491",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gisselle Pastene"
+  },
+  {
+    "ts": 1788967127000,
+    "mensaje": "Clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "719667491",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gisselle Pastene"
+  },
+  {
+    "ts": 1788967175000,
+    "mensaje": "Quiero aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2134068882",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BeatrizSantos"
+  },
+  {
+    "ts": 1788967176000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2134068882",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BeatrizSantos"
   }
 ]
