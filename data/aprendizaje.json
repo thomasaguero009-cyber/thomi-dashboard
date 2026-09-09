@@ -193648,5 +193648,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "¤"
+  },
+  {
+    "ts": 1788950422000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1962781305",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Lobos"
+  },
+  {
+    "ts": 1788950422000,
+    "mensaje": "Hola si quiero aprender como generar mas ingresos porque lo estoy necesitando",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1962781305",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Lobos"
   }
 ]
