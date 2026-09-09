@@ -195958,5 +195958,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Cecilia mvt"
+  },
+  {
+    "ts": 1788959966000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1208790162",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ivan gonzalez"
+  },
+  {
+    "ts": 1788959968000,
+    "mensaje": "Certificaciones",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1208790162",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ivan gonzalez"
+  },
+  {
+    "ts": 1788959984000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "216795983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jazmıɲ"
   }
 ]
