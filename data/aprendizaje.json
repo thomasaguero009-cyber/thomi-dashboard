@@ -194808,5 +194808,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nica_505��"
+  },
+  {
+    "ts": 1788954270000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "897717955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Las mejores prendas femeninas , llenas de diseños !"
+  },
+  {
+    "ts": 1788954269000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "897717955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Las mejores prendas femeninas , llenas de diseños !"
+  },
+  {
+    "ts": 1788954293000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1929223951",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Yamile Pérez"
+  },
+  {
+    "ts": 1788954294000,
+    "mensaje": "Ok,podrías darme más información por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1929223951",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Yamile Pérez"
+  },
+  {
+    "ts": 1788954380000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1929223951",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Yamile Pérez"
+  },
+  {
+    "ts": 1788954388000,
+    "mensaje": "Hola tino!!",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "2821863",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yeyner Sevilla"
+  },
+  {
+    "ts": 1788954390000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "762981569",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "celeste"
   }
 ]
