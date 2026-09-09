@@ -299423,5 +299423,82 @@
     "nombreContacto": "Alexander Valdez",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788960625000,
+    "subscriberId": "942218656",
+    "nombreContacto": "Alexander Valdez",
+    "remitente": "contacto",
+    "texto": "Sisi obvio tino"
+  },
+  {
+    "ts": 1788960629000,
+    "subscriberId": "942218656",
+    "nombreContacto": "Alexander Valdez",
+    "remitente": "contacto",
+    "texto": "Pasamelo"
+  },
+  {
+    "ts": 1788960690000,
+    "subscriberId": "658260726",
+    "nombreContacto": "NancyPamela",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788960690000,
+    "subscriberId": "658260726",
+    "nombreContacto": "NancyPamela",
+    "remitente": "contacto",
+    "texto": "Hola buenas tardes 👋 \nSisi lo súper necesito tengo\nMe quedé desempleada justo!!! \n tengo tiempo libre \nPara generar 🙌🙌 \nTengo 38 años y 3 hijos \nLo que más necesito es trabajo \nGracias 🫂"
+  },
+  {
+    "ts": 1788960696000,
+    "subscriberId": "1641990203",
+    "nombreContacto": "𝔏 †",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1788960762000,
+    "subscriberId": "1442691567",
+    "nombreContacto": "Gabriel Paredes",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788960762000,
+    "subscriberId": "1442691567",
+    "nombreContacto": "Gabriel Paredes",
+    "remitente": "contacto",
+    "texto": "Si me gustaria"
+  },
+  {
+    "ts": 1788960811000,
+    "subscriberId": "1641990203",
+    "nombreContacto": "𝔏 †",
+    "remitente": "contacto",
+    "texto": "Sii logré agendarme"
+  },
+  {
+    "ts": 1788960814000,
+    "subscriberId": "1641990203",
+    "nombreContacto": "𝔏 †",
+    "remitente": "contacto",
+    "texto": "Buenisimo"
+  },
+  {
+    "ts": 1788960820000,
+    "subscriberId": "1442691567",
+    "nombreContacto": "Gabriel Paredes",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1788960892000,
+    "subscriberId": "1641990203",
+    "nombreContacto": "𝔏 †",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
   }
 ]
