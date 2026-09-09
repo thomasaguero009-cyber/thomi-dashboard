@@ -198788,5 +198788,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Sara Grandin"
+  },
+  {
+    "ts": 1788969934000,
+    "mensaje": "Certificado",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "972134983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fortuna Jaiat Remax"
+  },
+  {
+    "ts": 1788969935000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "972134983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fortuna Jaiat Remax"
+  },
+  {
+    "ts": 1788969998000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "986614754",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Veliz"
+  },
+  {
+    "ts": 1788969998000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "986614754",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Veliz"
+  },
+  {
+    "ts": 1788970000000,
+    "mensaje": "Si, por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1180078569",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "katherine Guerrero Escalante"
+  },
+  {
+    "ts": 1788970000000,
+    "mensaje": "Si, por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1180078569",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "katherine Guerrero Escalante"
+  },
+  {
+    "ts": 1788970173000,
+    "mensaje": "Echa un vistazo a mi nueva cuenta, vynaex_1",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1022257598",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᑕᒪᗴᗴᖴ"
+  },
+  {
+    "ts": 1788970174000,
+    "mensaje": "Echa un vistazo a mi nueva cuenta, vynaex_1",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1022257598",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᑕᒪᗴᗴᖴ"
+  },
+  {
+    "ts": 1788970194000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1279447472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maximo R.G"
+  },
+  {
+    "ts": 1788970194000,
+    "mensaje": "Hola tino quiero genear ingeso.  Digitales usando wapp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1279447472",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maximo R.G"
   }
 ]
