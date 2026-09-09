@@ -195938,5 +195938,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "lautaro contreras"
+  },
+  {
+    "ts": 1788959575000,
+    "mensaje": "Si porfavor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1672098147",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1788959576000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "440155487",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cecilia mvt"
   }
 ]
