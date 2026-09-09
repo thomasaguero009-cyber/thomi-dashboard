@@ -199008,5 +199008,185 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ester Gulli"
+  },
+  {
+    "ts": 1788970516000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "252599885",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑺𝒂𝒊𝒎𝒐𝒏 "
+  },
+  {
+    "ts": 1788970516000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "252599885",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑺𝒂𝒊𝒎𝒐𝒏 "
+  },
+  {
+    "ts": 1788970596000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "934847141",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joni Arevalo"
+  },
+  {
+    "ts": 1788970596000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "934847141",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joni Arevalo"
+  },
+  {
+    "ts": 1788970610000,
+    "mensaje": "Buenas!, sí me interesa, me darías más información, por favor y gracias. 🙌🏻",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "304833486",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ㅤㅤ"
+  },
+  {
+    "ts": 1788970610000,
+    "mensaje": "Buenas!, sí me interesa, me darías más información, por favor y gracias. 🙌🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "304833486",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ㅤㅤ"
+  },
+  {
+    "ts": 1788970635000,
+    "mensaje": "Es para mi hija te aviso si la quiere",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1324378735",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gloria Macias"
+  },
+  {
+    "ts": 1788970653000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "581092296",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aimar Inostroza"
+  },
+  {
+    "ts": 1788970655000,
+    "mensaje": "Me interesa si.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1131525939",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Moises De Los Santos"
+  },
+  {
+    "ts": 1788970654000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1131525939",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Moises De Los Santos"
+  },
+  {
+    "ts": 1788970677000,
+    "mensaje": "Permiteme",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "276553896",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Junixoo GB"
+  },
+  {
+    "ts": 1788970720000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1226858801",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Guadalupe Carreon"
+  },
+  {
+    "ts": 1788970721000,
+    "mensaje": "si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1226858801",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Guadalupe Carreon"
+  },
+  {
+    "ts": 1788970743000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1591296188",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Döry Brävö"
+  },
+  {
+    "ts": 1788970744000,
+    "mensaje": "Siii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1591296188",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Döry Brävö"
+  },
+  {
+    "ts": 1788970784000,
+    "mensaje": "Me gustaría saber el costo de inversión por favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "471332625",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Detsy Barradas"
+  },
+  {
+    "ts": 1788970789000,
+    "mensaje": "Me envias la clase?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "105189692",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Teresa Garcia"
+  },
+  {
+    "ts": 1788970789000,
+    "mensaje": "Me envias la clase?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "105189692",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Teresa Garcia"
   }
 ]
