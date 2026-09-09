@@ -193548,5 +193548,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "DelenisPerdomoLopez"
+  },
+  {
+    "ts": 1788897932000,
+    "mensaje": "Buenas noches",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1880793184",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Burgos"
+  },
+  {
+    "ts": 1788897933000,
+    "mensaje": "Buenas noches",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1880793184",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Burgos"
+  },
+  {
+    "ts": 1788897935000,
+    "mensaje": "Ok tino",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "595029709",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jneymar"
+  },
+  {
+    "ts": 1788897936000,
+    "mensaje": "Ok tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "595029709",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jneymar"
+  },
+  {
+    "ts": 1788897961000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "613579038",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brandon Silva"
+  },
+  {
+    "ts": 1788897962000,
+    "mensaje": "si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "613579038",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brandon Silva"
   }
 ]

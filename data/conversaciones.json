@@ -290568,5 +290568,54 @@
     "nombreContacto": "DelenisPerdomoLopez",
     "remitente": "contacto",
     "texto": "Gracias pero no quiero ,me gusta mucho tu contenido 💗!"
+  },
+  {
+    "ts": 1788897932000,
+    "subscriberId": "1880793184",
+    "nombreContacto": "Daniel Burgos",
+    "remitente": "contacto",
+    "texto": "Buenas noches"
+  },
+  {
+    "ts": 1788897932000,
+    "subscriberId": "1880793184",
+    "nombreContacto": "Daniel Burgos",
+    "remitente": "contacto",
+    "texto": "Buenas noches"
+  },
+  {
+    "ts": 1788897935000,
+    "subscriberId": "595029709",
+    "nombreContacto": "jneymar",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788897935000,
+    "subscriberId": "595029709",
+    "nombreContacto": "jneymar",
+    "remitente": "contacto",
+    "texto": "Ok tino"
+  },
+  {
+    "ts": 1788897947000,
+    "subscriberId": "595029709",
+    "nombreContacto": "jneymar",
+    "remitente": "contacto",
+    "texto": "Me puedes enviar"
+  },
+  {
+    "ts": 1788897962000,
+    "subscriberId": "613579038",
+    "nombreContacto": "Brandon Silva",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788897962000,
+    "subscriberId": "613579038",
+    "nombreContacto": "Brandon Silva",
+    "remitente": "contacto",
+    "texto": "si"
   }
 ]
