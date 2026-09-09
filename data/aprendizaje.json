@@ -200908,5 +200908,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "yahya_marki_01"
+  },
+  {
+    "ts": 1788973890000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "690791868",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alaan Moron"
+  },
+  {
+    "ts": 1788973907000,
+    "mensaje": "Cómo es eso que tengo que hacer",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1814046454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benicia Marcano"
+  },
+  {
+    "ts": 1788973966000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "690791868",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alaan Moron"
+  },
+  {
+    "ts": 1788973987000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Holaaaaa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "520194397",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "zoe miranda Rodriguez guerra"
+  },
+  {
+    "ts": 1788973988000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Holaaaaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "520194397",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "zoe miranda Rodriguez guerra"
+  },
+  {
+    "ts": 1788974042000,
+    "mensaje": "Como logro eso y si puedo trabajar desde mi pais",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1505339485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "riera Santiago"
+  },
+  {
+    "ts": 1788974042000,
+    "mensaje": "Como logro eso y si puedo trabajar desde mi pais",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1505339485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "riera Santiago"
+  },
+  {
+    "ts": 1788974104000,
+    "mensaje": "Ok",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1587479278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "costuragladis"
+  },
+  {
+    "ts": 1788974105000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1587479278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "costuragladis"
   }
 ]
