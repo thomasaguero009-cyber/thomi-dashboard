@@ -196948,5 +196948,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶s̶"
+  },
+  {
+    "ts": 1788964159000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "631383194",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josué Quezada"
+  },
+  {
+    "ts": 1788964160000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "631383194",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josué Quezada"
+  },
+  {
+    "ts": 1788964166000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1222433895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": " barcellitos"
+  },
+  {
+    "ts": 1788964165000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1222433895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": " barcellitos"
   }
 ]
