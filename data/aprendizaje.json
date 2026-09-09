@@ -197368,5 +197368,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "puebla emanuel"
+  },
+  {
+    "ts": 1788965966000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "808773373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "davidson"
+  },
+  {
+    "ts": 1788965967000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1034665917",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "William Villafranca Echevarria"
+  },
+  {
+    "ts": 1788965967000,
+    "mensaje": "Dale bro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "808773373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "davidson"
+  },
+  {
+    "ts": 1788965968000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1034665917",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "William Villafranca Echevarria"
   }
 ]
