@@ -190698,5 +190698,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "alma_muena"
+  },
+  {
+    "ts": 1788893727000,
+    "mensaje": "Hola. Busco trabajo digital",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1134095080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José🦍"
+  },
+  {
+    "ts": 1788893728000,
+    "mensaje": "Hola. Busco trabajo digital",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1134095080",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José🦍"
+  },
+  {
+    "ts": 1788893814000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "133825930",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cam🎵"
+  },
+  {
+    "ts": 1788893815000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "133825930",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cam🎵"
+  },
+  {
+    "ts": 1788893855000,
+    "mensaje": "Holaa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1751399449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JESSICA BELLUCO"
+  },
+  {
+    "ts": 1788893855000,
+    "mensaje": "Holaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1751399449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JESSICA BELLUCO"
   }
 ]
