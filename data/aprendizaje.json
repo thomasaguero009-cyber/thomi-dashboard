@@ -200668,5 +200668,135 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Elizabeth Jj"
+  },
+  {
+    "ts": 1788972318000,
+    "mensaje": "Buenas tardes si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1175497363",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Jj"
+  },
+  {
+    "ts": 1788972319000,
+    "mensaje": "Quiero saber",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1615464395",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "It"
+  },
+  {
+    "ts": 1788972320000,
+    "mensaje": "Quiero saber",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1615464395",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "It"
+  },
+  {
+    "ts": 1788972321000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "738122663",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "valeria romero"
+  },
+  {
+    "ts": 1788972321000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "738122663",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "valeria romero"
+  },
+  {
+    "ts": 1788972547000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "417016888",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel D Cano"
+  },
+  {
+    "ts": 1788972548000,
+    "mensaje": "Si aver digame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "417016888",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manuel D Cano"
+  },
+  {
+    "ts": 1788972595000,
+    "mensaje": "Hola me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "453638349",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sole Kl"
+  },
+  {
+    "ts": 1788972595000,
+    "mensaje": "Hola me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "453638349",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sole Kl"
+  },
+  {
+    "ts": 1788972601000,
+    "mensaje": "",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1258246321",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ortega H Mari"
+  },
+  {
+    "ts": 1788972602000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1258246321",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ortega H Mari"
+  },
+  {
+    "ts": 1788972603000,
+    "mensaje": "Si, por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1641520208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saris"
+  },
+  {
+    "ts": 1788972604000,
+    "mensaje": "Si, por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1641520208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saris"
   }
 ]

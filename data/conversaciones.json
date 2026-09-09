@@ -312128,5 +312128,131 @@
     "nombreContacto": "valeria romero",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1788972381000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1788972388000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1788972389000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1788972454000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788972486000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1788972490000,
+    "subscriberId": "738122663",
+    "nombreContacto": "valeria romero",
+    "remitente": "contacto",
+    "texto": "Por favor"
+  },
+  {
+    "ts": 1788972548000,
+    "subscriberId": "417016888",
+    "nombreContacto": "Manuel D Cano",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788972548000,
+    "subscriberId": "417016888",
+    "nombreContacto": "Manuel D Cano",
+    "remitente": "contacto",
+    "texto": "Si aver digame"
+  },
+  {
+    "ts": 1788972595000,
+    "subscriberId": "453638349",
+    "nombreContacto": "Sole Kl",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788972595000,
+    "subscriberId": "453638349",
+    "nombreContacto": "Sole Kl",
+    "remitente": "contacto",
+    "texto": "Hola me interesa"
+  },
+  {
+    "ts": 1788972602000,
+    "subscriberId": "1258246321",
+    "nombreContacto": "Ortega H Mari",
+    "remitente": "contacto",
+    "texto": "Te compartió un reel"
+  },
+  {
+    "ts": 1788972602000,
+    "subscriberId": "1258246321",
+    "nombreContacto": "Ortega H Mari",
+    "remitente": "contacto",
+    "texto": "Certificado"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario estas para que te pase la clase?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1788972603000,
+    "subscriberId": "1641520208",
+    "nombreContacto": "Saris",
+    "remitente": "contacto",
+    "texto": "Si, por favor"
   }
 ]
