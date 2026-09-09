@@ -194948,5 +194948,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Samuel Riveras"
+  },
+  {
+    "ts": 1788955284000,
+    "mensaje": "Ayuda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1122863153",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carolina Tabares"
+  },
+  {
+    "ts": 1788955284000,
+    "mensaje": "Ayuda",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1122863153",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carolina Tabares"
+  },
+  {
+    "ts": 1788955285000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "74222548",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Quiroga Luu"
+  },
+  {
+    "ts": 1788955298000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "716325216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Duarte"
+  },
+  {
+    "ts": 1788955299000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "716325216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carmen Duarte"
+  },
+  {
+    "ts": 1788955308000,
+    "mensaje": "Va",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1193868376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabo Garcia"
+  },
+  {
+    "ts": 1788955317000,
+    "mensaje": "Muchas gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "39996607",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Corante"
+  },
+  {
+    "ts": 1788955332000,
+    "mensaje": "Si, pero me gustaria saber cuanto generas al día, un aproximado?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1923642744",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexis Canelon"
+  },
+  {
+    "ts": 1788955340000,
+    "mensaje": "Me gustaria aprender, pero me gustaria pedirte un favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "9752813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Francisco Larrosa Perez"
+  },
+  {
+    "ts": 1788955347000,
+    "mensaje": "Pero no puede agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1185605526",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sonia"
   }
 ]
