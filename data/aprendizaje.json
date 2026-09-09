@@ -194358,5 +194358,455 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "daniel"
+  },
+  {
+    "ts": 1788953133000,
+    "mensaje": "BotMensaje de audioEres simplemente hermoso 🥹",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1725667457",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maray Nail Artist"
+  },
+  {
+    "ts": 1788953159000,
+    "mensaje": "Ok, grietas",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "538383710",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jairo Alberto Arias Rubiano"
+  },
+  {
+    "ts": 1788953179000,
+    "mensaje": "Me parece hermoso justo ahora estoy sin posibilidad de pagar pero se lo pasé a mi hermana",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1608598808",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Natalia Bedini"
+  },
+  {
+    "ts": 1788953187000,
+    "mensaje": "Tengo problema con mi Internet se traba todo cuando lo veo todo te aviso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1161518197",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ezequiel González"
+  },
+  {
+    "ts": 1788953192000,
+    "mensaje": "Si lo quiero",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "268150776",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Ortiz"
+  },
+  {
+    "ts": 1788953198000,
+    "mensaje": "me dormí",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1223601471",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑪𝒖𝒏"
+  },
+  {
+    "ts": 1788953206000,
+    "mensaje": "No pude agendarme",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "18922980",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anibal Cruz"
+  },
+  {
+    "ts": 1788953222000,
+    "mensaje": "Nunca me había dado cuanta que no te había contestado jaja",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1368582331",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Facundo Bogado"
+  },
+  {
+    "ts": 1788953234000,
+    "mensaje": "BotMensaje de audioCuando es ??",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2137128906",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "@Vero_SB"
+  },
+  {
+    "ts": 1788953234000,
+    "mensaje": "BotMensaje de audioCuando es ??",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2137128906",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "@Vero_SB"
+  },
+  {
+    "ts": 1788953419000,
+    "mensaje": "O donde la puedo ver ? Decime",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "615680863",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jo"
+  },
+  {
+    "ts": 1788953426000,
+    "mensaje": "Hola buenas , comentame",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "330748876",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "eoeoe12"
+  },
+  {
+    "ts": 1788953427000,
+    "mensaje": "Hola buenas , comentame",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "330748876",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "eoeoe12"
+  },
+  {
+    "ts": 1788953432000,
+    "mensaje": "BotQue edad tenes?28",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2145914458",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Israel Adrian Ruiz Manrreza"
+  },
+  {
+    "ts": 1788953442000,
+    "mensaje": "Genia gracias",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1677620584",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrea Peralta🦋🧿"
+  },
+  {
+    "ts": 1788953451000,
+    "mensaje": "Puedo entrar de vuelta?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1712016844",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Geral🖤"
+  },
+  {
+    "ts": 1788953465000,
+    "mensaje": "Jajajajaja",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1014307403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Venewrys Damiani"
+  },
+  {
+    "ts": 1788953471000,
+    "mensaje": "Cuando me agende?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1136298621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josthin BG"
+  },
+  {
+    "ts": 1788953474000,
+    "mensaje": "BotTe pudiste agendar?No pude",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "430680227",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MOISES ALARCÓN"
+  },
+  {
+    "ts": 1788953474000,
+    "mensaje": "BotTe pudiste agendar?No pude",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "430680227",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MOISES ALARCÓN"
+  },
+  {
+    "ts": 1788953487000,
+    "mensaje": "No están fácil como parece,no creo que eso sea lo mío",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1570306116",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JM Oro91"
+  },
+  {
+    "ts": 1788953492000,
+    "mensaje": "Si si envíamela",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1328516444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "•Melina Bode•"
+  },
+  {
+    "ts": 1788953510000,
+    "mensaje": "Siempre es vender productos de una marca?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "63333800",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Erik Vega Villa"
+  },
+  {
+    "ts": 1788953517000,
+    "mensaje": "Buen día y como sería el tema de contestar los mensajes por Whatsapp? Sobre que rubro seria",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1393019252",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Guillermo Lionel"
+  },
+  {
+    "ts": 1788953518000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1393019252",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Guillermo Lionel"
+  },
+  {
+    "ts": 1788953522000,
+    "mensaje": "Si no se nada de todo esto veo tus videos pero no sé nada de esto",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1266868041",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jl Salgado"
+  },
+  {
+    "ts": 1788953527000,
+    "mensaje": "??",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "761589794",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "luis López"
+  },
+  {
+    "ts": 1788953534000,
+    "mensaje": "Hola buenos díassss una disculpa ayer me quedé dormido estaba super cansado por el trabajo,ya vere el video bien",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "58683298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒥"
+  },
+  {
+    "ts": 1788953540000,
+    "mensaje": "Utilice el catalogo para postularme muchas gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "428490877",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jeremias Rocha"
+  },
+  {
+    "ts": 1788953553000,
+    "mensaje": "No lo vi aún",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1029474343",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑅𝑜𝒷𝑒𝓇"
+  },
+  {
+    "ts": 1788953573000,
+    "mensaje": "Hola",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "336808659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "IAM_MARY22"
+  },
+  {
+    "ts": 1788953581000,
+    "mensaje": "Estoy arrancando el dia",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "879363964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mili Verón"
+  },
+  {
+    "ts": 1788953589000,
+    "mensaje": "Y tips",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "371073025",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrea Mizdraji"
+  },
+  {
+    "ts": 1788953592000,
+    "mensaje": "Emviame",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2115474800",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "•Estetica Caro Ferreira•"
+  },
+  {
+    "ts": 1788953597000,
+    "mensaje": "catalogo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1537364322",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Michelle Sandoval"
+  },
+  {
+    "ts": 1788953602000,
+    "mensaje": "BotQueres que te la envie?Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1022616110",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Guzmán"
+  },
+  {
+    "ts": 1788953606000,
+    "mensaje": "Porfa ayudame 🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1426720259",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alex Franco"
+  },
+  {
+    "ts": 1788953642000,
+    "mensaje": "Porfa ayudame 🙏",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1426720259",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alex Franco"
+  },
+  {
+    "ts": 1788953656000,
+    "mensaje": "Tengo 21 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "169067777",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "007001luk"
+  },
+  {
+    "ts": 1788953660000,
+    "mensaje": "BotQueres que te la envie?Sisis",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "320126717",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor"
+  },
+  {
+    "ts": 1788953665000,
+    "mensaje": "tengo 16 años pero si me interesa",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "329557449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benja"
+  },
+  {
+    "ts": 1788953673000,
+    "mensaje": "Si enviala",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "39996607",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Corante"
+  },
+  {
+    "ts": 1788953681000,
+    "mensaje": "Sinceramente no tengo el dinero para pagar en eso. 😕",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "684182688",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Playera de Fútbol"
+  },
+  {
+    "ts": 1788953687000,
+    "mensaje": "BotQueres que te la envie?Bueno",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1623380886",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "marlon15_12"
+  },
+  {
+    "ts": 1788953691000,
+    "mensaje": "BotQueres que te la envie?Si xfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "283281030",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nica_505��"
   }
 ]
