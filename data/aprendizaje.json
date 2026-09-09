@@ -201288,5 +201288,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Melina Fernandez Nuin"
+  },
+  {
+    "ts": 1788974723000,
+    "mensaje": "Saludos mi amigo Tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "182382077",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martha Hernandez"
+  },
+  {
+    "ts": 1788974722000,
+    "mensaje": "Saludos mi amigo Tino",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "182382077",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martha Hernandez"
+  },
+  {
+    "ts": 1788974890000,
+    "mensaje": "Hola, buenas, sí estoy.",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "572856412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Catherine"
+  },
+  {
+    "ts": 1788974891000,
+    "mensaje": "Hola, buenas, sí estoy.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "572856412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Catherine"
+  },
+  {
+    "ts": 1788974892000,
+    "mensaje": "Hola si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1243996327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "camiii"
+  },
+  {
+    "ts": 1788974893000,
+    "mensaje": "Hola si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1243996327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "camiii"
   }
 ]
