@@ -192898,5 +192898,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "EDULVE"
+  },
+  {
+    "ts": 1788896415000,
+    "mensaje": "Hola Tino, si sería de mucha ayuda gracias por tu apoyo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1416168915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "11Jacker11"
+  },
+  {
+    "ts": 1788896414000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1416168915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "11Jacker11"
+  },
+  {
+    "ts": 1788896441000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1662152107",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "@JØŃ_§§"
+  },
+  {
+    "ts": 1788896442000,
+    "mensaje": "Si me interesa aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1662152107",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "@JØŃ_§§"
+  },
+  {
+    "ts": 1788896622000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2058904563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ATOMO WEBS"
+  },
+  {
+    "ts": 1788896623000,
+    "mensaje": "Buenas, si me interesaría",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "534434580",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sabribrunoo"
+  },
+  {
+    "ts": 1788896622000,
+    "mensaje": "Ayúdame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2058904563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ATOMO WEBS"
+  },
+  {
+    "ts": 1788896623000,
+    "mensaje": "Buenas, si me interesaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "534434580",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sabribrunoo"
+  },
+  {
+    "ts": 1788896699000,
+    "mensaje": "Me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1231045819",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nancy Gonzalez"
+  },
+  {
+    "ts": 1788896699000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1231045819",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nancy Gonzalez"
   }
 ]
