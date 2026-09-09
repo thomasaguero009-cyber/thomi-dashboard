@@ -193608,5 +193608,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Brandon Silva"
+  },
+  {
+    "ts": 1788950351000,
+    "mensaje": "Hola buenas como.estas si me interesa me gustaría aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "235742641",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sheila natali"
+  },
+  {
+    "ts": 1788950352000,
+    "mensaje": "Hola buenas como.estas si me interesa me gustaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "235742641",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sheila natali"
+  },
+  {
+    "ts": 1788950381000,
+    "mensaje": "Hola tino , tengo 16 años y quiero genarar , y no se que hacer ni como empezar , no tengo nada de experiencia y me gustaria aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "600386499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "¤"
+  },
+  {
+    "ts": 1788950381000,
+    "mensaje": "Hola tino , tengo 16 años y quiero genarar , y no se que hacer ni como empezar , no tengo nada de experiencia y me gustaria aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "600386499",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "¤"
   }
 ]
