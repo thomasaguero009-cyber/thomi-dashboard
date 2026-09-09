@@ -193118,5 +193118,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Daniel Elias Simisterra Mera"
+  },
+  {
+    "ts": 1788897025000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1753013973",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Manuel luna"
+  },
+  {
+    "ts": 1788897025000,
+    "mensaje": "Va! ¿Qué vendes?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1753013973",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Manuel luna"
+  },
+  {
+    "ts": 1788897081000,
+    "mensaje": "Me encanta la idea gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "28972373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "karina"
+  },
+  {
+    "ts": 1788897081000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "28972373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "karina"
+  },
+  {
+    "ts": 1788897147000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2014838706",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🧟"
+  },
+  {
+    "ts": 1788897148000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2014838706",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🧟"
   }
 ]
