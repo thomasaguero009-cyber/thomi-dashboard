@@ -200798,5 +200798,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Saris"
+  },
+  {
+    "ts": 1788972723000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2092281395",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sinchicay Miguel"
+  },
+  {
+    "ts": 1788972724000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2092281395",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sinchicay Miguel"
+  },
+  {
+    "ts": 1788972725000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2067988376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gonza.P🔱"
+  },
+  {
+    "ts": 1788972872000,
+    "mensaje": "hermano, si lo vi, pero no tengo em capital para empezar con una inversion tan grande, me gustaría pero tendria que ser mas adelante, gracias tinoo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1344854914",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "lean"
+  },
+  {
+    "ts": 1788972880000,
+    "mensaje": "Si si puede agendar",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1419543915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fabio Lara"
+  },
+  {
+    "ts": 1788972915000,
+    "mensaje": "Si me intereso",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1276027657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yesica Wekkesser"
+  },
+  {
+    "ts": 1788973002000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1553881234",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "german🐺🤴🏽🦁"
+  },
+  {
+    "ts": 1788973002000,
+    "mensaje": "Gracias mas a delante confirmo ahora estoy atareado \nSimple mente mire tus videos y medio la definiciones que yo no sabia explicar pero si entender gracias por eso.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1553881234",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "german🐺🤴🏽🦁"
+  },
+  {
+    "ts": 1788973002000,
+    "mensaje": "Gracias mas a delante confirmo ahora estoy atareado \nSimple mente mire tus videos y medio la definiciones que yo no sabia explicar pero si entender gracias por eso.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1553881234",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "german🐺🤴🏽🦁"
   }
 ]
