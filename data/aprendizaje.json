@@ -201348,5 +201348,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "camiii"
+  },
+  {
+    "ts": 1788975162000,
+    "mensaje": "Si si quiero me ayudas?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1377433927",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristofer iglesia"
+  },
+  {
+    "ts": 1788975161000,
+    "mensaje": "Si si quiero me ayudas?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1377433927",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristofer iglesia"
+  },
+  {
+    "ts": 1788975235000,
+    "mensaje": "Si quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1795323583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓐𝟐𝟕 ♥"
+  },
+  {
+    "ts": 1788975236000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1795323583",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓐𝟐𝟕 ♥"
+  },
+  {
+    "ts": 1788975274000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1716989512",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ismael Rojas / Music Manager & Executive"
+  },
+  {
+    "ts": 1788975275000,
+    "mensaje": "Saludos!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1716989512",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ismael Rojas / Music Manager & Executive"
   }
 ]
