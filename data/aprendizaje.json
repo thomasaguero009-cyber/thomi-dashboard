@@ -196868,5 +196868,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "kastulovera"
+  },
+  {
+    "ts": 1788963025000,
+    "mensaje": "Hola 🤗, un placer. Me gustaría tener información acerca de esto.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1029913563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Téllez Córdova"
+  },
+  {
+    "ts": 1788963025000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1029913563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Téllez Córdova"
+  },
+  {
+    "ts": 1788963100000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "799652620",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "¥u/¡@π🤪"
+  },
+  {
+    "ts": 1788963101000,
+    "mensaje": "Buenas, me gustaría Pero lo que tengo son 12 años y mi madre dice q eso no me va ayudar en un futuro y quq me ponga a estudiar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "799652620",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "¥u/¡@π🤪"
+  },
+  {
+    "ts": 1788963102000,
+    "mensaje": "Aja y",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "642103156",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JFR_14"
+  },
+  {
+    "ts": 1788963102000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "642103156",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JFR_14"
+  },
+  {
+    "ts": 1788963184000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "462452186",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶s̶"
+  },
+  {
+    "ts": 1788963185000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "462452186",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶s̶"
   }
 ]
