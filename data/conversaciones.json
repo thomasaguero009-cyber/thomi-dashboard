@@ -302244,5 +302244,82 @@
     "nombreContacto": "Dania Sarahí Martinez Reyes",
     "remitente": "contacto",
     "texto": "No tengo que ser mayor de edad, cierto?"
+  },
+  {
+    "ts": 1788966327000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1788966341000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "contacto",
+    "texto": "Sii"
+  },
+  {
+    "ts": 1788966429000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788966434000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788966449000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "contacto",
+    "texto": "Ya te dije"
+  },
+  {
+    "ts": 1788966463000,
+    "subscriberId": "1116288574",
+    "nombreContacto": "Dania Sarahí Martinez Reyes",
+    "remitente": "contacto",
+    "texto": "Eres algún robot o algo asi??"
+  },
+  {
+    "ts": 1788966557000,
+    "subscriberId": "1404804946",
+    "nombreContacto": "Víctor Ramos",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1788966557000,
+    "subscriberId": "1404804946",
+    "nombreContacto": "Víctor Ramos",
+    "remitente": "contacto",
+    "texto": "Buenas"
+  },
+  {
+    "ts": 1788966557000,
+    "subscriberId": "1404804946",
+    "nombreContacto": "Víctor Ramos",
+    "remitente": "contacto",
+    "texto": "Cuéntame más, me suena interesante."
+  },
+  {
+    "ts": 1788966557000,
+    "subscriberId": "1404804946",
+    "nombreContacto": "Víctor Ramos",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1788966557000,
+    "subscriberId": "1404804946",
+    "nombreContacto": "Víctor Ramos",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]

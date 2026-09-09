@@ -197408,5 +197408,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "William Villafranca Echevarria"
+  },
+  {
+    "ts": 1788966070000,
+    "mensaje": "No tengo celular avanzado ni dinero para comprar uno",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1879974628",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alvi tapia"
+  },
+  {
+    "ts": 1788966070000,
+    "mensaje": "No tengo celular avanzado ni dinero para comprar uno",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1879974628",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alvi tapia"
+  },
+  {
+    "ts": 1788966071000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1116288574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dania Sarahí Martinez Reyes"
+  },
+  {
+    "ts": 1788966071000,
+    "mensaje": "Gracias por responder",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1116288574",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dania Sarahí Martinez Reyes"
   }
 ]
