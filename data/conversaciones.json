@@ -341556,5 +341556,47 @@
     "nombreContacto": "Esthefany Galván",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789064191000,
+    "subscriberId": "1191061057",
+    "nombreContacto": "Mari Cermeño",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789064191000,
+    "subscriberId": "1191061057",
+    "nombreContacto": "Mari Cermeño",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Me interesa"
+  },
+  {
+    "ts": 1789064192000,
+    "subscriberId": "1496150704",
+    "nombreContacto": "nanu22",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789064192000,
+    "subscriberId": "1496150704",
+    "nombreContacto": "nanu22",
+    "remitente": "contacto",
+    "texto": "Hola cómo sería me interesa"
+  },
+  {
+    "ts": 1789064252000,
+    "subscriberId": "1496150704",
+    "nombreContacto": "nanu22",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789064255000,
+    "subscriberId": "1496150704",
+    "nombreContacto": "nanu22",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]

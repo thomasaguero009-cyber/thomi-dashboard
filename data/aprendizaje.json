@@ -209418,5 +209418,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Esthefany Galván"
+  },
+  {
+    "ts": 1789064190000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1191061057",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mari Cermeño"
+  },
+  {
+    "ts": 1789064192000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1496150704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nanu22"
+  },
+  {
+    "ts": 1789064192000,
+    "mensaje": "Hola cómo sería me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1496150704",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nanu22"
   }
 ]
