@@ -337496,5 +337496,61 @@
     "nombreContacto": "Eli Rodriguez",
     "remitente": "contacto",
     "texto": "Si porfa"
+  },
+  {
+    "ts": 1789055484000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789055488000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789055492000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "contacto",
+    "texto": "29"
+  },
+  {
+    "ts": 1789055559000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789055646000,
+    "subscriberId": "565592487",
+    "nombreContacto": "greycelis rondon",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055646000,
+    "subscriberId": "565592487",
+    "nombreContacto": "greycelis rondon",
+    "remitente": "contacto",
+    "texto": "Info xfa"
+  },
+  {
+    "ts": 1789055649000,
+    "subscriberId": "2026893861",
+    "nombreContacto": "maradona777",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055649000,
+    "subscriberId": "2026893861",
+    "nombreContacto": "maradona777",
+    "remitente": "contacto",
+    "texto": "No gracias te admiro mucho"
   }
 ]
