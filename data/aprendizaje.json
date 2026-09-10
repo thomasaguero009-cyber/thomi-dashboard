@@ -207738,5 +207738,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "mili.m"
+  },
+  {
+    "ts": 1789053920000,
+    "mensaje": "Es que se me hace súper difícil nunca contesto mi whats app",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "582409440",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Fabregat"
+  },
+  {
+    "ts": 1789053949000,
+    "mensaje": "Ammm bueno ?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "577433998",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yeye 👤"
+  },
+  {
+    "ts": 1789053950000,
+    "mensaje": "Ammm bueno ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "577433998",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yeye 👤"
+  },
+  {
+    "ts": 1789053953000,
+    "mensaje": "Me gustaria ser closser",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "927329135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benjita"
+  },
+  {
+    "ts": 1789053953000,
+    "mensaje": "Me gustaria ser closser",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "927329135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benjita"
+  },
+  {
+    "ts": 1789054000000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas tardes, si deseó aprender, porfavor",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1812684544",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jonatan H. Godoy"
+  },
+  {
+    "ts": 1789054000000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas tardes, si deseó aprender, porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1812684544",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jonatan H. Godoy"
+  },
+  {
+    "ts": 1789054170000,
+    "mensaje": "Carpeta",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1046771558",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Belén Vallejos"
   }
 ]
