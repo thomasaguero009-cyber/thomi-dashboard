@@ -209028,5 +209028,175 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Pimentel"
+  },
+  {
+    "ts": 1789063218000,
+    "mensaje": "Ok",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "476097134",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Noé Palacios"
+  },
+  {
+    "ts": 1789063219000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "476097134",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Noé Palacios"
+  },
+  {
+    "ts": 1789063220000,
+    "mensaje": "Yo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "578718919",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "elicds"
+  },
+  {
+    "ts": 1789063233000,
+    "mensaje": "Quiero ganar plata",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1450518813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sarita Dediego"
+  },
+  {
+    "ts": 1789063233000,
+    "mensaje": "Quiero ganar plata",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1450518813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sarita Dediego"
+  },
+  {
+    "ts": 1789063235000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "637725162",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Fabiana Segovia Flores"
+  },
+  {
+    "ts": 1789063235000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "637725162",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudia Fabiana Segovia Flores"
+  },
+  {
+    "ts": 1789063242000,
+    "mensaje": "Te compartió un reelContenido no disponible",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "630839637",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leandro Caro"
+  },
+  {
+    "ts": 1789063250000,
+    "mensaje": "Yo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1123051725",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rachad_09"
+  },
+  {
+    "ts": 1789063295000,
+    "mensaje": "Si me encantaría",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1331171691",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pvx_aleee"
+  },
+  {
+    "ts": 1789063295000,
+    "mensaje": "Si me encantaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1331171691",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "pvx_aleee"
+  },
+  {
+    "ts": 1789063340000,
+    "mensaje": "YouTube",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1072723276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valee"
+  },
+  {
+    "ts": 1789063340000,
+    "mensaje": "YouTube",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1072723276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valee"
+  },
+  {
+    "ts": 1789063343000,
+    "mensaje": "Buena tarde gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1429195205",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ingrid Marisol Serrano Rosales"
+  },
+  {
+    "ts": 1789063343000,
+    "mensaje": "Buena tarde gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1429195205",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ingrid Marisol Serrano Rosales"
+  },
+  {
+    "ts": 1789063348000,
+    "mensaje": "Yo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1540493348",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kenedy Zabala"
+  },
+  {
+    "ts": 1789063392000,
+    "mensaje": "Hola no se\nConectaron a la charla inicial",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1285253812",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "by Gisela Mazza"
   }
 ]
