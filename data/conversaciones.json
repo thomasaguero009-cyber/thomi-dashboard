@@ -331714,5 +331714,82 @@
     "nombreContacto": "Javi",
     "remitente": "contacto",
     "texto": "Si pasamelo"
+  },
+  {
+    "ts": 1789050632000,
+    "subscriberId": "1067679134",
+    "nombreContacto": "fatima",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789050632000,
+    "subscriberId": "1067679134",
+    "nombreContacto": "fatima",
+    "remitente": "contacto",
+    "texto": "Hola de nada si"
+  },
+  {
+    "ts": 1789050700000,
+    "subscriberId": "1067679134",
+    "nombreContacto": "fatima",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789050703000,
+    "subscriberId": "1067679134",
+    "nombreContacto": "fatima",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789050715000,
+    "subscriberId": "1067679134",
+    "nombreContacto": "fatima",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789050842000,
+    "subscriberId": "996254677",
+    "nombreContacto": "Santiago",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789050860000,
+    "subscriberId": "996254677",
+    "nombreContacto": "Santiago",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1789050864000,
+    "subscriberId": "238151122",
+    "nombreContacto": "dani✨",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789050864000,
+    "subscriberId": "238151122",
+    "nombreContacto": "dani✨",
+    "remitente": "contacto",
+    "texto": "Hola tino si me interesa"
+  },
+  {
+    "ts": 1789050899000,
+    "subscriberId": "1428772705",
+    "nombreContacto": "Karol",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789050899000,
+    "subscriberId": "1428772705",
+    "nombreContacto": "Karol",
+    "remitente": "contacto",
+    "texto": "Ok"
   }
 ]

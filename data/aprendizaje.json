@@ -206308,5 +206308,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Javi"
+  },
+  {
+    "ts": 1789050640000,
+    "mensaje": "Hola de nada si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1067679134",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fatima"
+  },
+  {
+    "ts": 1789050640000,
+    "mensaje": "Hola de nada si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1067679134",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fatima"
+  },
+  {
+    "ts": 1789050679000,
+    "mensaje": "Buenisimo el video llegue al formilario para hacer la agenda. Lamento no poder acceder",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "242252751",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jorgeluisserranolinarez"
+  },
+  {
+    "ts": 1789050782000,
+    "mensaje": "comentó en tu publicación o reelCatálogo gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "996254677",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago"
+  },
+  {
+    "ts": 1789050782000,
+    "mensaje": "comentó en tu publicación o reelCatálogo gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "996254677",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Santiago"
+  },
+  {
+    "ts": 1789050864000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "238151122",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dani✨"
+  },
+  {
+    "ts": 1789050865000,
+    "mensaje": "Hola tino si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "238151122",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dani✨"
+  },
+  {
+    "ts": 1789050900000,
+    "mensaje": "Ok",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1428772705",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karol"
+  },
+  {
+    "ts": 1789050900000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1428772705",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karol"
   }
 ]
