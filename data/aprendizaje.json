@@ -204958,5 +204958,385 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Santiago Vieira Ceballos"
+  },
+  {
+    "ts": 1789048253000,
+    "mensaje": "Si pero pues responde mi pregunta",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1126046608",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Rey"
+  },
+  {
+    "ts": 1789048257000,
+    "mensaje": "Aver",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "313853826",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mattia / social media manager"
+  },
+  {
+    "ts": 1789048264000,
+    "mensaje": "BotTe pudiste agendar?No me pude agendar porque no tengo plata en mi cuenta",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1611445496",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "️"
+  },
+  {
+    "ts": 1789048269000,
+    "mensaje": "Estoy pásamelo",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1805227967",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Angel Da Silva"
+  },
+  {
+    "ts": 1789048269000,
+    "mensaje": "Estoy pásamelo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1805227967",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Angel Da Silva"
+  },
+  {
+    "ts": 1789048282000,
+    "mensaje": "BotQueres que te la envie?Dale",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "906196123",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🛸"
+  },
+  {
+    "ts": 1789048518000,
+    "mensaje": "Siempre lo q decis es cierto",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2100213457",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Ortega"
+  },
+  {
+    "ts": 1789048519000,
+    "mensaje": "Siempre lo q decis es cierto",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2100213457",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Ortega"
+  },
+  {
+    "ts": 1789048520000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2140667351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofia Garcia"
+  },
+  {
+    "ts": 1789048520000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2140667351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofia Garcia"
+  },
+  {
+    "ts": 1789048521000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1871827657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kenny Fernández"
+  },
+  {
+    "ts": 1789048522000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1871827657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kenny Fernández"
+  },
+  {
+    "ts": 1789048523000,
+    "mensaje": "Gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "674417862",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celia"
+  },
+  {
+    "ts": 1789048523000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "674417862",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celia"
+  },
+  {
+    "ts": 1789048526000,
+    "mensaje": "Ver este mensaje en InstagramTipo de mensaje no soportado",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1143995132",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CARLOS CASTRO"
+  },
+  {
+    "ts": 1789048526000,
+    "mensaje": "Ver este mensaje en InstagramTipo de mensaje no soportado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1143995132",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "CARLOS CASTRO"
+  },
+  {
+    "ts": 1789048627000,
+    "mensaje": "buenas tardes, como es la mecánica?",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1565136621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Black Lima"
+  },
+  {
+    "ts": 1789048627000,
+    "mensaje": "buenas tardes, como es la mecánica?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1565136621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Black Lima"
+  },
+  {
+    "ts": 1789048636000,
+    "mensaje": "Aver",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "443370602",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brian Hernández"
+  },
+  {
+    "ts": 1789048664000,
+    "mensaje": "🙏",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "328698933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Casas"
+  },
+  {
+    "ts": 1789048665000,
+    "mensaje": "🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "328698933",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Casas"
+  },
+  {
+    "ts": 1789048673000,
+    "mensaje": "Si obvió",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1890822038",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ban Alejandro"
+  },
+  {
+    "ts": 1789048676000,
+    "mensaje": "Se ocupa inversión",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1863314595",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nayely García"
+  },
+  {
+    "ts": 1789048676000,
+    "mensaje": "Se ocupa inversión",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1863314595",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nayely García"
+  },
+  {
+    "ts": 1789048686000,
+    "mensaje": "BotHace clic👇Esas son las empresas?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1877355289",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "robinho_.10"
+  },
+  {
+    "ts": 1789048688000,
+    "mensaje": "Hola Tino. Vi uno de tus videos sobre WhatsApp y me interesó mucho. ¿Me podrías decir cuál sería el siguiente paso para empezar?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "718731094",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Banquet Server"
+  },
+  {
+    "ts": 1789048688000,
+    "mensaje": "Hola Tino. Vi uno de tus videos sobre WhatsApp y me interesó mucho. ¿Me podrías decir cuál sería el siguiente paso para empezar?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "718731094",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Banquet Server"
+  },
+  {
+    "ts": 1789048697000,
+    "mensaje": "Perdón es que estaba ocupado",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1311347367",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Wilmar Aldana"
+  },
+  {
+    "ts": 1789048724000,
+    "mensaje": "Si claro me gustaría saber más",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2125298119",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Azu  Escoto"
+  },
+  {
+    "ts": 1789048725000,
+    "mensaje": "Si claro me gustaría saber más",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2125298119",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Azu  Escoto"
+  },
+  {
+    "ts": 1789048749000,
+    "mensaje": "De verdad funcionara???",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2135312141",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "cntodoskizazso 👼🏾☘️"
+  },
+  {
+    "ts": 1789048782000,
+    "mensaje": "Recién fui estafada por luxoft estoy traumada 😅 pero no pierdo la esperanza!",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "831761677",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "noelia_carolina_ovelar"
+  },
+  {
+    "ts": 1789048786000,
+    "mensaje": "Nose si sos la IA o sos una peronsa ajsjsjs que me responde",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "264421338",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐌 𝐨 𝐨 𝐧"
+  },
+  {
+    "ts": 1789048794000,
+    "mensaje": "Tino ya estoy listo",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "501465089",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Erick Johan"
+  },
+  {
+    "ts": 1789048806000,
+    "mensaje": "Si lo quiero recibir",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1698105498",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Torneria Tornematrix"
+  },
+  {
+    "ts": 1789048807000,
+    "mensaje": "Si lo quiero recibir",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1698105498",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Torneria Tornematrix"
+  },
+  {
+    "ts": 1789048815000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1748221002",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Ulloa"
+  },
+  {
+    "ts": 1789048814000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1748221002",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "José Ulloa"
   }
 ]
