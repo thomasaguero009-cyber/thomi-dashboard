@@ -208078,5 +208078,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Felix Gabriel Colon Mesa"
+  },
+  {
+    "ts": 1789054837000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1038240619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edith Maidana"
+  },
+  {
+    "ts": 1789054838000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1038240619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edith Maidana"
+  },
+  {
+    "ts": 1789054840000,
+    "mensaje": "Sos un genio !",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1402463931",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Graciela Vigna"
+  },
+  {
+    "ts": 1789054840000,
+    "mensaje": "Sos un genio !",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1402463931",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Graciela Vigna"
+  },
+  {
+    "ts": 1789054880000,
+    "mensaje": "Hola si quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "958690164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Wilbert Maquera"
+  },
+  {
+    "ts": 1789054880000,
+    "mensaje": "Hola si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "958690164",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Wilbert Maquera"
+  },
+  {
+    "ts": 1789054882000,
+    "mensaje": "Va",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "892496397",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jellyfish.4486190"
+  },
+  {
+    "ts": 1789054882000,
+    "mensaje": "Va",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "892496397",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jellyfish.4486190"
+  },
+  {
+    "ts": 1789054930000,
+    "mensaje": "Certificado",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1917168699",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nadia"
+  },
+  {
+    "ts": 1789054930000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1917168699",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nadia"
+  },
+  {
+    "ts": 1789055030000,
+    "mensaje": "Hola buenas si si por favor",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1083760661",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "AlejandroM"
+  },
+  {
+    "ts": 1789055031000,
+    "mensaje": "Hola buenas si si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1083760661",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "AlejandroM"
   }
 ]
