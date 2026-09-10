@@ -209198,5 +209198,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "by Gisela Mazza"
+  },
+  {
+    "ts": 1789063545000,
+    "mensaje": "Yo, por favor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "457734474",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Smile design 💎 Porcelain veneers 🦷 oral rehabilitation 🇺🇲🇨🇦"
+  },
+  {
+    "ts": 1789063663000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1311843689",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Cruz"
+  },
+  {
+    "ts": 1789063664000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1311843689",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celeste Cruz"
+  },
+  {
+    "ts": 1789063665000,
+    "mensaje": "Buenas tardes si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1164971849",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Deyanira Arellano"
+  },
+  {
+    "ts": 1789063665000,
+    "mensaje": "Buenas tardes si quiero aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1164971849",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Deyanira Arellano"
+  },
+  {
+    "ts": 1789063666000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1458750970",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gonzalez Colo"
   }
 ]
