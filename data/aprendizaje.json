@@ -203068,5 +203068,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Raul Mateos"
+  },
+  {
+    "ts": 1789043715000,
+    "mensaje": "Hola cómo es la modalidad y toca pagar algo",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1796735236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yuleidy Andrea Dueñas"
+  },
+  {
+    "ts": 1789043715000,
+    "mensaje": "Hola cómo es la modalidad y toca pagar algo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1796735236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yuleidy Andrea Dueñas"
+  },
+  {
+    "ts": 1789043718000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "394953184",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nicolett"
+  },
+  {
+    "ts": 1789043718000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "394953184",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "nicolett"
+  },
+  {
+    "ts": 1789043723000,
+    "mensaje": "Obtén un mes de Starlink gratis al registrarte a través de este enlace. Internet rápido y fiable en casa y en cualquier lugar. https://starlink.com/?referral=RC-DF-10373170-48661-93&app_source=share",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1402381753",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "NP"
+  },
+  {
+    "ts": 1789043723000,
+    "mensaje": "Obtén un mes de Starlink gratis al registrarte a través de este enlace. Internet rápido y fiable en casa y en cualquier lugar. https://starlink.com/?referral=RC-DF-10373170-48661-93&app_source=share",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1402381753",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "NP"
+  },
+  {
+    "ts": 1789043731000,
+    "mensaje": "Porsupuesto",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "678728810",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Boby Antonio Boby Antonio"
+  },
+  {
+    "ts": 1789043731000,
+    "mensaje": "Porsupuesto",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "678728810",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Boby Antonio Boby Antonio"
+  },
+  {
+    "ts": 1789043806000,
+    "mensaje": "Ayúdame",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1414820027",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝔃𝓸𝓮𝓰𝓮𝓻𝓪𝓵𝓭𝓲𝓷𝓮🥇"
+  },
+  {
+    "ts": 1789043807000,
+    "mensaje": "Ayúdame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1414820027",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝔃𝓸𝓮𝓰𝓮𝓻𝓪𝓵𝓭𝓲𝓷𝓮🥇"
   }
 ]
