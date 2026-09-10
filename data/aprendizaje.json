@@ -204098,5 +204098,245 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alan bustos"
+  },
+  {
+    "ts": 1789047035000,
+    "mensaje": "Ya genial",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1333387036",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudio Alcayaga"
+  },
+  {
+    "ts": 1789047036000,
+    "mensaje": "Ya genial",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1333387036",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudio Alcayaga"
+  },
+  {
+    "ts": 1789047041000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas, si me gustaría",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1571561151",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Arleny Jaasiel"
+  },
+  {
+    "ts": 1789047042000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas, si me gustaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1571561151",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Arleny Jaasiel"
+  },
+  {
+    "ts": 1789047052000,
+    "mensaje": "BotQueres que te la envie?Sí claro",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "308652690",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhojan"
+  },
+  {
+    "ts": 1789047136000,
+    "mensaje": "Buenas que tengo que hacer y como?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "517229325",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodrigo Mendoza"
+  },
+  {
+    "ts": 1789047137000,
+    "mensaje": "Buenas que tengo que hacer y como?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "517229325",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodrigo Mendoza"
+  },
+  {
+    "ts": 1789047144000,
+    "mensaje": "Si si sería un gusto",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1317489738",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sebas.__.80"
+  },
+  {
+    "ts": 1789047144000,
+    "mensaje": "Si si sería un gusto",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1317489738",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sebas.__.80"
+  },
+  {
+    "ts": 1789047156000,
+    "mensaje": "Avísame cuando es tu clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "678621923",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valeria Ricci"
+  },
+  {
+    "ts": 1789047163000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1757304648",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darin Velez🌻"
+  },
+  {
+    "ts": 1789047163000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1757304648",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darin Velez🌻"
+  },
+  {
+    "ts": 1789047170000,
+    "mensaje": "Es que ya estoy en otra clase",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1361727485",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Isabella Sofía"
+  },
+  {
+    "ts": 1789047190000,
+    "mensaje": "Ya vi la clase",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "1863243276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martina Nemtala"
+  },
+  {
+    "ts": 1789047191000,
+    "mensaje": "Ya vi la clase",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1863243276",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martina Nemtala"
+  },
+  {
+    "ts": 1789047238000,
+    "mensaje": "Hola buenas noches, si quiero aprender.",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1745119714",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓵𝓪𝓲✰"
+  },
+  {
+    "ts": 1789047238000,
+    "mensaje": "Hola buenas noches, si quiero aprender.",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1745119714",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓵𝓪𝓲✰"
+  },
+  {
+    "ts": 1789047274000,
+    "mensaje": "Si lo vi gracias",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "551014424",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth"
+  },
+  {
+    "ts": 1789047274000,
+    "mensaje": "Si lo vi gracias",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "551014424",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth"
+  },
+  {
+    "ts": 1789047280000,
+    "mensaje": "Hola siiii",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1394332136",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luciana Dlc"
+  },
+  {
+    "ts": 1789047280000,
+    "mensaje": "Hola siiii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1394332136",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luciana Dlc"
+  },
+  {
+    "ts": 1789047281000,
+    "mensaje": "Bueno si estamos para aprender mas y mas",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1072028882",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhonny Chacon"
+  },
+  {
+    "ts": 1789047286000,
+    "mensaje": "BotTe pudiste agendar?No pude",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "243560422",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓘𝓼𝓲𝓭𝓸𝓻𝓸 𝓐𝓫𝓪𝓼𝓸𝓵𝓸 ⚽️"
+  },
+  {
+    "ts": 1789047315000,
+    "mensaje": "Toy es perando q me transfieran a si me agendo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "521535770",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Taborda"
   }
 ]
