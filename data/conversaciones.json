@@ -337377,5 +337377,124 @@
     "nombreContacto": "AlejandroM",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789055168000,
+    "subscriberId": "1887852888",
+    "nombreContacto": "La Catira LC",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789055168000,
+    "subscriberId": "1887852888",
+    "nombreContacto": "La Catira LC",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789055168000,
+    "subscriberId": "1887852888",
+    "nombreContacto": "La Catira LC",
+    "remitente": "contacto",
+    "texto": "Olvídalo, gracias... dilatas mucho el proceso. Y tengo suficiente edad para no perder el tiempo."
+  },
+  {
+    "ts": 1789055192000,
+    "subscriberId": "834647828",
+    "nombreContacto": "mrj",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055192000,
+    "subscriberId": "834647828",
+    "nombreContacto": "mrj",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789055253000,
+    "subscriberId": "834647828",
+    "nombreContacto": "mrj",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789055256000,
+    "subscriberId": "834647828",
+    "nombreContacto": "mrj",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789055270000,
+    "subscriberId": "834647828",
+    "nombreContacto": "mrj",
+    "remitente": "contacto",
+    "texto": "Ya"
+  },
+  {
+    "ts": 1789055321000,
+    "subscriberId": "1586323793",
+    "nombreContacto": "Leonel Baez ʚïɞ",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055321000,
+    "subscriberId": "1586323793",
+    "nombreContacto": "Leonel Baez ʚïɞ",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789055324000,
+    "subscriberId": "940956773",
+    "nombreContacto": "Roberto Carlos González Alvarado",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055324000,
+    "subscriberId": "940956773",
+    "nombreContacto": "Roberto Carlos González Alvarado",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1789055326000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789055326000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "contacto",
+    "texto": "Hola! Si cómo sería?"
+  },
+  {
+    "ts": 1789055386000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789055390000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789055396000,
+    "subscriberId": "22099093",
+    "nombreContacto": "Eli Rodriguez",
+    "remitente": "contacto",
+    "texto": "Si porfa"
   }
 ]

@@ -208198,5 +208198,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "AlejandroM"
+  },
+  {
+    "ts": 1789055193000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "834647828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mrj"
+  },
+  {
+    "ts": 1789055192000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "834647828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mrj"
+  },
+  {
+    "ts": 1789055322000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1586323793",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonel Baez ʚïɞ"
+  },
+  {
+    "ts": 1789055324000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "940956773",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roberto Carlos González Alvarado"
+  },
+  {
+    "ts": 1789055326000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "22099093",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eli Rodriguez"
+  },
+  {
+    "ts": 1789055327000,
+    "mensaje": "Hola! Si cómo sería?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "22099093",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eli Rodriguez"
   }
 ]
