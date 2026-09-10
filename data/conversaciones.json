@@ -338168,5 +338168,61 @@
     "nombreContacto": "dani leiva",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789057004000,
+    "subscriberId": "1704103290",
+    "nombreContacto": "dani leiva",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789057008000,
+    "subscriberId": "1704103290",
+    "nombreContacto": "dani leiva",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789057050000,
+    "subscriberId": "1291083673",
+    "nombreContacto": "Pimentel",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresa"
+  },
+  {
+    "ts": 1789057050000,
+    "subscriberId": "1291083673",
+    "nombreContacto": "Pimentel",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789057050000,
+    "subscriberId": "1291083673",
+    "nombreContacto": "Pimentel",
+    "remitente": "contacto",
+    "texto": "Si tino por favor"
+  },
+  {
+    "ts": 1789057052000,
+    "subscriberId": "275362246",
+    "nombreContacto": "Gabriel Ezequiel Patiño",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789057052000,
+    "subscriberId": "275362246",
+    "nombreContacto": "Gabriel Ezequiel Patiño",
+    "remitente": "contacto",
+    "texto": "Como puedo hacer eso"
+  },
+  {
+    "ts": 1789057060000,
+    "subscriberId": "1724198193",
+    "nombreContacto": "Sharlod Macea",
+    "remitente": "contacto",
+    "texto": "Soy madre soltera sin trabajo ayúdame a trabajar de manera remota"
   }
 ]
