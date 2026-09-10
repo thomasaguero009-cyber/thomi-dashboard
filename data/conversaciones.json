@@ -337748,5 +337748,47 @@
     "nombreContacto": "Sandra Beatriz",
     "remitente": "contacto",
     "texto": "Certificado"
+  },
+  {
+    "ts": 1789056565000,
+    "subscriberId": "225401633",
+    "nombreContacto": "Miguel Angel Cortez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789056565000,
+    "subscriberId": "225401633",
+    "nombreContacto": "Miguel Angel Cortez",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1789056567000,
+    "subscriberId": "874745034",
+    "nombreContacto": "Irma Yanet Hernández Palacio",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789056567000,
+    "subscriberId": "874745034",
+    "nombreContacto": "Irma Yanet Hernández Palacio",
+    "remitente": "contacto",
+    "texto": "Quiero"
+  },
+  {
+    "ts": 1789056568000,
+    "subscriberId": "1393603034",
+    "nombreContacto": "˖ ࣪ ꉂ (꩜`^´꩜)",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789056568000,
+    "subscriberId": "1393603034",
+    "nombreContacto": "˖ ࣪ ꉂ (꩜`^´꩜)",
+    "remitente": "contacto",
+    "texto": "Lo seguí porque me gusta su caballerosidad, mis respetos 😭"
   }
 ]

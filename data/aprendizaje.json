@@ -208438,5 +208438,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jaime roberto burgos"
+  },
+  {
+    "ts": 1789056565000,
+    "mensaje": "Me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "225401633",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Angel Cortez"
+  },
+  {
+    "ts": 1789056566000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "225401633",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miguel Angel Cortez"
+  },
+  {
+    "ts": 1789056567000,
+    "mensaje": "Quiero",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "874745034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Irma Yanet Hernández Palacio"
+  },
+  {
+    "ts": 1789056567000,
+    "mensaje": "Quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "874745034",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Irma Yanet Hernández Palacio"
   }
 ]
