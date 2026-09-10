@@ -206398,5 +206398,275 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Karol"
+  },
+  {
+    "ts": 1789050960000,
+    "mensaje": "SI LO QUIERO RECIBIR",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1375403753",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hernandez Kori"
+  },
+  {
+    "ts": 1789050959000,
+    "mensaje": "SI LO QUIERO RECIBIR",
+    "boton": "video",
+    "respuesta": "",
+    "subscriberId": "1375403753",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hernandez Kori"
+  },
+  {
+    "ts": 1789050998000,
+    "mensaje": "Yo no tengo dinero y menos tarjeta de crédito",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1814046454",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Benicia Marcano"
+  },
+  {
+    "ts": 1789051001000,
+    "mensaje": "Edades, perdón",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "796550691",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Papelería Kronos"
+  },
+  {
+    "ts": 1789051036000,
+    "mensaje": "Me puedes dar la información",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1725416813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Franco"
+  },
+  {
+    "ts": 1789051037000,
+    "mensaje": "Me puedes dar la información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1725416813",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan Franco"
+  },
+  {
+    "ts": 1789051066000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1154011062",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "coraline_adel12"
+  },
+  {
+    "ts": 1789051066000,
+    "mensaje": "okey",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1154011062",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "coraline_adel12"
+  },
+  {
+    "ts": 1789051073000,
+    "mensaje": "Perdón es q estaba en el trabajo atendiendo clientes, y no puedo estar con el celu permanente",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1320466998",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Graciela Sosa"
+  },
+  {
+    "ts": 1789051077000,
+    "mensaje": "Ok",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "622055556",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ada V. Rementeria"
+  },
+  {
+    "ts": 1789051077000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "622055556",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ada V. Rementeria"
+  },
+  {
+    "ts": 1789051079000,
+    "mensaje": "quiero",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1831188210",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "haydeeconhh"
+  },
+  {
+    "ts": 1789051080000,
+    "mensaje": "quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1831188210",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "haydeeconhh"
+  },
+  {
+    "ts": 1789051082000,
+    "mensaje": "Tino las cuentas de telegram si son tuyas a las que nos han dicho que escribamos",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1647768394",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander Melgar"
+  },
+  {
+    "ts": 1789051087000,
+    "mensaje": "16 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1357379663",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘"
+  },
+  {
+    "ts": 1789051090000,
+    "mensaje": "Muchas gracias tino eres grande si si pudieras ayudarme te lo agradecería",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "702315954",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez"
+  },
+  {
+    "ts": 1789051090000,
+    "mensaje": "Muchas gracias tino eres grande si si pudieras ayudarme te lo agradecería",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "702315954",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez"
+  },
+  {
+    "ts": 1789051128000,
+    "mensaje": "BotMensaje de audioEstaba intentando agendarme pero no sé cómo me salí de la agenda",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1891934795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduardo Cruz"
+  },
+  {
+    "ts": 1789051134000,
+    "mensaje": "Te parece?",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "483875649",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Guillermina Meloni"
+  },
+  {
+    "ts": 1789051140000,
+    "mensaje": "Lo que pasa es que no tengo al tarjeta viste",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "990867477",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "adriano loizaga"
+  },
+  {
+    "ts": 1789051146000,
+    "mensaje": "ClientPero aún tengo 17?..",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1460866322",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andy Barona"
+  },
+  {
+    "ts": 1789051151000,
+    "mensaje": "ClientPero aún tengo 17?..",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1460866322",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andy Barona"
+  },
+  {
+    "ts": 1789051155000,
+    "mensaje": "Renuncio al trabajo por nuestro bebe, esta en busqueda laboral ahora",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1952783351",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽"
+  },
+  {
+    "ts": 1789051163000,
+    "mensaje": "No es lo que buscaba, perdón y gracias por tu tiempo",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1986613505",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Manucho Pésole"
+  },
+  {
+    "ts": 1789051169000,
+    "mensaje": "Por qué es importante la edad ?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1476785924",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giselle Munoz"
+  },
+  {
+    "ts": 1789051181000,
+    "mensaje": "Me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "6796857",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌸Chiina🌸"
+  },
+  {
+    "ts": 1789051182000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "6796857",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌸Chiina🌸"
   }
 ]

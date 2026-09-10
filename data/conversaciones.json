@@ -331791,5 +331791,1153 @@
     "nombreContacto": "Karol",
     "remitente": "contacto",
     "texto": "Ok"
+  },
+  {
+    "ts": 1789050953000,
+    "subscriberId": "1428772705",
+    "nombreContacto": "Karol",
+    "remitente": "contacto",
+    "texto": "Cm es eso?"
+  },
+  {
+    "ts": 1789050958000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "contacto",
+    "texto": "Quiero más información"
+  },
+  {
+    "ts": 1789050958000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1789050958000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te envie el certificado?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789050958000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te envie el certificado?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "contacto",
+    "texto": "Si lo quiero recibir"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "contacto",
+    "texto": "Como ves te escribimos de una papelería, somos 4 personas…, de diferentes esades"
+  },
+  {
+    "ts": 1789050999000,
+    "subscriberId": "796550691",
+    "nombreContacto": "Papelería Kronos",
+    "remitente": "contacto",
+    "texto": "Edades, perdón"
+  },
+  {
+    "ts": 1789051002000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te envie el certificado?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "Claro me interesa"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "Hola , tengo 58 años"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "Ok. Ya la veo , gracias"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "Si , ya ví el vídeo, también ví respondí las preguntas,"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "agente",
+    "texto": "O te paso la agenda directa?"
+  },
+  {
+    "ts": 1789051004000,
+    "subscriberId": "804642407",
+    "nombreContacto": "Wilmer Ordoñez Chancay",
+    "remitente": "contacto",
+    "texto": "Pero mi problemas es el dinero, no cuento c un trabajo, a mí edad , ya no consigo trabajo. Gracias por tu tiempo es muy bueno, el trabajo, aunque no se mucho de redes sociales"
+  },
+  {
+    "ts": 1789051009000,
+    "subscriberId": "1375403753",
+    "nombreContacto": "Hernandez Kori",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1789051035000,
+    "subscriberId": "1725416813",
+    "nombreContacto": "Juan Franco",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051035000,
+    "subscriberId": "1725416813",
+    "nombreContacto": "Juan Franco",
+    "remitente": "contacto",
+    "texto": "Me puedes dar la información"
+  },
+  {
+    "ts": 1789051066000,
+    "subscriberId": "1154011062",
+    "nombreContacto": "coraline_adel12",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051066000,
+    "subscriberId": "1154011062",
+    "nombreContacto": "coraline_adel12",
+    "remitente": "contacto",
+    "texto": "okey"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "contacto",
+    "texto": "Me interesa"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "contacto",
+    "texto": "Si por favor gracias"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "contacto",
+    "texto": "Soy grande 52"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Contamee no me dejes en visto jaja... Pudiste agendar?"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "Pudiste agendar? Me dejaste colgado jaja"
+  },
+  {
+    "ts": 1789051071000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "contacto",
+    "texto": "Perdón es q estaba en el trabajo atendiendo clientes, y no puedo estar con el celu permanente"
+  },
+  {
+    "ts": 1789051075000,
+    "subscriberId": "1320466998",
+    "nombreContacto": "Graciela Sosa",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1789051077000,
+    "subscriberId": "622055556",
+    "nombreContacto": "Ada V. Rementeria",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te envie el certificado?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051077000,
+    "subscriberId": "622055556",
+    "nombreContacto": "Ada V. Rementeria",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051077000,
+    "subscriberId": "622055556",
+    "nombreContacto": "Ada V. Rementeria",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 2 horas"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "Ayúdame por favor con trabajo en línea"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "Por favor 🙏🏻"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "BotDe una, antes decimeDe una"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "BotQue edad tenes?35 años"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "Tino ya estoy viendo el video tuyo que está en el catálogo"
+  },
+  {
+    "ts": 1789051076000,
+    "subscriberId": "1647768394",
+    "nombreContacto": "Alexander Melgar",
+    "remitente": "contacto",
+    "texto": "Tino las cuentas de telegram si son tuyas a las que nos han dicho que escribamos"
+  },
+  {
+    "ts": 1789051079000,
+    "subscriberId": "1831188210",
+    "nombreContacto": "haydeeconhh",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051079000,
+    "subscriberId": "1831188210",
+    "nombreContacto": "haydeeconhh",
+    "remitente": "contacto",
+    "texto": "Siii"
+  },
+  {
+    "ts": 1789051079000,
+    "subscriberId": "1831188210",
+    "nombreContacto": "haydeeconhh",
+    "remitente": "contacto",
+    "texto": "quiero"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Tino te puedo hacer una pregunta??"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Necesito que me expliques algunas cosas"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "16"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Por eso quería saber que si este tipo de empresas me sirven para generar dinero antes de salir de la escuela"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Ganar dinerito para ir asegurando mi futuro calidoso"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Esa era mi pregunta, como puedo generar dinero teniendo 16 años"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "Ya te dije"
+  },
+  {
+    "ts": 1789051085000,
+    "subscriberId": "1357379663",
+    "nombreContacto": "✘ SΔMUΣⱢ ✘",
+    "remitente": "contacto",
+    "texto": "16 años"
+  },
+  {
+    "ts": 1789051089000,
+    "subscriberId": "702315954",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051089000,
+    "subscriberId": "702315954",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez",
+    "remitente": "contacto",
+    "texto": "Muchas gracias tino eres grande si si pudieras ayudarme te lo agradecería"
+  },
+  {
+    "ts": 1789051129000,
+    "subscriberId": "1891934795",
+    "nombreContacto": "Eduardo Cruz",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Si claro"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Envíamela"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "35"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Dale Tino ahí la veo"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "agente",
+    "texto": "Contamee no me dejes en visto jaja... Pudiste agendar?"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Jajaja"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Justo me ocupé"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "No me pude agendar"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Luego de cenar me pongo y te aviso"
+  },
+  {
+    "ts": 1789051130000,
+    "subscriberId": "483875649",
+    "nombreContacto": "Guillermina Meloni",
+    "remitente": "contacto",
+    "texto": "Te parece?"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Si enviamela"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "18"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Tino no me pasas tu alias y te pago la clase no llego a los 600 dólares que pedis"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Me decía 1 dólar"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "Contamee no me dejes en visto jaja... Pudiste agendar?"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "Pudiste agendar? Me dejaste colgado jaja"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Uhh jaja perdoname mil disculpas"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "No no pude"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Para agendar no por qué no pude pagar"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Sisi entendí bien bien que puedo ganar un 10% de comisión al 15 que no muestro la cara que tengo que tener 4 horas libres"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Sisi pero me faltó la parte de pago"
+  },
+  {
+    "ts": 1789051137000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "contacto",
+    "texto": "Lo que pasa es que no tengo al tarjeta viste"
+  },
+  {
+    "ts": 1789051141000,
+    "subscriberId": "990867477",
+    "nombreContacto": "adriano loizaga",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1789051143000,
+    "subscriberId": "1460866322",
+    "nombreContacto": "Andy Barona",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051143000,
+    "subscriberId": "1460866322",
+    "nombreContacto": "Andy Barona",
+    "remitente": "contacto",
+    "texto": "Pero aún tengo 17?"
+  },
+  {
+    "ts": 1789051143000,
+    "subscriberId": "1460866322",
+    "nombreContacto": "Andy Barona",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789051143000,
+    "subscriberId": "1460866322",
+    "nombreContacto": "Andy Barona",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789051143000,
+    "subscriberId": "1460866322",
+    "nombreContacto": "Andy Barona",
+    "remitente": "contacto",
+    "texto": "ClientPero aún tengo 17?.."
+  },
+  {
+    "ts": 1789051150000,
+    "subscriberId": "702315954",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "contacto",
+    "texto": "Si por favor pasamela"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "contacto",
+    "texto": "Es para mi mujer"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "contacto",
+    "texto": "Tiene 32 años"
+  },
+  {
+    "ts": 1789051153000,
+    "subscriberId": "1952783351",
+    "nombreContacto": "🅽🅴🆁🅸 ⚽",
+    "remitente": "contacto",
+    "texto": "Renuncio al trabajo por nuestro bebe, esta en busqueda laboral ahora"
+  },
+  {
+    "ts": 1789051154000,
+    "subscriberId": "702315954",
+    "nombreContacto": "Alexis Omar Gómez Rodríguez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789051158000,
+    "subscriberId": "1986613505",
+    "nombreContacto": "Manucho Pésole",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789051158000,
+    "subscriberId": "1986613505",
+    "nombreContacto": "Manucho Pésole",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789051158000,
+    "subscriberId": "1986613505",
+    "nombreContacto": "Manucho Pésole",
+    "remitente": "contacto",
+    "texto": "No es lo que buscaba, perdón y gracias por tu tiempo"
+  },
+  {
+    "ts": 1789051164000,
+    "subscriberId": "1986613505",
+    "nombreContacto": "Manucho Pésole",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "contacto",
+    "texto": "Si por fa"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789051166000,
+    "subscriberId": "1476785924",
+    "nombreContacto": "Giselle Munoz",
+    "remitente": "contacto",
+    "texto": "Por qué es importante la edad ?"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Hdp hdp HDP HDP HDP HDP HDP HDP HDP hdp"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Hdp HDP HDP HDP HDP HDP HDP HDP"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Tinoooo es falsoooooo"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Tinooooo es falso Tino es Tino es... UN FALSOOOOOOOO"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Bno se me cayó un ídolo"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Para que se pasen que sos una IA"
+  },
+  {
+    "ts": 1789051176000,
+    "subscriberId": "3904867",
+    "nombreContacto": "Thiago Fagiolani",
+    "remitente": "contacto",
+    "texto": "Ver este mensaje en InstagramTipo de mensaje no soportado"
+  },
+  {
+    "ts": 1789051180000,
+    "subscriberId": "6796857",
+    "nombreContacto": "🌸Chiina🌸",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051180000,
+    "subscriberId": "6796857",
+    "nombreContacto": "🌸Chiina🌸",
+    "remitente": "contacto",
+    "texto": "Me interesa"
   }
 ]
