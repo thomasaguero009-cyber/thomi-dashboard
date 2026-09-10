@@ -208638,5 +208638,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gabriel Ezequiel Patiño"
+  },
+  {
+    "ts": 1789062609000,
+    "mensaje": "Bueno dale",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "846533702",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franco Mansilla"
+  },
+  {
+    "ts": 1789062610000,
+    "mensaje": "Bueno dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "846533702",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franco Mansilla"
   }
 ]
