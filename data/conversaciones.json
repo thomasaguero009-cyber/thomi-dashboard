@@ -333709,5 +333709,54 @@
     "nombreContacto": "Lisnaiselis Gil",
     "remitente": "contacto",
     "texto": "Buenas si quiero"
+  },
+  {
+    "ts": 1789051520000,
+    "subscriberId": "1365003966",
+    "nombreContacto": "Zoe Funez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789051520000,
+    "subscriberId": "1365003966",
+    "nombreContacto": "Zoe Funez",
+    "remitente": "contacto",
+    "texto": "Hola si"
+  },
+  {
+    "ts": 1789051572000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789051572000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789051572000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "contacto",
+    "texto": "Buenas,si"
+  },
+  {
+    "ts": 1789051632000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789051639000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]

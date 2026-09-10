@@ -206928,5 +206928,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lisnaiselis Gil"
+  },
+  {
+    "ts": 1789051521000,
+    "mensaje": "Hola si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1365003966",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zoe Funez"
+  },
+  {
+    "ts": 1789051521000,
+    "mensaje": "Hola si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1365003966",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zoe Funez"
+  },
+  {
+    "ts": 1789051573000,
+    "mensaje": "Buenas,si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1400877631",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo"
   }
 ]
