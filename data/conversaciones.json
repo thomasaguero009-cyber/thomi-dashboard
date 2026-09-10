@@ -333758,5 +333758,12 @@
     "nombreContacto": "Daniel Antonio Mejia Caraballo",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789051840000,
+    "subscriberId": "1400877631",
+    "nombreContacto": "Daniel Antonio Mejia Caraballo",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
