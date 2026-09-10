@@ -318295,5 +318295,33 @@
     "nombreContacto": "Emmanuel ehvoid",
     "remitente": "contacto",
     "texto": "Sii"
+  },
+  {
+    "ts": 1788980450000,
+    "subscriberId": "1193042182",
+    "nombreContacto": "Emmanuel ehvoid",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1788980454000,
+    "subscriberId": "1193042182",
+    "nombreContacto": "Emmanuel ehvoid",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1788980464000,
+    "subscriberId": "1193042182",
+    "nombreContacto": "Emmanuel ehvoid",
+    "remitente": "contacto",
+    "texto": "19"
+  },
+  {
+    "ts": 1788980533000,
+    "subscriberId": "1193042182",
+    "nombreContacto": "Emmanuel ehvoid",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
