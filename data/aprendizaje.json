@@ -205338,5 +205338,455 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "José Ulloa"
+  },
+  {
+    "ts": 1789048824000,
+    "mensaje": "Si claro",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1658926244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Ereu"
+  },
+  {
+    "ts": 1789048825000,
+    "mensaje": "Si claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1658926244",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carlos Ereu"
+  },
+  {
+    "ts": 1789048843000,
+    "mensaje": "Hola",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "497791703",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mizaidazuluetagutierrez"
+  },
+  {
+    "ts": 1789048844000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "497791703",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mizaidazuluetagutierrez"
+  },
+  {
+    "ts": 1789048860000,
+    "mensaje": "Mi esposo se quedo sin trabajo y tengo dos nenas y nesecito trabajar",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "105215475",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mirna"
+  },
+  {
+    "ts": 1789048864000,
+    "mensaje": "BotQueres que te la envie?Si porfa",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1248716231",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josías Orellana"
+  },
+  {
+    "ts": 1789048882000,
+    "mensaje": "Gracias tino aprendí mucho de tus videos",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1209989330",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan lopez"
+  },
+  {
+    "ts": 1789048882000,
+    "mensaje": "Gracias tino aprendí mucho de tus videos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1209989330",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juan lopez"
+  },
+  {
+    "ts": 1789048894000,
+    "mensaje": "Hola tino, cómo andas?. Sigo mucho tu contenido, me encanta lo que haces y quiero aprender. Como hago?",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "2073889805",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres vildosola"
+  },
+  {
+    "ts": 1789048894000,
+    "mensaje": "Hola tino, cómo andas?. Sigo mucho tu contenido, me encanta lo que haces y quiero aprender. Como hago?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2073889805",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andres vildosola"
+  },
+  {
+    "ts": 1789048912000,
+    "mensaje": "Si",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "381461140",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jaksijany Pacheco"
+  },
+  {
+    "ts": 1789048918000,
+    "mensaje": "Si x favor quiero saber de q se trata",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1916329732",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Estela Wabiszczowicz"
+  },
+  {
+    "ts": 1789048918000,
+    "mensaje": "Si x favor quiero saber de q se trata",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1916329732",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Estela Wabiszczowicz"
+  },
+  {
+    "ts": 1789048925000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "681567300",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudio Ariel Alarcon"
+  },
+  {
+    "ts": 1789048925000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "681567300",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Claudio Ariel Alarcon"
+  },
+  {
+    "ts": 1789048967000,
+    "mensaje": "No tengo dinero para pagar lo siento",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "57793602",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norberto Rivera Gomez"
+  },
+  {
+    "ts": 1789048975000,
+    "mensaje": "BotMensaje de audioPs por lo que vi entendí que es como una persona que promociona algo y ases una venta segura",
+    "boton": "VIO PERO NO",
+    "respuesta": "",
+    "subscriberId": "200248211",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "britanichavez333"
+  },
+  {
+    "ts": 1789048976000,
+    "mensaje": "BotMensaje de audioPs por lo que vi entendí que es como una persona que promociona algo y ases una venta segura",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "200248211",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "britanichavez333"
+  },
+  {
+    "ts": 1789048980000,
+    "mensaje": "BotTe pudiste agendar?No no pude",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "262466831",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alvaro J Gz"
+  },
+  {
+    "ts": 1789048984000,
+    "mensaje": "Bueno",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1317749390",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yakii Campos"
+  },
+  {
+    "ts": 1789048986000,
+    "mensaje": "Bueno",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1317749390",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yakii Campos"
+  },
+  {
+    "ts": 1789048994000,
+    "mensaje": "Es relevante la edad?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1740777600",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anthony"
+  },
+  {
+    "ts": 1789048999000,
+    "mensaje": "BotEstas para ver la clase?Sii",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "27376585",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darwin Rojas"
+  },
+  {
+    "ts": 1789049006000,
+    "mensaje": "Claro que tengo q hacer",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "900101891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "D🪼"
+  },
+  {
+    "ts": 1789049006000,
+    "mensaje": "Claro que tengo q hacer",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "900101891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "D🪼"
+  },
+  {
+    "ts": 1789049015000,
+    "mensaje": "Nadie me da una mano 🥲",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "874708926",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓈𝒶𝓃𝓉𝒾𝒾𝒾"
+  },
+  {
+    "ts": 1789049054000,
+    "mensaje": "Holaa!",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "1997542047",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐤𝐫𝐲𝐬𝐭𝐚𝐥𝐥.𝐱𝐛"
+  },
+  {
+    "ts": 1789049054000,
+    "mensaje": "Holaa!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1997542047",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐤𝐫𝐲𝐬𝐭𝐚𝐥𝐥.𝐱𝐛"
+  },
+  {
+    "ts": 1789049070000,
+    "mensaje": "Hola si como funciona? Pasa q vivo en Cuba y es complicado pero si me interesa",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1034778563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel Hernández"
+  },
+  {
+    "ts": 1789049070000,
+    "mensaje": "Hola si como funciona? Pasa q vivo en Cuba y es complicado pero si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1034778563",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel Hernández"
+  },
+  {
+    "ts": 1789049074000,
+    "mensaje": "Buenas tardes saludos en serio",
+    "boton": "Vsl con 🏎️ thomi/NUEVO SEGUIDOR",
+    "respuesta": "",
+    "subscriberId": "90782686",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jt"
+  },
+  {
+    "ts": 1789049074000,
+    "mensaje": "Buenas tardes saludos en serio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "90782686",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jt"
+  },
+  {
+    "ts": 1789049146000,
+    "mensaje": "Y lo miro",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2101388732",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Omar Cantillo"
+  },
+  {
+    "ts": 1789049157000,
+    "mensaje": "A construir la casa que quiere",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1745133274",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosselin Torrez Rocha"
+  },
+  {
+    "ts": 1789049196000,
+    "mensaje": "Okey",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1345472891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒪𝓏𝓊𝓃𝒶_"
+  },
+  {
+    "ts": 1789049197000,
+    "mensaje": "Okey",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1345472891",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝒪𝓏𝓊𝓃𝒶_"
+  },
+  {
+    "ts": 1789049210000,
+    "mensaje": "Oki gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1687042782",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Segura ⏳🧠"
+  },
+  {
+    "ts": 1789049210000,
+    "mensaje": "Oki gracias",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1687042782",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Segura ⏳🧠"
+  },
+  {
+    "ts": 1789049286000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1128373263",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maya"
+  },
+  {
+    "ts": 1789049286000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1128373263",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maya"
+  },
+  {
+    "ts": 1789049288000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "579937518",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pam Moral"
+  },
+  {
+    "ts": 1789049288000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "579937518",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pam Moral"
+  },
+  {
+    "ts": 1789049335000,
+    "mensaje": "Buenas,Si quiero aprender a ganar ingresos por Whatsapp",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "377428759",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ania Bueno"
+  },
+  {
+    "ts": 1789049335000,
+    "mensaje": "Buenas,Si quiero aprender a ganar ingresos por Whatsapp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "377428759",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ania Bueno"
+  },
+  {
+    "ts": 1789049369000,
+    "mensaje": "BotQueres que te la envie?Dale, pásamelas",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1886895571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐚𝐫𝐢𝐢 🧸"
   }
 ]
