@@ -214438,5 +214438,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "SilvinaFarfan"
+  },
+  {
+    "ts": 1789121342000,
+    "mensaje": "Si pero ns como empiezar",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "286722256",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adam_____10"
+  },
+  {
+    "ts": 1789121343000,
+    "mensaje": "Si pero ns como empiezar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "286722256",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adam_____10"
+  },
+  {
+    "ts": 1789121345000,
+    "mensaje": "Tus videos me parecen muy bien",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1761651206",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "César David Ochoa"
+  },
+  {
+    "ts": 1789121346000,
+    "mensaje": "Tus videos me parecen muy bien",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1761651206",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "César David Ochoa"
   }
 ]
