@@ -461529,5 +461529,145 @@
     "nombreContacto": "alejandro scarpa",
     "remitente": "contacto",
     "texto": "Hola si acá estoy"
+  },
+  {
+    "ts": 1789142459000,
+    "subscriberId": "1161202366",
+    "nombreContacto": "Adrián",
+    "remitente": "contacto",
+    "texto": "¡Hola, Tino mossu! Soy Adrian. También de Merlo. Estoy mirando tu clase en Youtube. Re copado. Me interesa tu propuesta. Me pasás las 60 preguntas. Y después me gustaría saber más sobre el tema. Saludos"
+  },
+  {
+    "ts": 1789142530000,
+    "subscriberId": "1161202366",
+    "nombreContacto": "Adrián",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "agente",
+    "texto": "Mirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo termines, agendá tu llamada porque los lugares con el director se ocupan rápido"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "contacto",
+    "texto": "Súper el video"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "agente",
+    "texto": "O te paso la agenda directa?"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "contacto",
+    "texto": "Que interesante"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "contacto",
+    "texto": "Creo que ya me enviaste al correo para la conexión por zoom pero no fue posible conectarme. \nAhora estoy hablando por chat con Santiago"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en menos de una hora"
+  },
+  {
+    "ts": 1789142563000,
+    "subscriberId": "1289414216",
+    "nombreContacto": "Jennifer Garcia | Mente & Cuerpo",
+    "remitente": "contacto",
+    "texto": "18 ultra"
+  },
+  {
+    "ts": 1789142567000,
+    "subscriberId": "2081667969",
+    "nombreContacto": "Kari Algarbe",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1789142567000,
+    "subscriberId": "2081667969",
+    "nombreContacto": "Kari Algarbe",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te envie el certificado?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789142567000,
+    "subscriberId": "2081667969",
+    "nombreContacto": "Kari Algarbe",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789142567000,
+    "subscriberId": "2081667969",
+    "nombreContacto": "Kari Algarbe",
+    "remitente": "contacto",
+    "texto": "Sii quiero más info"
+  },
+  {
+    "ts": 1789142581000,
+    "subscriberId": "1314637478",
+    "nombreContacto": "Jordin Vega",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789142581000,
+    "subscriberId": "1314637478",
+    "nombreContacto": "Jordin Vega",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1789142636000,
+    "subscriberId": "1098016554",
+    "nombreContacto": "🫩...🫩",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789142636000,
+    "subscriberId": "1098016554",
+    "nombreContacto": "🫩...🫩",
+    "remitente": "contacto",
+    "texto": "Sóy menor"
+  },
+  {
+    "ts": 1789142697000,
+    "subscriberId": "1098016554",
+    "nombreContacto": "🫩...🫩",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789142701000,
+    "subscriberId": "1098016554",
+    "nombreContacto": "🫩...🫩",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
