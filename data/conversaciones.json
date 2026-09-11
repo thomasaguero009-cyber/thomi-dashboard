@@ -463650,5 +463650,40 @@
     "nombreContacto": "Humberto Ruiz",
     "remitente": "contacto",
     "texto": "????"
+  },
+  {
+    "ts": 1789143935000,
+    "subscriberId": "1885803881",
+    "nombreContacto": "Humberto Ruiz",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789143939000,
+    "subscriberId": "1885803881",
+    "nombreContacto": "Humberto Ruiz",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789143970000,
+    "subscriberId": "1885803881",
+    "nombreContacto": "Humberto Ruiz",
+    "remitente": "contacto",
+    "texto": "Solo si funciona si no, pa q"
+  },
+  {
+    "ts": 1789144058000,
+    "subscriberId": "1885803881",
+    "nombreContacto": "Humberto Ruiz",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789144061000,
+    "subscriberId": "1885803881",
+    "nombreContacto": "Humberto Ruiz",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
