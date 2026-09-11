@@ -230088,5 +230088,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Hilennys"
+  },
+  {
+    "ts": 1789152099000,
+    "mensaje": "Si me gustaría saber mas sobre el tema.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "633697494",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Agustina Medina"
+  },
+  {
+    "ts": 1789152101000,
+    "mensaje": "Buenas.Si quiero, gracias!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "841551744",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicole Marzoratti"
+  },
+  {
+    "ts": 1789152112000,
+    "mensaje": "Claro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2122314301",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "arevalo"
+  },
+  {
+    "ts": 1789152196000,
+    "mensaje": "Buenas, si me interesa 🙏🏻😊",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1340955909",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "diana cc"
+  },
+  {
+    "ts": 1789152236000,
+    "mensaje": "buenas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1395481323",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Juãń Øtálvąrø"
+  },
+  {
+    "ts": 1789152262000,
+    "mensaje": "Holaa, muchas graciass. Miro un montón de videos tuyos porque estoy interesado en aprender cómo generar ingresos. El único problema es que soy menor, pero quería saber qué puedo aprender y cómo funciona todo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "821144017",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "thiagui_pavon"
   }
 ]
