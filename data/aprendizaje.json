@@ -214338,5 +214338,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝓐𝓭𝓻𝓲𝓪𝓷𝓸"
+  },
+  {
+    "ts": 1789068317000,
+    "mensaje": "Si",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "542237893",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jrGuille.Hdez | marketing"
+  },
+  {
+    "ts": 1789068318000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "542237893",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jrGuille.Hdez | marketing"
+  },
+  {
+    "ts": 1789068336000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "239685177",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yasmani Espinosa"
+  },
+  {
+    "ts": 1789068336000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "239685177",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yasmani Espinosa"
+  },
+  {
+    "ts": 1789068337000,
+    "mensaje": "Listo 👍",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "258128458",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Lituma"
+  },
+  {
+    "ts": 1789068338000,
+    "mensaje": "Listo 👍",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "258128458",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Lituma"
+  },
+  {
+    "ts": 1789068400000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "607034444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🩵"
+  },
+  {
+    "ts": 1789068404000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "811569912",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1789068434000,
+    "mensaje": "Tino hola me interesa tu propuesta",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2035465334",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SilvinaFarfan"
+  },
+  {
+    "ts": 1789068435000,
+    "mensaje": "Tino hola me interesa tu propuesta",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2035465334",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SilvinaFarfan"
   }
 ]
