@@ -466030,5 +466030,33 @@
     "nombreContacto": "Juan Carlos Vasquez Cristiano",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789148810000,
+    "subscriberId": "1352322657",
+    "nombreContacto": "Juan Carlos Vasquez Cristiano",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789148813000,
+    "subscriberId": "1352322657",
+    "nombreContacto": "Juan Carlos Vasquez Cristiano",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789148827000,
+    "subscriberId": "1352322657",
+    "nombreContacto": "Juan Carlos Vasquez Cristiano",
+    "remitente": "contacto",
+    "texto": "BotQue edad tenes?38"
+  },
+  {
+    "ts": 1789148892000,
+    "subscriberId": "1352322657",
+    "nombreContacto": "Juan Carlos Vasquez Cristiano",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
