@@ -465379,5 +465379,68 @@
     "nombreContacto": "Lidaimy Valido",
     "remitente": "contacto",
     "texto": "Cómo lo hago ?"
+  },
+  {
+    "ts": 1789146376000,
+    "subscriberId": "172680235",
+    "nombreContacto": "Lidaimy Valido",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789146381000,
+    "subscriberId": "172680235",
+    "nombreContacto": "Lidaimy Valido",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789146407000,
+    "subscriberId": "172680235",
+    "nombreContacto": "Lidaimy Valido",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789146495000,
+    "subscriberId": "172680235",
+    "nombreContacto": "Lidaimy Valido",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789146499000,
+    "subscriberId": "172680235",
+    "nombreContacto": "Lidaimy Valido",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789146522000,
+    "subscriberId": "1246270194",
+    "nombreContacto": "Usuario",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789146522000,
+    "subscriberId": "1246270194",
+    "nombreContacto": "Usuario",
+    "remitente": "contacto",
+    "texto": "Por favor quiero aprender"
+  },
+  {
+    "ts": 1789146583000,
+    "subscriberId": "1246270194",
+    "nombreContacto": "Usuario",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789146587000,
+    "subscriberId": "1246270194",
+    "nombreContacto": "Usuario",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]

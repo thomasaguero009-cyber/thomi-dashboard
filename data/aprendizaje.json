@@ -229378,5 +229378,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yusneily Espinoza"
+  },
+  {
+    "ts": 1789146042000,
+    "mensaje": "BotHace clic👇Tino una pregunta cuál es tu propósito o objetivo real enseñando esto?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1218332845",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martin Aguilar"
+  },
+  {
+    "ts": 1789146052000,
+    "mensaje": "Me serviría",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1444168557",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pau_xa_."
+  },
+  {
+    "ts": 1789146111000,
+    "mensaje": "Tengo 33 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2023999739",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sergio JZ"
+  },
+  {
+    "ts": 1789146170000,
+    "mensaje": "Si lo quiero recibir",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1332734029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martha Lucero"
+  },
+  {
+    "ts": 1789146225000,
+    "mensaje": "Quiero más Info sobre trabajo por Wassap",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1797169421",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rochupla"
+  },
+  {
+    "ts": 1789146230000,
+    "mensaje": "Su",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "44349561",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elsadelacruz"
+  },
+  {
+    "ts": 1789146292000,
+    "mensaje": "Bueno.mandame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1876809063",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "maria laura gomez"
+  },
+  {
+    "ts": 1789146316000,
+    "mensaje": "Cómo lo hago ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "172680235",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lidaimy Valido"
+  },
+  {
+    "ts": 1789146523000,
+    "mensaje": "Por favor quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1246270194",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Usuario"
   }
 ]
