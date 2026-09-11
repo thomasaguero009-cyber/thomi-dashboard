@@ -229288,5 +229288,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "asuncio molina santana"
+  },
+  {
+    "ts": 1789145796000,
+    "mensaje": "Necesito una ayuda",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1410344818",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hilda Lopez"
+  },
+  {
+    "ts": 1789145858000,
+    "mensaje": "estoy en computador",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1431634182",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "juan manuel"
+  },
+  {
+    "ts": 1789145884000,
+    "mensaje": "Hola buenas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "753519769",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Johanna Quevedo"
+  },
+  {
+    "ts": 1789145892000,
+    "mensaje": "Ya sale",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2102522497",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dilan vr 85"
+  },
+  {
+    "ts": 1789145923000,
+    "mensaje": "BotQueres que te la envie?Cualquier cosita le aviso gracias!",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1941950431",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roxana"
+  },
+  {
+    "ts": 1789145950000,
+    "mensaje": "Buenas sí me encantaría 🤗",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1491405463",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "María Mijares"
+  },
+  {
+    "ts": 1789145962000,
+    "mensaje": "A qué hora es?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "942722330",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebastian Viteri"
+  },
+  {
+    "ts": 1789145967000,
+    "mensaje": "Tengo los 19 años de edad",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "313097501",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexander Saavedra"
+  },
+  {
+    "ts": 1789146011000,
+    "mensaje": "Y tengo 35 años",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "377411896",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yusneily Espinoza"
   }
 ]
