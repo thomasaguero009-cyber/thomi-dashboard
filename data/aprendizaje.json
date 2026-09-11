@@ -229198,5 +229198,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roo Gomez"
+  },
+  {
+    "ts": 1789144288000,
+    "mensaje": "Gracia, me interesaria saber sinceramente",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "982260131",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "."
+  },
+  {
+    "ts": 1789144295000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "721346315",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enith Pinos Martinez"
   }
 ]
