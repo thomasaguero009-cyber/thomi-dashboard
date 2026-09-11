@@ -464098,5 +464098,61 @@
     "nombreContacto": "Maria Esther Tesoriero",
     "remitente": "contacto",
     "texto": "Gracias"
+  },
+  {
+    "ts": 1789145690000,
+    "subscriberId": "1620014268",
+    "nombreContacto": "Dariel Ocoromí",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789145690000,
+    "subscriberId": "1620014268",
+    "nombreContacto": "Dariel Ocoromí",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelClase"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario estas para que te pase la clase?"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789145691000,
+    "subscriberId": "782477296",
+    "nombreContacto": "asuncio molina santana",
+    "remitente": "contacto",
+    "texto": "Cómo es"
   }
 ]
