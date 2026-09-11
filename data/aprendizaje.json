@@ -227078,5 +227078,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Z"
+  },
+  {
+    "ts": 1789138312000,
+    "mensaje": "Hola tino 😁",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1415272463",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ederson Andres"
+  },
+  {
+    "ts": 1789138391000,
+    "mensaje": "Tino buenas tarde",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "803684376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jesus"
+  },
+  {
+    "ts": 1789138419000,
+    "mensaje": "buenas, si quiero aprender a generar ingresos respondiendo mensajes en WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "634079695",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mariano"
+  },
+  {
+    "ts": 1789138426000,
+    "mensaje": "Ese es mio",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "275362246",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel Ezequiel Patiño"
+  },
+  {
+    "ts": 1789138441000,
+    "mensaje": "Si está bien",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1105157191",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrian Canales"
+  },
+  {
+    "ts": 1789138444000,
+    "mensaje": "saulalfaro481@gmail.com",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1131686254",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saúl Alfaro"
+  },
+  {
+    "ts": 1789138462000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "611453202",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando"
+  },
+  {
+    "ts": 1789138463000,
+    "mensaje": "",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "611453202",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernando"
+  },
+  {
+    "ts": 1789138473000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "633268902",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "IsAi_mx7"
+  },
+  {
+    "ts": 1789138485000,
+    "mensaje": "Y por esta también plis",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1115607384",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "zavith perez"
+  },
+  {
+    "ts": 1789138497000,
+    "mensaje": "Aa está bien gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "37894418",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Keila López"
+  },
+  {
+    "ts": 1789138502000,
+    "mensaje": "Hola no se si me pude registrar correctamente",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "752248403",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "leidy laura"
   }
 ]
