@@ -212128,5 +212128,375 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carlos Verdecia"
+  },
+  {
+    "ts": 1789066517000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1474063952",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Felipe Andrés"
+  },
+  {
+    "ts": 1789066520000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "228209249",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angel70"
+  },
+  {
+    "ts": 1789066552000,
+    "mensaje": "Me gustaría saber",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1281342501",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ivana Carbonari"
+  },
+  {
+    "ts": 1789066553000,
+    "mensaje": "Me gustaría saber",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1281342501",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ivana Carbonari"
+  },
+  {
+    "ts": 1789066560000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "718731094",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Banquet Server"
+  },
+  {
+    "ts": 1789066571000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1140230320",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jeremi Rodriguez"
+  },
+  {
+    "ts": 1789066578000,
+    "mensaje": "Hola muchas gracias \nSi quiero aprender",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "2110829411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᗩᑎᒪƳ"
+  },
+  {
+    "ts": 1789066579000,
+    "mensaje": "Hola muchas gracias \nSi quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2110829411",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᗩᑎᒪƳ"
+  },
+  {
+    "ts": 1789066583000,
+    "mensaje": "Holaa, si me gustaría, pero eso también funciona en Costa Rica?",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1115692049",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kristel Alvarado"
+  },
+  {
+    "ts": 1789066584000,
+    "mensaje": "Holaa, si me gustaría, pero eso también funciona en Costa Rica?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1115692049",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kristel Alvarado"
+  },
+  {
+    "ts": 1789066586000,
+    "mensaje": "Buenas disculpa que no había visto tu mensaje",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1424052029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mauricio | Private Chef"
+  },
+  {
+    "ts": 1789066586000,
+    "mensaje": "Buenas disculpa que no había visto tu mensaje",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1424052029",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mauricio | Private Chef"
+  },
+  {
+    "ts": 1789066610000,
+    "mensaje": "Estoy en la universidad",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "2070604203",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🥀𝓗é𝓬𝓽𝓸𝓻 𝓡𝓸𝓭𝓻𝓲𝓰𝓾𝓮𝔃 🥀"
+  },
+  {
+    "ts": 1789066612000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1389242272",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dairon Pérez Rodríguez"
+  },
+  {
+    "ts": 1789066638000,
+    "mensaje": "Tengo 17 años, habrá algún problema?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "707063828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Moreno"
+  },
+  {
+    "ts": 1789066646000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "399397120",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "S T E F A N I A"
+  },
+  {
+    "ts": 1789066649000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1586323793",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonel Baez ʚïɞ"
+  },
+  {
+    "ts": 1789066652000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "565592487",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "greycelis rondon"
+  },
+  {
+    "ts": 1789066656000,
+    "mensaje": "Ok tinooo mándame saludo Lionel",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1052830613",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "@ atoche_zz"
+  },
+  {
+    "ts": 1789066681000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "973247981",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jonathan_frutoss"
+  },
+  {
+    "ts": 1789066695000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1650974993",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mi dulce Margarita"
+  },
+  {
+    "ts": 1789066699000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "626870621",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lizzett Batista"
+  },
+  {
+    "ts": 1789066716000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1218331895",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "candeespinosa.07"
+  },
+  {
+    "ts": 1789066722000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "62255157",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MAGDALENA"
+  },
+  {
+    "ts": 1789066728000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "725649149",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Icaris Chacon"
+  },
+  {
+    "ts": 1789066733000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1265287404",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roderick Gil"
+  },
+  {
+    "ts": 1789066736000,
+    "mensaje": "",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1039139095",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "emilio.bers"
+  },
+  {
+    "ts": 1789066736000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si deseo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1039139095",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "emilio.bers"
+  },
+  {
+    "ts": 1789066743000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "600582624",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Flor Salas"
+  },
+  {
+    "ts": 1789066750000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "622055556",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ada V. Rementeria"
+  },
+  {
+    "ts": 1789066753000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1304794537",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "abi8_76"
+  },
+  {
+    "ts": 1789066761000,
+    "mensaje": "Para que es la edad",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "834647828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "mrj"
+  },
+  {
+    "ts": 1789066768000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "2127179050",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paola Benesperi"
+  },
+  {
+    "ts": 1789066791000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "940956773",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roberto Carlos González Alvarado"
+  },
+  {
+    "ts": 1789066795000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1079301328",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MeñitoMZ👿"
+  },
+  {
+    "ts": 1789066810000,
+    "mensaje": "Buenas si estoy interesado",
+    "boton": "Catalogo🦁",
+    "respuesta": "",
+    "subscriberId": "1791586731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Steven Pachon"
+  },
+  {
+    "ts": 1789066811000,
+    "mensaje": "Buenas si estoy interesado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1791586731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Steven Pachon"
   }
 ]
