@@ -230008,5 +230008,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Paz_Josias"
+  },
+  {
+    "ts": 1789151296000,
+    "mensaje": "BotQuerés que te la envíe?Si por favor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2008032846",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franco Escandell"
+  },
+  {
+    "ts": 1789151302000,
+    "mensaje": "quiero salir adelante",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1973080952",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝑆𝑜"
+  },
+  {
+    "ts": 1789151313000,
+    "mensaje": "🥲",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1370537280",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alva_dan.ii"
+  },
+  {
+    "ts": 1789151314000,
+    "mensaje": "🥲",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1370537280",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alva_dan.ii"
+  },
+  {
+    "ts": 1789151556000,
+    "mensaje": "Hola! Cómo sería?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "420219087",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Katherine♥"
+  },
+  {
+    "ts": 1789151563000,
+    "mensaje": "dame tu número",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "984134388",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brezzy 🇨🇺"
+  },
+  {
+    "ts": 1789151565000,
+    "mensaje": "Hola! Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "562996912",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Liliana Deluca"
   }
 ]
