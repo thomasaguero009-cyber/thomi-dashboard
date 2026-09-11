@@ -412095,5 +412095,26 @@
     "nombreContacto": "Dylan Martín",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789127731000,
+    "subscriberId": "1278775774",
+    "nombreContacto": "Dylan Martín",
+    "remitente": "contacto",
+    "texto": "Tengo 25"
+  },
+  {
+    "ts": 1789127797000,
+    "subscriberId": "1278775774",
+    "nombreContacto": "Dylan Martín",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789127840000,
+    "subscriberId": "1278775774",
+    "nombreContacto": "Dylan Martín",
+    "remitente": "contacto",
+    "texto": "Bueno dale"
   }
 ]
