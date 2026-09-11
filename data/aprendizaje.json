@@ -214478,5 +214478,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "César David Ochoa"
+  },
+  {
+    "ts": 1789122604000,
+    "mensaje": ".",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1715250288",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "~Terry Nily~"
+  },
+  {
+    "ts": 1789122612000,
+    "mensaje": "siii porfavor",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1665622768",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Miri"
   }
 ]
