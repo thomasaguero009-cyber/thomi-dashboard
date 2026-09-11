@@ -229228,5 +229228,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "LalEeX ValdeZ"
+  },
+  {
+    "ts": 1789144863000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1941950431",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Roxana"
+  },
+  {
+    "ts": 1789144932000,
+    "mensaje": "Intentar,",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1367039186",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Karina Martínez soro"
+  },
+  {
+    "ts": 1789145007000,
+    "mensaje": "No me aparece el mensaje",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1698818121",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Esther Tesoriero"
+  },
+  {
+    "ts": 1789145013000,
+    "mensaje": "Pero no me agende porque dice que tengo que pagar 1 dolar pero yo no tengo cuenta de banco",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "2075961021",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martin_ELC"
+  },
+  {
+    "ts": 1789145022000,
+    "mensaje": "No me se mi instagram",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1879151497",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria De Fatima Kelly"
   }
 ]
