@@ -215948,5 +215948,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "chula🪐"
+  },
+  {
+    "ts": 1789123829000,
+    "mensaje": "Mándamela",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1122860877",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Polonia"
+  },
+  {
+    "ts": 1789123858000,
+    "mensaje": "Nunca me abrió la clase",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1190713745",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "J.P.albert13"
+  },
+  {
+    "ts": 1789123861000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "980920735",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "MaJu Díaz Alonzo"
+  },
+  {
+    "ts": 1789123868000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "490535218",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elisabed Dias Torres"
+  },
+  {
+    "ts": 1789123873000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1381696202",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcelo Ruiz"
+  },
+  {
+    "ts": 1789123940000,
+    "mensaje": "Tengo que ser mayor de edad??",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1266493633",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "brii_reyyy"
+  },
+  {
+    "ts": 1789123943000,
+    "mensaje": "Ferbarriosfacultad@gmail.com",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "737321085",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernanda Barrios"
+  },
+  {
+    "ts": 1789123948000,
+    "mensaje": "Dale Tino gracias",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "155110531",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matias Funes"
+  },
+  {
+    "ts": 1789124024000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "406953737",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel Negri"
   }
 ]
