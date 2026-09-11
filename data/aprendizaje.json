@@ -229468,5 +229468,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Usuario"
+  },
+  {
+    "ts": 1789148161000,
+    "mensaje": "Quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "484696076",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "brenda"
+  },
+  {
+    "ts": 1789148180000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "512025344",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "D M"
+  },
+  {
+    "ts": 1789148182000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "977042282",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yovany Yovany"
+  },
+  {
+    "ts": 1789148203000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1368162874",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aracelly santos"
+  },
+  {
+    "ts": 1789148271000,
+    "mensaje": "Cómo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1109009838",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Enrique"
+  },
+  {
+    "ts": 1789148291000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1363105593",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Rodrigo"
+  },
+  {
+    "ts": 1789148295000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1531495718",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nami🌴"
+  },
+  {
+    "ts": 1789148323000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "1010934657",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra Cabrera"
+  },
+  {
+    "ts": 1789148327000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1499648048",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "J.Negrete"
+  },
+  {
+    "ts": 1789148340000,
+    "mensaje": "Hola buenas tardes si me interesa.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1134950842",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Osmar Flores"
+  },
+  {
+    "ts": 1789148359000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1656113215",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "TOPO LA 1"
+  },
+  {
+    "ts": 1789148410000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "200120703",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marisa Jeich"
   }
 ]
