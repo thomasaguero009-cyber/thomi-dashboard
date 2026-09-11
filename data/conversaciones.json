@@ -461424,5 +461424,110 @@
     "nombreContacto": "Anna",
     "remitente": "contacto",
     "texto": "Buenas tardes. Sí quiero aprender."
+  },
+  {
+    "ts": 1789142172000,
+    "subscriberId": "1171286287",
+    "nombreContacto": "Anna",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789142175000,
+    "subscriberId": "1227571154",
+    "nombreContacto": "John",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas"
+  },
+  {
+    "ts": 1789142175000,
+    "subscriberId": "1227571154",
+    "nombreContacto": "John",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1789142175000,
+    "subscriberId": "1227571154",
+    "nombreContacto": "John",
+    "remitente": "contacto",
+    "texto": "Si xfavor"
+  },
+  {
+    "ts": 1789142177000,
+    "subscriberId": "800163094",
+    "nombreContacto": "Robin Cruz",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789142177000,
+    "subscriberId": "800163094",
+    "nombreContacto": "Robin Cruz",
+    "remitente": "contacto",
+    "texto": "🫱🏻‍🫲🏾"
+  },
+  {
+    "ts": 1789142236000,
+    "subscriberId": "800163094",
+    "nombreContacto": "Robin Cruz",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789142240000,
+    "subscriberId": "800163094",
+    "nombreContacto": "Robin Cruz",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789142277000,
+    "subscriberId": "1509148571",
+    "nombreContacto": "❤️ Aleja ❤️",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789142277000,
+    "subscriberId": "1509148571",
+    "nombreContacto": "❤️ Aleja ❤️",
+    "remitente": "contacto",
+    "texto": "Hola buenas tardes gracias me gustan sus videos son muy interesantes"
+  },
+  {
+    "ts": 1789142337000,
+    "subscriberId": "1509148571",
+    "nombreContacto": "❤️ Aleja ❤️",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789142340000,
+    "subscriberId": "1509148571",
+    "nombreContacto": "❤️ Aleja ❤️",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789142384000,
+    "subscriberId": "1509148571",
+    "nombreContacto": "❤️ Aleja ❤️",
+    "remitente": "contacto",
+    "texto": "Okey esta bien gracias"
+  },
+  {
+    "ts": 1789142402000,
+    "subscriberId": "1731493258",
+    "nombreContacto": "alejandro scarpa",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789142402000,
+    "subscriberId": "1731493258",
+    "nombreContacto": "alejandro scarpa",
+    "remitente": "contacto",
+    "texto": "Hola si acá estoy"
   }
 ]

@@ -228498,5 +228498,285 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Santiago Chávez"
+  },
+  {
+    "ts": 1789141841000,
+    "mensaje": "Deseo agendarme",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "140056708",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JULIO PALMA | Marketing Digital | Campañas Ads"
+  },
+  {
+    "ts": 1789141862000,
+    "mensaje": "BotQue edad tenes?20 años",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1406138422",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian Linares"
+  },
+  {
+    "ts": 1789141876000,
+    "mensaje": "",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "237272828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Carlota Prunty"
+  },
+  {
+    "ts": 1789141887000,
+    "mensaje": "ClientFotoNecesito completar los siguientes 5 pasos restantes podes, ayúdarme?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1831952976",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joel TG"
+  },
+  {
+    "ts": 1789141892000,
+    "mensaje": "Dale enviame",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "482730982",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Felipe MoyaD"
+  },
+  {
+    "ts": 1789141897000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "34708059",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paola Cortez"
+  },
+  {
+    "ts": 1789141913000,
+    "mensaje": "💗💗💗",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1298054129",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ángelesperomas🔝"
+  },
+  {
+    "ts": 1789141920000,
+    "mensaje": "Bueno",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "45413760",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Graciela Elias"
+  },
+  {
+    "ts": 1789141924000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "958139906",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra Alvarez"
+  },
+  {
+    "ts": 1789141945000,
+    "mensaje": "Quiero saber cómo empiezo",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1718139610",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ezze😛"
+  },
+  {
+    "ts": 1789141954000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1150383347",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rodolfo Olvera"
+  },
+  {
+    "ts": 1789141957000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "268812216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "KYGcastillo"
+  },
+  {
+    "ts": 1789141966000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "899309629",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fide Cedeño"
+  },
+  {
+    "ts": 1789141970000,
+    "mensaje": "Si tino perfecto",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1835384969",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandra Espinoza"
+  },
+  {
+    "ts": 1789141984000,
+    "mensaje": "Hola Tino. Bendiciones. Me van a operar porque me encontraron un (TU), y no tengo dinero necesito porque aquí en Venezuela se pone se paga todo y soy de bajo recursos. Debo realizarme resonancia y me sale muy cara.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "967056163",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marilyn Gavidia"
+  },
+  {
+    "ts": 1789141995000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1253390966",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aaron Cas"
+  },
+  {
+    "ts": 1789142015000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1564039304",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosmery Hernandez"
+  },
+  {
+    "ts": 1789142046000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1172000329",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gigii Palecia"
+  },
+  {
+    "ts": 1789142055000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "189415799",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pamela D'Ortona-Peralta"
+  },
+  {
+    "ts": 1789142060000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "182571662",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Celes Wii"
+  },
+  {
+    "ts": 1789142090000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Ok, gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1644810069",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicole."
+  },
+  {
+    "ts": 1789142104000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "927817900",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Brenda Durán Chávez"
+  },
+  {
+    "ts": 1789142109000,
+    "mensaje": "A ver",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1554864832",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Harold Jens"
+  },
+  {
+    "ts": 1789142112000,
+    "mensaje": "Buenas tardes. Sí quiero aprender.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1171286287",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anna"
+  },
+  {
+    "ts": 1789142175000,
+    "mensaje": "Si xfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1227571154",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "John"
+  },
+  {
+    "ts": 1789142177000,
+    "mensaje": "🫱🏻‍🫲🏾",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "800163094",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Robin Cruz"
+  },
+  {
+    "ts": 1789142277000,
+    "mensaje": "Hola buenas tardes gracias me gustan sus videos son muy interesantes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1509148571",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "❤️ Aleja ❤️"
+  },
+  {
+    "ts": 1789142403000,
+    "mensaje": "Hola si acá estoy",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1731493258",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "alejandro scarpa"
   }
 ]
