@@ -228778,5 +228778,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "alejandro scarpa"
+  },
+  {
+    "ts": 1789142465000,
+    "mensaje": "¡Hola, Tino mossu! Soy Adrian. También de Merlo. Estoy mirando tu clase en Youtube. Re copado. Me interesa tu propuesta. Me pasás las 60 preguntas. Y después me gustaría saber más sobre el tema. Saludos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1161202366",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrián"
+  },
+  {
+    "ts": 1789142568000,
+    "mensaje": "Sii quiero más info",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2081667969",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kari Algarbe"
+  },
+  {
+    "ts": 1789142582000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1314637478",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jordin Vega"
+  },
+  {
+    "ts": 1789142637000,
+    "mensaje": "Sóy menor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1098016554",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🫩...🫩"
   }
 ]
