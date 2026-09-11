@@ -456916,5 +456916,523 @@
     "nombreContacto": "Tommaass",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789140324000,
+    "subscriberId": "1745553555",
+    "nombreContacto": "Tommaass",
+    "remitente": "contacto",
+    "texto": "Sisi porfavor"
+  },
+  {
+    "ts": 1789140412000,
+    "subscriberId": "1745553555",
+    "nombreContacto": "Tommaass",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789140416000,
+    "subscriberId": "1745553555",
+    "nombreContacto": "Tommaass",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789140427000,
+    "subscriberId": "1745553555",
+    "nombreContacto": "Tommaass",
+    "remitente": "contacto",
+    "texto": "15"
+  },
+  {
+    "ts": 1789140498000,
+    "subscriberId": "118436207",
+    "nombreContacto": "janky",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140498000,
+    "subscriberId": "118436207",
+    "nombreContacto": "janky",
+    "remitente": "contacto",
+    "texto": "coméntame"
+  },
+  {
+    "ts": 1789140505000,
+    "subscriberId": "211056786",
+    "nombreContacto": "Carlos Gomez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140505000,
+    "subscriberId": "211056786",
+    "nombreContacto": "Carlos Gomez",
+    "remitente": "contacto",
+    "texto": "Como es"
+  },
+  {
+    "ts": 1789140525000,
+    "subscriberId": "1920080408",
+    "nombreContacto": "Yoan Fariagarcia",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140525000,
+    "subscriberId": "1920080408",
+    "nombreContacto": "Yoan Fariagarcia",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1789140527000,
+    "subscriberId": "1394185033",
+    "nombreContacto": "Pau",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140527000,
+    "subscriberId": "1394185033",
+    "nombreContacto": "Pau",
+    "remitente": "contacto",
+    "texto": "Si quiero"
+  },
+  {
+    "ts": 1789140539000,
+    "subscriberId": "1634450422",
+    "nombreContacto": "Sofía Moon",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140539000,
+    "subscriberId": "1634450422",
+    "nombreContacto": "Sofía Moon",
+    "remitente": "contacto",
+    "texto": "👌"
+  },
+  {
+    "ts": 1789140549000,
+    "subscriberId": "61581704",
+    "nombreContacto": "Lorena Diaz",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140549000,
+    "subscriberId": "61581704",
+    "nombreContacto": "Lorena Diaz",
+    "remitente": "contacto",
+    "texto": "Si me gustaría"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "contacto",
+    "texto": "BotTe pudiste agendar?Siii pude agendarme , anoté algunas preguntas para realizar en la entrevista . \n\nGracias"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "contacto",
+    "texto": "Domingo 13 hora 2:15 pm en mi país"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "agente",
+    "texto": "Buenisimooooo, ya estas muy cerca de convertirte en closer"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "agente",
+    "texto": "Por ultimo te consulto, pudiste confirmar asistencia por whatsapp para hacer la reunion?"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "contacto",
+    "texto": "BotPor ultimo te consulto, pudiste confirmar asistencia por whatsapp para hacer la reunion?Si ya me dijeron que el lugar está reservado"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "contacto",
+    "texto": "Ya me agende , Ya confirmado"
+  },
+  {
+    "ts": 1789140554000,
+    "subscriberId": "1716121567",
+    "nombreContacto": "Gigi💜",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "agente",
+    "texto": "O te paso la agenda directa?"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "contacto",
+    "texto": "Agende asesoría, me derivaron a una agenda dejé mis datos y se comunicaron por WhatsApp, no sé si hay algún otro paso más que no vi"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "contacto",
+    "texto": "Creo haber entendido lo que es un clouser de ventas"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "contacto",
+    "texto": "Entendí que tengo que cerrar ventas directas con los clientes que lleguen y lo que yo gano es en base a comisiones de ventas que haya cerrado"
+  },
+  {
+    "ts": 1789140557000,
+    "subscriberId": "1248448755",
+    "nombreContacto": "𝑨𝒍𝒅𝒂𝒏𝒂 𝑺𝒐𝒍𝒂𝒏𝒈𝒆",
+    "remitente": "contacto",
+    "texto": "BotSuperrrr!! que dia y hora te agendaste para estar pendiente de vos?Lunes 11hs"
+  },
+  {
+    "ts": 1789140563000,
+    "subscriberId": "1003582824",
+    "nombreContacto": "luuuci°",
+    "remitente": "agente",
+    "texto": "AGENDA 📞"
+  },
+  {
+    "ts": 1789140569000,
+    "subscriberId": "1003582824",
+    "nombreContacto": "luuuci°",
+    "remitente": "agente",
+    "texto": "Por aca te podes agendar"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "agente",
+    "texto": "Veo que entraste a agendar, para que día y hora quedo?"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "contacto",
+    "texto": "Tengo que esperar 2:40 minutos"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "agente",
+    "texto": "Buenisimooooo, ya estas muy cerca de convertirte en closer"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "agente",
+    "texto": "Por ultimo te consulto, pudiste confirmar asistencia por whatsapp para hacer la reunion?"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "contacto",
+    "texto": "Me mandó aquí, y me dice que tengo que pagar"
+  },
+  {
+    "ts": 1789140574000,
+    "subscriberId": "1119268273",
+    "nombreContacto": "🌷Flor Medina,🌷",
+    "remitente": "contacto",
+    "texto": "BotPor ultimo te consulto, pudiste confirmar asistencia por whatsapp para hacer la reunion?No"
+  },
+  {
+    "ts": 1789140578000,
+    "subscriberId": "280290775",
+    "nombreContacto": "isis_19",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789140578000,
+    "subscriberId": "280290775",
+    "nombreContacto": "isis_19",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789140578000,
+    "subscriberId": "280290775",
+    "nombreContacto": "isis_19",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789140578000,
+    "subscriberId": "280290775",
+    "nombreContacto": "isis_19",
+    "remitente": "contacto",
+    "texto": "Sipi"
+  },
+  {
+    "ts": 1789140578000,
+    "subscriberId": "280290775",
+    "nombreContacto": "isis_19",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1789140591000,
+    "subscriberId": "230210716",
+    "nombreContacto": "Erick Pereira",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789140591000,
+    "subscriberId": "230210716",
+    "nombreContacto": "Erick Pereira",
+    "remitente": "contacto",
+    "texto": "Si, si pude"
+  },
+  {
+    "ts": 1789140591000,
+    "subscriberId": "230210716",
+    "nombreContacto": "Erick Pereira",
+    "remitente": "contacto",
+    "texto": "Ahora que?"
+  },
+  {
+    "ts": 1789140591000,
+    "subscriberId": "230210716",
+    "nombreContacto": "Erick Pereira",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
+  },
+  {
+    "ts": 1789140591000,
+    "subscriberId": "230210716",
+    "nombreContacto": "Erick Pereira",
+    "remitente": "contacto",
+    "texto": "Cómo consigo la oferta laboral?"
+  },
+  {
+    "ts": 1789140595000,
+    "subscriberId": "627445612",
+    "nombreContacto": "Adan Ariel Bordon Ortiz",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789140595000,
+    "subscriberId": "627445612",
+    "nombreContacto": "Adan Ariel Bordon Ortiz",
+    "remitente": "contacto",
+    "texto": "Como seria"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "Quiero saber cómo generar ingresos respondiendo mensajes en WhatsApp"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "Sí por favor"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "Pero esto es real?"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "Antes quiero saber si esto es real y seguro"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "BotQue edad tenes?Tengo 20 años"
+  },
+  {
+    "ts": 1789140603000,
+    "subscriberId": "1590793074",
+    "nombreContacto": "Ela 9822",
+    "remitente": "contacto",
+    "texto": "Holi? 🥺"
+  },
+  {
+    "ts": 1789140607000,
+    "subscriberId": "1141915475",
+    "nombreContacto": "Isvet De Armas",
+    "remitente": "contacto",
+    "texto": "Hola soy de cuba agendar"
+  },
+  {
+    "ts": 1789140607000,
+    "subscriberId": "1141915475",
+    "nombreContacto": "Isvet De Armas",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉AGENDA👈"
+  },
+  {
+    "ts": 1789140607000,
+    "subscriberId": "1141915475",
+    "nombreContacto": "Isvet De Armas",
+    "remitente": "agente",
+    "texto": "Veo que entraste a agendar, para que día y hora quedo?"
+  },
+  {
+    "ts": 1789140607000,
+    "subscriberId": "1141915475",
+    "nombreContacto": "Isvet De Armas",
+    "remitente": "contacto",
+    "texto": "En la encuesta me piden el # de teléfono pero como es de cuba no me deja continuar"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "buen dia, me podes enviar?"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "o tengo que ser mayor de edad?"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 1 hora"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "yo"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "agente",
+    "texto": "Buenas"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "agente",
+    "texto": "Mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "buenas tardes"
+  },
+  {
+    "ts": 1789140616000,
+    "subscriberId": "1973080952",
+    "nombreContacto": "𝑆𝑜",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la envie?si"
   }
 ]
