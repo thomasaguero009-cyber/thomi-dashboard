@@ -230148,5 +230148,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "thiagui_pavon"
+  },
+  {
+    "ts": 1789152594000,
+    "mensaje": "Okey gracias",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1944215974",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pato"
+  },
+  {
+    "ts": 1789152768000,
+    "mensaje": "Okey",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "862270216",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "edsxn_sxnchez"
+  },
+  {
+    "ts": 1789152788000,
+    "mensaje": "Mm no uso whatsap",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "281429116",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS"
   }
 ]

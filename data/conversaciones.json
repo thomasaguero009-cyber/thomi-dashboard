@@ -468263,5 +468263,68 @@
     "nombreContacto": "Lola Gimenez",
     "remitente": "contacto",
     "texto": "Estoy"
+  },
+  {
+    "ts": 1789152665000,
+    "subscriberId": "25646874",
+    "nombreContacto": "Lola Gimenez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789152669000,
+    "subscriberId": "25646874",
+    "nombreContacto": "Lola Gimenez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789152767000,
+    "subscriberId": "862270216",
+    "nombreContacto": "edsxn_sxnchez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789152767000,
+    "subscriberId": "862270216",
+    "nombreContacto": "edsxn_sxnchez",
+    "remitente": "contacto",
+    "texto": "Okey"
+  },
+  {
+    "ts": 1789152787000,
+    "subscriberId": "281429116",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789152787000,
+    "subscriberId": "281429116",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS",
+    "remitente": "contacto",
+    "texto": "Mm no uso whatsap"
+  },
+  {
+    "ts": 1789152848000,
+    "subscriberId": "281429116",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789152852000,
+    "subscriberId": "281429116",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789152867000,
+    "subscriberId": "281429116",
+    "nombreContacto": "Ezz_Eme_Flow_King_PKS",
+    "remitente": "contacto",
+    "texto": "Ok"
   }
 ]
