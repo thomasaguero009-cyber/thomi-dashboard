@@ -468221,5 +468221,47 @@
     "nombreContacto": "Angel Pastor",
     "remitente": "contacto",
     "texto": "Por supuesto me interesa"
+  },
+  {
+    "ts": 1789152322000,
+    "subscriberId": "821144017",
+    "nombreContacto": "thiagui_pavon",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789152326000,
+    "subscriberId": "821144017",
+    "nombreContacto": "thiagui_pavon",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789152594000,
+    "subscriberId": "1944215974",
+    "nombreContacto": "Pato",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789152594000,
+    "subscriberId": "1944215974",
+    "nombreContacto": "Pato",
+    "remitente": "contacto",
+    "texto": "Okey gracias"
+  },
+  {
+    "ts": 1789152605000,
+    "subscriberId": "25646874",
+    "nombreContacto": "Lola Gimenez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789152605000,
+    "subscriberId": "25646874",
+    "nombreContacto": "Lola Gimenez",
+    "remitente": "contacto",
+    "texto": "Estoy"
   }
 ]
