@@ -224398,5 +224398,105 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "lisethreina"
+  },
+  {
+    "ts": 1789134945000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1440888419",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Omaira de Veracierto"
+  },
+  {
+    "ts": 1789134946000,
+    "mensaje": "Vale quiero generar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "231876118",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yorshua Zambrano"
+  },
+  {
+    "ts": 1789135155000,
+    "mensaje": "Ok la verdd quiero progresar",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "40907233",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "thiago armuelles"
+  },
+  {
+    "ts": 1789135159000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1178094647",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝔽𝕖𝕣𝕩𝕩𝕠𝕗𝕒𝕜𝕖"
+  },
+  {
+    "ts": 1789135162000,
+    "mensaje": "Gracias 🫂",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1727588780",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "LeonarJose"
+  },
+  {
+    "ts": 1789135166000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1080508448",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carina Pastore"
+  },
+  {
+    "ts": 1789135170000,
+    "mensaje": "BotO te paso la agenda directa?Si, por favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1601431627",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Darinel Perez"
+  },
+  {
+    "ts": 1789135189000,
+    "mensaje": "Es correcto sus consejos....me gusta",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1574100348",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jordan zain"
+  },
+  {
+    "ts": 1789135203000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "213601327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pedro Jaen Reyes"
+  },
+  {
+    "ts": 1789135206000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "351878697",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Eduardo Salas Pacheco"
   }
 ]
