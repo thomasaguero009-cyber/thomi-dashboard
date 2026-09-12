@@ -231238,5 +231238,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "delkaconstrucciones"
+  },
+  {
+    "ts": 1789217490000,
+    "mensaje": "Si me interesa",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1377247899",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Arlet Parey"
+  },
+  {
+    "ts": 1789217653000,
+    "mensaje": "Buenas que tal.\nSi me gustaría aprender como generar ingresos por medio de WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1301642714",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rugner Rivera"
+  },
+  {
+    "ts": 1789217655000,
+    "mensaje": "Cómo sería eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "315265530",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joann Rivas"
+  },
+  {
+    "ts": 1789217687000,
+    "mensaje": "Quiero ser closer",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "738432073",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jerson Arauz"
   }
 ]
