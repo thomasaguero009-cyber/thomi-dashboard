@@ -514239,5 +514239,75 @@
     "nombreContacto": "Yoel Rodriguez",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789233657000,
+    "subscriberId": "258491333",
+    "nombreContacto": "Yoel Rodriguez",
+    "remitente": "contacto",
+    "texto": "52 años"
+  },
+  {
+    "ts": 1789233725000,
+    "subscriberId": "258491333",
+    "nombreContacto": "Yoel Rodriguez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789233875000,
+    "subscriberId": "1791958883",
+    "nombreContacto": "✞ËŁ 13 ✞",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789233875000,
+    "subscriberId": "1791958883",
+    "nombreContacto": "✞ËŁ 13 ✞",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas tardes"
+  },
+  {
+    "ts": 1789233875000,
+    "subscriberId": "1791958883",
+    "nombreContacto": "✞ËŁ 13 ✞",
+    "remitente": "contacto",
+    "texto": "Este mensaje ha sido eliminado"
+  },
+  {
+    "ts": 1789233875000,
+    "subscriberId": "1791958883",
+    "nombreContacto": "✞ËŁ 13 ✞",
+    "remitente": "contacto",
+    "texto": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Me gustaria pero soy menor de edad"
+  },
+  {
+    "ts": 1789233915000,
+    "subscriberId": "183249923",
+    "nombreContacto": "Milü",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789233915000,
+    "subscriberId": "183249923",
+    "nombreContacto": "Milü",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789233915000,
+    "subscriberId": "183249923",
+    "nombreContacto": "Milü",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789233915000,
+    "subscriberId": "183249923",
+    "nombreContacto": "Milü",
+    "remitente": "contacto",
+    "texto": "Buenas,si quiero aprender 🙌🏼"
   }
 ]
