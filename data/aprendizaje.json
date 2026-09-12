@@ -235338,5 +235338,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carlitos"
+  },
+  {
+    "ts": 1789225844000,
+    "mensaje": "clase",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1302711676",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Alberto"
+  },
+  {
+    "ts": 1789225910000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "119491453",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gise 🦋🌈🌟♊"
+  },
+  {
+    "ts": 1789225915000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1681860666",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yadi Mayorga"
+  },
+  {
+    "ts": 1789225917000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "465598899",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "bix"
+  },
+  {
+    "ts": 1789225929000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "351549423",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Pablo Flores"
+  },
+  {
+    "ts": 1789225937000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "274037658",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elizabeth Fonseca Malvestuto"
+  },
+  {
+    "ts": 1789225941000,
+    "mensaje": "Veo de nuevo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "426345376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fernandez"
+  },
+  {
+    "ts": 1789225943000,
+    "mensaje": "?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "1357975451",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Mosquera"
+  },
+  {
+    "ts": 1789225948000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "985951613",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marklyn Ruiz"
+  },
+  {
+    "ts": 1789225953000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1548289834",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dalay"
+  },
+  {
+    "ts": 1789225955000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "2139405534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcos Noguera"
+  },
+  {
+    "ts": 1789225958000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "991102494",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Julián Muena Gutiérrez"
   }
 ]
