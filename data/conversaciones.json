@@ -473359,5 +473359,75 @@
     "nombreContacto": "Camilo Santibañez",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789218702000,
+    "subscriberId": "317327341",
+    "nombreContacto": "Genaro Lopez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789218702000,
+    "subscriberId": "317327341",
+    "nombreContacto": "Genaro Lopez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789218702000,
+    "subscriberId": "317327341",
+    "nombreContacto": "Genaro Lopez",
+    "remitente": "contacto",
+    "texto": "SI"
+  },
+  {
+    "ts": 1789218716000,
+    "subscriberId": "593767412",
+    "nombreContacto": "Misselia Soares",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelWhatsapp"
+  },
+  {
+    "ts": 1789218716000,
+    "subscriberId": "593767412",
+    "nombreContacto": "Misselia Soares",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario estas para que te pase la clase?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789218716000,
+    "subscriberId": "593767412",
+    "nombreContacto": "Misselia Soares",
+    "remitente": "contacto",
+    "texto": "Bueno"
+  },
+  {
+    "ts": 1789218728000,
+    "subscriberId": "683286955",
+    "nombreContacto": "Maria Karla Diaz",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 4 horas"
+  },
+  {
+    "ts": 1789218728000,
+    "subscriberId": "683286955",
+    "nombreContacto": "Maria Karla Diaz",
+    "remitente": "contacto",
+    "texto": "Gratis"
+  },
+  {
+    "ts": 1789218728000,
+    "subscriberId": "683286955",
+    "nombreContacto": "Maria Karla Diaz",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789218858000,
+    "subscriberId": "1283797601",
+    "nombreContacto": "Zoe Maquillaje Permanente",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
