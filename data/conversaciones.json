@@ -514435,5 +514435,40 @@
     "nombreContacto": "Alba Graciela Maidana",
     "remitente": "contacto",
     "texto": "Hola me pasas info de la propuesta"
+  },
+  {
+    "ts": 1789234248000,
+    "subscriberId": "26116871",
+    "nombreContacto": "Veronica Leguizamon",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCertificado"
+  },
+  {
+    "ts": 1789234248000,
+    "subscriberId": "26116871",
+    "nombreContacto": "Veronica Leguizamon",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789234248000,
+    "subscriberId": "26116871",
+    "nombreContacto": "Veronica Leguizamon",
+    "remitente": "contacto",
+    "texto": "Buenas si me interesa"
+  },
+  {
+    "ts": 1789234308000,
+    "subscriberId": "26116871",
+    "nombreContacto": "Veronica Leguizamon",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789234312000,
+    "subscriberId": "26116871",
+    "nombreContacto": "Veronica Leguizamon",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
