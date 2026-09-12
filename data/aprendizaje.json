@@ -232828,5 +232828,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Dayal Lin"
+  },
+  {
+    "ts": 1789221468000,
+    "mensaje": "",
+    "boton": "🔴MUJER",
+    "respuesta": "",
+    "subscriberId": "480838747",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Angelita Mondragon | Mentora de Mujeres en Construcción"
+  },
+  {
+    "ts": 1789221470000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1194876089",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Doce"
+  },
+  {
+    "ts": 1789221479000,
+    "mensaje": "Si me gustaria saber de que trata",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "17079091",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leydi ZC"
+  },
+  {
+    "ts": 1789221483000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1627407817",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Namaste Almacen Natural"
+  },
+  {
+    "ts": 1789221485000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "435254425",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "marielita.o.l"
+  },
+  {
+    "ts": 1789221489000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "1913848560",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joshua Davies Castillo"
+  },
+  {
+    "ts": 1789221496000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "313041106",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Noee Cepeda"
+  },
+  {
+    "ts": 1789221547000,
+    "mensaje": "Dio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1465265570",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Moises Calcaño"
+  },
+  {
+    "ts": 1789221591000,
+    "mensaje": "Lo de wasap",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1325877904",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leonardo Uhrig"
   }
 ]
