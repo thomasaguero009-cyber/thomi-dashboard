@@ -472764,5 +472764,47 @@
     "nombreContacto": "LP Myhi",
     "remitente": "contacto",
     "texto": "Si estaría genial"
+  },
+  {
+    "ts": 1789216567000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789216571000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789216635000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "contacto",
+    "texto": "Si está bien"
+  },
+  {
+    "ts": 1789216723000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789216727000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789216759000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "contacto",
+    "texto": "38"
   }
 ]
