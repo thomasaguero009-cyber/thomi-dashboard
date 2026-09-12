@@ -514071,5 +514071,103 @@
     "nombreContacto": "Luis Ryu",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789233080000,
+    "subscriberId": "435216109",
+    "nombreContacto": "Luis Ryu",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789233085000,
+    "subscriberId": "435216109",
+    "nombreContacto": "Luis Ryu",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789233099000,
+    "subscriberId": "435216109",
+    "nombreContacto": "Luis Ryu",
+    "remitente": "contacto",
+    "texto": "41"
+  },
+  {
+    "ts": 1789233136000,
+    "subscriberId": "338414728",
+    "nombreContacto": "Yamil Flores",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789233136000,
+    "subscriberId": "338414728",
+    "nombreContacto": "Yamil Flores",
+    "remitente": "contacto",
+    "texto": "¡Hola! Gracias por ponerte en contacto con nosotros. Recibimos tu mensaje y agradecemos tu interés.\nEN BREVE NOS COMUNICAREMOS CONTIGO¡¡¡"
+  },
+  {
+    "ts": 1789233140000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789233140000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789233140000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789233162000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "contacto",
+    "texto": "Envialo ?"
+  },
+  {
+    "ts": 1789233201000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789233205000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789233229000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1789233318000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789233318000,
+    "subscriberId": "1265175448",
+    "nombreContacto": "Umaña Gabo",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
   }
 ]

@@ -238528,5 +238528,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Luis Ryu"
+  },
+  {
+    "ts": 1789233138000,
+    "mensaje": "¡Hola! Gracias por ponerte en contacto con nosotros. Recibimos tu mensaje y agradecemos tu interés.\nEN BREVE NOS COMUNICAREMOS CONTIGO¡¡¡",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "338414728",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yamil Flores"
+  },
+  {
+    "ts": 1789233141000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1265175448",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Umaña Gabo"
   }
 ]
