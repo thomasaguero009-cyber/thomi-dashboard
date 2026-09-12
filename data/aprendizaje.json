@@ -237988,5 +237988,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Juan Ortiz"
+  },
+  {
+    "ts": 1789230408000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "115080653",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dina Cardenas"
+  },
+  {
+    "ts": 1789230411000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "723818901",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eve Evelina"
+  },
+  {
+    "ts": 1789230421000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "307525296",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tiapata.crochet"
+  },
+  {
+    "ts": 1789230480000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1974360662",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "☆"
+  },
+  {
+    "ts": 1789230490000,
+    "mensaje": "Hola Tino como estas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "30811535",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maxii Barale"
+  },
+  {
+    "ts": 1789230540000,
+    "mensaje": "Hola contame un poco",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "567740296",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lourdes Cañiza"
   }
 ]
