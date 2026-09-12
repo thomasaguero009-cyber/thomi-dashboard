@@ -238308,5 +238308,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jhony Beltran"
+  },
+  {
+    "ts": 1789232152000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "899660989",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Annielau Xaramillo"
+  },
+  {
+    "ts": 1789232187000,
+    "mensaje": "Si claro me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "413135799",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emmanuel Quintal Pxredez"
+  },
+  {
+    "ts": 1789232394000,
+    "mensaje": "Bueno",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "130324815",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rociio Gallego"
+  },
+  {
+    "ts": 1789232395000,
+    "mensaje": "Hola 👋",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "793027795",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Kelvys Burgos"
+  },
+  {
+    "ts": 1789232406000,
+    "mensaje": "Cómo seria el trabajo? Estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "170707465",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yesenia R."
+  },
+  {
+    "ts": 1789232414000,
+    "mensaje": "Okey",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1354996828",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "A._.miel H.dz"
   }
 ]
