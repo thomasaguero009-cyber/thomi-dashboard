@@ -472652,5 +472652,47 @@
     "nombreContacto": "Andre Yetzael",
     "remitente": "contacto",
     "texto": "No gracias"
+  },
+  {
+    "ts": 1789215671000,
+    "subscriberId": "386298542",
+    "nombreContacto": "Andre Yetzael",
+    "remitente": "agente",
+    "texto": "La dejo igual y en un par de horas te saludo para recordarte"
+  },
+  {
+    "ts": 1789215676000,
+    "subscriberId": "386298542",
+    "nombreContacto": "Andre Yetzael",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1789215678000,
+    "subscriberId": "1177468134",
+    "nombreContacto": "Patricia Perez",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789215678000,
+    "subscriberId": "1177468134",
+    "nombreContacto": "Patricia Perez",
+    "remitente": "contacto",
+    "texto": "Gracias!!"
+  },
+  {
+    "ts": 1789215739000,
+    "subscriberId": "1177468134",
+    "nombreContacto": "Patricia Perez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789215743000,
+    "subscriberId": "1177468134",
+    "nombreContacto": "Patricia Perez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
