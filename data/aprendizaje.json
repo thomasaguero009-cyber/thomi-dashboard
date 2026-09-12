@@ -238368,5 +238368,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "A._.miel H.dz"
+  },
+  {
+    "ts": 1789232420000,
+    "mensaje": "Me puedes explicar??",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1416829290",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Aurys Lopez"
+  },
+  {
+    "ts": 1789232433000,
+    "mensaje": "Si deseo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "250223671",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhoselyn Guedez"
+  },
+  {
+    "ts": 1789232477000,
+    "mensaje": "Hola buenas tardes, me das información por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1471087336",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Christian Santibañez"
+  },
+  {
+    "ts": 1789232539000,
+    "mensaje": "Si claro aquí lo tienes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1296099756",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Haydee Yumpo Zeña"
+  },
+  {
+    "ts": 1789232566000,
+    "mensaje": "Si claro que sí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "563208550",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BQ Creeboy"
+  },
+  {
+    "ts": 1789232569000,
+    "mensaje": "Perdón pero ahorita no",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1505080203",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "TOYOTA SUPRA MK5"
+  },
+  {
+    "ts": 1789232574000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1715798088",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yorman Rojas"
+  },
+  {
+    "ts": 1789232584000,
+    "mensaje": "Hola 👋",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1493124334",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Llontop__Moiss"
+  },
+  {
+    "ts": 1789232702000,
+    "mensaje": "Para ganar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2048989757",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Monica Lima"
   }
 ]
