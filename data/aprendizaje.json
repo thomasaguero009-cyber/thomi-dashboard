@@ -238268,5 +238268,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Luis Joel Piñero"
+  },
+  {
+    "ts": 1789231926000,
+    "mensaje": "Demasiado hablas idioata",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2003018445",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samuxx Oporto"
+  },
+  {
+    "ts": 1789231927000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "943442690",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bendi Rd"
+  },
+  {
+    "ts": 1789232026000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1237547444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝙹𝚑𝚊𝚖"
+  },
+  {
+    "ts": 1789232080000,
+    "mensaje": "Dejame de adivinar … tengo que invertir",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1232996145",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhony Beltran"
   }
 ]
