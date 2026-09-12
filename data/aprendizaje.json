@@ -230758,5 +230758,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Stephania Guadalupe"
+  },
+  {
+    "ts": 1789212794000,
+    "mensaje": "Buenas tardes si porf si puedes ayudarme",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1680313534",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Edelis Padron"
+  },
+  {
+    "ts": 1789212886000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1683034444",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Reciclaje bolivar"
+  },
+  {
+    "ts": 1789212899000,
+    "mensaje": "Buenas, me gustaría aprender a generar ingresos respondiendo mensajes de Whatsapp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "996507479",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓜𝓮𝓵𝓪𝓷𝓲𝓮"
+  },
+  {
+    "ts": 1789212901000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1577421781",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla.Molina"
   }
 ]
