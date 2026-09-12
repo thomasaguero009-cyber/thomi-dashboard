@@ -231278,5 +231278,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jerson Arauz"
+  },
+  {
+    "ts": 1789217736000,
+    "mensaje": "Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1895864855",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David Alejandro"
+  },
+  {
+    "ts": 1789217738000,
+    "mensaje": "Me puede enseñar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1384830658",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franklin Oswaldo Santiago"
+  },
+  {
+    "ts": 1789217852000,
+    "mensaje": "Si gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "547861302",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mera"
+  },
+  {
+    "ts": 1789217924000,
+    "mensaje": "Buenas, si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1334626685",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vinzont Alcrey"
+  },
+  {
+    "ts": 1789217984000,
+    "mensaje": "Jajaja hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1489817579",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stefany Marily"
+  },
+  {
+    "ts": 1789217994000,
+    "mensaje": "Plata",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1082363870",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Camilo Santibañez"
   }
 ]
