@@ -231128,5 +231128,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "🔥LIRYKAL🔥"
+  },
+  {
+    "ts": 1789215456000,
+    "mensaje": "No, ya tengo mi dinero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1280654612",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dayana | Marca personal"
+  },
+  {
+    "ts": 1789215457000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1293524892",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristina Aldunate"
+  },
+  {
+    "ts": 1789215464000,
+    "mensaje": "Hola Tino me podrías ayudar a generar ingresos o tener un empleo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1415620553",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐕𝐚𝐥𝐞𝐫𝐲𝐚 𝐆𝐨𝐝𝐨𝐲"
+  },
+  {
+    "ts": 1789215468000,
+    "mensaje": "Busque en Google pero no me da confianza de ahí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1154677376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐏 𝐀 𝐋 𝐎 𝐌 𝐀"
+  },
+  {
+    "ts": 1789215476000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "386298542",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andre Yetzael"
   }
 ]
