@@ -232918,5 +232918,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Leonardo Uhrig"
+  },
+  {
+    "ts": 1789221674000,
+    "mensaje": "Si por favor 🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "779467858",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Veronica Tranamil"
+  },
+  {
+    "ts": 1789221759000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1548614772",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Fernando Olmedo"
+  },
+  {
+    "ts": 1789221764000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "451253518",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Griselda Espinoza"
   }
 ]
