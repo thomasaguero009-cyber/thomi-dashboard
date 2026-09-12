@@ -230828,5 +230828,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "sheepdoghmo"
+  },
+  {
+    "ts": 1789213383000,
+    "mensaje": "Pero si es real",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1390720749",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mariam Gonzalez"
+  },
+  {
+    "ts": 1789213439000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1864870497",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Di"
+  },
+  {
+    "ts": 1789213495000,
+    "mensaje": "Ayudame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1249066661",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐼𝓋𝑜𝓃𝓃𝓎 𝐼𝒸𝑜𝓃𝒾𝒸 <3"
+  },
+  {
+    "ts": 1789213531000,
+    "mensaje": "Si claro me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1833733052",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejitha Romo Ceron"
   }
 ]
