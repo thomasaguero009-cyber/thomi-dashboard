@@ -230798,5 +230798,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Carla.Molina"
+  },
+  {
+    "ts": 1789213087000,
+    "mensaje": "Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2098168026",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lupita Ibáñez"
+  },
+  {
+    "ts": 1789213089000,
+    "mensaje": "Si estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "128139473",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lixenia Q. | Belleza con Propósito"
+  },
+  {
+    "ts": 1789213111000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "662166880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sheepdoghmo"
   }
 ]
