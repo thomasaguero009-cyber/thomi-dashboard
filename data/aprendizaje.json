@@ -230868,5 +230868,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alejitha Romo Ceron"
+  },
+  {
+    "ts": 1789213615000,
+    "mensaje": "Hola. Me interesa saber",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "547891608",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Karen Nuñez"
+  },
+  {
+    "ts": 1789213629000,
+    "mensaje": "si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1184343396",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓐𝓝𝓣𝓗𝓞𝓝𝓝𝓨"
+  },
+  {
+    "ts": 1789213633000,
+    "mensaje": "Hola amigo. Gracias a ti también. Me parece bien tus videos. Muy Educativo.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2043434445",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maira Tirrealba"
   }
 ]
