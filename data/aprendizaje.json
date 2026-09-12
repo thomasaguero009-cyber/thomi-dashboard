@@ -238048,5 +238048,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Lourdes Cañiza"
+  },
+  {
+    "ts": 1789230672000,
+    "mensaje": "hola tino",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "68236336",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "isabela_hoyos."
+  },
+  {
+    "ts": 1789230770000,
+    "mensaje": "Buenas tardes info porfavor, y esto es en cualquier parte de Mexico?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "173093178",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joseline Medrano"
+  },
+  {
+    "ts": 1789230880000,
+    "mensaje": "Hola yo quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1557071984",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "maria jose"
+  },
+  {
+    "ts": 1789230899000,
+    "mensaje": "Hola Tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1794040527",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jonatan david"
   }
 ]
