@@ -231218,5 +231218,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "LP Myhi"
+  },
+  {
+    "ts": 1789217158000,
+    "mensaje": "Si porfavor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1252454344",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🤍."
+  },
+  {
+    "ts": 1789217160000,
+    "mensaje": "¡Hola! Gracias por ponerte en contacto con nosotros. Recibimos tu mensaje y agradecemos tu interés.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "403884081",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "delkaconstrucciones"
   }
 ]
