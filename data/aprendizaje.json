@@ -230588,5 +230588,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Teresa Mendoza"
+  },
+  {
+    "ts": 1789211331000,
+    "mensaje": "Hola quiero saber más",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "338182136",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sofii Maciias"
+  },
+  {
+    "ts": 1789211333000,
+    "mensaje": "Buenas Tino, un gusto.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1548709241",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "jcpp.med"
+  },
+  {
+    "ts": 1789211335000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1089522937",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mateus Tata"
+  },
+  {
+    "ts": 1789211359000,
+    "mensaje": "BUEN DÍA,  me gustaría saber como es",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "314804962",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ariel Barrios"
+  },
+  {
+    "ts": 1789211365000,
+    "mensaje": "Hola 👋 me puedes ayudar como hago para trabajar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "398821734",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jiljose_j.j"
+  },
+  {
+    "ts": 1789211374000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1465304552",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Niny :)"
   }
 ]
