@@ -231518,5 +231518,125 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Willy Navarro"
+  },
+  {
+    "ts": 1789219977000,
+    "mensaje": "Quiero información",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2027993340",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Joha san"
+  },
+  {
+    "ts": 1789219997000,
+    "mensaje": "Gracias por tú ayuda no pensé ser parte de algo que importa",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "19608489",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SoyYordiel Peña Badas"
+  },
+  {
+    "ts": 1789220013000,
+    "mensaje": "ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "587222739",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Keins Duran Ortega"
+  },
+  {
+    "ts": 1789220030000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1943989520",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maya💖"
+  },
+  {
+    "ts": 1789220034000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "662166880",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sheepdoghmo"
+  },
+  {
+    "ts": 1789220062000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "823035442",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jonathan Rivera."
+  },
+  {
+    "ts": 1789220066000,
+    "mensaje": "Ver este mensaje en InstagramTipo de mensaje no soportado",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "2016808449",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josué Fitness"
+  },
+  {
+    "ts": 1789220079000,
+    "mensaje": "solo te sigo por tu contenido de valor",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "699235812",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gaby Arias"
+  },
+  {
+    "ts": 1789220084000,
+    "mensaje": "Pero como seria lo q tenia q hacer mebpurde dar mas detalles",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1384830658",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franklin Oswaldo Santiago"
+  },
+  {
+    "ts": 1789220104000,
+    "mensaje": "Pero es gratis?",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "827181064",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Rosa Gonzalez"
+  },
+  {
+    "ts": 1789220109000,
+    "mensaje": "Siii claro, quiero aprender, por favor 🙏",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "556041808",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SERGIO RAMOS"
+  },
+  {
+    "ts": 1789220111000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "277140009",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Neivis Hernandez Calderin"
   }
 ]
