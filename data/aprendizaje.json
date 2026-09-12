@@ -231048,5 +231048,85 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Guadalupe hernández avilés"
+  },
+  {
+    "ts": 1789215171000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "349903642",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Camilo"
+  },
+  {
+    "ts": 1789215173000,
+    "mensaje": "Mensajes en whatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "451253518",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Griselda Espinoza"
+  },
+  {
+    "ts": 1789215176000,
+    "mensaje": "Buenas tardes tino, me gustaría ser un clouser de ventas, pero no tengo experiencia y me fije en tu universidad y decidi escribirte para saber mas información. Soy victor y actualmente estoy en Venezuela",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "733632419",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Zurita"
+  },
+  {
+    "ts": 1789215179000,
+    "mensaje": "Encerio?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "827181064",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ana Rosa Gonzalez"
+  },
+  {
+    "ts": 1789215182000,
+    "mensaje": "Me podrías aconsejar a como empezar en el mundo de las redes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "701145264",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nicolás Vazquez Sano"
+  },
+  {
+    "ts": 1789215184000,
+    "mensaje": "¡Hola! Gracias por ponerte en contacto con nosotros. Recibimos tu mensaje y agradecemos tu interés.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1992543236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrés R. Zavala L. | Personal Training"
+  },
+  {
+    "ts": 1789215188000,
+    "mensaje": "Si si me interesaría generar  algo extra de dinero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1785741008",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marlon Polo Lm"
+  },
+  {
+    "ts": 1789215193000,
+    "mensaje": "Una pregunta , aún siendo menor de edad podria participar ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1172069373",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🔥LIRYKAL🔥"
   }
 ]
