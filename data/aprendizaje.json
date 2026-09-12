@@ -230898,5 +230898,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Maira Tirrealba"
+  },
+  {
+    "ts": 1789214161000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenos días si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1821596158",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "sofi🤞🏻"
+  },
+  {
+    "ts": 1789214222000,
+    "mensaje": "Si me gustaria",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1360770383",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JIMENA PEREZ"
+  },
+  {
+    "ts": 1789214225000,
+    "mensaje": "Hola Tino,si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "545255997",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Belleza Real Colombiana"
   }
 ]
