@@ -473345,5 +473345,19 @@
     "nombreContacto": "Carla Ramos",
     "remitente": "contacto",
     "texto": "Pero me podés responder la pregunta anterior?"
+  },
+  {
+    "ts": 1789218054000,
+    "subscriberId": "1082363870",
+    "nombreContacto": "Camilo Santibañez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789218058000,
+    "subscriberId": "1082363870",
+    "nombreContacto": "Camilo Santibañez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
