@@ -231338,5 +231338,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Camilo Santibañez"
+  },
+  {
+    "ts": 1789218704000,
+    "mensaje": "SI",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "317327341",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Genaro Lopez"
+  },
+  {
+    "ts": 1789218717000,
+    "mensaje": "Bueno",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "593767412",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Misselia Soares"
+  },
+  {
+    "ts": 1789218733000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "683286955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maria Karla Diaz"
+  },
+  {
+    "ts": 1789218792000,
+    "mensaje": "Hola Tino vengo del video de youtube me pasas por favor las 60 pregustas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1283797601",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Zoe Maquillaje Permanente"
+  },
+  {
+    "ts": 1789219116000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "518486343",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Laura Villagran"
   }
 ]
