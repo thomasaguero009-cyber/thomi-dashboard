@@ -231188,5 +231188,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Patricia Perez"
+  },
+  {
+    "ts": 1789216328000,
+    "mensaje": "Okey.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "105375376",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "TamaraDaniela🐨"
+  },
+  {
+    "ts": 1789216330000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "293006346",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Valentino Salvatierra"
+  },
+  {
+    "ts": 1789216508000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "384543007",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "LP Myhi"
   }
 ]

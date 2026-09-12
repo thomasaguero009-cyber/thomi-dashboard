@@ -472694,5 +472694,75 @@
     "nombreContacto": "Patricia Perez",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789216326000,
+    "subscriberId": "105375376",
+    "nombreContacto": "TamaraDaniela🐨",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789216326000,
+    "subscriberId": "105375376",
+    "nombreContacto": "TamaraDaniela🐨",
+    "remitente": "contacto",
+    "texto": "Okey."
+  },
+  {
+    "ts": 1789216329000,
+    "subscriberId": "293006346",
+    "nombreContacto": "Valentino Salvatierra",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789216329000,
+    "subscriberId": "293006346",
+    "nombreContacto": "Valentino Salvatierra",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789216389000,
+    "subscriberId": "293006346",
+    "nombreContacto": "Valentino Salvatierra",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789216393000,
+    "subscriberId": "293006346",
+    "nombreContacto": "Valentino Salvatierra",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789216455000,
+    "subscriberId": "293006346",
+    "nombreContacto": "Valentino Salvatierra",
+    "remitente": "contacto",
+    "texto": "Bueno aver"
+  },
+  {
+    "ts": 1789216506000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789216506000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789216508000,
+    "subscriberId": "384543007",
+    "nombreContacto": "LP Myhi",
+    "remitente": "contacto",
+    "texto": "Si estaría genial"
   }
 ]
