@@ -238458,5 +238458,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Monica Lima"
+  },
+  {
+    "ts": 1789232761000,
+    "mensaje": "Hola tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1715459383",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bryan Andrés Higuera Romero"
+  },
+  {
+    "ts": 1789232785000,
+    "mensaje": "Quiero aprender hermano",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "648332605",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "junior_vr"
+  },
+  {
+    "ts": 1789232836000,
+    "mensaje": "Hola buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "346780258",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Herica Rengel"
+  },
+  {
+    "ts": 1789232837000,
+    "mensaje": "Como",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1732145550",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose antonio borquez"
+  },
+  {
+    "ts": 1789232845000,
+    "mensaje": "Si me gustaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1284639965",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fran Menacho"
+  },
+  {
+    "ts": 1789232847000,
+    "mensaje": "Hola buenas tardes y que costo tiene esa información?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1712170631",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "salud bienestar fuerza control flexibilidad"
+  },
+  {
+    "ts": 1789232915000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "435216109",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Ryu"
   }
 ]
