@@ -230728,5 +230728,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Brenes one"
+  },
+  {
+    "ts": 1789212489000,
+    "mensaje": "Si quiero \nBuenas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "854338620",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samy Cobos"
+  },
+  {
+    "ts": 1789212505000,
+    "mensaje": "Interesante 🤔",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1772597221",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jorge Olivos Garrido"
+  },
+  {
+    "ts": 1789212593000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Buenas 😊 si quiero aprender 🙏🏻",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1555271424",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stephania Guadalupe"
   }
 ]
