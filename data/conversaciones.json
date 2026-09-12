@@ -512020,5 +512020,19 @@
     "nombreContacto": "María Castillo J",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789229446000,
+    "subscriberId": "1565063110",
+    "nombreContacto": "María Castillo J",
+    "remitente": "contacto",
+    "texto": "BotQue edad tenes?21"
+  },
+  {
+    "ts": 1789229512000,
+    "subscriberId": "1565063110",
+    "nombreContacto": "María Castillo J",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
