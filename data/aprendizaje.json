@@ -240308,5 +240308,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Roberto De Santiago"
+  },
+  {
+    "ts": 1789236863000,
+    "mensaje": "🫡",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1259785479",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jeinner Lopez Romero"
+  },
+  {
+    "ts": 1789236873000,
+    "mensaje": "Hola sí, pero no sé ingles",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "949866434",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Norma"
   }
 ]
