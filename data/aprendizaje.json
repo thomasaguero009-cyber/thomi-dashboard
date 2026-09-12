@@ -238148,5 +238148,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Alexis Jonatan"
+  },
+  {
+    "ts": 1789231246000,
+    "mensaje": "Si quiero recibir",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "471035246",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "anamariaacostaramirez"
+  },
+  {
+    "ts": 1789231259000,
+    "mensaje": "Ver este mensaje en InstagramTipo de mensaje no soportado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1277399660",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Blanca Torres"
+  },
+  {
+    "ts": 1789231301000,
+    "mensaje": "La semilla sos el real",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1782436871",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "BENITO_EMANUEL2014"
+  },
+  {
+    "ts": 1789231365000,
+    "mensaje": "Si, estoy interesada.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1933704253",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Katheriine Ladero"
   }
 ]
