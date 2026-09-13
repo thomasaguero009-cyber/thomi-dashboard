@@ -241748,5 +241748,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mendoza Luis Sebastian"
+  },
+  {
+    "ts": 1789306538000,
+    "mensaje": "Como hacer",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "165750045",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lau"
+  },
+  {
+    "ts": 1789306561000,
+    "mensaje": "Buenas tardes\nSi me gustaría",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "566548042",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rony Rodriguez"
   }
 ]
