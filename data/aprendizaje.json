@@ -241588,5 +241588,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "y.elena_fermin"
+  },
+  {
+    "ts": 1789304365000,
+    "mensaje": "Quisiera aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1763086536",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "SANTIAGO_YONVGCCHIMI"
+  },
+  {
+    "ts": 1789304367000,
+    "mensaje": "Hola quiero participar en tu curso",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1706729770",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Killaca"
   }
 ]
