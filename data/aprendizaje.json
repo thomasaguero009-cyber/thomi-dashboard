@@ -241568,5 +241568,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Samara Cuautle"
+  },
+  {
+    "ts": 1789303837000,
+    "mensaje": "Interesado",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "502455624",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Richard Adalberto Garcia"
+  },
+  {
+    "ts": 1789303966000,
+    "mensaje": "Estoy",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "960982554",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "y.elena_fermin"
   }
 ]
