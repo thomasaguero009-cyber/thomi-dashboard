@@ -242058,5 +242058,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Tati Hernandez"
+  },
+  {
+    "ts": 1789311385000,
+    "mensaje": "100%",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1617897587",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yairon"
+  },
+  {
+    "ts": 1789311481000,
+    "mensaje": "Si vi y entendí todo pero no me pude agendar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1638570848",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saul Corrales"
+  },
+  {
+    "ts": 1789311517000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1725216778",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Santana"
+  },
+  {
+    "ts": 1789311585000,
+    "mensaje": "quiero aprender a generar ingresos por WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "162995607",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian"
+  },
+  {
+    "ts": 1789311587000,
+    "mensaje": "Hola Tino me saludas porfa?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "582382442",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗"
   }
 ]
