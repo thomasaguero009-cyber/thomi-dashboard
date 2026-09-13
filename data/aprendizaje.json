@@ -241638,5 +241638,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Jonathan Sánchez Reyes"
+  },
+  {
+    "ts": 1789305414000,
+    "mensaje": "Gracias bro",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "800302237",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leyder TM"
+  },
+  {
+    "ts": 1789305498000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Sii",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "980764961",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Marcelo Torres"
+  },
+  {
+    "ts": 1789305499000,
+    "mensaje": "Buenas, si quisiera aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1638570848",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Saul Corrales"
+  },
+  {
+    "ts": 1789305504000,
+    "mensaje": "Si excelente",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1600976193",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandra Ojeda"
+  },
+  {
+    "ts": 1789305522000,
+    "mensaje": "Si explícame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "991894155",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Javier M Caceres"
+  },
+  {
+    "ts": 1789305610000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "666994097",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cacacho Entretenimiento"
   }
 ]
