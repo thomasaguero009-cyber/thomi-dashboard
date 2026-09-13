@@ -241888,5 +241888,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Maluly Valdivieso"
+  },
+  {
+    "ts": 1789308062000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "964381503",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rachid Salman Yazzan"
+  },
+  {
+    "ts": 1789308185000,
+    "mensaje": "Si 😊",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1325006713",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elena Garcia Aviles"
+  },
+  {
+    "ts": 1789308295000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1155119068",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Andrey Forero"
   }
 ]
