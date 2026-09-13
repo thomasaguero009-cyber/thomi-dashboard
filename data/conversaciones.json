@@ -532474,5 +532474,61 @@
     "nombreContacto": "Diego Romano",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789309112000,
+    "subscriberId": "1382148905",
+    "nombreContacto": "Geleen Zarate",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789309112000,
+    "subscriberId": "1382148905",
+    "nombreContacto": "Geleen Zarate",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789309112000,
+    "subscriberId": "1382148905",
+    "nombreContacto": "Geleen Zarate",
+    "remitente": "contacto",
+    "texto": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Jelou"
+  },
+  {
+    "ts": 1789309117000,
+    "subscriberId": "319951174",
+    "nombreContacto": "Jose Ramirez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresa"
+  },
+  {
+    "ts": 1789309117000,
+    "subscriberId": "319951174",
+    "nombreContacto": "Jose Ramirez",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789309117000,
+    "subscriberId": "319951174",
+    "nombreContacto": "Jose Ramirez",
+    "remitente": "contacto",
+    "texto": "Cómo trabajo desde casa"
+  },
+  {
+    "ts": 1789309178000,
+    "subscriberId": "319951174",
+    "nombreContacto": "Jose Ramirez",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789309186000,
+    "subscriberId": "319951174",
+    "nombreContacto": "Jose Ramirez",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
   }
 ]
