@@ -241608,5 +241608,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Killaca"
+  },
+  {
+    "ts": 1789304793000,
+    "mensaje": "Hola, si estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "556713605",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Paola Adárraga"
+  },
+  {
+    "ts": 1789304847000,
+    "mensaje": "Asesórame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "393513964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌡️."
   }
 ]
