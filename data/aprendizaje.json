@@ -241768,5 +241768,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Rony Rodriguez"
+  },
+  {
+    "ts": 1789307240000,
+    "mensaje": "Hay q pagar algo?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2088010528",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Dr. Jorge Yencón N."
+  },
+  {
+    "ts": 1789307362000,
+    "mensaje": "quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "551245775",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝓓𝓪𝓻𝓲𝓸 𝓘𝓼𝓶𝓪𝓮𝓵"
+  },
+  {
+    "ts": 1789307370000,
+    "mensaje": "O enviame un enlace",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "468487423",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Escalona"
+  },
+  {
+    "ts": 1789307379000,
+    "mensaje": "Quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1097648636",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "agxtin_45"
+  },
+  {
+    "ts": 1789307399000,
+    "mensaje": "Varias veces te pedí el listado y nunca me lo enviaste",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1808835453",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Irma Baigorria"
+  },
+  {
+    "ts": 1789307407000,
+    "mensaje": "Catalago",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "360198016",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "valen_lt32"
+  },
+  {
+    "ts": 1789307408000,
+    "mensaje": "Quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1013104973",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rous ☆°•"
   }
 ]
