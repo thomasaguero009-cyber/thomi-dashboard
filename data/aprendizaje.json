@@ -241698,5 +241698,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Cacacho Entretenimiento"
+  },
+  {
+    "ts": 1789305691000,
+    "mensaje": "Por favor ventas",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1573576083",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "HD"
+  },
+  {
+    "ts": 1789305883000,
+    "mensaje": "Okey Muchas Gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "432002086",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vanina Lara Ciancio"
+  },
+  {
+    "ts": 1789305957000,
+    "mensaje": "Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "638089447",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ayala"
   }
 ]
