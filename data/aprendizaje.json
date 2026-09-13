@@ -241838,5 +241838,55 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Rous ☆°•"
+  },
+  {
+    "ts": 1789307421000,
+    "mensaje": "Yoo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "498098992",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐕"
+  },
+  {
+    "ts": 1789307460000,
+    "mensaje": "Quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "594885407",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Contacto desconocido"
+  },
+  {
+    "ts": 1789307486000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1785848659",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhasmani Luna"
+  },
+  {
+    "ts": 1789307534000,
+    "mensaje": "Envíamelo por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "923712965",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "OBANDO_17"
+  },
+  {
+    "ts": 1789307549000,
+    "mensaje": "Certificado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1306844402",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maluly Valdivieso"
   }
 ]
