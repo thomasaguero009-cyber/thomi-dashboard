@@ -530325,5 +530325,19 @@
     "nombreContacto": "Killaca",
     "remitente": "contacto",
     "texto": "Hola quiero participar en tu curso"
+  },
+  {
+    "ts": 1789304616000,
+    "subscriberId": "1706729770",
+    "nombreContacto": "Killaca",
+    "remitente": "contacto",
+    "texto": "15"
+  },
+  {
+    "ts": 1789304638000,
+    "subscriberId": "1706729770",
+    "nombreContacto": "Killaca",
+    "remitente": "contacto",
+    "texto": "Puedo participar"
   }
 ]
