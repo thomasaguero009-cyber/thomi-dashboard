@@ -533860,5 +533860,26 @@
     "nombreContacto": "kevi.nroberto",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789313261000,
+    "subscriberId": "61877187",
+    "nombreContacto": "kevi.nroberto",
+    "remitente": "contacto",
+    "texto": "Si por supuesto !!"
+  },
+  {
+    "ts": 1789313349000,
+    "subscriberId": "61877187",
+    "nombreContacto": "kevi.nroberto",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789313353000,
+    "subscriberId": "61877187",
+    "nombreContacto": "kevi.nroberto",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]

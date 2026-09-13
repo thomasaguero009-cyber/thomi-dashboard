@@ -242118,5 +242118,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "xavi"
+  },
+  {
+    "ts": 1789312840000,
+    "mensaje": "Oye tino",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "452286465",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Emiliano"
+  },
+  {
+    "ts": 1789312841000,
+    "mensaje": "Pues Por supuesto que sí claro ??",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "61877187",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "kevi.nroberto"
   }
 ]
