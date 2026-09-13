@@ -241978,5 +241978,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Mabelin Amaya Molina"
+  },
+  {
+    "ts": 1789308680000,
+    "mensaje": "Hola tino, y el mensaje?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1050898252",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vsquezz"
+  },
+  {
+    "ts": 1789308753000,
+    "mensaje": "Claro estoy intentando",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1650227307",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "JDanny Martinez"
+  },
+  {
+    "ts": 1789308815000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...El tema es que vivo en Cuba",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1669894008",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Maikel L. Garcia"
+  },
+  {
+    "ts": 1789308890000,
+    "mensaje": "Dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1753664135",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Diego Romano"
   }
 ]
