@@ -245688,5 +245688,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "David Leonardo Pérez | LOCUTOR | PERIODISTA"
+  },
+  {
+    "ts": 1789318681000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "718092251",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vida Castro"
+  },
+  {
+    "ts": 1789318685000,
+    "mensaje": "Buenas tardes, si estoy atento",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1641995731",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Vicente Moreno Vargas"
   }
 ]
