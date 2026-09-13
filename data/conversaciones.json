@@ -530010,5 +530010,33 @@
     "nombreContacto": "Caleb Montenegro",
     "remitente": "contacto",
     "texto": "comentó en tu publicación o reel100 &"
+  },
+  {
+    "ts": 1789303163000,
+    "subscriberId": "342393499",
+    "nombreContacto": "liz",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789303163000,
+    "subscriberId": "342393499",
+    "nombreContacto": "liz",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas"
+  },
+  {
+    "ts": 1789303163000,
+    "subscriberId": "342393499",
+    "nombreContacto": "liz",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1789303163000,
+    "subscriberId": "342393499",
+    "nombreContacto": "liz",
+    "remitente": "contacto",
+    "texto": "Si porfavor 🥺"
   }
 ]
