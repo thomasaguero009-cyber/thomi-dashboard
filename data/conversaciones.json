@@ -530437,5 +530437,47 @@
     "nombreContacto": "Jonathan Sánchez Reyes",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789305037000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "contacto",
+    "texto": "Quiero aprender"
+  },
+  {
+    "ts": 1789305075000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789305081000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789305119000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "contacto",
+    "texto": "Si pásamela si puedes"
+  },
+  {
+    "ts": 1789305206000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789305210000,
+    "subscriberId": "1110734975",
+    "nombreContacto": "Jonathan Sánchez Reyes",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
