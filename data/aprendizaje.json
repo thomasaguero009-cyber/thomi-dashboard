@@ -245708,5 +245708,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Vicente Moreno Vargas"
+  },
+  {
+    "ts": 1789318869000,
+    "mensaje": "Si coméntame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1897658465",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Martin Jibaja"
+  },
+  {
+    "ts": 1789319047000,
+    "mensaje": "Si gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1474143206",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alexandra Cachique Garcia"
+  },
+  {
+    "ts": 1789319049000,
+    "mensaje": "Hola !! Gracias por tu consulta!! en breve te contestaremos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "755112058",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "HIENA | STUDIO de BODY PIERCING AND TATTOO"
+  },
+  {
+    "ts": 1789319083000,
+    "mensaje": "Buenas me gustaría generar más ingresos",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1059420995",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel Alejandro"
   }
 ]
