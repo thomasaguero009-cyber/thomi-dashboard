@@ -244318,5 +244318,145 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Hugo Barbaglia"
+  },
+  {
+    "ts": 1789317195000,
+    "mensaje": "Como es ?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "851595608",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Nathalia Jojot"
+  },
+  {
+    "ts": 1789317201000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "99194333",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Torres Marcos Adrian"
+  },
+  {
+    "ts": 1789317203000,
+    "mensaje": "BotMensaje de audioSi ya me agende con el",
+    "boton": "VIDEO",
+    "respuesta": "",
+    "subscriberId": "393513964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌡️."
+  },
+  {
+    "ts": 1789317206000,
+    "mensaje": "BotMensaje de audioSi ya me agende con el",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "393513964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌡️."
+  },
+  {
+    "ts": 1789317211000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1905157520",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Antonio Benito"
+  },
+  {
+    "ts": 1789317221000,
+    "mensaje": "A ver",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "197505148",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "EA-Fabian💋❤️‍🔥"
+  },
+  {
+    "ts": 1789317235000,
+    "mensaje": "Envíamelo por favor",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "923712965",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "OBANDO_17"
+  },
+  {
+    "ts": 1789317239000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "242336646",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sandri Smaniotto"
+  },
+  {
+    "ts": 1789317241000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "572924729",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Stephany Minaya Abreu"
+  },
+  {
+    "ts": 1789317245000,
+    "mensaje": "prietoblanco2003@gmail.com",
+    "boton": "Form",
+    "respuesta": "",
+    "subscriberId": "1309000232",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rafael Prieto"
+  },
+  {
+    "ts": 1789317253000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "360198016",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "valen_lt32"
+  },
+  {
+    "ts": 1789317255000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1099796955",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yoselyn Rodriguez"
+  },
+  {
+    "ts": 1789317260000,
+    "mensaje": "",
+    "boton": "🟡 No RESP",
+    "respuesta": "",
+    "subscriberId": "1808835453",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Irma Baigorria"
+  },
+  {
+    "ts": 1789317267000,
+    "mensaje": "",
+    "boton": "🔴 HOMBRE",
+    "respuesta": "",
+    "subscriberId": "468487423",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Escalona"
   }
 ]
