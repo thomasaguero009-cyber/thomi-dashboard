@@ -533881,5 +533881,75 @@
     "nombreContacto": "kevi.nroberto",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789313433000,
+    "subscriberId": "61877187",
+    "nombreContacto": "kevi.nroberto",
+    "remitente": "contacto",
+    "texto": "Tengo 28"
+  },
+  {
+    "ts": 1789313499000,
+    "subscriberId": "61877187",
+    "nombreContacto": "kevi.nroberto",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789313707000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789313707000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "contacto",
+    "texto": "Como gano ??"
+  },
+  {
+    "ts": 1789313767000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789313773000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789313784000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "contacto",
+    "texto": "Bn no pierdo nada"
+  },
+  {
+    "ts": 1789313873000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789313877000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789313887000,
+    "subscriberId": "1141881495",
+    "nombreContacto": "3l.morita.13",
+    "remitente": "contacto",
+    "texto": "13 años"
   }
 ]
