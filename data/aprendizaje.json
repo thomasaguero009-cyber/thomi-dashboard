@@ -242018,5 +242018,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Diego Romano"
+  },
+  {
+    "ts": 1789309114000,
+    "mensaje": "BotBuenas! vi tu comentario, estas para que te pase el catalogo?Jelou",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1382148905",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Geleen Zarate"
+  },
+  {
+    "ts": 1789309118000,
+    "mensaje": "Cómo trabajo desde casa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "319951174",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jose Ramirez"
+  },
+  {
+    "ts": 1789309369000,
+    "mensaje": "Buenas tardes",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "320457645",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yenny Mujica"
   }
 ]
