@@ -241918,5 +241918,65 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Andrey Forero"
+  },
+  {
+    "ts": 1789308470000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1725216778",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Victor Santana"
+  },
+  {
+    "ts": 1789308495000,
+    "mensaje": "Buenas tardes, claro me encantaría!",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "456250213",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhoanny Chacon"
+  },
+  {
+    "ts": 1789308497000,
+    "mensaje": "Así es",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "916112158",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Danilo Delgado"
+  },
+  {
+    "ts": 1789308501000,
+    "mensaje": "Si quiero aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "407615367",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "fernando"
+  },
+  {
+    "ts": 1789308531000,
+    "mensaje": "Buenas si",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1140029781",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ildaura Lizondro"
+  },
+  {
+    "ts": 1789308598000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "18419944",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mabelin Amaya Molina"
   }
 ]
