@@ -241538,5 +241538,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "liz"
+  },
+  {
+    "ts": 1789303271000,
+    "mensaje": "mandame tu WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "213479721",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "🌎🗽✌🏻"
+  },
+  {
+    "ts": 1789303292000,
+    "mensaje": "Claro que sí quiero generar ingresos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "548955968",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Yanny Elena Barrios Ramirez"
+  },
+  {
+    "ts": 1789303433000,
+    "mensaje": "Si me interesa pero soy estudiante",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "762092185",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Samara Cuautle"
   }
 ]
