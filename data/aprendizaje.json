@@ -242148,5 +242148,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "3l.morita.13"
+  },
+  {
+    "ts": 1789314135000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "80626964",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cecilia Ramos"
+  },
+  {
+    "ts": 1789314238000,
+    "mensaje": "Cómo funciona",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1008977058",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "DiegoJaramillo"
+  },
+  {
+    "ts": 1789314568000,
+    "mensaje": "Ayudame catalago",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2050944967",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ChristianMeloh Sosa Viltres"
+  },
+  {
+    "ts": 1789314576000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "696317626",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Humber Meza"
   }
 ]

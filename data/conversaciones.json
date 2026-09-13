@@ -534070,5 +534070,89 @@
     "nombreContacto": "DiegoJaramillo",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789314323000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "contacto",
+    "texto": "Y tengo disponibilidad después del 12 octubre"
+  },
+  {
+    "ts": 1789314332000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "contacto",
+    "texto": "A partir de las 17:00"
+  },
+  {
+    "ts": 1789314360000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "contacto",
+    "texto": "Te parece si te escribo en un mes ?"
+  },
+  {
+    "ts": 1789314387000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "agente",
+    "texto": "La dejo igual y en un par de horas te saludo para recordarte"
+  },
+  {
+    "ts": 1789314393000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇CLASE"
+  },
+  {
+    "ts": 1789314505000,
+    "subscriberId": "1008977058",
+    "nombreContacto": "DiegoJaramillo",
+    "remitente": "contacto",
+    "texto": "Está en YouTube ?"
+  },
+  {
+    "ts": 1789314565000,
+    "subscriberId": "2050944967",
+    "nombreContacto": "ChristianMeloh Sosa Viltres",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789314565000,
+    "subscriberId": "2050944967",
+    "nombreContacto": "ChristianMeloh Sosa Viltres",
+    "remitente": "contacto",
+    "texto": "Ayudame catalago"
+  },
+  {
+    "ts": 1789314576000,
+    "subscriberId": "696317626",
+    "nombreContacto": "Humber Meza",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789314576000,
+    "subscriberId": "696317626",
+    "nombreContacto": "Humber Meza",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1789314614000,
+    "subscriberId": "1614366260",
+    "nombreContacto": "Arturo Mendoza",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789314614000,
+    "subscriberId": "1614366260",
+    "nombreContacto": "Arturo Mendoza",
+    "remitente": "contacto",
+    "texto": "Hola , como lo hago"
   }
 ]
