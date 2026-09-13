@@ -241728,5 +241728,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ayala"
+  },
+  {
+    "ts": 1789306427000,
+    "mensaje": "Y me gustaría aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "903510111",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Shirley Soto"
+  },
+  {
+    "ts": 1789306432000,
+    "mensaje": "Si quiero pero solo tengo 16 años",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "450575092",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Mendoza Luis Sebastian"
   }
 ]

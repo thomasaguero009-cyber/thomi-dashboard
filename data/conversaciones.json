@@ -530787,5 +530787,61 @@
     "nombreContacto": "Ayala",
     "remitente": "contacto",
     "texto": "Si por favor"
+  },
+  {
+    "ts": 1789306426000,
+    "subscriberId": "903510111",
+    "nombreContacto": "Shirley Soto",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝❤"
+  },
+  {
+    "ts": 1789306426000,
+    "subscriberId": "903510111",
+    "nombreContacto": "Shirley Soto",
+    "remitente": "contacto",
+    "texto": "Buenass, no hay de qué"
+  },
+  {
+    "ts": 1789306426000,
+    "subscriberId": "903510111",
+    "nombreContacto": "Shirley Soto",
+    "remitente": "contacto",
+    "texto": "Y me gustaría aprender"
+  },
+  {
+    "ts": 1789306432000,
+    "subscriberId": "450575092",
+    "nombreContacto": "Mendoza Luis Sebastian",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789306432000,
+    "subscriberId": "450575092",
+    "nombreContacto": "Mendoza Luis Sebastian",
+    "remitente": "contacto",
+    "texto": "Si quiero pero solo tengo 16 años"
+  },
+  {
+    "ts": 1789306492000,
+    "subscriberId": "450575092",
+    "nombreContacto": "Mendoza Luis Sebastian",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789306496000,
+    "subscriberId": "450575092",
+    "nombreContacto": "Mendoza Luis Sebastian",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789306516000,
+    "subscriberId": "450575092",
+    "nombreContacto": "Mendoza Luis Sebastian",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
