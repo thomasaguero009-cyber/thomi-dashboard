@@ -533734,5 +533734,47 @@
     "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
     "remitente": "contacto",
     "texto": "Hola Tino me saludas porfa?"
+  },
+  {
+    "ts": 1789311647000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789311651000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789311670000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "contacto",
+    "texto": "Mmmmm si vale gracias"
+  },
+  {
+    "ts": 1789311758000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789311762000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789311772000,
+    "subscriberId": "582382442",
+    "nombreContacto": "✦𝗭𝖆𝖗𝖆𝖗",
+    "remitente": "contacto",
+    "texto": "Yo 11"
   }
 ]
