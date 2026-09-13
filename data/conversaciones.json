@@ -532845,5 +532845,96 @@
     "nombreContacto": "Tati Hernandez",
     "remitente": "contacto",
     "texto": "Si por favor"
+  },
+  {
+    "ts": 1789310145000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789310148000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789310160000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789310183000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789310183000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789310183000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789310183000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789310183000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789310186000,
+    "subscriberId": "152653658",
+    "nombreContacto": "Rogelio Valdes",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789310249000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789310253000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789310285000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "contacto",
+    "texto": "Tengo 19"
+  },
+  {
+    "ts": 1789310352000,
+    "subscriberId": "155316276",
+    "nombreContacto": "Tati Hernandez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
