@@ -558206,5 +558206,19 @@
     "nombreContacto": "Cecilia Pereyra",
     "remitente": "agente",
     "texto": "Hace clic👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789401683000,
+    "subscriberId": "1337103714",
+    "nombreContacto": "Cecilia Pereyra",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789401733000,
+    "subscriberId": "1337103714",
+    "nombreContacto": "Cecilia Pereyra",
+    "remitente": "contacto",
+    "texto": "Gracias. Me interesa"
   }
 ]
