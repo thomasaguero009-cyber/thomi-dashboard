@@ -557667,5 +557667,19 @@
     "nombreContacto": "sheep.7760897",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789394706000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789394706000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "contacto",
+    "texto": "hola, me interesa!"
   }
 ]
