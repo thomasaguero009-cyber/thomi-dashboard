@@ -246808,5 +246808,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Real State Agent"
+  },
+  {
+    "ts": 1789401534000,
+    "mensaje": "??",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "1121181570",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebastian Matute"
+  },
+  {
+    "ts": 1789401550000,
+    "mensaje": "Siii, gracias",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "1337103714",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cecilia Pereyra"
   }
 ]
