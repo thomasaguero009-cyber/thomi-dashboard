@@ -245748,5 +245748,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Gabriel Alejandro"
+  },
+  {
+    "ts": 1789382499000,
+    "mensaje": "Hola, Como así?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1950314974",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anyii♡"
+  },
+  {
+    "ts": 1789382503000,
+    "mensaje": "Tengo una tia que esta en el extranjero a lo mejor me lo.puede pagar",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1025518849",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leandro Chávez Vera"
+  },
+  {
+    "ts": 1789382681000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1223534690",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "dylan_aqt04"
+  },
+  {
+    "ts": 1789382714000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1914223855",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Lêvî Löpêz"
   }
 ]
