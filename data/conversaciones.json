@@ -555525,5 +555525,68 @@
     "nombreContacto": "أنطونيو",
     "remitente": "agente",
     "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789384270000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789384272000,
+    "subscriberId": "1986255330",
+    "nombreContacto": "أنطونيو",
+    "remitente": "contacto",
+    "texto": "Dale, orita la veo y te comunico que tal me parecio"
+  },
+  {
+    "ts": 1789384274000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789384282000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789384370000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789384374000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789384380000,
+    "subscriberId": "929285713",
+    "nombreContacto": "Xavier Fuentes",
+    "remitente": "contacto",
+    "texto": "22"
+  },
+  {
+    "ts": 1789384443000,
+    "subscriberId": "827997468",
+    "nombreContacto": "Lara",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789384443000,
+    "subscriberId": "827997468",
+    "nombreContacto": "Lara",
+    "remitente": "contacto",
+    "texto": "Certificado"
   }
 ]
