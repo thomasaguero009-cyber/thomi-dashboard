@@ -246168,5 +246168,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Bruning Doglas"
+  },
+  {
+    "ts": 1789389383000,
+    "mensaje": "Mandarme la información a mi watsaap es + 502 56082616",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "53408806",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Peter Lavarreda"
+  },
+  {
+    "ts": 1789389852000,
+    "mensaje": "Hola, me das info de tu programa?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1566912496",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "𝐘esi ✨"
   }
 ]
