@@ -561391,5 +561391,33 @@
     "nombreContacto": "ROYMELY SANCHEZ",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789411296000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789411300000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789411342000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "contacto",
+    "texto": "37 años"
+  },
+  {
+    "ts": 1789411408000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
