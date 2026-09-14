@@ -561356,5 +561356,40 @@
     "nombreContacto": "Geovani  Ivan RR",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789411038000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "contacto",
+    "texto": "Certificado"
+  },
+  {
+    "ts": 1789411115000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789411122000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉CERTIFICADO👈"
+  },
+  {
+    "ts": 1789411188000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "agente",
+    "texto": "Queres que te la envie?"
+  },
+  {
+    "ts": 1789411208000,
+    "subscriberId": "956094996",
+    "nombreContacto": "ROYMELY SANCHEZ",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
