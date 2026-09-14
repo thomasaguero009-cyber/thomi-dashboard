@@ -247138,5 +247138,95 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Yudeisis"
+  },
+  {
+    "ts": 1789406583000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1332335979",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Elias valdez"
+  },
+  {
+    "ts": 1789406585000,
+    "mensaje": "Estoy interesada",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1034442794",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Morenita 🤎"
+  },
+  {
+    "ts": 1789406586000,
+    "mensaje": "Hola , no me llego el catalgo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "317008400",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Eduard Lara Matos"
+  },
+  {
+    "ts": 1789406588000,
+    "mensaje": "Decime si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "893135506",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Belén Castro"
+  },
+  {
+    "ts": 1789406590000,
+    "mensaje": "Hola me pasa impormacion",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1915498119",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": ""
+  },
+  {
+    "ts": 1789406592000,
+    "mensaje": "Buenas tardes Tino, yo necesito ayuda realmente con algo, tengo mi marca en fogoneros y no se como escalar el negocio",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "571841948",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "melli"
+  },
+  {
+    "ts": 1789406595000,
+    "mensaje": "Yo aprendo rápido",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1903437752",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Gabriel Quiroz"
+  },
+  {
+    "ts": 1789406596000,
+    "mensaje": "Quería saber como  es el trabajo contestando WhatsApp",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1821269669",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rosario AlfaroAyon"
+  },
+  {
+    "ts": 1789406597000,
+    "mensaje": "Hola! \nTe saluda Federico Ventura, muchas gracias por contactarnos.",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1998403624",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Federico Ventura | Agente inmobiliario"
   }
 ]
