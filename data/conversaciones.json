@@ -558066,5 +558066,12 @@
     "nombreContacto": "Ale Jara",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789399737000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "contacto",
+    "texto": "Si si pasame"
   }
 ]
