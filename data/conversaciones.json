@@ -554895,5 +554895,47 @@
     "nombreContacto": "Lêvî Löpêz",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789382774000,
+    "subscriberId": "1914223855",
+    "nombreContacto": "Lêvî Löpêz",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789382778000,
+    "subscriberId": "1914223855",
+    "nombreContacto": "Lêvî Löpêz",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789382833000,
+    "subscriberId": "1914223855",
+    "nombreContacto": "Lêvî Löpêz",
+    "remitente": "contacto",
+    "texto": "Oky"
+  },
+  {
+    "ts": 1789382892000,
+    "subscriberId": "670487929",
+    "nombreContacto": "Noriedis K Urbano L",
+    "remitente": "agente",
+    "texto": "Mirá, este video no va a estar mucho tiempo disponible, así que lo mejor es que lo veas lo antes posible, apenas lo termines, agendá tu llamada porque los lugares con el director se ocupan rápido"
+  },
+  {
+    "ts": 1789382920000,
+    "subscriberId": "1914223855",
+    "nombreContacto": "Lêvî Löpêz",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789382924000,
+    "subscriberId": "1914223855",
+    "nombreContacto": "Lêvî Löpêz",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
