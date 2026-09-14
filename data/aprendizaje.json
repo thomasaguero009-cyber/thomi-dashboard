@@ -245878,5 +245878,75 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Patricia López Díaz✨"
+  },
+  {
+    "ts": 1789383620000,
+    "mensaje": "Cómo puedo hacer?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1381316541",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "rosí"
+  },
+  {
+    "ts": 1789383624000,
+    "mensaje": "Más info",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "448419533",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Carla"
+  },
+  {
+    "ts": 1789383631000,
+    "mensaje": "Hola 👋",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "73414217",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ferney leon"
+  },
+  {
+    "ts": 1789383879000,
+    "mensaje": "No respondí estaba ocupado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "796481070",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adrián Blanco Romero"
+  },
+  {
+    "ts": 1789383881000,
+    "mensaje": "Hola interesada en tu ayuda, me urge generar ingresos",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "211553885",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Magalys Valera"
+  },
+  {
+    "ts": 1789383882000,
+    "mensaje": "Si, como se genera",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1663736983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Ruddy Gómez"
+  },
+  {
+    "ts": 1789383902000,
+    "mensaje": "Buenos días tino qué necesito para generar ingresos o algún requisito",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "229804909",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anthony Andino"
   }
 ]
