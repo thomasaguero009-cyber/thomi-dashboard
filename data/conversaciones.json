@@ -555588,5 +555588,47 @@
     "nombreContacto": "Lara",
     "remitente": "contacto",
     "texto": "Certificado"
+  },
+  {
+    "ts": 1789384578000,
+    "subscriberId": "1259724227",
+    "nombreContacto": "Santi🍀",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789384578000,
+    "subscriberId": "1259724227",
+    "nombreContacto": "Santi🍀",
+    "remitente": "contacto",
+    "texto": "?"
+  },
+  {
+    "ts": 1789384598000,
+    "subscriberId": "35283165",
+    "nombreContacto": "emmapiza_12",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelEmpresas"
+  },
+  {
+    "ts": 1789384598000,
+    "subscriberId": "35283165",
+    "nombreContacto": "emmapiza_12",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1789384598000,
+    "subscriberId": "35283165",
+    "nombreContacto": "emmapiza_12",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789384598000,
+    "subscriberId": "35283165",
+    "nombreContacto": "emmapiza_12",
+    "remitente": "contacto",
+    "texto": "Si quisiera saber cómo es"
   }
 ]
