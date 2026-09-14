@@ -556120,5 +556120,75 @@
     "nombreContacto": "rosanatiezzi",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789387230000,
+    "subscriberId": "1214838587",
+    "nombreContacto": "rosanatiezzi",
+    "remitente": "contacto",
+    "texto": "55 estoy grande"
+  },
+  {
+    "ts": 1789387296000,
+    "subscriberId": "1214838587",
+    "nombreContacto": "rosanatiezzi",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789387327000,
+    "subscriberId": "1214838587",
+    "nombreContacto": "rosanatiezzi",
+    "remitente": "contacto",
+    "texto": "Gracias"
+  },
+  {
+    "ts": 1789387390000,
+    "subscriberId": "1068047158",
+    "nombreContacto": "ʟɪꜱᴀɴᴅʀᴏ",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789387390000,
+    "subscriberId": "1068047158",
+    "nombreContacto": "ʟɪꜱᴀɴᴅʀᴏ",
+    "remitente": "contacto",
+    "texto": "buenas 🙌, si porfavor"
+  },
+  {
+    "ts": 1789387426000,
+    "subscriberId": "1781576642",
+    "nombreContacto": "Ángela Colón",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789387426000,
+    "subscriberId": "1781576642",
+    "nombreContacto": "Ángela Colón",
+    "remitente": "contacto",
+    "texto": "Hola Tino, gracias. Me gustaría saber y tener más información 🙌🏻"
+  },
+  {
+    "ts": 1789387487000,
+    "subscriberId": "1781576642",
+    "nombreContacto": "Ángela Colón",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789387490000,
+    "subscriberId": "1781576642",
+    "nombreContacto": "Ángela Colón",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789387517000,
+    "subscriberId": "1986255330",
+    "nombreContacto": "أنطونيو",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
   }
 ]
