@@ -246048,5 +246048,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "ℳ𝑜𝓇𝑒𝓃𝒾𝓉𝒶ꨄ"
+  },
+  {
+    "ts": 1789386434000,
+    "mensaje": "Vale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "895579679",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "David"
+  },
+  {
+    "ts": 1789386569000,
+    "mensaje": "Hola si si ya lo estoy haciendo voy a tener la videollamada",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "789569915",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "kevin ulises"
   }
 ]
