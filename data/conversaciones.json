@@ -558248,5 +558248,47 @@
     "nombreContacto": "Diego Gutierrez junior",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789402534000,
+    "subscriberId": "1574948636",
+    "nombreContacto": "Diego Gutierrez junior",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789402534000,
+    "subscriberId": "1574948636",
+    "nombreContacto": "Diego Gutierrez junior",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789402815000,
+    "subscriberId": "905623548",
+    "nombreContacto": "Claudia Bolaño Escolar",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789402815000,
+    "subscriberId": "905623548",
+    "nombreContacto": "Claudia Bolaño Escolar",
+    "remitente": "contacto",
+    "texto": "Buenas.\nEstoy interesada"
+  },
+  {
+    "ts": 1789402815000,
+    "subscriberId": "905623548",
+    "nombreContacto": "Claudia Bolaño Escolar",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789402815000,
+    "subscriberId": "905623548",
+    "nombreContacto": "Claudia Bolaño Escolar",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
