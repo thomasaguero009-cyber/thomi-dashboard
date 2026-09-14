@@ -557968,5 +557968,26 @@
     "nombreContacto": "Eve 🥶",
     "remitente": "contacto",
     "texto": "Pero tengo una duda ,soy cubana ,eso no impide nada?"
+  },
+  {
+    "ts": 1789398127000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789398276000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "BotTe pudiste agendar?Vi la clase,me gustó e intenté agendarme ,puse toda la información pero me puso que ese servicio no estaba disponible para mi región"
+  },
+  {
+    "ts": 1789398287000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "🙄"
   }
 ]
