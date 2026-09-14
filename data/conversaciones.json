@@ -558038,5 +558038,33 @@
     "nombreContacto": "Eve 🥶",
     "remitente": "contacto",
     "texto": "Comprende?"
+  },
+  {
+    "ts": 1789399277000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "contacto",
+    "texto": "Hola tinoo - te admito un montonn!! Necesito qe me ayudess . Estoy muy mal esconomicamente"
+  },
+  {
+    "ts": 1789399282000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "contacto",
+    "texto": "Asesorame"
+  },
+  {
+    "ts": 1789399336000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789399342000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
