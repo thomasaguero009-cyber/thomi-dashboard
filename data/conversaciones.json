@@ -558073,5 +558073,33 @@
     "nombreContacto": "Ale Jara",
     "remitente": "contacto",
     "texto": "Si si pasame"
+  },
+  {
+    "ts": 1789399825000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789399829000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789399968000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "contacto",
+    "texto": "31 años"
+  },
+  {
+    "ts": 1789400035000,
+    "subscriberId": "830645113",
+    "nombreContacto": "Ale Jara",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
