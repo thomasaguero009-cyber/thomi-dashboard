@@ -557856,5 +557856,40 @@
     "nombreContacto": "Alfredo Garcia Acosta",
     "remitente": "contacto",
     "texto": "SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789395934000,
+    "subscriberId": "1252361378",
+    "nombreContacto": "Alfredo Garcia Acosta",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉CATALOGO👈"
+  },
+  {
+    "ts": 1789395971000,
+    "subscriberId": "517012937",
+    "nombreContacto": "Eliana Soldi",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝❤"
+  },
+  {
+    "ts": 1789395971000,
+    "subscriberId": "517012937",
+    "nombreContacto": "Eliana Soldi",
+    "remitente": "contacto",
+    "texto": "Hola me pasas info"
+  },
+  {
+    "ts": 1789396032000,
+    "subscriberId": "517012937",
+    "nombreContacto": "Eliana Soldi",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789396036000,
+    "subscriberId": "517012937",
+    "nombreContacto": "Eliana Soldi",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
