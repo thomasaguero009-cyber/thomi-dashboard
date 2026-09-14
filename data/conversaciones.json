@@ -557828,5 +557828,33 @@
     "nombreContacto": "Patricia Barra",
     "remitente": "contacto",
     "texto": "De qué se trata?"
+  },
+  {
+    "ts": 1789395874000,
+    "subscriberId": "1252361378",
+    "nombreContacto": "Alfredo Garcia Acosta",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789395874000,
+    "subscriberId": "1252361378",
+    "nombreContacto": "Alfredo Garcia Acosta",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789395874000,
+    "subscriberId": "1252361378",
+    "nombreContacto": "Alfredo Garcia Acosta",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1789395875000,
+    "subscriberId": "1252361378",
+    "nombreContacto": "Alfredo Garcia Acosta",
+    "remitente": "contacto",
+    "texto": "SI LO QUIERO RECIBIR"
   }
 ]
