@@ -555805,5 +555805,75 @@
     "nombreContacto": "Albanny Villanueva",
     "remitente": "contacto",
     "texto": "Buenas! Si quiero aprender, me interesa mucho"
+  },
+  {
+    "ts": 1789386025000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789386029000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789386068000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "contacto",
+    "texto": "Si, por favor"
+  },
+  {
+    "ts": 1789386156000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789386160000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789386169000,
+    "subscriberId": "740655547",
+    "nombreContacto": "Albanny Villanueva",
+    "remitente": "contacto",
+    "texto": "31"
+  },
+  {
+    "ts": 1789386193000,
+    "subscriberId": "1273064427",
+    "nombreContacto": "ℳ𝑜𝓇𝑒𝓃𝒾𝓉𝒶ꨄ",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789386193000,
+    "subscriberId": "1273064427",
+    "nombreContacto": "ℳ𝑜𝓇𝑒𝓃𝒾𝓉𝒶ꨄ",
+    "remitente": "contacto",
+    "texto": "Sii"
+  },
+  {
+    "ts": 1789386253000,
+    "subscriberId": "1273064427",
+    "nombreContacto": "ℳ𝑜𝓇𝑒𝓃𝒾𝓉𝒶ꨄ",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789386257000,
+    "subscriberId": "1273064427",
+    "nombreContacto": "ℳ𝑜𝓇𝑒𝓃𝒾𝓉𝒶ꨄ",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
