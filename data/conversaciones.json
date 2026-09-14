@@ -556302,5 +556302,33 @@
     "nombreContacto": "luis melendez",
     "remitente": "contacto",
     "texto": "si"
+  },
+  {
+    "ts": 1789387833000,
+    "subscriberId": "1266584165",
+    "nombreContacto": "luis melendez",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789387836000,
+    "subscriberId": "1266584165",
+    "nombreContacto": "luis melendez",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789388044000,
+    "subscriberId": "1266584165",
+    "nombreContacto": "luis melendez",
+    "remitente": "contacto",
+    "texto": "41"
+  },
+  {
+    "ts": 1789388111000,
+    "subscriberId": "1266584165",
+    "nombreContacto": "luis melendez",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
