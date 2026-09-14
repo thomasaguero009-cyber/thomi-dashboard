@@ -558353,5 +558353,54 @@
     "nombreContacto": "Lucas Damian Becker",
     "remitente": "contacto",
     "texto": "Buenas me interesa"
+  },
+  {
+    "ts": 1789404342000,
+    "subscriberId": "1451834418",
+    "nombreContacto": "Lucas Damian Becker",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789404346000,
+    "subscriberId": "1451834418",
+    "nombreContacto": "Lucas Damian Becker",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789404356000,
+    "subscriberId": "1451834418",
+    "nombreContacto": "Lucas Damian Becker",
+    "remitente": "contacto",
+    "texto": "Dale gracias Tino"
+  },
+  {
+    "ts": 1789404360000,
+    "subscriberId": "2056670852",
+    "nombreContacto": "Nacho Sepúlveda",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789404360000,
+    "subscriberId": "2056670852",
+    "nombreContacto": "Nacho Sepúlveda",
+    "remitente": "contacto",
+    "texto": "Ya si me interesa por fvr"
+  },
+  {
+    "ts": 1789404420000,
+    "subscriberId": "2056670852",
+    "nombreContacto": "Nacho Sepúlveda",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789404423000,
+    "subscriberId": "2056670852",
+    "nombreContacto": "Nacho Sepúlveda",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
