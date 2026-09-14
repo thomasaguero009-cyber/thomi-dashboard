@@ -247478,5 +247478,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "𝓂ℯℯ𝓁💋"
+  },
+  {
+    "ts": 1789410658000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "470105983",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Harold Martinez"
+  },
+  {
+    "ts": 1789410686000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "1132582971",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Giancarlo Meléndez"
+  },
+  {
+    "ts": 1789410764000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "396590331",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Geovani  Ivan RR"
   }
 ]
