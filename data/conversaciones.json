@@ -558591,5 +558591,40 @@
     "nombreContacto": "Rossana Díaz N.",
     "remitente": "contacto",
     "texto": "Si"
+  },
+  {
+    "ts": 1789405531000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789405534000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789405677000,
+    "subscriberId": "108895201",
+    "nombreContacto": "Lucio Giangrande 🇦🇹",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789405677000,
+    "subscriberId": "108895201",
+    "nombreContacto": "Lucio Giangrande 🇦🇹",
+    "remitente": "contacto",
+    "texto": "Hola"
+  },
+  {
+    "ts": 1789405677000,
+    "subscriberId": "108895201",
+    "nombreContacto": "Lucio Giangrande 🇦🇹",
+    "remitente": "contacto",
+    "texto": "Tengo 14 años"
   }
 ]

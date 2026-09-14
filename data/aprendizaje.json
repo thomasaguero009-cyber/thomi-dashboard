@@ -246868,5 +246868,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "thiagoooooo"
+  },
+  {
+    "ts": 1789405471000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "586989945",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Rossana Díaz N."
+  },
+  {
+    "ts": 1789405676000,
+    "mensaje": "Me pasas información porfaa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1668665517",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Noe Pecile"
   }
 ]
