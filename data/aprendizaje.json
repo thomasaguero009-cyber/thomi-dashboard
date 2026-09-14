@@ -246108,5 +246108,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Ángela Colón"
+  },
+  {
+    "ts": 1789387663000,
+    "mensaje": "Dale espero como debo hacer",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "808556327",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Adriana Isabel Juarez"
+  },
+  {
+    "ts": 1789387665000,
+    "mensaje": "Buenas seguro que si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1266584165",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "luis melendez"
   }
 ]
