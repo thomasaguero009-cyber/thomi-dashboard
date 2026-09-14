@@ -555665,5 +555665,26 @@
     "nombreContacto": "Dario Peres",
     "remitente": "agente",
     "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789385476000,
+    "subscriberId": "1986255330",
+    "nombreContacto": "أنطونيو",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789385589000,
+    "subscriberId": "87400933",
+    "nombreContacto": "Luis Diego Cornejo",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789385589000,
+    "subscriberId": "87400933",
+    "nombreContacto": "Luis Diego Cornejo",
+    "remitente": "contacto",
+    "texto": "Buenas, ya estoy hablando con Alex para ponerme al tanto con la oportunidad de generar ingresos respondiendo mensajes en WhatsApp. Muchas gracias"
   }
 ]
