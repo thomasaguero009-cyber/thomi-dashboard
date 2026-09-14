@@ -558017,5 +558017,26 @@
     "nombreContacto": "Eve 🥶",
     "remitente": "contacto",
     "texto": "De todos modos me encantó el vídeo"
+  },
+  {
+    "ts": 1789398696000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Veo que entraste a agendar, para que día y hora quedo?"
+  },
+  {
+    "ts": 1789398796000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Es que en sí, me encantaría ser un closer de ventas!,pero en cuba se hace difícil, por aquí no es por dólares, ni euros ,ni nada"
+  },
+  {
+    "ts": 1789398807000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Comprende?"
   }
 ]
