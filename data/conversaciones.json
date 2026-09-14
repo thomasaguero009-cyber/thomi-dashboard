@@ -557954,5 +557954,19 @@
     "nombreContacto": "Eve 🥶",
     "remitente": "contacto",
     "texto": "Soy cubana"
+  },
+  {
+    "ts": 1789396919000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "De acuerdo,yo la veo,y te comento que tal me pareció."
+  },
+  {
+    "ts": 1789397024000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Pero tengo una duda ,soy cubana ,eso no impide nada?"
   }
 ]
