@@ -246738,5 +246738,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Pablo meledez"
+  },
+  {
+    "ts": 1789395318000,
+    "mensaje": "Me parece perfecto",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "509081019",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "René Segura"
+  },
+  {
+    "ts": 1789395590000,
+    "mensaje": "Hola Tino, muchas gracias!",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "814603278",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia Barra"
   }
 ]

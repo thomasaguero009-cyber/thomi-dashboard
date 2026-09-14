@@ -557758,5 +557758,75 @@
     "nombreContacto": "René Segura",
     "remitente": "contacto",
     "texto": "Me parece perfecto"
+  },
+  {
+    "ts": 1789395332000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "contacto",
+    "texto": "¿Cuáles son las bases?"
+  },
+  {
+    "ts": 1789395377000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789395383000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789395395000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "contacto",
+    "texto": "BotQueres que te la pase?Sería un placer"
+  },
+  {
+    "ts": 1789395398000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "contacto",
+    "texto": "Muchas gracias"
+  },
+  {
+    "ts": 1789395484000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789395488000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789395590000,
+    "subscriberId": "814603278",
+    "nombreContacto": "Patricia Barra",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789395590000,
+    "subscriberId": "814603278",
+    "nombreContacto": "Patricia Barra",
+    "remitente": "contacto",
+    "texto": "Hola Tino, muchas gracias!"
+  },
+  {
+    "ts": 1789395597000,
+    "subscriberId": "814603278",
+    "nombreContacto": "Patricia Barra",
+    "remitente": "contacto",
+    "texto": "De qué se trata?"
   }
 ]
