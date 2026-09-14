@@ -557989,5 +557989,33 @@
     "nombreContacto": "Eve 🥶",
     "remitente": "contacto",
     "texto": "🙄"
+  },
+  {
+    "ts": 1789398356000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉AGENDA👈"
+  },
+  {
+    "ts": 1789398416000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Como va? pudiste agendarte? asi armamos tu plan de accion con la conexion laboral"
+  },
+  {
+    "ts": 1789398524000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Lo siento ,no pude"
+  },
+  {
+    "ts": 1789398568000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "De todos modos me encantó el vídeo"
   }
 ]
