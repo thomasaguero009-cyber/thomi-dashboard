@@ -246128,5 +246128,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "luis melendez"
+  },
+  {
+    "ts": 1789389066000,
+    "mensaje": "Hola si quiero",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "860085108",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "seua_magaly223"
+  },
+  {
+    "ts": 1789389092000,
+    "mensaje": "Hola si 🙃",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "796551830",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Hellen Suset Luppi Furoni Cutiño ✨| Creadora🖤✨"
+  },
+  {
+    "ts": 1789389153000,
+    "mensaje": "Hola cómo estás? Si coméntame",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1307252619",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "GG🦁✨"
+  },
+  {
+    "ts": 1789389332000,
+    "mensaje": "Buenas buenas gracias por la oportunidad que me diste pero aora no estoy interesado porque tengo 14 años",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "541930664",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Bruning Doglas"
   }
 ]
