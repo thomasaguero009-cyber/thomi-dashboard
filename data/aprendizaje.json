@@ -245998,5 +245998,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Dario Peres"
+  },
+  {
+    "ts": 1789385929000,
+    "mensaje": "Ok gracias",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "491183370",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "isabela"
+  },
+  {
+    "ts": 1789385931000,
+    "mensaje": "hola tino una pregunta debo ser mayor de edad para trabajar en eso?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1180178994",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "ᵐᵃʳ"
+  },
+  {
+    "ts": 1789385932000,
+    "mensaje": "Pero no importa la edad ni el pais",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "391128802",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristian"
+  },
+  {
+    "ts": 1789385966000,
+    "mensaje": "Buenas! Si quiero aprender, me interesa mucho",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "740655547",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Albanny Villanueva"
   }
 ]
