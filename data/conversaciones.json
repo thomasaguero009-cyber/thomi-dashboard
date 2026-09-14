@@ -557716,5 +557716,47 @@
     "nombreContacto": "catu",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789395115000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "contacto",
+    "texto": "tengo 18"
+  },
+  {
+    "ts": 1789395183000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789395268000,
+    "subscriberId": "1992791702",
+    "nombreContacto": "Pablo meledez",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789395268000,
+    "subscriberId": "1992791702",
+    "nombreContacto": "Pablo meledez",
+    "remitente": "contacto",
+    "texto": "Pásamelo amigo"
+  },
+  {
+    "ts": 1789395315000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789395315000,
+    "subscriberId": "509081019",
+    "nombreContacto": "René Segura",
+    "remitente": "contacto",
+    "texto": "Me parece perfecto"
   }
 ]
