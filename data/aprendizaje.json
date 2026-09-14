@@ -245948,5 +245948,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Anthony Andino"
+  },
+  {
+    "ts": 1789384166000,
+    "mensaje": "Buenaas Tinoo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1329618535",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Franco Mathias"
+  },
+  {
+    "ts": 1789384167000,
+    "mensaje": "BotBuenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame ...Me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1947952640",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Alejandro Jehiel Funes Robles"
+  },
+  {
+    "ts": 1789384210000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "929285713",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Xavier Fuentes"
   }
 ]
