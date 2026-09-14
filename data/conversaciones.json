@@ -557681,5 +557681,40 @@
     "nombreContacto": "catu",
     "remitente": "contacto",
     "texto": "hola, me interesa!"
+  },
+  {
+    "ts": 1789394766000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789394770000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789394900000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "contacto",
+    "texto": "BotQuerés que te la envíe?si, porfavor"
+  },
+  {
+    "ts": 1789394989000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789394992000,
+    "subscriberId": "1879180192",
+    "nombreContacto": "catu",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
