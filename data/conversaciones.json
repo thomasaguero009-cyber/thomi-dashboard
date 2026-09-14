@@ -555630,5 +555630,26 @@
     "nombreContacto": "emmapiza_12",
     "remitente": "contacto",
     "texto": "Si quisiera saber cómo es"
+  },
+  {
+    "ts": 1789385089000,
+    "subscriberId": "849559307",
+    "nombreContacto": "Delfina Borrajo",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789385089000,
+    "subscriberId": "849559307",
+    "nombreContacto": "Delfina Borrajo",
+    "remitente": "contacto",
+    "texto": "Sii me interesa"
+  },
+  {
+    "ts": 1789385099000,
+    "subscriberId": "1464329008",
+    "nombreContacto": "Dario Peres",
+    "remitente": "contacto",
+    "texto": "Estimado buenas tardes"
   }
 ]
