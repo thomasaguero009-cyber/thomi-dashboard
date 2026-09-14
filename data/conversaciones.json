@@ -558521,5 +558521,75 @@
     "nombreContacto": "thiagoooooo",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "contacto",
+    "texto": "si"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789405463000,
+    "subscriberId": "1456652047",
+    "nombreContacto": "𝐅𝐥𝐨𝐫",
+    "remitente": "contacto",
+    "texto": "21"
+  },
+  {
+    "ts": 1789405470000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789405470000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789405470000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?"
+  },
+  {
+    "ts": 1789405470000,
+    "subscriberId": "586989945",
+    "nombreContacto": "Rossana Díaz N.",
+    "remitente": "contacto",
+    "texto": "Si"
   }
 ]
