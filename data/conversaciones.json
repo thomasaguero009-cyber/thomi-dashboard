@@ -556547,5 +556547,26 @@
     "nombreContacto": "𝐘esi ✨",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789389939000,
+    "subscriberId": "1566912496",
+    "nombreContacto": "𝐘esi ✨",
+    "remitente": "contacto",
+    "texto": "Te agradecería"
+  },
+  {
+    "ts": 1789390028000,
+    "subscriberId": "1566912496",
+    "nombreContacto": "𝐘esi ✨",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789390032000,
+    "subscriberId": "1566912496",
+    "nombreContacto": "𝐘esi ✨",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
