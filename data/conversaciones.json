@@ -557891,5 +557891,68 @@
     "nombreContacto": "Eliana Soldi",
     "remitente": "agente",
     "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789396536000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789396536000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Me gustaría tu ayuda!!!"
+  },
+  {
+    "ts": 1789396598000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789396602000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789396629000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Si claro"
+  },
+  {
+    "ts": 1789396717000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789396721000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789396752000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "19 añitos!"
+  },
+  {
+    "ts": 1789396819000,
+    "subscriberId": "1545433389",
+    "nombreContacto": "Eve 🥶",
+    "remitente": "contacto",
+    "texto": "Soy cubana"
   }
 ]
