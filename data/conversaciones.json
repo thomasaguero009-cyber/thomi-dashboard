@@ -555651,5 +555651,19 @@
     "nombreContacto": "Dario Peres",
     "remitente": "contacto",
     "texto": "Estimado buenas tardes"
+  },
+  {
+    "ts": 1789385223000,
+    "subscriberId": "1464329008",
+    "nombreContacto": "Dario Peres",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789385229000,
+    "subscriberId": "1464329008",
+    "nombreContacto": "Dario Peres",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
   }
 ]
