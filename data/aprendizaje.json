@@ -245848,5 +245848,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Argenis Lopez"
+  },
+  {
+    "ts": 1789383480000,
+    "mensaje": "Hola si..interesado",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2118838459",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Ramón Ruiz González"
+  },
+  {
+    "ts": 1789383573000,
+    "mensaje": "Si",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "567637298",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Fungo"
+  },
+  {
+    "ts": 1789383588000,
+    "mensaje": "Hola Tino, sí por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "2095702922",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Patricia López Díaz✨"
   }
 ]
