@@ -247708,5 +247708,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Miklo🇪🇪"
+  },
+  {
+    "ts": 1789491705000,
+    "mensaje": "si me interesa",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "612580556",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Matias Lucero"
+  },
+  {
+    "ts": 1789491783000,
+    "mensaje": "Hola me podrías pasar info ?",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "1171249566",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Loreley"
   }
 ]

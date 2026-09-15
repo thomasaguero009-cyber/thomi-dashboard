@@ -565941,5 +565941,68 @@
     "nombreContacto": "Miklo🇪🇪",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789491704000,
+    "subscriberId": "612580556",
+    "nombreContacto": "Matias Lucero",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789491704000,
+    "subscriberId": "612580556",
+    "nombreContacto": "Matias Lucero",
+    "remitente": "contacto",
+    "texto": "si me interesa"
+  },
+  {
+    "ts": 1789491765000,
+    "subscriberId": "612580556",
+    "nombreContacto": "Matias Lucero",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789491768000,
+    "subscriberId": "612580556",
+    "nombreContacto": "Matias Lucero",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789491782000,
+    "subscriberId": "1171249566",
+    "nombreContacto": "Loreley",
+    "remitente": "contacto",
+    "texto": "Hola me podrías pasar info ?"
+  },
+  {
+    "ts": 1789491843000,
+    "subscriberId": "1171249566",
+    "nombreContacto": "Loreley",
+    "remitente": "agente",
+    "texto": "Mira, grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789491847000,
+    "subscriberId": "1171249566",
+    "nombreContacto": "Loreley",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatalogo"
+  },
+  {
+    "ts": 1789491849000,
+    "subscriberId": "1171249566",
+    "nombreContacto": "Loreley",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1789491874000,
+    "subscriberId": "1171249566",
+    "nombreContacto": "Loreley",
+    "remitente": "contacto",
+    "texto": "Dale gracias"
   }
 ]
