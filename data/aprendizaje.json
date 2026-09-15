@@ -247618,5 +247618,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Elena Maidana"
+  },
+  {
+    "ts": 1789481743000,
+    "mensaje": "Sisi por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1304692284",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "亗ƗSȺǤƗ亗"
+  },
+  {
+    "ts": 1789481745000,
+    "mensaje": "De que trata?",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1992026218",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Cristina Escoto"
+  },
+  {
+    "ts": 1789481748000,
+    "mensaje": "Hola tino",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "562197487",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Anthony Sebastián"
   }
 ]
