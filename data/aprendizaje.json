@@ -247578,5 +247578,25 @@
     "setter": "thomi",
     "pageId": "5487747",
     "nombreContacto": "Adimar"
+  },
+  {
+    "ts": 1789478570000,
+    "mensaje": "Hola si",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "815544743",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "tizi creaciones"
+  },
+  {
+    "ts": 1789478714000,
+    "mensaje": "Ok",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "661625208",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Leo Hipólito Pons"
   }
 ]

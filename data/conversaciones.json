@@ -565395,5 +565395,54 @@
     "nombreContacto": "Leo Hipólito Pons",
     "remitente": "contacto",
     "texto": "Ok"
+  },
+  {
+    "ts": 1789478774000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789478778000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789478812000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "contacto",
+    "texto": "Ok"
+  },
+  {
+    "ts": 1789478816000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "contacto",
+    "texto": "Eres tú real"
+  },
+  {
+    "ts": 1789478901000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789478904000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789478912000,
+    "subscriberId": "661625208",
+    "nombreContacto": "Leo Hipólito Pons",
+    "remitente": "contacto",
+    "texto": "12"
   }
 ]
