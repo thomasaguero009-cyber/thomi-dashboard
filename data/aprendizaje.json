@@ -247538,5 +247538,35 @@
     "setter": "thomi",
     "pageId": "5487747",
     "nombreContacto": "JC Saucedo"
+  },
+  {
+    "ts": 1789413947000,
+    "mensaje": "Dale!",
+    "boton": "ASIGNADO_A: jonathan ocampo",
+    "respuesta": "",
+    "subscriberId": "770248236",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Luana🧡✨"
+  },
+  {
+    "ts": 1789414052000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: suarezvillacisadrianamicaela",
+    "respuesta": "",
+    "subscriberId": "1886739901",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "...."
+  },
+  {
+    "ts": 1789414077000,
+    "mensaje": "Listo ,ya culminó la reunión",
+    "boton": "ASIGNADO_A: suarezvillacisadrianamicaela",
+    "respuesta": "",
+    "subscriberId": "1464828346",
+    "setter": "thomi",
+    "pageId": "5487747",
+    "nombreContacto": "Josue,V"
   }
 ]
