@@ -566060,5 +566060,54 @@
     "nombreContacto": "Tania Bravo",
     "remitente": "contacto",
     "texto": "Tengo 16 años"
+  },
+  {
+    "ts": 1789492255000,
+    "subscriberId": "263384715",
+    "nombreContacto": "Luis Felipe Rojas",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
+  },
+  {
+    "ts": 1789492255000,
+    "subscriberId": "263384715",
+    "nombreContacto": "Luis Felipe Rojas",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789492255000,
+    "subscriberId": "263384715",
+    "nombreContacto": "Luis Felipe Rojas",
+    "remitente": "contacto",
+    "texto": "Buena tarde"
+  },
+  {
+    "ts": 1789492255000,
+    "subscriberId": "263384715",
+    "nombreContacto": "Luis Felipe Rojas",
+    "remitente": "contacto",
+    "texto": "Claro que sí"
+  },
+  {
+    "ts": 1789492257000,
+    "subscriberId": "541741448",
+    "nombreContacto": "oviedoo",
+    "remitente": "contacto",
+    "texto": "Yooo por favor!!"
+  },
+  {
+    "ts": 1789492258000,
+    "subscriberId": "782368096",
+    "nombreContacto": "Magdalena Saraye",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789492258000,
+    "subscriberId": "782368096",
+    "nombreContacto": "Magdalena Saraye",
+    "remitente": "contacto",
+    "texto": "Si me gustaría"
   }
 ]

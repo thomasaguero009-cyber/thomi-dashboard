@@ -247728,5 +247728,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Loreley"
+  },
+  {
+    "ts": 1789491931000,
+    "mensaje": "Buenas Tino, si estoy interesada, vengo del video de youtube, quería las 60 preguntas, también saber más de todo",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1209365130",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Tania Bravo"
+  },
+  {
+    "ts": 1789492256000,
+    "mensaje": "Claro que sí",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "263384715",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Luis Felipe Rojas"
+  },
+  {
+    "ts": 1789492258000,
+    "mensaje": "Si me gustaría",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "782368096",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Magdalena Saraye"
   }
 ]
