@@ -565766,5 +565766,19 @@
     "nombreContacto": "Elsiita",
     "remitente": "contacto",
     "texto": "Si por favor"
+  },
+  {
+    "ts": 1789482351000,
+    "subscriberId": "1578025043",
+    "nombreContacto": "Elsiita",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789482355000,
+    "subscriberId": "1578025043",
+    "nombreContacto": "Elsiita",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
   }
 ]
