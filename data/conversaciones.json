@@ -565787,5 +565787,68 @@
     "nombreContacto": "Elsiita",
     "remitente": "agente",
     "texto": "Estas para ver la clase?"
+  },
+  {
+    "ts": 1789490142000,
+    "subscriberId": "1735472488",
+    "nombreContacto": "Jhoel Victor Calahumana",
+    "remitente": "contacto",
+    "texto": "Hola omo accedo a sus servicios"
+  },
+  {
+    "ts": 1789490266000,
+    "subscriberId": "1735472488",
+    "nombreContacto": "Jhoel Victor Calahumana",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789490270000,
+    "subscriberId": "1735472488",
+    "nombreContacto": "Jhoel Victor Calahumana",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789490301000,
+    "subscriberId": "579841930",
+    "nombreContacto": "juanii_actis",
+    "remitente": "agente",
+    "texto": "Buenas 🙌 gracias por seguirme.\nSi querés aprender cómo generar ingresos respondiendo mensajes en WhatsApp avisame y te ayudo 🤝"
+  },
+  {
+    "ts": 1789490301000,
+    "subscriberId": "579841930",
+    "nombreContacto": "juanii_actis",
+    "remitente": "contacto",
+    "texto": "Si por favor"
+  },
+  {
+    "ts": 1789490327000,
+    "subscriberId": "579841930",
+    "nombreContacto": "juanii_actis",
+    "remitente": "contacto",
+    "texto": "Sos vos de verdad??"
+  },
+  {
+    "ts": 1789490360000,
+    "subscriberId": "1003078275",
+    "nombreContacto": "Sebas_.31",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCATÁLOGO"
+  },
+  {
+    "ts": 1789490360000,
+    "subscriberId": "1003078275",
+    "nombreContacto": "Sebas_.31",
+    "remitente": "agente",
+    "texto": "Buenas! vi tu comentario, estas para que te pase el catalogo?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789490360000,
+    "subscriberId": "1003078275",
+    "nombreContacto": "Sebas_.31",
+    "remitente": "contacto",
+    "texto": "por su puesto"
   }
 ]

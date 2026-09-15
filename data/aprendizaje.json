@@ -247668,5 +247668,35 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Elsiita"
+  },
+  {
+    "ts": 1789490207000,
+    "mensaje": "Hola omo accedo a sus servicios",
+    "boton": "ASIGNADO_A: Paula Rodriguez",
+    "respuesta": "",
+    "subscriberId": "1735472488",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jhoel Victor Calahumana"
+  },
+  {
+    "ts": 1789490303000,
+    "mensaje": "Si por favor",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "579841930",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "juanii_actis"
+  },
+  {
+    "ts": 1789490360000,
+    "mensaje": "por su puesto",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1003078275",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Sebas_.31"
   }
 ]
