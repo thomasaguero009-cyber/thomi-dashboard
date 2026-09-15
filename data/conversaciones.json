@@ -566018,5 +566018,47 @@
     "nombreContacto": "Tania Bravo",
     "remitente": "contacto",
     "texto": "Buenas Tino, si estoy interesada, vengo del video de youtube, quería las 60 preguntas, también saber más de todo"
+  },
+  {
+    "ts": 1789491991000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "agente",
+    "texto": "Buenisimo, mira grabé una clase donde explico cómo generar ingresos respondiendo mensajes para empresas de 🇺🇸"
+  },
+  {
+    "ts": 1789491995000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "agente",
+    "texto": "Querés que te la envíe?"
+  },
+  {
+    "ts": 1789492024000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "contacto",
+    "texto": "Si dale, por favor"
+  },
+  {
+    "ts": 1789492112000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789492116000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789492129000,
+    "subscriberId": "1209365130",
+    "nombreContacto": "Tania Bravo",
+    "remitente": "contacto",
+    "texto": "Tengo 16 años"
   }
 ]
