@@ -565927,5 +565927,19 @@
     "nombreContacto": "Miklo🇪🇪",
     "remitente": "contacto",
     "texto": "Si está bien"
+  },
+  {
+    "ts": 1789490742000,
+    "subscriberId": "631110964",
+    "nombreContacto": "Miklo🇪🇪",
+    "remitente": "agente",
+    "texto": "De una, antes decime"
+  },
+  {
+    "ts": 1789490746000,
+    "subscriberId": "631110964",
+    "nombreContacto": "Miklo🇪🇪",
+    "remitente": "agente",
+    "texto": "Que edad tenes?"
   }
 ]
