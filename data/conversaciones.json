@@ -566123,5 +566123,19 @@
     "nombreContacto": "oviedoo",
     "remitente": "contacto",
     "texto": "Por favor!!"
+  },
+  {
+    "ts": 1789495945000,
+    "subscriberId": "541741448",
+    "nombreContacto": "oviedoo",
+    "remitente": "contacto",
+    "texto": "Tengo 18 años"
+  },
+  {
+    "ts": 1789496006000,
+    "subscriberId": "541741448",
+    "nombreContacto": "oviedoo",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
   }
 ]
