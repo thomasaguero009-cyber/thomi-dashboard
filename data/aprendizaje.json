@@ -247778,5 +247778,45 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Nolberto Galan"
+  },
+  {
+    "ts": 1789579222000,
+    "mensaje": "Quiero aprender",
+    "boton": "ASIGNADO_A: Florencia Ridao",
+    "respuesta": "",
+    "subscriberId": "642657236",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Josmary Gonzalez"
+  },
+  {
+    "ts": 1789579309000,
+    "mensaje": "Buenas noches sii si quisiera aprender",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1012153076",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "yani❤️"
+  },
+  {
+    "ts": 1789579313000,
+    "mensaje": "Si dale",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1378931415",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "Jonathan Magaz"
+  },
+  {
+    "ts": 1789579475000,
+    "mensaje": "Hola",
+    "boton": "ASIGNADO_A: thomas aguero",
+    "respuesta": "",
+    "subscriberId": "1829239052",
+    "setter": "thomi",
+    "pageId": "3036788",
+    "nombreContacto": "irmarys sanoja"
   }
 ]
