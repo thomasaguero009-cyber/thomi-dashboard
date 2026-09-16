@@ -566417,5 +566417,26 @@
     "nombreContacto": "Ketty Butto WstKy Famiily",
     "remitente": "agente",
     "texto": "Que edad tenes?"
+  },
+  {
+    "ts": 1789552522000,
+    "subscriberId": "314303416",
+    "nombreContacto": "Martita Toledo",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1789552530000,
+    "subscriberId": "314303416",
+    "nombreContacto": "Martita Toledo",
+    "remitente": "agente",
+    "texto": "Hace clic👇👉 VER PDF👈"
+  },
+  {
+    "ts": 1789552664000,
+    "subscriberId": "314303416",
+    "nombreContacto": "Martita Toledo",
+    "remitente": "contacto",
+    "texto": "comentó en tu publicación o reelCatálogo"
   }
 ]
