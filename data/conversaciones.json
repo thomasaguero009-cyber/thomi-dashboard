@@ -566662,5 +566662,26 @@
     "nombreContacto": "Alejandra Tkazek",
     "remitente": "agente",
     "texto": "Buenas! vi tu comentario, estas para que te pase el foro?SI LO QUIERO RECIBIR"
+  },
+  {
+    "ts": 1789568913000,
+    "subscriberId": "187280688",
+    "nombreContacto": "Nolberto Galan",
+    "remitente": "contacto",
+    "texto": "Saludos.  Me interesa el trabajo de responder mensajes de ws"
+  },
+  {
+    "ts": 1789568955000,
+    "subscriberId": "905284247",
+    "nombreContacto": "Ezequiel Martinez",
+    "remitente": "contacto",
+    "texto": "Te compartió un reel"
+  },
+  {
+    "ts": 1789568955000,
+    "subscriberId": "905284247",
+    "nombreContacto": "Ezequiel Martinez",
+    "remitente": "contacto",
+    "texto": "La verdad ? Te bancaba a muerte, pero a veces te vas de boca!! Fue un gusto"
   }
 ]
