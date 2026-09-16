@@ -566928,5 +566928,12 @@
     "nombreContacto": "irmarys sanoja",
     "remitente": "contacto",
     "texto": "No me ha llegado ningún mensaje por telegram"
+  },
+  {
+    "ts": 1789581196000,
+    "subscriberId": "1829239052",
+    "nombreContacto": "irmarys sanoja",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
   }
 ]
