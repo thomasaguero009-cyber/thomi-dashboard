@@ -247838,5 +247838,45 @@
     "setter": "thomi",
     "pageId": "435755",
     "nombreContacto": "Juan"
+  },
+  {
+    "ts": 1789680628000,
+    "mensaje": "Si te respondi",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "27760756",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "adriboca28"
+  },
+  {
+    "ts": 1789680669000,
+    "mensaje": "Por favor estoy interesado",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "984170647",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Almir💯"
+  },
+  {
+    "ts": 1789680712000,
+    "mensaje": "Cuanto es ese costo?",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "1931744194",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Construccion Sustentable"
+  },
+  {
+    "ts": 1789680894000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Osvaldo Carrizo",
+    "respuesta": "",
+    "subscriberId": "1349464131",
+    "setter": "thomi",
+    "pageId": "4407713",
+    "nombreContacto": "Rafa"
   }
 ]
