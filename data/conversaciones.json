@@ -576455,5 +576455,54 @@
     "nombreContacto": "Lautaro A. Rios Mateos",
     "remitente": "contacto",
     "texto": "Hola sisi"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "agente",
+    "texto": "HACE CLIC👇👉VER CLASE👈"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "contacto",
+    "texto": "Ya me inscribí"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "contacto",
+    "texto": "En la noche, que tengo tiempo"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "contacto",
+    "texto": "Ya hice el pago"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "contacto",
+    "texto": "Mediante yape"
+  },
+  {
+    "ts": 1789747183000,
+    "subscriberId": "309104501",
+    "nombreContacto": "Pedro Cesar Masías Alvarado",
+    "remitente": "contacto",
+    "texto": "Soy de Perú"
   }
 ]
