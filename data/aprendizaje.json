@@ -247828,5 +247828,15 @@
     "setter": "thomi",
     "pageId": "4392005",
     "nombreContacto": "AR transporte y gruas"
+  },
+  {
+    "ts": 1789680609000,
+    "mensaje": "Hola buenas noches, estuve esperando para la reunión",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "1274972453",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Juan"
   }
 ]
