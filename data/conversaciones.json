@@ -576875,5 +576875,12 @@
     "nombreContacto": "Joelmer",
     "remitente": "agente",
     "texto": "Como vas? me quede esperando tu respuesta"
+  },
+  {
+    "ts": 1789826737000,
+    "subscriberId": "2141656470",
+    "nombreContacto": "Joelmer",
+    "remitente": "agente",
+    "texto": "Mañana entre las 12:30 y las 22:00 a que hora puedes tener la reunion?"
   }
 ]
