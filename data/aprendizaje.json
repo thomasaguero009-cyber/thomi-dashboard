@@ -247958,5 +247958,35 @@
     "setter": "thomi",
     "pageId": "4550261",
     "nombreContacto": "AVZ"
+  },
+  {
+    "ts": 1790443283000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "482495364",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Jorge Ruiz Diaz"
+  },
+  {
+    "ts": 1790443288000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "270479065",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "S M S"
+  },
+  {
+    "ts": 1790443308000,
+    "mensaje": "",
+    "boton": "ASIGNADO_A: Joelmer Ponton",
+    "respuesta": "",
+    "subscriberId": "909292450",
+    "setter": "thomi",
+    "pageId": "435755",
+    "nombreContacto": "Proyecta tu hogar"
   }
 ]
