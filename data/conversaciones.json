@@ -584925,5 +584925,75 @@
     "nombreContacto": "enz_odaniel_",
     "remitente": "contacto",
     "texto": "Ok"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "agente",
+    "texto": "Queres que te la pase?"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "contacto",
+    "texto": "Si bro porfa ."
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "agente",
+    "texto": "Buenísimo! Antes de enviarte la clase, qué edad tenés?"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "contacto",
+    "texto": "BotBuenísimo! Antes de enviarte la clase, qué edad tenés?Tengo 19 años"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "agente",
+    "texto": "Excelente, te envío la clase \nPara verla, hacé clic en el botón de abajo 👇👉BOTÓN👈"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "contacto",
+    "texto": "respondió a tu historiaLa historia expira en 20 horas"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "contacto",
+    "texto": "carpeta ."
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "agente",
+    "texto": "Buenisimooo, te lo paso"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "agente",
+    "texto": "Hace clic👉CARPETA👈"
+  },
+  {
+    "ts": 1791402325000,
+    "subscriberId": "1610550565",
+    "nombreContacto": "Fabricio vera .",
+    "remitente": "contacto",
+    "texto": "Dale bro"
   }
 ]
