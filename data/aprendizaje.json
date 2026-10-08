@@ -248008,5 +248008,25 @@
     "setter": "thomi",
     "pageId": "3036788",
     "nombreContacto": "Estefany"
+  },
+  {
+    "ts": 1791483341000,
+    "mensaje": "Bien gracias hay lo voy a chequear ahora",
+    "boton": "ASIGNADO_A: Theo Ruarte",
+    "respuesta": "",
+    "subscriberId": "1681390600",
+    "setter": "thomi",
+    "pageId": "4550261",
+    "nombreContacto": "Nico"
+  },
+  {
+    "ts": 1791483429000,
+    "mensaje": "Entro con la misma liga?",
+    "boton": "ASIGNADO_A: Theo Ruarte",
+    "respuesta": "",
+    "subscriberId": "428894789",
+    "setter": "thomi",
+    "pageId": "4550261",
+    "nombreContacto": "Serch"
   }
 ]
