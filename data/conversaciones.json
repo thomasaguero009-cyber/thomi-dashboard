@@ -590168,5 +590168,12 @@
     "nombreContacto": "Ervin Gutierrez",
     "remitente": "agente",
     "texto": "Y actualmente con cuanto dinero dispones para comenzar?"
+  },
+  {
+    "ts": 1792410652000,
+    "subscriberId": "1186236769",
+    "nombreContacto": "Ervin Gutierrez",
+    "remitente": "contacto",
+    "texto": "Cuanto es el mínimo para empezar"
   }
 ]
