@@ -596076,5 +596076,47 @@
     "nombreContacto": "Edward Irizarry",
     "remitente": "agente",
     "texto": "Siii"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "contacto",
+    "texto": "Aun estoy viendo la clase"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "agente",
+    "texto": "O te paso la agenda directa?"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "contacto",
+    "texto": "Mandadaste el mismo audio"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "contacto",
+    "texto": "BotO te paso la agenda directa?Haber te explico una situacion spbre algo q comentaste de la clase"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "contacto",
+    "texto": "Me interesa las clases y tal"
+  },
+  {
+    "ts": 1793017036000,
+    "subscriberId": "2089340197",
+    "nombreContacto": "🎭",
+    "remitente": "contacto",
+    "texto": "Y tengo tiempo para esto"
   }
 ]
