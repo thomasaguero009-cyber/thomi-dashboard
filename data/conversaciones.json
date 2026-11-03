@@ -597462,5 +597462,54 @@
     "nombreContacto": "Abel Martinéz",
     "remitente": "agente",
     "texto": "Buenisimooooo, ya estas muy cerca de convertirte en closer de ventas"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "agente",
+    "texto": "Te pudiste agendar?"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "contacto",
+    "texto": "Si"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "agente",
+    "texto": "Superrrr!! que dia y hora te agendaste para estar pendiente de vos?"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "contacto",
+    "texto": "Ya me agende"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "contacto",
+    "texto": "Ya entré pero salí no puedo volver a entrar"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "agente",
+    "texto": "Florencia Ridao ha pausado temporalmente las respuestas automáticas en esta conversación, puedes editar la pausa o reanudar la automatización en cualquier momento"
+  },
+  {
+    "ts": 1793704238000,
+    "subscriberId": "525027568",
+    "nombreContacto": "约尔勒尼斯",
+    "remitente": "agente",
+    "texto": "enviame tu mail"
   }
 ]
